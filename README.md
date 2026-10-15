@@ -16,6 +16,13 @@ Este repositorio alberga el código fuente, los datos y el marco de auditoría c
 
 El proyecto implementa una arquitectura **RAG (Retrieval-Augmented Generation)** diseñada para guiar a la ciudadanía en los trámites de la sede electrónica del Ayuntamiento de Jaén, ofreciendo una **interfaz web con comparativa en streaming concurrente** entre modelos de lenguaje (LLM) especializados en el ámbito jurídico-administrativo español frente a arquitecturas de propósito general.
 
+<br/>
+
+<div align="center">
+  <img src="imagenes/capturaInterfaz.jpeg" alt="Interfaz Web del Asistente Virtual" width="95%"/>
+  <p><em>Figura: Interfaz del Asistente Virtual de Trámites Administrativos con comparativa en doble columna y streaming paralelo.</em></p>
+</div>
+
 ---
 
 ## 🌟 Características Principales
@@ -30,19 +37,21 @@ El proyecto implementa una arquitectura **RAG (Retrieval-Augmented Generation)**
 - **Persistencia de Conversaciones (RF-1)**: Gestión de historial de consultas con almacenamiento en `conversations.json`.
 - **Carga No Bloqueante**: Hilo secundario para inicialización del índice vectorial FAISS y pantalla animada de espera (`loading.html`).
 
+> [!NOTE]  
+> **Disponibilidad de los Modelos, VPN y Endpoints Remotos**:  
+> Durante el periodo de realización y defensa de este Trabajo de Fin de Grado, se dispuso de acceso e infraestructura en el clúster de supercomputación **ADA de la Universidad de Jaén (nodo del grupo de investigación SINAI)** y en la plataforma europea **Helmholtz Cloud (Blablador)**.  
+> Para comunicarse con los modelos alojados en el servidor ADA de la UJA (`ada01.ujaen.es`), además de contar con las claves de acceso autorizadas, **es requisito indispensable estar conectado a la Red Privada Virtual (VPN) de la Universidad de Jaén**.  
+> Dado que las credenciales de investigación y permisos de acceso estaban acotados temporalmente a la vigencia del TFG, actualmente las llamadas en vivo a dichos servidores devolverán error de conexión o autenticación. No obstante, **todas las inferencias, registros completos y evaluaciones científicas se encuentran preservadas y consolidadas en las carpetas `data/` y `results/`** para su completa inspección y reproducción sin necesidad de dependencias externas.
+
 ---
 
 ## 🎬 Vídeo de Demostración del Asistente
 
-Puedes observar el funcionamiento interactivo en tiempo real del asistente, la comparativa de respuestas en doble columna por streaming y la gestión del historial de consultas en el archivo de vídeo incluido en el repositorio:
+Para observar el funcionamiento interactivo en tiempo real del asistente, la comparativa de respuestas en doble columna por streaming y la gestión del historial de consultas:
 
-> 📹 **[▶️ Ver vídeo de demostración (`demo.mp4`)](demo.mp4)** &nbsp;|&nbsp; Ubicación alternativa: [`docs/demo.mp4`](docs/demo.mp4)
-
-<div align="center">
-  <video src="docs/demo.mp4" controls width="85%" poster="imagenes/aytoJAEN.jpg">
-    Tu navegador o visor Markdown no soporta la reproducción directa. Haz clic en el enlace superior para reproducir o descargar <code>demo.mp4</code>.
-  </video>
-</div>
+- 🌐 **[▶️ Ver vídeo online en Google Drive](https://drive.google.com/file/d/1kieUCWLv94RjmzHCDyE0bCbayojcx3ql/view)** *(Recomendado para visualización inmediata en el navegador)*
+- 📥 **[Descargar vídeo directamente (`demo.mp4` - 4.3 MB)](https://github.com/mariomgallego7inv-web/asistente-virtual-jaen-rag/raw/main/demo.mp4)**
+- 📁 **Ubicación en el repositorio local**: [`demo.mp4`](demo.mp4) / [`docs/demo.mp4`](docs/demo.mp4)
 
 ---
 
@@ -98,7 +107,7 @@ asistente-virtual-jaen-rag/
 │   ├── style.css                  # Estilos visuales adaptados a la sede electrónica
 │   └── script.js                  # Lógica del cliente web y eventos SSE
 │
-├── imagenes/                      # Logotipos oficiales (UJA, SINAI, Ayto. Jaén, LLMs)
+├── imagenes/                      # Logotipos oficiales y captura de la interfaz (capturaInterfaz.jpeg)
 │
 ├── data/                          # Conjuntos de datos del TFG
 │   ├── dataset_evaluacion.json    # Dataset de 843 preguntas/respuestas de referencia
@@ -133,7 +142,8 @@ asistente-virtual-jaen-rag/
 
 ### Requisitos Previos
 - Python 3.12 (recomendado)
-- Acceso a internet (para resolver dependencias iniciales y modelos de embeddings)
+- Acceso a internet (para resolver dependencias iniciales y modelos de embeddings locales)
+- **Nota técnica sobre los LLMs**: Los modelos remotos (`Salamandra-7B` y `Llama-3.1` en el clúster ADA de la UJA, y `Apertus-8B` en Helmholtz) requieren conexión a sus respectivos servidores de inferencia y, en el caso del servidor de la Universidad de Jaén (`ada01.ujaen.es`), **estar conectado a la VPN de la Universidad de Jaén**. Al haber finalizado la fase de investigación del TFG, dichos endpoints se encuentran actualmente cerrados.
 
 ### Opción A: Despliegue Rápido en Windows
 Haz doble clic sobre el archivo ejecutable por lotes:
