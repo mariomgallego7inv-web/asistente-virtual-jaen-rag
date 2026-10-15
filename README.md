@@ -14,9 +14,10 @@
 
 Este repositorio alberga el código fuente, los datos y el marco de auditoría científica del Trabajo de Fin de Grado (TFG): **"Asistente Virtual de Trámites Administrativos"**, desarrollado por **Mario Martínez Gallego** bajo la tutoría de **Eugenio Martínez Cámara** y **María Teresa Martín Valdivia** en la Escuela Politécnica Superior de la Universidad de Jaén (UJA), en colaboración con el grupo de investigación **SINAI**.
 
-El proyecto implementa una arquitectura **RAG (Retrieval-Augmented Generation)** diseñada para guiar a la ciudadanía en los trámites de la sede electrónica del Ayuntamiento de Jaén, ofreciendo una **interfaz web con comparativa en streaming concurrente** entre modelos de lenguaje (LLM) especializados en el ámbito jurídico-administrativo español frente a arquitecturas de propósito general.
-
-> 📄 **Documentación Académica**: Puedes consultar y descargar el documento formal completo en **[`Memoria_TFG.pdf`](Memoria_TFG.pdf)** (o en [`docs/Memoria_TFG.pdf`](docs/Memoria_TFG.pdf)).
+> 📄 **Documentación Académica (Memoria del TFG)**:
+> - 🌐 **[▶️ Leer Memoria completa online en Google Drive (PDF)](https://drive.google.com/file/d/1WV80HBT2AVECRZzQN9qtnS2aa9DDrz7I/view?usp=sharing)** *(Recomendado para lectura inmediata y cómoda en el navegador)*
+> - 📥 **[Descargar PDF directamente (`Memoria_TFG.pdf` - 12.1 MB)](https://github.com/mariomgallego7inv-web/asistente-virtual-jaen-rag/raw/main/Memoria_TFG.pdf)**
+> - 📁 **Ubicación en el repositorio**: [`Memoria_TFG.pdf`](Memoria_TFG.pdf) / [`docs/Memoria_TFG.pdf`](docs/Memoria_TFG.pdf)
 
 <br/>
 
