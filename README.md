@@ -16,6 +16,8 @@ Este repositorio alberga el código fuente, los datos y el marco de auditoría c
 
 El proyecto implementa una arquitectura **RAG (Retrieval-Augmented Generation)** diseñada para guiar a la ciudadanía en los trámites de la sede electrónica del Ayuntamiento de Jaén, ofreciendo una **interfaz web con comparativa en streaming concurrente** entre modelos de lenguaje (LLM) especializados en el ámbito jurídico-administrativo español frente a arquitecturas de propósito general.
 
+> 📄 **Documentación Académica**: Puedes consultar y descargar el documento formal completo en **[`Memoria_TFG.pdf`](Memoria_TFG.pdf)** (o en [`docs/Memoria_TFG.pdf`](docs/Memoria_TFG.pdf)).
+
 <br/>
 
 <div align="center">
@@ -85,8 +87,10 @@ asistente-virtual-jaen-rag/
 ├── iniciar_comparador.bat         # Script de despliegue rápido en Windows
 ├── conversations.json             # Almacenamiento local del historial de chats
 ├── demo.mp4                       # Vídeo de demostración del asistente en acción
+├── Memoria_TFG.pdf                # Documento completo de la Memoria del Trabajo de Fin de Grado
 │
-├── docs/                          # Documentación audiovisual adicional
+├── docs/                          # Documentación académica y audiovisual
+│   ├── Memoria_TFG.pdf            # Memoria del TFG en formato PDF
 │   └── demo.mp4                   # Vídeo de demostración en alta definición
 │
 ├── app.py                         # Servidor backend FastAPI (endpoints SSE, streaming)
