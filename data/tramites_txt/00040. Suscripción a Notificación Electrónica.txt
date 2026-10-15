@@ -1,0 +1,258 @@
+Trámite ID: 6269000018479610199999
+
+Nombre: 00040. Suscripción a Notificación Electrónica
+
+URL: https://sede.aytojaen.es/sta/CarpetaPublic/doEvent?APP_CODE=STA&PAGE_CODE=CATALOGO&DETALLE=6269000018479610199999
+
+
+--- Contenido principal ---
+
+
+Es necesario instalar Autofirma para firmar solicitudes de registro electrónico, aceptar notificaciones y firmar documentos del portafirmas
+[descargar]
+00040. Suscripción a Notificación Electrónica
+Descripción
+00040. Suscripción a Notificación Electrónica
+Finalidad
+El Artículo 41.1 de la Ley 39/2015 de Procedimiento Administrativo Común de las Administraciones Públicas, establece el carácter preferente de las notificaciones por medios electrónicos. En todo caso, se realizarán de este modo cuando el interesado resulte obligado a recibirlas por esta vía.
+Por tanto, para aquellos interesados que no están obligados, la notificación electrónica tienen carácter voluntario. Las personas podrán decidir y comunicar en cualquier momento al Ayuntamiento, que las notificaciones sucesivas se practiquen o dejen de practicarse por medios electrónicos.
+De acuerdo al art. 43.1 de la misma norma, la notificación electrónica debe ser practicada mediante comparecencia la Sede electrónica, tanto para el acceso a las notificaciones electrónicas derivadas de a aquellos procedimientos a los que voluntariamente haya decidido suscribirse como para aquellos en los que la notificación electrónica sea obligatoria.
+En el caso de los usuarios obligados por el Art. 14.2 de la Ley39/2015, de Procedimiento Administrativo Común de las Administraciones Públicas, éste será el medio de notificación empleado, debido a la obligación a relacionarse por medios electrónicos con las Administraciones Públicas.
+Este servicio cumple con las máximas garantías de confidencialidad, autenticidad y privacidad con el fin de asegurar la identidad de los participantes y la seguridad de las comunicaciones.
+Presentación
+telemático
+Efecto del silencio Administrativo
+No procede
+Normativa básica
+Ley39/2015, de Procedimiento Administrativo Común de las Administraciones Públicas
+Información Adicional
+¿Cómo funciona?
+Cada vez que se ponga a disposición una notificación electrónica, el Ayuntamiento enviará un correo electrónico informativo a la dirección de correo electrónico que usted indicó. Tenga en cuenta que este correo electrónico sólo tiene efectos informativos.
+Acceda asiduamente a su Buzón de Notificaciones electrónicas para verificar si ha se ha puesto a disposición una nueva notificación. No deje transcurrir un tiempo superior a los 10 días naturales plazo que la normativa reguladora establece para que usted acceda a la notificación. En caso contrario, transcurrido el plazo, el Ayuntamiento entenderá que usted ha rechazado la notificación dando por notificado el acto a todos los efectos salvo que de oficio o a instancia se compruebe la imposibilidad técnica o material del acceso.
+En el buzón podrá aceptar y rechazar las nuevas notificaciones. En dicho momento la persona (física o jurídica) se dará por notificada y podrá consultar las ya aceptadas o rechazadas.
+La aceptación o rechazo de la notificación supondrá la emisión del correspondiente acuse de recibo que deberá firmar electrónicamente.
+Nivel de identificación en trámitación online
+Substancial:
+Acceso mediante sistema Cl@ve
+Tramitación Online
+Seleccione como desea identificarse:
+Con certificado digital (Autofirma)
+Acceso mediante sistema Clave
+Tramitación Presencial
+
+
+--- Recursos vinculados (seguido su contenido) ---
+
+
+Link: [descargar]
+URL: https://firmaelectronica.gob.es/Home/Descargas.html
+Tipo detectado: html
+
+
+
+[HTML: https://firmaelectronica.gob.es/Home/Descargas.html]
+
+Firma Electrónica | Descargas -Ciudadanos
+Ir al contenido
+Cerrar sesión
+Castellano
+Castellano
+Català
+Gallego
+Euskara
+Valencià
+English
+Ciudadanos
+Inicio
+Portada de Ciudadanos
+Tutoriales
+Ciudadanos
+Portada de Tutoriales
+Firmar un documento - Certificado Electrónico
+Firmar al mismo nivel que otros (cofirmar)
+Firmar para certificar otras firmas (contrafirmar)
+Validar una firma
+Visualizar una firma
+Cosas que deberías saber
+Ciudadanos
+Portada de Cosas que deberías saber
+La firma electrónica
+El DNI electrónico
+Certificados electrónicos
+Formatos de firma
+Aplicaciones de firma
+Validación de las firmas
+Base legal
+Navegadores y ordenador
+Tipos de certificados
+Identidad digital en las AA.PP:
+Para no equivocarse
+Descargas
+Empresas
+Inicio
+Portada de Empresas
+Tutoriales
+Empresas
+Portada de Tutoriales
+Firmar un documento - Certificado Electrónico
+Firmar al mismo nivel que otros (cofirmar)
+Firmar para certificar otras firmas (contrafirmar)
+Validar una firma
+Visualizar una firma
+Cosas que deberías saber
+Empresas
+Portada de Cosas que deberías saber
+Navegadores y ordenador
+Certificados de empresa
+Factura electrónica
+Autoridades de Certificación
+La firma electrónica
+Los Certificados Electrónicos
+Formatos de firma
+Aplicaciones de firma
+Tipos de Certificados
+Base legal
+Validación de las firmas
+Para no equivocarte
+Identidad Digital
+Navegadores y ordenador
+Descargas
+Empleados Públicos
+Ciudadanos
+Tutoriales
+Cosas que deberías saber
+Descargas
+Portada de
+                                                        Ciudadanos
+Empresas
+Tutoriales
+Cosas que deberías saber
+Descargas
+Portada de
+                                                        Empresas
+Empleados Públicos
+Buscar
+Ciudadanos
+Descargas
+Descargas para ciudadanos
+Desde aquí puedes descargarte aquellas aplicaciones que necesites para firmar electrónicamente y otras utilidades o documentos.
+Autofirma
+Autofirma
+Manuales
+Plugin de Huella Digital v1.0
+@Firma (obsoleto)
+Política de Firma de la AGE
+Autofirma
+Manuales
+Plugin de Huella Digital v1.0
+@Firma (obsoleto)
+Política de Firma de la AGE
+Aplicación de firma electrónica desarrollada por el Ministerio de Asuntos Económicos y Transformación Digital. Al poder ser ejecutada desde el navegador, permite la firma en páginas de Administración Electrónica cuando se requiere la firma en un procedimiento administrativo.
+Autofirma Apps
+Para Windows
+Versión 1.9
+Versión 1.9 para Windows 64 bits
+Versión 1.9 para Windows 32 bits
+Versiones anteriores
+Versión 1.8.3 para Windows 64 bits
+Versión 1.8.3 para Windows 32 bits
+Para Linux
+Versión 1.9
+Versión 1.9 para Debian Linux
+Versión 1.9 para Fedora Linux
+Versión 1.9 para OpenSUSE Linux
+Versiones anteriores
+Versión 1.8.3 para Debian Linux
+Versión 1.8.3 para Fedora Linux
+Versión 1.8.3 para OpenSUSE Linux
+Para MacOS
+Versión 1.9
+Versión 1.9 para MacOS procesadores x64
+Versión 1.9 para MacOS procesadores x64 (incl Java 11)
+Versión 1.9 para MacOS procesadores M1 y siguientes
+Versiones anteriores
+Versión 1.8.4 para MacOS procesadores x64
+Versión 1.8.4 para MacOS procesadores M1
+Manuales
+Guía para el usuario final de AutoFirma a través del proceso de instalación, posibilidades de uso de AutoFirma a través de consola, uso de tarjetas inteligentes y listado de diversos problemas que pueden surgir en la instalación y ejecución de la aplicación.
+Manual de Instalación para Usuarios (1.9)
+Manual de Instalación para Usuarios (1.8.2 y siguientes)
+Plugin de Huella Digital v1.0
+Plugin para el cálculo y la comprobación de hashes versión v1.0. El componente permite generar ficheros de hashes con el hash de un fichero o de todos los ficheros de un directorio. También permite comprobar que un fichero de hashes es válido seleccionando el fichero o directorio a partir del cual se generó. IMPORTANTE: El plugin requiere de Autofirma v1.8 o superior (no es compatible con la versión 1.7.2 y anteriores). En versiones de Autofirma anteriores a la v1.8 la funcionalidad del plugin estaba integrada en la aplicación. Su paso a plugin se ha realizado para facilitar su gestión y evolución.
+Plugin de Huella Digital 1.0 (para Autofirma v1.8 o superior)
+Cliente @Firma (obsoleto) - Se recomienda usar Autofirma
+Cliente @Firma es una aplicación de firma desarrollada por el Ministerio de Hacienda y Administraciones Públicas. Al tratarse de una versión obsoleta se recomienda el uso de Autofirma.
+Cliente @Firma (obsoleto)
+Política de Firma de la AGE
+Define un modelo de esquema de referencia para la identificación y autenticación electrónica, recogidos en la Ley 11/2007, de 22 de Junio, de Acceso Electrónico de los Ciudadanos a los Servicios Públicos en el ámbito de la AGE
+Política de Firma de la AGE
+Mapa web
+Accesibilidad
+Aviso Legal
+Política de cookies
+Política de privacidad
+Plan de Recuperación, Transformación y Resiliencia - Financiado por la Unión Europea - NextGenerationEU
+© Portal de Administración Electrónica · Agencia Estatal de Administración Digital
+Política de cookies
+Este sitio web utiliza cookies propias y de terceros para ofrecer un mejor servicio. Si continúa navegando consideramos que acepta su uso.
+Ver política de cookies
+Rechazar todas las cookies
+Aceptar todas las cookies
+
+------------------------------
+
+
+
+Link: javascript:;
+URL: javascript:;
+Tipo detectado: restricted
+
+
+
+Es necesario Cl@ve o certificado digital
+
+------------------------------
+
+
+
+Link: Tramitación Presencial
+URL: https://sede.aytojaen.es/sta/Relec/CatalogDetail?dboidRequest=6269000018479610199999&action=make&dboidProcedure=6262600018475110199999&urlBack=https%3A%2F%2Fsede.aytojaen.es%2Fsta%2FRelec%2FCatalogBrowse#
+Tipo detectado: html
+
+
+
+[HTML: https://sede.aytojaen.es/sta/Relec/CatalogDetail?dboidRequest=6269000018479610199999&action=make&dboidProcedure=6262600018475110199999&urlBack=https%3A%2F%2Fsede.aytojaen.es%2Fsta%2FRelec%2FCatalogBrowse#]
+
+Datos del tramite
+Tramitación Electrónica
+Hora:
+00040. Suscripción a Notificación Electrónica
+00040. Suscripción a Notificación Electrónica
+Finalidad
+El Artículo 41.1 de la Ley 39/2015 de Procedimiento Administrativo Común de las Administraciones Públicas, establece el carácter preferente de las notificaciones por medios electrónicos. En todo caso, se realizarán de este modo cuando el interesado resulte obligado a recibirlas por esta vía.
+Por tanto, para aquellos interesados que no están obligados, la notificación electrónica tienen carácter voluntario. Las personas podrán decidir y comunicar en cualquier momento al Ayuntamiento, que las notificaciones sucesivas se practiquen o dejen de practicarse por medios electrónicos.
+De acuerdo al art. 43.1 de la misma norma, la notificación electrónica debe ser practicada mediante comparecencia la Sede electrónica, tanto para el acceso a las notificaciones electrónicas derivadas de a aquellos procedimientos a los que voluntariamente haya decidido suscribirse como para aquellos en los que la notificación electrónica sea obligatoria.
+En el caso de los usuarios obligados por el Art. 14.2 de la Ley39/2015, de Procedimiento Administrativo Común de las Administraciones Públicas, éste será el medio de notificación empleado, debido a la obligación a relacionarse por medios electrónicos con las Administraciones Públicas.
+Este servicio cumple con las máximas garantías de confidencialidad, autenticidad y privacidad con el fin de asegurar la identidad de los participantes y la seguridad de las comunicaciones.
+Presentación
+telemático
+Efecto del silencio administrativo
+No procede
+Normativa básica
+Ley39/2015, de Procedimiento Administrativo Común de las Administraciones Públicas
+Información Adicional
+¿Cómo funciona?
+Cada vez que se ponga a disposición una notificación electrónica, el Ayuntamiento enviará un correo electrónico informativo a la dirección de correo electrónico que usted indicó. Tenga en cuenta que este correo electrónico sólo tiene efectos informativos.
+Acceda asiduamente a su Buzón de Notificaciones electrónicas para verificar si ha se ha puesto a disposición una nueva notificación. No deje transcurrir un tiempo superior a los 10 días naturales plazo que la normativa reguladora establece para que usted acceda a la notificación. En caso contrario, transcurrido el plazo, el Ayuntamiento entenderá que usted ha rechazado la notificación dando por notificado el acto a todos los efectos salvo que de oficio o a instancia se compruebe la imposibilidad técnica o material del acceso.
+En el buzón podrá aceptar y rechazar las nuevas notificaciones. En dicho momento la persona (física o jurídica) se dará por notificada y podrá consultar las ya aceptadas o rechazadas.
+La aceptación o rechazo de la notificación supondrá la emisión del correspondiente acuse de recibo que deberá firmar electrónicamente.
+Nivel de identificación del solicitante
+Alto:
+Acceso mediante sistema Cl@ve
+<< Volver
+Seleccione como desea identificarse
+Tarjeta Ciudadana
+Atención : si accede sin identificación, podrá realizar el trámite, pero sus datos no se asociarán a su historial, al no ser posible garantizar su identidad. ¿Desea continuar?
+
+------------------------------
+

@@ -1,0 +1,1092 @@
+Trámite ID: 6269026881894929805011
+
+Nombre: 40015. Autorización de Pruebas Deportivas, Marchas Ciclistas y Otros Eventos
+
+URL: https://sede.aytojaen.es/sta/CarpetaPublic/doEvent?APP_CODE=STA&PAGE_CODE=CATALOGO&DETALLE=6269026881894929805011
+
+
+--- Contenido principal ---
+
+
+[No se pudo obtener detalle por requests: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')). Intentando con Selenium...]
+
+Es necesario instalar Autofirma para firmar solicitudes de registro electrónico, aceptar notificaciones y firmar documentos del portafirmas
+[descargar]
+40015. Autorización de Pruebas Deportivas, Marchas Ciclistas y Otros Eventos
+Descripción
+40015. Autorización de Pruebas Deportivas, Marchas Ciclistas y Otros Eventos
+Finalidad
+Autorización administrativa requerida para la celebración, en el término municipal de Jaén, de:
+Pruebas deportivas
+Marchas ciclistas, de carácter lúdico y no competitivas, de más de 50 participantes
+Eventos en los que participen vehículos históricos, en número superior a 10, en los que no se establezca clasificación alguna sobre la base del movimiento de los vehículos o bien se trate de una clasificación de velocidad o regularidad inferior a 50 km/h de media
+Plazos de Presentación
+Al menos 30 días antes de la celebración del evento
+Presentación
+Registro del Patronato Municipal de Deportes
+Organo Gestor
+Patronato Municipal de Deportes
+Registro Electrónico
+: Enlaces al final de esta página
+Procedimiento
+: descargue el modelo de solicitud y de la memoria (Documentación relacionada). Cumpliméntelos, guárdelos y apórtelos junto con el resto de documentación accediendo al enlace al final de esta página
+Plazo de resolución
+El Plazo de resolución será como máximo, 5 días hábiles antes de la fecha de celebración.
+Efecto del silencio Administrativo
+Desestimatorio
+Normativa básica
+Decreto 195/2007, de 26 de junio, por el que se establecen las condiciones generales para la celebración de espectáculos públicos y actividades recreativas de carácter ocasional y extraordinario
+Decreto 109/2005, de 26 de abril, por el que se regulan los requisitos de los contratos de seguro obligatorio de responsabilidad civil en materia de espectáculos públicos y actividades recreativas.
+Modelos de solicitud
+Memoria
+40015. Memoria descriptiva pruebas deportivas
+Solicitud
+40015. Autorización de pruebas deportivas, marchas ciclistas y otros eventos
+Nivel de identificación en trámitación online
+Substancial:
+Acceso mediante sistema Cl@ve
+Documentos a Presentar
+Documentación a aportar
+Solicitud 40015. Autorización de pruebas deportivas, marchas ciclistas y otros eventos
+Reglamento de la prueba
+Memoria : 40015. Memoria descriptiva pruebas deportivas
+Seguro de responsabilidad civil y accidentes deportivos
+Informe favorable de la Administración titular de la vía por la que discurra la prueba (obligatorio si discurre, en todo o en parte, por alguna vía interurbana dentro del término municipal)
+Autorización de los titulares de los espacios, vías o terrenos de titularidad privada (obligatoria si la prueba discurre por alguno de esos espacios, vías o terrenos
+Autorización de los titulares de los espacios, vías o terrenos de titularidad privada (obligatoria si la prueba discurre por alguno de esos espacios, vías o terrenos)
+Informe favorable de la Consejería de la Junta de Andalucía, competente en materia de medio ambiente (obligatorio si la prueba o evento se desarrolla, en todo o en parte, en espacios naturales protegidos, terrenos forestales o vías pecuarias)
+Acreditación de la contratación de servicios sanitarios, en su caso.
+Tramitación Online
+Tramitación Presencial
+
+
+--- Recursos vinculados (seguido su contenido) ---
+
+
+Link: [descargar]
+URL: https://firmaelectronica.gob.es/Home/Descargas.html
+Tipo detectado: html
+
+
+
+[HTML: https://firmaelectronica.gob.es/Home/Descargas.html]
+
+Firma Electrónica | Descargas -Ciudadanos
+Ir al contenido
+Cerrar sesión
+Castellano
+Castellano
+Català
+Gallego
+Euskara
+Valencià
+English
+Ciudadanos
+Inicio
+Portada de Ciudadanos
+Tutoriales
+Ciudadanos
+Portada de Tutoriales
+Firmar un documento - Certificado Electrónico
+Firmar al mismo nivel que otros (cofirmar)
+Firmar para certificar otras firmas (contrafirmar)
+Validar una firma
+Visualizar una firma
+Cosas que deberías saber
+Ciudadanos
+Portada de Cosas que deberías saber
+La firma electrónica
+El DNI electrónico
+Certificados electrónicos
+Formatos de firma
+Aplicaciones de firma
+Validación de las firmas
+Base legal
+Navegadores y ordenador
+Tipos de certificados
+Identidad digital en las AA.PP:
+Para no equivocarse
+Descargas
+Empresas
+Inicio
+Portada de Empresas
+Tutoriales
+Empresas
+Portada de Tutoriales
+Firmar un documento - Certificado Electrónico
+Firmar al mismo nivel que otros (cofirmar)
+Firmar para certificar otras firmas (contrafirmar)
+Validar una firma
+Visualizar una firma
+Cosas que deberías saber
+Empresas
+Portada de Cosas que deberías saber
+Navegadores y ordenador
+Certificados de empresa
+Factura electrónica
+Autoridades de Certificación
+La firma electrónica
+Los Certificados Electrónicos
+Formatos de firma
+Aplicaciones de firma
+Tipos de Certificados
+Base legal
+Validación de las firmas
+Para no equivocarte
+Identidad Digital
+Navegadores y ordenador
+Descargas
+Empleados Públicos
+Ciudadanos
+Tutoriales
+Cosas que deberías saber
+Descargas
+Portada de
+                                                        Ciudadanos
+Empresas
+Tutoriales
+Cosas que deberías saber
+Descargas
+Portada de
+                                                        Empresas
+Empleados Públicos
+Buscar
+Ciudadanos
+Descargas
+Descargas para ciudadanos
+Desde aquí puedes descargarte aquellas aplicaciones que necesites para firmar electrónicamente y otras utilidades o documentos.
+Autofirma
+Autofirma
+Manuales
+Plugin de Huella Digital v1.0
+@Firma (obsoleto)
+Política de Firma de la AGE
+Autofirma
+Manuales
+Plugin de Huella Digital v1.0
+@Firma (obsoleto)
+Política de Firma de la AGE
+Aplicación de firma electrónica desarrollada por el Ministerio de Asuntos Económicos y Transformación Digital. Al poder ser ejecutada desde el navegador, permite la firma en páginas de Administración Electrónica cuando se requiere la firma en un procedimiento administrativo.
+Autofirma Apps
+Para Windows
+Versión 1.9
+Versión 1.9 para Windows 64 bits
+Versión 1.9 para Windows 32 bits
+Versiones anteriores
+Versión 1.8.3 para Windows 64 bits
+Versión 1.8.3 para Windows 32 bits
+Para Linux
+Versión 1.9
+Versión 1.9 para Debian Linux
+Versión 1.9 para Fedora Linux
+Versión 1.9 para OpenSUSE Linux
+Versiones anteriores
+Versión 1.8.3 para Debian Linux
+Versión 1.8.3 para Fedora Linux
+Versión 1.8.3 para OpenSUSE Linux
+Para MacOS
+Versión 1.9
+Versión 1.9 para MacOS procesadores x64
+Versión 1.9 para MacOS procesadores x64 (incl Java 11)
+Versión 1.9 para MacOS procesadores M1 y siguientes
+Versiones anteriores
+Versión 1.8.4 para MacOS procesadores x64
+Versión 1.8.4 para MacOS procesadores M1
+Manuales
+Guía para el usuario final de AutoFirma a través del proceso de instalación, posibilidades de uso de AutoFirma a través de consola, uso de tarjetas inteligentes y listado de diversos problemas que pueden surgir en la instalación y ejecución de la aplicación.
+Manual de Instalación para Usuarios (1.9)
+Manual de Instalación para Usuarios (1.8.2 y siguientes)
+Plugin de Huella Digital v1.0
+Plugin para el cálculo y la comprobación de hashes versión v1.0. El componente permite generar ficheros de hashes con el hash de un fichero o de todos los ficheros de un directorio. También permite comprobar que un fichero de hashes es válido seleccionando el fichero o directorio a partir del cual se generó. IMPORTANTE: El plugin requiere de Autofirma v1.8 o superior (no es compatible con la versión 1.7.2 y anteriores). En versiones de Autofirma anteriores a la v1.8 la funcionalidad del plugin estaba integrada en la aplicación. Su paso a plugin se ha realizado para facilitar su gestión y evolución.
+Plugin de Huella Digital 1.0 (para Autofirma v1.8 o superior)
+Cliente @Firma (obsoleto) - Se recomienda usar Autofirma
+Cliente @Firma es una aplicación de firma desarrollada por el Ministerio de Hacienda y Administraciones Públicas. Al tratarse de una versión obsoleta se recomienda el uso de Autofirma.
+Cliente @Firma (obsoleto)
+Política de Firma de la AGE
+Define un modelo de esquema de referencia para la identificación y autenticación electrónica, recogidos en la Ley 11/2007, de 22 de Junio, de Acceso Electrónico de los Ciudadanos a los Servicios Públicos en el ámbito de la AGE
+Política de Firma de la AGE
+Mapa web
+Accesibilidad
+Aviso Legal
+Política de cookies
+Política de privacidad
+Plan de Recuperación, Transformación y Resiliencia - Financiado por la Unión Europea - NextGenerationEU
+© Portal de Administración Electrónica · Agencia Estatal de Administración Digital
+Política de cookies
+Este sitio web utiliza cookies propias y de terceros para ofrecer un mejor servicio. Si continúa navegando consideramos que acepta su uso.
+Ver política de cookies
+Rechazar todas las cookies
+Aceptar todas las cookies
+
+------------------------------
+
+
+
+Link: javascript:;
+URL: javascript:;
+Tipo detectado: restricted
+
+
+
+Es necesario Cl@ve o certificado digital
+
+------------------------------
+
+
+
+Link: Registro del Patronato Municipal de Deportes
+URL: https://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_floc_d4_v1.jsp&tipo=1&&contenido=1235&nivel=1400&layout=p_20_contenedor1.jsp&codResi=1
+Tipo detectado: html
+
+
+
+[HTML: https://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_floc_d4_v1.jsp&tipo=1&&contenido=1235&nivel=1400&layout=p_20_contenedor1.jsp&codResi=1]
+
+Patronato Municipal de Deportes de Jaén
+Ayuntamiento de Jaén
+Inicio
+Accesibilidad
+Mapa web
+Está en:
+Inicio
+Patronato Municipal de Deportes de Jaén
+Volver
+Imprimir
+Dirección y datos de contacto
+Dirección
+Avenida 
+                  de Granada ( Instalaciones Deportivas Municipales La Salobreja ), s/n
+23001 Jaén (Jaén)
+Telf:
+953 239 126
+Extensiones
+Fax:
+953 239 127 (Salobreja)
+953266300  (Fuentezuelas)
+Horario
+Abierta al público de lunes a viernes de 8`30 a 14`00 horas. En verano, de 8`30 a 13`00 horas.
+Se podrá establecer otro horario distinto en circunstancias especiales determinadas por el propio Organismo para inscripciones de cursos, actividades y otras.
+Cómo llegar
+Ver
+Patronato de Deportes
+en un mapa más grande
+Fecha última modificación: 20 de diciembre de 2016 a las 10:06
+Excmo. Ayuntamiento de Jaén
+Plaza de Santa María, 1. 23002
+Tfno:
+953 21 91 00
+Oficina Municipal de Información y Atención Ciudadana
+Pintor Francisco Quero de Miguel s/n (Lateral UPM) - Planta Baja (Derecha)
+Tfno:
+900 72 72 73
+Correo electrónico:
+oic@aytojaen.es
+Administrador Web: En caso de cualquier duda técnica sobre el portal,
+envíe sus consultas a la Oficina de Acceso Electrónico
+oae@aytojaen.es
+Portal optimizado para una resolución de 1024 x 768
+RSS
+Protección de datos
+Aviso legal
+
+------------------------------
+
+
+
+Link: Memoria
+URL: https://sede.aytojaen.es/sta/docs/GetDocumentServlet?CUD=12433364674356161006&HASH_CUD=69b544fea45717c2111b8894f2c49b14b2473a33&APP_CODE=STA
+Tipo detectado: html
+
+
+
+[HTML: https://sede.aytojaen.es/sta/docs/GetDocumentServlet?CUD=12433364674356161006&HASH_CUD=69b544fea45717c2111b8894f2c49b14b2473a33&APP_CODE=STA]
+
+��ࡱ�                >  ��	               ^         `     ����    W  X  _  ������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������ q`	  ��             ��   bjbjqPqP                  
+ � : : �:      ,                   �   ��         ��         ��                 �     z      z  z      z                               &      9      9      9  8   F9  �   ::  $  &      �l  �  j;  �  <@  "   ^@      ^@      ^@      ^F  �  $J  �  �K  �   �k     �k      �k      �k      �k      �k      �k  $   �n  h  q  x   �k                          �M                      F      F  @   �M      �M      �k              z      z      ^@              ^@  �  �l     Q      Q      Q      �M  �   z      ^@      z  l   ^@      �k              Q                                                      �M      �k              Q      Q  �   �c  �   z      �  ,                                                           Qe      ^@      ^;     �H͈�        9      N  �   Qd             	i  |  �l  0   �l      ed  �   �q      �N     �q  (   Qe                                                                              �q                    Qe  �  �L     �L     Q      �L     �L  �                                   �L      �L      �L      �k      �k                                      �P  ^                                   �L      �L      �L      �l      �M      �M      �M      �M              &      &      &  D!  j'  �  &      &      &      j'      &      &      &      z      z      z      z      z      z      ����                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       ACTIVIDADES RECREATIVAS, PRUEBAS DEPORTIVAS, MARCHAS CICLISTAS Y OTROS EVENTOSMEMORIA DESCRIPTIVA(MODELO)Pulse la tecla TAB (Tabulador) para desplazarse por los diferentes campos. Tambi�n puede hacer click o pinchar con el rat�n en cualquier parte de la zona sombreada para editar, insertar o eliminar el texto.Cuando se sit�e en un campo o zona sombreada aparecer�n en la barra de estado (parte inferior de la pantalla) indicaciones para orientarle a la hora de cumplimentar los distintos campos y/o aparta d o s .  S u s t i t u y a   l o s   t e x t o s   d e   e j e m p l o   y   s i   n o   p r o c e d e   i n d i c a r   n a d a   e n   a l g u n o   d e   e l l o s ,   e l i m i n e   e l   t e x t o   d e   e j e m p l o   o   i n d i q u e    N o   p r o c e d e  .   1 .   D E S C R I P C I � N   D E   L A   A C T I V I D A D ,   P R U E B A   O   E V E N T O   D E P O R T I V O .  N O M B R E   D E   L A   A C T I V I D A D :     F O R M T E X T             F E C H A   D E   I N I C I O :     F O R M T E X T            F E C H A   D E   F I N A L I Z A C .     F O R M T E X T            H O R A   D E   I N I C I O :     F O R M T E X T            H O R A   D E   F I N A L I I Z . :     F O R M T E X T            N � .   P A R T I C I P A N T E S :     F O R M T E X T            A F O R O   P R E V I S T O :     F O R M T E X T             T I P O   D E     P R U E B A   O   A C T I V I D A D   D E P O R T I V A :    FORMCHECKBOX  Competitiva FORMCHECKBOX  No competitiva, l�dica o de ocioCAR�CTER DE LA COMPETICI�N: FORMCHECKBOX  Competici�n Oficial FORMCHECKBOX  Competici�n NO OficialPARTICIPANTES: FORMCHECKBOX   Federados FORMCHECKBOX   NO FederadosDescripci�n detallada de la actividad y del medio f�sico en el que se desarrolla: FORMTEXT (ESTAS SON SOLO UNAS INDICACIONES ORIENTATIVAS. POR CONSIGUIENTE, ELIM�NELAS DESPU�S DE LEERLAS E INTRODUZCA LA DESCRIPCI�N DE SU PRUEBA O ACTIVIDAD. Indique si se trata de una carrera urbana o por monta�a que discurrir� por distintas v�as urbanas, interurbanas, senderos, caminos, etc., o si se trata de de un torneo, campeonato, exhibici�n, etc. que se desarrollar� al aire libre en una v�a p�blica, plaza u otra zona de dominio p�blico o tendr� lugar en un establecimiento, recinto, instalaci�n deportiva etc. Indique, igualmente, quienes pueden participar en la prueba o actividad deportiva; es decir, si est� abierta la participaci�n al p�blico en general o si, por el contrario, la participaci�n est� restringida a clubes, deportistas federados, no federados, etc. Y si la participaci�n es gratuita o si, por el contrario, se exigir� alguna cuota de inscripci�n, indicando en tal caso cu�l es su importe. Se�ale tambi�n, por ejemplo, si los participantes se dividir�n en distintos tipos y categor�as y, en tal caso, indique cu�les son �stas.Rese�e o indique cu�lquier otra cuesti�n que considere relevante sobre la prueba o actividad deportiva y del medio en el que s e   v a   a   d e s a r r o l l a r   l a   m i s m a . )      2 � .   L U G A R   D E   C E L E B R A C I � N   O   I T I N E R A R I O   P R E C I S O   D E L   R E C O R R I D O .  L U G A R   D E   C E L E B R A C I � N   D E   L A   P R U E B A   O   A C T I V I D A D :     F O R M T E X T               I T I N E R A R I O / S   O   R E C O R R I D O / S   D E   L A   P R U E B A   O   A C T I V I D A D :     F O R M T E X T             H O R A R I O S   P R O B A B L E S   D E   P A S O   P O R   E L   I T I N E R A R I O   O   R E C O R R I D O : :     F O R M T E X T             H O R A   D E   L L E G A D A   D E   L A   C A B E Z A : :     F O R M T E X T            H O R A   D E   L L E G A D A   D E   L A   C O L A :     F O R M T E X T              3 � .   I D E N T I F I C A C I � N   D E   L A S   P E R S O N A S   R E S P O N S A B L E S .  C A R G O   Q U E   D E S E M P E � A   E N   L A   P R U E B A   O   A C T I V I D A D   D E P O R T I V A : :  R E S P O N S A B L E   D E   O R G A N I Z A C I � N   Y / O   D I R E C C I � N   E J E C U T I V A   N O M B R E   Y   A P E L L I D O S :     F O R M T E X T            D N I :     F O R M T E X T             C O R R E O   E L E C T R � N I C O :     F O R M T E X T            T E L � F O N O / S   D E   C O N T A C T O :     F O R M T E X T             F U N C I O N E S   O   C O M E T I D O S :     F O R M T E X T     ( E STO ES SOLO UN EJEMPLO. ELIM�NELAS Y ENUMERE LAS QUE LE CORRESPONDAN..- Supervisar� el correcto funcionamiento y desarrollo del evento.- Coordinar� las tareas y funciones de cada responsable y, en su caso, del personal auxiliar y/o voluntario.- �)CARGO QUE DESEMPE�A EN LA PRUEBA O ACTIVIDAD DEPORTIVA::RESPONSABLE DE SEGURIDAD VIALNOMBRE Y APELLIDOS: FORMTEXT                                                                                                                                                D N I :     F O R M T E X T             C O R R E O   E L E C T R � N I C O :     F O R M T E X T            T E L � F O N O / S   D E   C O N T A C T O :     F O R M T E X T             F U N C I O N E S   O   C O M E T I D O S :     F O R M T E X T     ( E S T O   E S   S O L O   U N   E J E M P L O .   E L I M � N E L A S   Y   E N U M E R E   L A S   Q U E   L E   C O R R E S P O N D A N .  -   S u p e r v i s a r �   y   c o o r d i n a r �   t o d os los elementos de seguridad con medios humanos y materiales del evento.- Impartir� instrucciones precisas al personal auxiliar, habilitado al efecto, para el normal desarrollo  de la actividad..- Coordinar� los procedimientos sanitarios y de emergencias.- Supervisar� y coordinar�, en su caso, el montaje y desmontaje del evento, garantizando su fiabilidad, seguridad y limpieza.- En caso de ausencia, asumir� eventualmente sus funciones el Responsable de la Organizaci�n y Direcci�n Ejecutiva de la activid a d ,   p r u e b a   o   e v e n t o .  -   & )      C A R G O   Q U E   D E S E M P E � A   E N   L A   P R U E B A   O   A C T I V I D A D   D E P O R T I V A : :     F O R M T E X T             N O M B R E   Y   A P E L L I D O S :     F O R M T E X T            D N I :     F O R M T E X T             C O R R E O   E L E C T R � N I C O :     F O R M T E X T            T E L � F O N O / S   D E   C O N T A C T O :     F O R M T E X T             F U N C I O N E S   O   C O M E T I D O S :     F O R M T E X T               C A R G O   Q U E   D E S E M P E � A   E N   L A   P R U E B A   O   A C T I V I D A D   D E P O R T I V A : :     F O R M T E X T             N O M B R E   Y   A P E L L I D O S :     F O R M T E X T            D N I :     F O R M T E X T             C O R R E O   E L E C T R � N I C O :     F O R M T E X T            T E L � F O N O / S   D E   C O N T A C T O :     F O R M T E X T             F U N C I O N E S   O   C O M E T I D O S :     F O R M T E X T              4 � .   M E D I D A S   D E   S E � A L I Z A C I � N   D E   L A   P R U E B A   Y   D E L   R E S T O   D E   D I S P O S I T I V O S   D E   S E G U R I D A D .  L a   o r g a n i z a c i � n   d i s p o n d r �   l a s   s i g u i e n t e s   m e d i d a s   d e   s e � a l i z a c i � n   y   d i s p o s i t i v o s   d e   s e g u r i d a d :     F O R M T E X T   (ESTO ES SOLO UN EJEMPLO PARA UNA CARRERA. ELIM�NELAS Y ENUMERE CU�LES SON SUS MEDIDAS DE SE�ALIZACI�N Y DISPOSITIVOS DE SEGURIDAD.- El dispositivo de seguridad vial, condiciones de circulaci�n, etc. correr� a cargo de la Guardia Civil / Polic�a Local, que propondr� a la Organizaci�n de la prueba o evento la adopci�n de cuantas medidas de se�alizaci�n o de seguridad considere oportunas o la modificaci�n de las propuestas por aquella para garantizar la seguridad y el normal desarrollo de la actividad..- Al frente de la prueba se colocar� un veh�culo de direcci�n / motocicleta que se�alizar� el comienzo de la prueba. De id�ntica forma, en la cola de la prueba se situar� otro veh�culo / motocicleta se�alizando  el fin o cierre de la carrera.- La se�alizaci�n y el montaje y desmontaje de la salida y llegada de la prueba, as� como la  se�alizaci�n del recorrido ser� a cuenta de la organizaci�n, coordinado y supervisado por el Responsable de Seguridad Vial.- A lo largo del recorrido se colocar�n las se�ales verticales y horizontales en todos los cruces que se consideren necesarios (especif�quelos y si es posible ind�quelos sobre un mapa del recorrido).- Asimismo, en los cruces o intersecciones con otras v�as o en aquellos lugares del recorrido que presenten un riesgo potencial, se situar� el personal auxiliar o voluntario para se�alizarlo debidamente con banderas. (especif�quelos y si es posible ind�quelos sobre un mapa del recorrido))- �)5�. PLAN DE EMERGENCIA Y AUTOPROTECCI�N.Identificaci�n de los riesgos previsibles FORMTEXT (ESTO ES SOLO UN EJEMPLO. ELIM�NELOS Y ENUMERE CUALES SON LOS RIESGOS PREVISIBLES DE SU PRUEBA O ACTIVIDAD.Como consecuencia de la pr�ctica deportiva, el esfuerzo realizado o la fatiga muscular propio de una actividad f�sica o competici�n, etc. los participantes y, en su caso, el p�blico asistente a la prueba o actividad deportiva est�n sometidos a los siguientes riesgos:- Lesiones, como consecuencia de ca�das, torceduras, esguinces�- Tirones musculares por el esfuerzo y la fatiga muscular.- Deshidrataci�n. Para combatirla, la organizaci�n dispondr� de XXX puntos de avituallamiento a lo largo del recorrido con l�quidos (agua y bebidas isot�nicas) y alimentos s�lidos (fruta, frutos secos, barritas de cereales�).- Atropello causado por un veh�culo de la organizaci�n.- Incendio.- �) En todo caso, para atender cualquier incidencia que se produzca en la salud de los participantes y, en su caso, de los espectadores asistentes durante el desarrollo de la prueba o actividad deportiva, se dispondr� del servicio de asistencia sanitaria que se especifica en el apartado correspondiente.Plan de emergencia:Con la finalidad de asegurar la prevenci�n de siniestros y la intervenci�n inmediata en el control de los mismos con los medios humanos y materiales disponibles, la organizaci�n dispondr� lo siguiente:  FORMTEXT (ESTO ES SOLO UN EJEMPLO PARA UNA CARRERA. ELIM�NELO Y DESCRIBA EL PROCEDIMIENTO DE ACTUACI�N DURANTE LA PRUEBA O ACTIVIDAD Si ya dispone de un plan de emergencia confeccionado de antemano, adjunte una copia del mismo e ind�quelo as� en este apartado. Si no dispone de �l, indique como se actuar�. Ejjemplo para una carrera:- Todos los miembros de la organizaci�n estar�n en contacto en todo momento con el Responsable de la Organizaci�n y/o Direcci�n Ejecutiva o, en su caso, con el Responsable de Seguridad Vial para actuar con la mayor celeridad ante una emergencia.- La organizaci�n dispondr� de XXX responsables en la zona de salida y llegada o meta, con veh�culos de apertura y cierre de carrera, as� como de XXX auxiliares o voluntarios responsables de zona que se encargar�n de velar, en los puntos que le sean asignados, de la correcta se�alizaci�n del recorrido y de la asistencia, en primera instancia, a los corredores, participantes, etc., que sufran alguna lesi�n o accidente, poni�ndolo inmediatamente en conocimiento del Responsable �o responsables- de Seguridad Vial y del Responsable de la Organizaci�n y Direcci�n Ejecutiva de la prueba o evento.- El personal auxiliar o voluntario se ubicar� en: (especificar el n�mero y lugar, especialmente si se trata de lugares peligrosos. v.gr. XXX en la salida junto a�; XXX en la rotonda de�. ; XXX en la intersecci�n de la C/ � con la C/ Av. Plaza�  Si es posible, incluya, adem�s, un mapa del recorrido se�alando la ubicaci�n en el mismo del personal auxiliar o voluntario).- Cada uno de los responsables designados asumir�n el cometido de velar por el correcto funcionamiento y desarrollo de la actividad, as� como de las normas de prevenci�n y seguridad de la misma.- El personal auxiliar o voluntario responsable de cada una de las zonas establecidas avisar�, inmediatamente, al Responsable de Seguridad Vial al objeto de que active el mecanismo de intervenci�n que proceda seg�n el tipo de emergencia, y �ste se encargar�, a su vez, de ponerlo en conocimiento inmediato del Responsable de la Organizaci�n y Direcci�n Ejecutiva de la misma.- Cada responsable de zona ser� debidamente formado e informado por el Responsable de Seguridad Vial sobre las medidas de prevenci�n y del procedimiento de actuaci�n en caso de emergencia y evacuaci�n.- La ambulancia o ambulancias se situar�n en ��.-  El procedimiento de actuaci�n ante una emergencia en caso de�.. (describa cual ser�a la forma de actuar en el supuesto de, por ejemplo, una lesi�n, un tir�n muscular, deshidrataci�n, accidente de tr�fico, ca�da de gravedad, etc., o en caso de accidentes leves, graves o muy graves)- �)Plan de autoprotecci�n de participantes, personal organizaci�n, auxiliares y voluntarios FORMTEXT (ESTO ES SOLO UN EJEMPLO. PARA UNA CARRERA. ELIM�NELO Y DESCRIBA CU�L ES EL PLAN DE AUTOPROTECCI�N PARA SU PRUEBA O ACTIVIDAD.Con la finalidad de salvaguardar la integridad de los participantes, personal de la organizaci�n, personal auxiliar o voluntario, espectadores, as� como de cualquier otro posible usuario que tenga acceso a la actividad, se arbitrar�n las siguientes medidas:- El circuito estar� acotado y ser� cerrado y abierto al tr�fico siguiendo las indicaciones de los agentes de la Guardia Civil de Tr�fico o de la Polic�a Local, seg�n la v�a por la que discurra la prueba o evento.- Para identificar a los participantes, la organizaci�n le har� entrega de un dorsal una vez realizada la inscripci�n en la prueba.- La organizaci�n contar� con una dotaci�n del personal auxiliar o voluntario que se situar� en los puntos de paso considerados necesarios en la carretera o v�a identificada, as� como en cualesquiera otros puntos que se consideren necesarios proteger ante un determinado o aparente peligro. Dicho personal dispondr� de banderas y petos reflectantes para se�alizar debidamente  su posici�n.- En la salida y en la meta se colocar�n vallas de seguridad para la protecci�n de espectadores y se habilitar� una zona por la organizaci�n para jueces y cronometradores.- La organizaci�n incorporar� veh�culos de apertura y cierre de carrera, en los que se colocar�n la carteler�a necesaria que anuncie el comienzo y el final de la prueba.- �Para ello, la organizaci�n dispondr� de los siguientes medios materiales:- XX Veh�culos de organizaci�n, incluidos los de apertura y cierre de la prueba.- XX Veh�culos de protecci�n civil.- XX Ambulancias.- Petos luminiscentes para el personal situado en las zonas de cruce o interesecciones.- Petos, camisetas, polos� identificativos de la organizaci�n de la prueba.. XX o XX metros de vallas de control.- Cinta balizadota.- XX banderas o banderines de se�alizaci�n.- Se�alizaci�n del recorrido y del kilometraje.- �)                           O  P  c  d  e  m  n  �  �  �  �  �  �  <	  =	  j	  p	  s	  t	  �	  �	  �	  �	  �	  
+        ������Ŵ�������|n|`|n`n`n�OJ    	h�8 >*  h�8 h>� >* B*CJ aJ ph     hTG; >* B*CJ aJ ph     hS1& >* B*CJ aJ ph     hA3. >* B*CJ aJ ph     h>� >* B*CJ aJ ph     h- >* B*CJ aJ ph     hj >* B*CJ aJ ph      h�8 h�8 >* B*CJ aJ ph     	h�J> >* h�J> h�J> >* h>� h� >* CJ
+ aJ
+ 	hs 5�h�J> hs 5�h>� h�M� 5�CJ
+ aJ
+ h�M� h�J> 5�    O  P  d  e  n  =	  
+      �  �  �  �            �            �            �            �            �            �            �            �            �            �            �                                                                                                 $� �
+@ $If   a$gd��    $� �
+@ $If   a$gd!8�   $�x -D M�
+   ����   a$gdb
+j    $a$gd>�   $
+& F ��� �� �L�^�� `�L�a$gd>�    $a$gd��    $a$gdS1&    $a$gds     ��  �  ��  ���                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           �  �  �  �  �  �  �  �  �  �  �  
+       "  $  .  0  2  J  X  Z  \  p  r  t  ~  �  �  �  �  �  �  �  �  �  �  �  �  �  ��������ẵ뫦��«��뫦w�«��뫦g�«��  �j�  h�: h�V >* U �j�  h�: h�V >* U h�: >* H* h!8� h�� >* �j�  h�: h�V >* U 	h�: >* j    h�: >* U 	h�� >* h�� h�� >* j    h�4� >* U �j    h2� h�V >* U 	h2� >* j    h2� >* U h�� >* H* hdC� 5�>*  hx� 5�>* (�  �  
+  2  Z  �  �  �  �    >  f  �  �            ~            l            ~            l            ~            l            ~            l            ~            l            ~                       $� �
+@ $If   a$gd�:    $� �
+@ $If   a$gd�V o  kd`  $$If   �F �      �   �% �%                
+t  ��0���   ���   ���   ���   ���   ���   �  �  �  �   ��   ��   ��   �2�  2� 
+9 4�   4� 
+l a�9  �  �  �  �      
+        &  <  >  @  T  V  X  b  d  f  �  �  �  �  �  �  �  �  �  �  �             ����������������蕭�����蕀yojZoj �jJ	  h�R h� >* U 	h�\] >* j    h�\] >* U h�\] >* H* 	h�� >* �j�  h�: h�V >* U h2� h2� >* �j�  h�: h�V >* U h2� h2� >* H* h2� h�� >* H* h�� h�� >* j    h�4� >* U �j�  h�: h�V >* U 	h�: >* j    h�: >* U h�� >* H* h�: >* H*#�  �  �  �                                                �  kdv  $$If   �F �      ֈ   T�H���% T                 T                 �                 �                                                  
+t  ��0���   ���   ���   ���   ���   ���   �  �  �  �   �   �   �   �   �   ��   �   �   �   �   �   ��   �   �   �   �   �   ��   �   �   �   �   �   �2�  2� 
+9 4�   4� 
+l a�9    $� �
+@ $If   a$gd�:  �  �    P  l  �  �  �  �    �            �            �            �            �            �            �            �            �                                                                                                                                            � �
+@ ���d��  $If   ]���gd�\]    � �
+@ ���$If   ]���gd�\]    $� �
+@ ���$If   ]���a$gdEil    � �
+@ d��  $If   gd�\]    � �
+@ $If   gd�\]    $� �
+@ $If   a$gd�V  	        ,  -  .  0  O  P  _  j  l  m  {  |  }  ~  �  �  �  �  �  �  �  �  �  �  �  �  �  �  �  �  �  �  �  �  �  �  �  ����������������������������������u����k          j    h{� >* U �j�  h&MX h� >* U 	h&MX >* j    h&MX >* U h�\] h�\] >* H* hW6� >* H* �j  hR* h�\] >* U �j�  h&MX h� >* U h�R >* H* h�\] >* H* hEil h�\] >* �j|
+  h�R h� >* U j    h�\] >* U 	h�\] >* 	hW6� >*  (�  �  �  �  �        	      "  /  Y  Z  [  \  f  g  h  j  l  n  o  �  �  �������������������qbqbSD       h�+N >* B*mH nH ph    uh{� >* B*mH nH ph    uhM84 >* B*mH nH ph    uh- >* B*mH nH ph    u'�j�  h�+N h�V >* B*Uph    h�+N >* B*ph     j    h�+N >* B*Uph    h� hdC� 5�	h�
+� 5�h� h� 5�h� h�� 5�	hEil 5�hEil h�\] >* 	hW6� >* 	h�\] >* j    h{� >* U �jt  h{� h� >* U 	h{� >*      	  [  �  k  �  �  B  j            ^            P            ^            ^            ^            ^            ^                                   $� ��x a$gdb
+j    $� �a$gdb
+j �  kd�  $$If   �F �      �F   �l�% �                 �                 �
+                
+t  ��0���   ���   ���   ���   ���   ���   �  �  �  �   �   �   ��   �   �   ��   �   �   ��   �   �   �2�  2� 
+9 4�   4� 
+l a�9  �  �  
+  6  �  �  �  �  �  �  �  �  �  �  i  �  �  �  �    (  m  �  �  �  :  <  >  @  B  D  L  �  �    ����������������������������{slel^              h�T? >* H* hx� 5�>*  hs 5�>*  hdC� hdC� >* hp;F >* B*ph     j    h�+N >* B*Uph    hD� >* B*mH nH ph    uh�� >* B*mH nH ph    uhi5� >* B*mH nH ph    uhM84 >* B*mH nH ph    u#h�+N h�+N >* B*mH nH ph    uh�+N >* B*mH nH ph    uh;� >* B*mH nH ph    u "B  D  �    D  F  H  �            �            �            �            b            P                                                                     $� �
+@ $If   a$gdd o  kd�  $$If   �F �      �   �% �%             
+t  ��0���   ���   ���   ���   ���   ���   �  �  �  �   ��   ����� �   �2�  2� 
+9 4�   4� 
+l a�9    $� �
+@ $If   a$gd�	G   $�x -D M�
+   ����   a$gdb
+j  	  $�x a$gdb
+j        2  4  6  @  B  D  F  H  J  ^  f  z  ~  �  �  �  �  �  �  �  �  �  �  T  V  j  �������þ����������w�h���aWR                    	h�b >* j    h�b >* U h�b >* H* j    h�� >* UmH nH u�j�  h�� h�	G >* U j    h�� >* U hd >* H* h�K. >* H* h�� >* H* h0X� >* H* 	h�� >* h�{� h�� >* CJ aJ 	h?r� >* h�� h?r� >* j    hd >* UmH nH u�j&  hd h�	G >* U 	hd >* j    hd >* U h?r� >* H*H  J  �  �  �            ~            ~                                                                                                                                                                                                                    $� �
+@ $If   a$gdd o  kdP  $$If   �F �      �   �% �%    ����    ����
+t  ��0���   ���   ���   ���   ���   ���   �  �  �  �   �������   ������2�  2� 
+9 4�   4� 
+l a�9  �  �  T  |  �            ~            ~                                                                                                                                                                                                                    $� �
+@ $If   a$gd�	G o  kd`  $$If   �F �      �   �% �%                
+t  ��0���   ���   ���   ���   ���   ���   �  �  �  �   ��   ��   ��   �2�  2� 
+9 4�   4� 
+l a�9  j  l  n  x  z  |  ~  �  �  �  �  �  �  �  �  �  �        2  4  6  @  B  D  F  H  P  �  �  �  �  �  ��������к�������к�~���v�ohahahZ           h\#( >* H* h� 5�>*  hx� 5�>*  h_l� 5�>*  h�W h�W >* �j�  h�W h�	G >* U h�b h�b >* j    h�W >* UmH nH u�j�  h�W h�	G >* U 	h�W >* j    h�W >* U h�W >* H* 	h�b >* h�b >* H* j    h�b >* UmH nH uj    h�b >* U �j�  h�b h�	G >* U!|  ~  �  �    D  �            ~            ~            ~            ~                                                                                                                                                                                  $� �
+@ $If   a$gd�	G o  kdd  $$If   �F �      �   �% �%                
+t  ��0���   ���   ���   ���   ���   ���   �  �  �  �   ��   ��   ��   �2�  2� 
+9 4�   4� 
+l a�9  D  F  H  �    �  }            s            a            O            O                                                                                    $� �
+@ $If   a$gd�	G   $�x -D M�
+   ����   a$gdb
+j  	  $�x a$gdb
+j �  kd  $$If   �F �      �0   �	� �	                 $	                
+t  ��0���   ���   ���   ���   ���   ���   �  �  ���   �   ��   �   ��   �   ��   �   �2�  2� 
+9 4�   4� 
+l a�9  �      �  �  �  �  �  �  �  �  �  �  �  �  �  �  �  �        
+  2  4  H  J  L  V  X  Z  �  ���������ֲ֪�����r������b�r�Z�                     h\#( h�; >* �j�  h�� h�	G >* U j    h�� >* UmH nH u�j�  h�� h�	G >* U 	h�� >* j    h�� >* U h\#( h\#( >* H* h\#( h\#( >* j    h`Z� >* UmH nH u�j8  h`Z� h� >* U 	h`Z� >* j    h`Z� >* U 	h\#( >* h�� h\#( >* 	h�N� >* h\#( >* H* h�; >* H*�  �  �  �  �    �            ~            ~            ~            ~                                                                                                                                                                                  $� �
+@ $If   a$gd�	G o  kd�  $$If   �F �      �   �% �%                
+t  ��0���   ���   ���   ���   ���   ���   �  �  �  �   ��   ��   ��   �2�  2� 
+9 4�   4� 
+l a�9    
+  2  Z  �  �  }            k            k            k            k                                                                                                                                            $� �
+@ $If   a$gd�	G �  kdV  $$If   �F �      �0   <�% <                 �                
+t  ��0���   ���   ���   ���   ���   ���   �  �  �  �   �   ��   �   ��   �   ��   �   �2�  2� 
+9 4�   4� 
+l a�9  �  �  �  �  �  �  �  �  �  �  �  �  �  �  �  �        #  ,  D  E  �  �  �  �  �  �  �  �  8  �������������쏄��y�n�y��f�Z�S       h�� >* H* h�� h�� >* CJ aJ h�; h�; >* h`Z� >* mH nH u h�+� >* mH nH u h�N� >* mH nH u hOb, hOb, >* mH nH u �j�"  h�� h�	G >* U h�; >* H* h�E� >* H* 	h�; >* h\#( h�; >* j    h�� >* UmH nH u�j�   h�� h�	G >* U 	h�� >* j    h�� >* U h\#( h�; >* H*�  �  �  G  �  �  �  }            k            Q            Q            Q            Q                                                                       $� �
+@ �} ���$If   ^�} `���a$gdb
+j    $� �
+@ $If   a$gd�	G �  kd�!  $$If   �F �      �0   ��% �                 \                
+t  ��0���   ���   ���   ���   ���   ���   �  �  �  �   �   ��   �   ��   �   ��   �   �2�  2� 
+9 4�   4� 
+l a�9  �  �  �  �            ~                                                                                                                                                                                                                                     $� �
+@ $If   a$gd�	G o  kd�#  $$If   �F �      �   �% �%             
+t  ��0���   ���   ���   ���   ���   ���   �  �  �  �   ��   ����� �   �2�  2� 
+9 4�   4� 
+l a�9  �  �  8  V  �            ~            ~                                                                                                                                                                                                                    $� �
+@ $If   a$gd�	G o  kd�$  $$If   �F �      �   �% �%    ���� ����
+t  ��0���   ���   ���   ���   ���   ���   �  �  �  �   ���������� �����2�  2� 
+9 4�   4� 
+l a�9  8  U  V  W  k  l  v  w     
+          .  0  2  <  >  @  B  j  l  �  �  �  �  �  �  �  �  �  �  �  �  �  �  �������ܽܵ�����}���桜m�}��櫡�]�}�  �j�)  h�� h >* U �j�(  h�� h >* U j    h >* UmH nH u�jV'  h�� h >* U 	h >* j    h >* U h\#( h >* H* h\#( h >* j    h`Z� >* UmH nH u�j�%  h`Z� h� >* U j    h`Z� >* U h >* H* 	h�� >* h�� h�� >* 	h`Z� >*  $V  W  k      @  �            ~            ~            ~            ~                                                                                                                                                                                  $� �
+@ $If   a$gd�	G o  kdD%  $$If   �F �      �   �% �%            
+t  ��0���   ���   ���   ���   ���   ���   �  �  �  �   ��   ��   ��   �2�  2� 
+9 4�   4� 
+l a�9  @  B  j  �  �  �  }            k            k            k            k                                                                                                                                            $� �
+@ $If   a$gd�	G �  kd*(  $$If   �F �      �0   <�% <                 �                
+t  ��0���   ���   ���   ���   ���   ���   �  �  �  �   �   ��   �   ��   �   ��   �   �2�  2� 
+9 4�   4� 
+l a�9  �  �  �      0  2  4  F  P  h  ~  �  �  �  �  (   4   6   8   :   <   >   �   �   �   �   �   �   �   �   �   !  !  !  ����������Ŀ�ɺɿ�򦡚��{�l�d��Z�      j    h�M^ >* U h�� h�M^ >* j    h2l� >* UmH nH u�j
+.  h2l� h� >* U 	h2l� >* j    h2l� >* U h�M^ >* H* 	h�M^ >* h�M^ h�M^ >* CJ aJ h�; h >* 	hg5� >* 	h�+� >* 	h`Z� >* hOb, hOb, >* �jt+  h�� h >* U j    h >* U h >* H* 	h >* h\#( h >*  "�  �    �  J  �    }            k            Q            Q            Q            Q                                                                       $� �
+@ �} ���$If   ^�} `���a$gdb
+j    $� �
+@ $If   a$gd�	G �  kd�*  $$If   �F �      �0   ��% �                 \                
+t  ��0���   ���   ���   ���   ���   ���   �  �  �  �   �   ��   �   ��   �   ��   �   �2�  2� 
+9 4�   4� 
+l a�9    �  ,   8   :   <   �            �            �            ^            L                                                                              $� �
+@ $If   a$gd�	G o  kd�,  $$If   �F �      �   �% �%             
+t  ��0���   ���   ���   ���   ���   ���   �  �  �  �   ��   ����� �   �2�  2� 
+9 4�   4� 
+l a�9   $� �� �} ���$If   ^�} `���a$gdb
+j    $� ��� �} ���$If   ^�} `���a$gdb
+j  <   >   �   �   �            ~            ~                                                                                                                                                                                                                    $� �
+@ $If   a$gd�	G o  kdl-  $$If   �F �      �   �% �%    ����    ����
+t  ��0���   ���   ���   ���   ���   ���   �  �  �  �   �������   ������2�  2� 
+9 4�   4� 
+l a�9  �   �   !  *!  4!  \!  �            ~            ~            ~            ~                                                                                                                                                                                  $� �
+@ $If   a$gd�	G o  kdr/  $$If   �F �      �   �% �%            
+t  ��0���   ���   ���   ���   ���   ���   �  �  �  �   ��   ��   ��   �2�  2� 
+9 4�   4� 
+l a�9  !  !  !  &!  (!  *!  4!  6!  J!  L!  N!  X!  Z!  \!  ^!  �!  �!  �!  �!  �!  �!  �!  �!  �!  �!  �!  �!  �!  �!  "  "  "  "  6"  8"  L"  N"  P"  Z"  \"  ^"  ���������������������ϩ������������y�o�g  h�; h�M^ >* j    hOb, >* U �j 5  h�� h�M^ >* U �jn3  h�� h�M^ >* U �j|2  h�� h�M^ >* U h�M^ >* H* �j1  h�� h�M^ >* U 	h�M^ >* h\#( h�M^ >* H* h\#( h�M^ >* j    h�M^ >* UmH nH uj    h�M^ >* U �j0  h�� h�M^ >* U(\!  ^!  �!  �!  �!  "  }            k            k            k            k                                                                                                                                            $� �
+@ $If   a$gd�	G �  kd�1  $$If   �F �      �0   <�% <                 �                
+t  ��0���   ���   ���   ���   ���   ���   �  �  �  �   �   ��   �   ��   �   ��   �   �2�  2� 
+9 4�   4� 
+l a�9  "  "  6"  ^"  }            k            Q                                                                                                                          $� �
+@ �{ ���$If   ^�{ `���a$gd!B<    $� �
+@ $If   a$gd�	G �  kdz4  $$If   �F �      �0   ��% �                 \                
+t  ��0���   ���   ���   ���   ���   ���   �  �  �  �   �   ��   �   ��   �   ��   �   �2�  2� 
+9 4�   4� 
+l a�9  ^"  `"  b"  �            ~                                                                                                                                                                                                                                     $� �
+@ $If   a$gd�	G o  kdz6  $$If   �F �      �   �% �%             
+t  ��0���   ���   ���   ���   ���   ���   �  �  �  �   ��   ����� �   �2�  2� 
+9 4�   4� 
+l a�9  ^"  `"  b"  d"  �"  �"  �"  �"  �"  �"  �"  �"   #  (#  *#  >#  @#  B#  L#  N#  P#  Z#  \#  p#  r#  t#  ~#  �#  �#  �#  �#  �#  �#  �#  �������ݹݱ��������v��f�������V   �j<  h�� h�M^ >* U �j�:  h�� h�M^ >* U h\#( h�M^ >* H* h\#( h�M^ >* j    h�M^ >* UmH nH u�j�9  h�� h�M^ >* U j    h�M^ >* U h�� h�M^ >* j    h2l� >* UmH nH u�j�7  h2l� h� >* U 	h2l� >* j    h2l� >* U h�M^ >* H* h�M^ h�M^ >* CJ aJ 	h�M^ >*  !b"  d"  �"  �"  �            ~            ~                                                                                                                                                                                                                    $� �
+@ $If   a$gd�	G o  kd7  $$If   �F �      �   �% �%    ����    ����
+t  ��0���   ���   ���   ���   ���   ���   �  �  �  �   �������   ������2�  2� 
+9 4�   4� 
+l a�9  �"   #  (#  P#  Z#  �#  �            ~            ~            ~            ~                                                                                                                                                                                  $� �
+@ $If   a$gd�	G o  kd9  $$If   �F �      �   �% �%            
+t  ��0���   ���   ���   ���   ���   ���   �  �  �  �   ��   ��   ��   �2�  2� 
+9 4�   4� 
+l a�9  �#  �#  �#  �#  $  ,$  }            k            k            k            k                                                                                                                                            $� �
+@ $If   a$gd�	G �  kdt;  $$If   �F �      �0   <�% <                 �                
+t  ��0���   ���   ���   ���   ���   ���   �  �  �  �   �   ��   �   ��   �   ��   �   �2�  2� 
+9 4�   4� 
+l a�9  �#  �#  �#  �#  �#   $  $  $  $  $  $  ($  *$  ,$  .$  \$  ^$  r$  t$  v$  �$  �$  �$  �$  �$  .%  �%  �%  �%   &  �������ɹ�������ɩ����ɔ��vh^                                       h�G6 >* B*ph     j    h�G6 >* B*Uph    h�u' >* B*ph     h�u' h�u' >* B*ph     h�u� 5�>*  h�u� hW� >* B*ph���  h�; h�M^ >* �j�>  h�� h�M^ >* U �j=  h�� h�M^ >* U 	h�M^ >* h\#( h�M^ >* H* h�M^ >* H* h\#( h�M^ >* j    h�M^ >* UmH nH uj    h�M^ >* U,$  .$  \$  �$  }            k            k                                                                                                                                                                              $� �
+@ $If   a$gd�	G �  kd>  $$If   �F �      �0   ��% �                 \                
+t  ��0���   ���   ���   ���   ���   ���   �  �  �  �   �   ��   �   ��   �   ��   �   �2�  2� 
+9 4�   4� 
+l a�9  �$  �$  �$  .%  �%  �&  �'  �(  �            �            o            b            S            >            >               $� ��� �� �L�^�� `�L�a$gdb
+j    $� ��
+@  a$gdb
+j   $� �
+@ a$gdb
+j   $�x -D M�
+   ����   a$gdb
+j   $� �
+@ �x a$gdb
+j o  kd@  $$If   �F �      �   �% �%             
+t  ��0���   ���   ���   ���   ���   ���   �  �  �  �   ��   ����� �   �2�  2� 
+9 4�   4� 
+l a�9   &  &  &  &  &  &  ,&  -&  �&  �&  �&  �'  �'   (  �(  �(  �(  �)  �)  �)  �*  �*  �*  �+  �+  �+  �+  �+  �+  �+  �+  �������ƴ�����u��u��u��u�u�h[T              h _ 5�>*  hS� hx� >* B*ph���  h�u' h�G6 >* B*ph     hA >* B*mH nH ph    uh�J� >* B*mH nH ph    u#h�G6 h�G6 >* B*mH nH ph    uh�y >* B*mH nH ph    u#h�G6 hS� >* B*mH nH ph    uh�!� >* B*ph     hS� hS� >* B*ph     j    h�G6 >* B*Uph    '�j�@  h�G6 h�	G >* B*Uph     �(  �)  �*  �+  �+  �+  �+  ,  �,  �-  �-  .  �.  )/  5/  
+* U h _ hRy >* 	hRy >* h� h�\T 5�:�CJ aJ  h�\T 5�:�CJ aJ  	h
+U� >* 	hg8� >* h�F� h$%� >* h�F� hRy >* 	h^$3 >* h>G� >* mH nH u hR
+� >* mH nH u h�I h�I >* mH nH u �j,B  h~X1 h�(� >* U 	h~X1 >* j    h~X1 >* U hRy 5�:�CJ aJ  h^$3 5�:�CJ aJ !I1  S1  T1  U1  V1  ^1  c1  m1  1  �1  �1  �1  2  �2  �2  �2  �2  �2  �2  �2  3  3  �3  �3  �5  �5  �6  �6  [7  ]7  8   8  �9  �9  `:  b:  �:  �:  �:  x;  �;  �;  �;  �;  �;  �;  �;  ����ĹĹĹ��Ү�ңҘңҘҘңҘҘҘҘҘ�ҍҘ����                          h�Z� 5�:�CJ aJ  h�cH >* mH nH u h�:o >* mH nH u h�� >* mH nH u hDC� >* mH nH u h'b >* mH nH u h�� h�� >* mH nH u h�:o h�:o >* mH nH u j    h�:o >* U �j�C  h�:o h�(� >* U 	h�:o >*  .H1  �1  �2  �2  �3  �5  [7  8  �9  `:  �:  �;  �;  <  �<  �=  q>  �>  {@  'A  �A  �            �            �            �            �            �            �            �            �            �            �            �            �            �            �            �            �            �            �            �                          $� �
+@ �� �L�^�� `�L�a$gdb
+j   $� �
+@ a$gdb
+j   $� �
+@ �x a$gdY�    $�� �L��x ^�� `�L�a$gdY�  	  $�x a$gdY�  �;  �;  �;  �;  �;  �;   <  <  <  <  <  <  <  <  <  #<  (<  4<  �<  �<  �<  �<  �<  �=  �=  ��������������{l{l�]�N�?  h� >* B*mH nH ph    uhsOP >* B*mH nH ph    uh�C� >* B*mH nH ph    uh�F3 >* B*mH nH ph    u#h�C� h�C� >* B*mH nH ph    u#h� h� >* B*mH nH ph    u'�j&E  h� h�(� >* B*Uph    h� h� >* B*ph     !j    h� h� >* B*Uph    h� h�Z� 5�:�CJ aJ  h�  5�:�CJ aJ  h�Z� 5�:�CJ aJ  h�� 5�:�CJ aJ �=  q>  s>  �>  �>  {@  }@  'A  )A  �A  �A  B  !B  pB  rB  �B  �B  �B  �B  �B   C  JC  LC  qC  sC  �C  �C  �C  �C  �C  �C  �C  �C  �C  �C   �  <�  >�  @�  \�  ^�  `�  b�  n�  p�  ������������������������������������������|w              	hBS� >* 	h_l� >* �j�F  h{w� h`*F >* U 	huF >* j    huF >* U h
+:1 h_l� 5�>*  h4� 5�>*  Uh{� h�^x >* B*ph�    h� h� >* B*ph���  !j    h� h� >* B*Uph    h� >* B*mH nH ph    u#h� h� >* B*mH nH ph    u ,�A  �A  B  pB  �B  �B  �B  JC  qC  �C  �C  �C  �C  �C  >�  ��  .�  ��  Ա  �  �            �            �            �            �            �            �            �            �            �            �            �            �            �            �            �            �            �            �                          $� �
+@ d��  $If   a$gduF   $�x -D M�
+   ����   a$gdY�  	  $�x a$gdY�    $�� �L�^�� `�L�a$gdb
+j   $� �
+@ �� �L�^�� `�L�a$gdb
+j                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  5 � .   I N F R A E S T R U C T U R A   N E C E S A R I A .     F O R M C H E C K B O X       V a l l a s   d e   c o n t e n c i � n :      F O R M T E X T               F O R M C H E C K B O X       V a l l a s   d e   s e g u r i d a d   :      F O R M T E X T               F O R M C H E C K B O X          F O R M T E X T             C o n o s .     F O R M C H E C K B O X          F O R M T E X T               F O R M C H E C K B O X       A r c o   d e   s a l i d a     F O R M C H E C K B O X       A r c o   d e   m e t a     F O R M C H E C K B O X       M e g a f o n � a     F O R M C H E C K B O X          F O R M T E X T               F O R M C H E C K B O X       E s c e n a r i o   d e      F O R M T E X T           m .     F O R M C H E C K B O X          F O R M T E X T             C a r p a s   d e      F O R M T E X T           m .     F O R M C H E C K B O X       G r a d a s     F O R M C H E C K B O X          F O R M T E X T                F O R M C H E C K B O X       S e   a d j u n t a   c r o q u i s   o   p l a n o   c o n   l a   u b i c a c i � n   d e   l o s   d i s t i n t o s   e l e m e n t o s   o   e s t r u c t u r a s   d e s m o n t a b l e s   ( e s c e n a r i o ,   a r c o s   d e   s a l i d a   /   m e t a ,   c a r p a s ,   g r a d a s ,   t o r r e t a s   d e   i l u m i n a c i � n ,   e t c . )   q u e   s e   i n s t a l a r � n ,   a s �   c o m o   e l   p r o y e c t o   d e   i n s t a l a c i � n   y / o   c e r t i f i c a d o   d e   s e g u r i d a d   y   s o l i d e z   d e   l o s   m i s m o s .  O b s e r v a c i o n e s :     F O R M T E X T               6 � .   S E R V I C I O   D E   A S I S T E N C I A   S A N I T A R I A .  P a r a   a t e n d e r   l o s   p o s i b l e s   a c c i d e n t e s   o   r i e s g o s   p a r a   l a   s a l u d   d e   l o s   p a r t i c i p a n t e s   e n   l a   a c tividad y/o espectadores que puedan presentarse durante el desarrollo de la misma, la organizaci�n dispondr� de un servicio sanitario que estar� compuesto por: FORMTEXT - X Ambulancias medicalizadas.- X M�dicos.- X DUE.- X Fisioterapeutas.- �IMPORTANTE: Si la actividad discurre por v�as publicas o privadas, terrenos o zonas de dominio p�blico sujetos a la legisl                                                                                                                                         p�  ��  ��  ��  ��  ��  ��  ��  ��  ��  ��  ԰  ְ  ذ  ڰ  �   �  �  �  �  �   �  *�  ,�  .�  0�  L�  N�  P�  R�  T�  h�  j�  l�  v�  x�  ��  ��  ��������¸¨�£��������y����i�����                     �j�J  h�=s h`*F >* U �jJ  hBS� h�(� >* U j    hBS� >* U �j�H  h�=s h`*F >* U 	hBS� >* �jVH  h�=s h`*F >* U j    h_l� >* U 	h_l� >* j    h�=s >* UmH nH u�j,G  h�=s h`*F >* U 	h�=s >* j    h�=s >* U 	huF >* 	h;W8 >*  %��  ��  ��  ��  ��  ��  ��  ±  ı  Ʊ  б  ұ  Ա  ֱ  �  ��  ��  ��  �  �  �  4�  6�  8�  R�  T�  V�  r�  t�  ��������׳׬������}s}cs�}Y�I  �j�M  hBS� h�(� >* U j    hBS� >* U �jHM  h_l� h�(� >* U j    h_l� >* U 	h_l� >* 	hBS� >* �j�L  h_l� h�(� >* U h_l� h_l� >* j    h_l� h_l� >* U huF >* H* j    h�V� >* UmH nH u�j�K  h�V� h`*F >* U 	h�V� >* j    h�V� >* U �jTK  huF h�(� >* U 	huF >* j    huF >* U�  T�  ��  ز  B�  γ   �  L�  N�  �            �            �            �            �            �            �            U                                          �  kddU  $$If   �F �      �F   �P�% �                 �                 �                
+t  ��0���   ���   ���   ���   ���   ���   �  �  �  �   �   �   ��   �   �   ��   �   �   ��   �   �   �2�  2� 
+9 4�   4� 
+l a�9    $� �
+@ d��  $If   a$gduF  t�  v�  x�  ��  ��  ��  ��  ��  ��  ��  ��  Ʋ  Ȳ  ʲ  Բ  ֲ  ز  ڲ  ��  ��  ��  �  �  �  ,�  .�  0�  :�  <�  ����������óȤȜ��w���mhXmIm  j    h�=s >* UmH nH u�j.P  h�=s h`*F >* U 	h�=s >* j    h�=s >* U �j�O  h_l� h�(� >* U h_l� h_l� >* j    h_l� h_l� >* U h_l� huF >* j    h�V� >* UmH nH u�j�N  h�V� h`*F >* U 	h�V� >* j    h�V� >* U �j:N  huF h�(� >* U j    huF >* U 	huF >* 	hBS� >* j    hBS� >* U<�  @�  B�  D�  `�  b�  d�  f�  h�  |�  ~�  ��  ��  ��  ��  ��  ��  ��  ��  ��  Ƴ  ȳ  ̳  γ  г  �  �  �   �  �  �   �  "�  $�  &�  :�  ��������̼ѭѨ��̘ѭ�����~����n��d_           	h�V� >* j    h�V� >* U �j�S  huF h�(� >* U �jnS  huF h�(� >* U j    huF >* U �jxR  h�=s h`*F >* U 	hBS� >* j    h�=s >* UmH nH u�j�Q  h�=s h`*F >* U 	h�=s >* j    h�=s >* U �j(Q  h_l� h�(� >* U j    h_l� >* U 	h_l� >* 	huF >*  #:�  <�  >�  H�  J�  L�  N�  P�  l�  n�  p�  t�  ��  ��  �  6�  ܵ  ��  �  �  ��  ��  ��  ��  Ҷ  Զ  ֶ  �  �����ʼ����������������si[Q                       hM[n >* B*ph     j    hM[n >* B*Uph    hM[n 5�B*ph     h�V� hM[n 5�B*ph     h|Z� >* B*ph     h�V� >* B*ph     h
+:1 >* B*ph     '�jV  h8* h� >* B*Uph    h8* >* B*ph     j    h8* >* B*Uph    	h_l� >* h_l� huF >* j    h�V� >* UmH nH uj    h�V� >* U �jbT  h�V� h`*F >* UN�  ��  Զ  ��   �  L�  ��  ̸  ٸ  �  ��  ��  ��  .�  /�  ��  :�  ��  ��  ��  ��  �            �            �            �            �            �            �            �            �            �            �            �            �            �            �            �            �            �            �            �               $a$gdb
+j    $a$gd�)  
+  $dt�  a$gd�\�    $a$gdb
+j   $�x -D M�
+   ����   a$gdY�    $a$gdY�  	  $�x a$gdY�    $�� �x a$gdY�  �  �  �  ��  ��  ��  ��   �  �  L�  n�  ��  ��  ��  ̷  Է  �  �  �  F�  L�  Q�  k�  s�  ��  ��  ��  ��  ��  ��  ���ݼ�����}�}�}�s�}�s�s�s�}e[                                 hS1& >* B*ph     j    hS1& >* B*Uph    h�PP >* B*ph     hY� >* B*ph     hY� hY� >* B*ph     h�]: 5�>*  hCH 5�>*  hY� h�>$ >* B*ph���  hY� h_\ >* B*ph���  h�V� hM[n >* B*ph     &j    hM[n >* B*UmH nH ph    u j    hM[n >* B*Uph    '�j�W  h
+:1 hM[n >* B*Uph     ��  ��  ��  ��  ��  ��  �  w�   �  ��  ��  .�  /�  0�  >�  ?�  @�  A�  ��  ��  ��  ��  ��  ����ĵ������|r^|r�r�QC                    j    h6*� >* B*Uph    h6*� h�:U >* B*ph     '�jbZ  h8* h� >* B*Uph    hs_{ >* B*ph     j    hs_{ >* B*Uph    h�) >* B*ph     h]U2 >* B*CJ aJ ph     U h6*� h�) >* B*CJ aJ ph     h�) h�) B*CJ aJ ph    h�\� >* B*ph     h5G� >* B*mH nH ph    uj    hS1& >* B*Uph    '�jY  hS1& h� >* B*Uph     aci�n sobre tr�fico de veh�culos a motor es obligatoria la presencia de los servicios sanitarios durante la celebraci�n de la actividad y su composici�n deber� ajustarse a lo establecido en el art�culo 10 del Anexo II del Reglamento General de Circulaci�n (Real Decreto 1428/2003, de 21 de noviembre). FORMCHECKBOX  Con independencia del servicio de asistencia sanitaria especificado con anterioridad, los participantes en la prueba o actividad deportiva contar�n con un seguro de accidentes que cubra los ri e s g o s   i n h e r e n t e s   a   s u   p r � c t i c a .   ( s e   a c o m p a � a   c o p i a   d e   l a   p � l i z a ) .  E n      F O R M T E X T     J a � n  ,   a      F O R M T E X T             d e      F O R M T E X T             d e      F O R M T E X T     2 0 1 9   E l   s o l i c i t a n t e   /   o r g a n i z a d o r   d e   l a   a c t i v i d a d ,      F d o . :      F O R M T E X T                            P A G E      ��  ��  ��  ��  ��  ��  ��  ��  ��  ��  ��  ��  ��  ��  ��  ��  ��  �  �  �  �  �  *�  ,�  .�  6�  8�  ��  ��  ��  ��  ��  ��  ��  ���Ŷԩ���ԩ����������m��ԩc�V���   h6*� hb
+j >* B*ph     h�:U >* B*ph     '�jH\  h6*� h`*F >* B*Uph    '�j�[  h6*� h`*F >* B*Uph    '�jT[  h6*� h`*F >* B*Uph    h6*� h�:U >* B*ph     hy� >* B*mH nH ph    uh6*� >* B*mH nH ph    uj    h6*� >* B*Uph    '�j�Z  h6*� h`*F >* B*Uph    h6*� >* B*ph    !��  ��  ��  ��  ��  ��  ��  ��  ��  ��  ��  ��  ��  �  �  �  �  �  �  �  �  �  �  ,�  =�  �            �            �            �            �            �            �            �            �            �            �            �            �            �            �            �            �            �            �            �            �            �            �            �                               $a$gd�<�   �h]�hgd�<�   ���� &`#$gd0Fm         $a$gdb
+j  ��  ��  ��  ��  ��  ��  ��  ��  ��  ��  ��  ��  ��  ��  ��  ��  ��  ��  ��   �   �  �  �  �  �  
+�  �  �  �  �  �  �  �  �  �  ���ݼ������������������vlv_vl�����                h;W8 0J >* mH nH u h�<� h�<� 0J >* j    h�<� h�<� 0J >* U U
+h�<� 0J  j    h�<� 0J Uh0Fm  h�<�   j    h�<� UmH nH uwh   � h!~_  j    h!~_ Uhy� hY >* B*ph     &j    h6*� >* B*UmH nH ph    u j    h6*� >* B*Uph    '�j�\  h6*� h`*F >* B*Uph     "                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                PAGE  5Patronato Municipal deDeportes de Ja�n  Excmo. Ayuntamiento  de Ja�nInstalaciones Deportivas �La Salobreja� � Av. Granada, s/n.  23001 JA�N - Tel�fonos 953 23 91 26 - Fax 953 23 91 27	                                                                                                                                                                                                                                                                                                       �  =�  >�  ?�  A�  _�  `�  a�  ��  ��  ��  ��  ��  ������伥䡔                                                                                                                                                                                                                                        hy� hY >* B*ph     h0Fm  ,h�<� h�<� >* B*CJ OJ QJ ^J aJ ph���  (h�<� h�<� >* B*CJ OJ QJ aJ ph���  h�<� h�<� CJ aJ  h�<� h�<� >* h�<�  h�@� h�<� CJ aJ  h�<� h�<� >* CJ aJ  =�  >�  ?�  U�  _�  `�  a�  ��  ��  ��  ��  �            �            �            �            �            �            �            �            �            �                                                                                                                                                                                                                                                                                                                 $a$gdb
+j    gd�<�       $a$gd�<�  
+2 1�h:pA3. ��. ��A!��"��#�!	$��%�  ������ n���  F0)��������Ao�U��PNG
+
+   IHDR   �  &   �cS   sRGB ���   	pHYs  a  a�?�i  �"IDATx^�}|MW���I$��SI%���h����i�i;ô�SS���>PLU�����bP)JII)i
+U�k�|����ܼ��$�r�kD'�G4�T�Ge��yԧ������7�c��r�(�d�aK�� ��g���<��Ӣ��Tu����tb�B��1����3������<��M������{@�="����9U��ťs`��-����Bݪ�q�>m��O��ˍt-+��VS�Y����O��O����Xo���;��5�޹��ͤ�&�b>J��Ɓ�4�wzc�k7���<��Cf#�����xe�?�����y~�Ӂ]�^7>�V<R�]��o;o�7O���A���;����M���&�'-og֏ct��׃;�׹w�w3�No��6B�����;n4��&{�U��:�]�v�)j$ߓ��l��]d�C�~�7՝ե��~F�bzn�8A�� z�t:�~�]�?��wzS=�:]k!-��?!ګs��ԍ�n����p�~�7�]Ջ\)��S�n�4�����ߑF����F�����	����?�s��,d�Փ\����*��u:�~,��x\`�O1�?L?%�a霺J��D��[k���2���%�/Q+�^u����D��\"�R���Zԥ�ے�~�=$TWa���9�?Q �;��./�ڵoQa��1���L�U^7���Es�`�����.P�Q�=,�^�"Y�5��i74Bo�ɾc�������� �-�T!??BU��k���CO��`�#J{gQ�)Z�"��\�A�2'(��%A�~K8����A^�Qx_
+�A^ct:�*��?q¨{�{\�\<�O�'������@�Ib�/.=�fǼAr,������%��:�D�M[���q�5.jp�N���y�\�m����iQ�^�M�vBv��r� L(�U�;������3C�� *�3��d������>&��
+wd)E��9tp3�E�ѿ����x��o F��	�˝���0L"j���Wxyt���*t(�cx�%
+#&�MFF���`����/���1e
+��[��o�7��G���J$��S��\���Q2SvƵ2�b��$N 62��������Ws��C��S6�0]>Ѹ(O�i�
+VP���x@	(0�"L$�a� �n(�h�������_p6�hD5G^� �"�6|Ȑ7[��	�����;4Yx^�zH�K�N��~��x3.,�;�G���8�k	�k���� ���������)NH�B��D'��3��;�T����ǄT���*�����Xj�b��(`!�G�n(�3����>iR�zo�4Z�!��(ԐI 0c����@u��P�x�J)
+���Q�2�I:x����&�<���+P���n�8���-�~&�h0�
+c��	Z����J��0-��j�s���Ѕ������;~��S��T?/�\ڸ.QC�a`�c��#GT+#�Rh(d�B�"��AD�:��
+�W��  qɲ�F�T ����'�z�b�ng�EDI�ʳ�5�r��Cy�>���;Z��Y�i�J͛���$CR�\�2hд8���@u&�Ӧ�r\�E�gÕ��e\�W��d|�GJ�"
+��d�&uH�a�Ȏ��5]��QyA���� ����ceM� % *�Ѓ���ݍ�|R���e��HVMAg(ЁgHĐX#Q���2T���+�r�^o�Et7�Y*�[E�nܦ/��^ϲ�W����k�lv���O����V�0�Ȉ!���1��g5�l��5zmdD��G�`1���&r����R8��0�OH��\�5�kd�lX{���ʼ㊏>a�`�R��b�ۈ��vN�ű�8�oK��|lx�~������ ՠT2��h�j��SA�§�io���ۀ;�o���x�/��g*��G��s�h��$,�`�����a�>e]�W�q���fP2�ֆp=J/�$��DCVT������̇�	o�aO���wZ8CO1�a@���sJ__�e��ba�|� ��v�pTuswU=%N�PyY�C�p��H�-ba��c��%�2Л2�4.��X�>��T��F�[�7�<Y}ebn�7iпl�A�� X�E���ȄWx��y�]�t�k�I��
+z�1�Y[�L�Bd���=�H��41�3�)s��U�h�AZ����36`/`
+�����f���.&��V3���	*���˪%J�s\x�3y��"Z�V���6蒚=Q�5�un-޼���	_k'����1�Lyl�x4l����&g�'gŊE�xV�sq�>V�b��8���Й�0@�M�����j@��1ob��p������"��Б�#��
+�1�� (Vy�b_1~R�M�ٹ�xu�!�sy �@���ƕ���Ј�&&G�'���"����!�'��[J�������&�$ͫF�	��(|�Qq�����7Y�>Z�kj��p��v5xF��=fV8�P z젚nM�b��W�
+�S��C�$��=	���x�SQ,1 ���L�ϑfo�Oq��[N�7m��G'?4��ݵ�3؎��Icu�w���>�+�0~���7�b��Ǌ��(u��"��������(�OGk:��a�瘝.���U?�lK?�c�2��b���¤z�|.��<À�@�)2�=�3��c�#�)��ɘ~�?�`�;8���)U>Z��B>Y����D��o�H�Cʞuу�ӄy���MɦL_�608�|r��:tk��B���a�T�B%�U_��*1�@� �a�
+F���ػrH�KN��`�Z�c�� �;o�{��I����Q�<�O��cPt�y�C2�>�a��/\c�P,7�w!`��ge+4txW[���X"��e]8�HٜY�׾+�T�zC�YFb[��u<�'C}�颧0-�1c��7́F��:#��e��Ⱦk�,;�����2my����/�>�O�E�a:�?�>�.]$!�jȒz�����ć����R U�z�fY�$\h��Z�H�����.��oN��ZTkԟM	�
+p�0W�ԇ:�daT^�D80����HDԌ���[��`�˼�V��)�h��j�C1<д1$3�<�V8Z��Y0#�NMJ���趬�^���`����cEa�H;\��)�������pQ�Ԭ;L�rWVi�H=.�,�M���^5�5�h� �C������kX�Ae(��:@�N)���$���G%޳`΀�̿�_
+u8�-�����\�U��"������<��B�8\IN��ك~��Zp=6'*������ܣ���!�h������aRu��u3X�E!
+�T�PɦQ�Ŏ�d(vɓ>�Y��-(���=u����VG,��׭1�\|����l�����ct%+�c��58�I3����o��"�5�P�P�z��^�� �ϖ�k��<�JP�ޠ[�$nA���$��S�BH^�:Pf('� cY-�q7E�a@)�d��S$���.)(	b��?���Y>�Uή���4�!��[.��:J�����X45_F��ѳ��P��˛��-Ǻ�w�p�X4&�r�Ց�&���g���X��R�u��7,���X=�v<�<��
+�P(ǡ���r��=T���������f+��^�G/�^B�C��� 6�~���T�&P��A�����`�n����� 壞;ޕ��3e����l%N�MM�Dc��k�ѣ���`�K�Ԓ��Mj[��R�.P���}��=���}�:6�wp)9�x%|�����zQ���O-M;*J�EU�0>����9=�I�c2ƀ���Z|�Ec�9>�����nL SaC4K�B *t��W�@�SU�`I?��VT�V�U@����C�(6ہƠg6S����@ƀ4�������.�Қ�j��3�'-���*�B�S/�c2�xHx#%F�#)9j����F`CWW��.H	<ޅj�\�y�%��q}��^�sd��$����N��@ԕ�z�A�@�B�d� ���2.c�)�
+Y���d΍NAW�w4��qK�*��YvPC\P�L�\7_컪[�4��a�7
+D����q��buC~�ʦu0����k�+༐�W��w	�\_s�F`(��
+�����@����7q��C��J㚃
+�Y,Uq����]~ͪ�T(:�\��^d��A/Y%Me������ň*!���8g%�N�B �z�Z��� !�+M_D�.�����º��/~z#R�AQ@ip�Ƙ��+v��d��h��*�l�Kv��N]_Cb�>�E���ڐ����zuC}EuW����)+�}Ap�(�2�߼���,���w��Ͷ�?���9�x������lJy�^�;�$�z�F:Ѧ�(Ǵ�L^}��$VL*k� `ջ����x�H�9k�\�\�2��-+5�$İ�h��UW��(.�^G�inA�1'A91	�%�i~���hN�>�Rί�U��HOK.�&U�-�k��h�\U,�<�4j�m�*{s%k-����!A?�� ���d�(JƄ���؇�[W�p$��)Ty�T�Ϊn���s�Q��9�O,��&�����Yj�ոC/W�t3��L/vVcւ�p�j8��Ҿ\ךC�>�9��WK�:��Z�͸Z�f6��*�W�axJN��A]����;�����ɶLfC�c����ћXe���Q] 	0��o����E�Fz#�7wA�_�b�U°����]��^�V%��I��j~�&�D��N�Ĳ�c8�-��;�B���N ��(4�b��t�{ga�`·�i�&	��j�փ��*��q0�FOtr�ox��I��Z� 4�հ�4�E�̒S���L	��)��$g���
+'l�sK�V�*�9
+�1�%p8�
+�:����d<��H�-)P&�Z�rF/..��$�L�h�r��J��rqH����ĐF!`�Z�t�r�dJ�QF��r[�UqSҨ
+�X����ʘ��
+�v��E!�Pk觊=0^�s��~�{Ti��$������e�;��U��Y�$��~����4�j[��~0 -4V���ᙶ�z����z�#�'��V���0%
+`���ɇ����^0��&�7�a�~`[� Q��fٲ��B��ߣ�(��<�2���ڒ�������_��I�Y��e2��)o�)�n���,�	a }�X�!#��<ӌh���J�|[�v�� �\�`h<��z�1XY@0�[��A��@!]!�45v�cґT��� l�G��O���&xa3/F5�>)�>��ƾ�O�4�3���yrCdN�3Ĕu�!t{t���8h��`V�+�lH2�O*��m���=�0�N�E�Xv����`)��Aȅ� {��2����%e���a��!���J�������^� W%á�]���@��m�ݝ�d7bL6��*V�w��u7�" ,�
+�K.$� 9&��AOr(�M��X���B���ФX}f�ڞ��S�,:��b!@®�:$�ѫ�I�(���k<4�	%��:0��hV����Y2 ��֒�0�wP3X�Y�7���gxj����Pr�>x�&��Ƹ��{��Fڦ��=��-*���[3�d�K�`u�̏���O���z���:���op����G��؝t��u�*FS5�ZX���X�%�C���7>�������N��e�8L�Z��~8Ow�Hg{�]�i�B��H��a,�$�v�HwdQq��A�iP#̠KL�p��
+~����PxS��Ei�P$����+��`yEPd.�e*������"D$C���C?�i������[�$�gP~ fȒ01U��� ��IB|d��[��v#*�� }Yοym�Lp�t����d[T���P0����/��։����@�E2���~J�P�Ƥ�6 �p��	�0��C�fF6�i���˳��J�����L[�vj��-!R��!�^��p��7|#���eIXӥ�"�a�\�ק�����.C���]��B	��lNdA?q���M��@c@|����'j\c�8�3hH��1�\1F;~�����(�}uD�JS�(��]Z'-p��~��ی1��M�zh�P��LL.�2�C�=���Ђ�RX;��l�gx?F���9p����b���s��C�'i<�в����.SvOj4LK�W�5�1�I�d᚟�s��b�4����4OJ33#��Tb�I�F&�QY&���-a��#��`+�؃�l!�
+w�-UE#��d�jsZ���ĵ`xج�S��GJhÉ'���%e�]��		g�µ��'Z�^G�Xs�k䊟p�ZU�4O��1Rђ���I��������t�Vd1��o�7����]_�u'h�ZФ�:�1�0��3��~G��x����c��\��;}��0_`ơ���T1�{X��iJ.DC8�pxcc'�4
+.T�DNФ<�ݙ�ޠ�x�~��}�J>u�@�AT�'7|�2hOPm�-�qP�	�iP�*u�!�����v���7��x�'HЈ~��Cc*(_Gg�Ѓi��E ��	��i��r<�o��n���c>���K��/�s�щ�k�0�����B 0��\���I:�+�����
+
+��;���u<�N{���RAW��w]ב�+;�����!�Y@W}�%��Ȱ�������A���JQI�F�K)��.��"��Y��%��IyW��Q�� E��Lh&����'� �D{qoIé�q��ÿ�T���˿y�П;V]y0�Z��[G�˿�y�����>�6 ;ց
+�p���M�)Ň\��^�h�ՙ���:a�ns
+�]*
+��&Ck��\&��Bҕ�GI�A���dE�߆Sׇ�%0�A�ϣu�J �0�p]�_�ι���J�������)�n����c�6�\���Ȣ�[V�,h 1X�d.ҡI�},�����J��/�G��=����`�m��VVK<[:J�#��p�Sd���?BY�@8�v1��~��	ta��Eo�+��wі�(T�`�ռד�vQ	�ZzT�K�Ƣ@�F��ǭXZ۶[�w K�����HY�lr(k�yRn�Fs{S�˥0����,JYK��h���]�G��`�͒��b��vԒ�'(�eiJa�+d'��N��x�c�'$�
+>�KxK�B\0lW/��'e,�T� %Va�5�(�,������ִ$1�
+�S��΃����>eM:u-�U,ٓ�#7���3ɬ��,=���[0)c�ԧ]Ub�� ����4T�'(���N>���SB�� G�H3��5)�`H�%�1@.��J����ʸ[�#��Q�R�]`��BP܃��0���C��(曶�]H��_ѥ��Gό�a�Q#8��H��*]���̥�p�n{�4�yh�!�sx�vq����Kr��~>��J��)ނ� �@԰���6�E�ЇO�Y�����3�3q�����EGQ�I�LY�6=J���$�[� �2�BX86|�M�Q�_��ڊ�h��4�9�Moμ'��o\�����9��)��4 m ��D��#�dW4��=�5@�{�Ӱ1�ׅ*����$��T=a]�~�:��`)�=A��(�%f���WE_FK�w�"zA~_��5�|�0�8f.����J�V������xc�������#(%�z��ò�^f��C� l��ޛG��V����e�U0�5�R���ۄ �� {��!��B����G�.��Ƚ�*|������\O��T�N�%J�=�0�BT�t-�Zc�j�|R�'��C��G���T�����s�|\������u���t`40�]�0���[�T<�2�=��Ӿ���)����'��1P�yȠ�!h��H��:���L1�6%B..1Z����y�*�%0�23F��4���Z��^���"������Q��b5m2���%����o2i�_���/迫܇
+W0tll� ����F�tp�[9�N_��Ɍ�T0Lx?� � `����͇��d��t�O�20��bS�e�6�"� ^ΟD���J/
+�D�-Ϳ�5C6e��S'�X	��暷� '��B�Ģ��Eߚ�	�1an�o�2?!���hQ��Fo�H'Nk%�bD!�`,A�yU
+�U��W�������`xȘ����j�Q�ײs�p�PI\=�,��P�&�������ߘ8���h�_ӑ��t=��י����?��eQ@��+#�x��=�x�e��qA]�c���2�T����S#7��2j����W8��É7"�J��D�7*�7��˹�TJ�z��an:��\��n��������/Жs����`4�ǂ) ���J8k� �8�xj��coMljF)�'|�r!h�4L�����0ÅB~�D@���t�s�ҋZ�RVJY�9�udE�S
+5��ktmI��Pb[jC.�(%������W_�RH�^ }��c�Cw�s�J�-�B7 �s�1�x�di*ׯ*X��`�؛�M�ӡv��ZRI9#@ ��̢�P�}�~�SWOJ��f	ṫ�f�A2@;���bmY9b��m�Q�г�k�"��
+�Q����sS�N�
+X{���K�N����^*Rš<�&��7S�d��Y".��FC\̑Γ5Ʀ�g�,S�.!m)�QXDo��`�gS�0�R5���"7y���\:[�Y��㥺l�6�W�Z#VW��c[Pu0�i2P#�lCz�Ά(kCx�"�(Gy̢R��:�[߹�],#�J
+mL�+ɧ�N�R����`ҡ��#m�������)Ӫ�5�M#'g���s.��;]J�;�����,{��O��/����G��U4"}!֜��j���OT87n(�L��o����#�:�>�r���Z���v�@��[G�V�ظv��]c~~����lD�tՅ�+Hߘ����S� ���=-s����:i�d�]v��_wMnFA�	�>����ϕ���?�}��n��CS%�?���p�f�T�F�~r)!���k��E��"O};�bj�Xm]�7j��J^�V�_��!H���W�70ك��"�#�׈��진��0Tp����� |�������g�*��2)�4o&�q���'�2J�EP�+�ɏⳠ�E�����3޼��J�ϙ��?�?w��T
+iJ)�EMO���{=އڷ��|���=�S���k��r��ߛ~U�5�=7�e=M9ڋY��Q3�M�h�|��R�x��4����RE������G��U+�o��!:Zn��X+$�b�K�pd��9Դ��ˤ�X���@L�8V�G����Qo����G��c���;uZ+�t⟁A��UĕA�+��
+�q��*�C����_�%�*�U:���������^�Z\������|�^/
+t�p�)!G�b>T9��@��ߨ~;�Q�;���<$��G�EJàQ�۠n�I�e&0�\���LQσ�K��ڳ���BM4��+Kڣ�e՞J6|瘺IB:�M���W�5�]��GT'F�е6k�ca֋�`w�쳆c�L�`-&�~��I����7ߝ��� E��+�)��S��D��X�N�DL�8�'v��<�.E�f�#E� Vwބ�Oґ�{��m?-\��\�d�YL�8)��X�-��l��A��t�wI|�Ba\�l?�b�8�/"���dQ,�����p�_�<�Ls	P�f�Q���64�K��AR쟂�4N���/���DP�)/,�T���1���Z�B�-?��� E�l�[�JS<bS�iN0M���W�(�Z�`�J�۪Rw��h���Í� ۴{�EZ�X�#R���q*C�=�-R���L��+6�b��#�"I$;�sq�����Ӈ��Eo8#Nf���$��͂VD��ұJW�����׎_%�z���P��D�Ȟ|X��ؐ�0m�m�fӪL��Jm�zVWo� 5���"�А�VP���9DnU���q��E��q��Ҙ�
+��E^�VF�@z�!���!����.�KT��p�f!,Iֵ�aB��	����*���9�S���KO�*N��C�bG��G<܁����]�h/��
+��ä�1]l�,1rHoZ��Ĺ��D�$�X!mq��
+7B��2�lٯ����
+�i]��f�@� �E�_��|JI�
+=��5�\D���F	%'Sl�<��"ˋ��'�-�~��1[(ί�&��-���E>۴Y�n;�#�'JB�x����)M�G�����L�+�:a��ˌQY�2�Ho`��p ��Ņ<�/�aֶ]+�K��4q�B��9)l�@���D\�8�.?�Z���R���Ѿ�mزL���-�ͽ W%V��',7B�&i�
+�S�����#Q�\��-F�~�L�a�I�#^X��f�N�ěԉv|=�n6S�1?GYe�&�\9o�i-B�84��! D҅e(b����3��4�3^���;�ƍا�+~^/�K�KNO�/���4�;�P��DZ˾R���ıBq:K��ib����.�]yQ>����Ol���Rs�%};�
+��.*��V��i���ђ����s&P��������7�)��!���I����̡�f��26`�A�l���`1���ހ��C�ڪǒxH�հ,���!��f\	��*��&l����`�su�Ҟ�m{t���G�Ğ$� �pZ��"qĉr;ǈ��rȲ���m�9lЋ�D��H�K�dA�&=a�"��~P�u�t+��Sv��s�	�O۳hts����֜��Fv��˟�WX��4�%��&-=M`
+�_s�ҩ���,2��j�̔����BFS�@���f
+`R;��O�w��O�N1Ut����3�5��D�>�y�Rt]�'�n1��8���m�V�+uRi57�IN��-�u��l���éwcZ�<��B��	�h�'��0���P�`ɪLM�x[:
+��M�S�6���s�A��x(]v#g=�{ұ|
+iO���Kҏ�=��
+���HjV".7�2[\G��ΔC����̭oM�b�e��Io��()��}I�t%��s̲��'�%�����:P-9ּ{��OE�^��G3����Vc\�V���	a�CM4��&9�>�t�tZOC	�+v~B3����v�٠��g��
+�D��$�]��@�����+�TКai���P�\�U0�G��Q1�F��&uQ*SG �� ��%�Ĉ�Ack*^uQ����!�MX%��Ed����"�xǨ��R����֏Rb�#�=�0��P(�爨�LLm��Y�ǤQ�l�؞(bĪ~�_�X��QH��4��!{@����[�1J�]�0\�
+k��OLA����IL3�:�8<�� �"�q�Ooy�&Py��&�YQ2�b�����â��RăEK��Y9vNQ
+�\ �k�x{��#�ڬd�ys&�I]�)~�z��+�*ea�X�4�*��Ie����f_$�f���|wrYk��t�����:2��SYb[�����Eg�c�b�Yq ֝����:Z˂�K�fԫ�����  ���Sa19yRy�ۏ��
+��'U
+��R�pJ'�T��⍯�d�|?���O�B�2,���:�5��V���}(�JzZ*��=�8S~cZ��쇱DO���k03D,c,u������h����jT�M�RFh��}l���吂��ÿ�γ�ߟ��Qgʪ��J%���Z��g�I���BR%��sI^���4��c��������N;HBT��tQO�(��ڇ�f�SK�:ݔC�(�i
+.����m��ҵ�����Br�%�+eyRD��4���c�:6�|A+;Ržq<_2�#�В��ˇS�����OU��=	�W_zb]����tq4E\�Z�{)��K�O���2{R{`�	5�E�p��֮:�Ņ�,�k��[{⼬���\`kű��`����Ċ]>�,%:t����Yc�V�b]�����V�	�JB �вs�_�yJ�
+ ��,!�lN���T�&��b�"Q\����S����?�
+���Y�DN�؜$$����D������:&��
+{��<�+婃I�X����½�����.�`G�,���fqR��U�;�����|�ؕ�Z�9��oP:�dؒf}{4�'F|����o��������R���8��o��?�Y+,���2#�U��k���а���ZŔ�J!��Fʕ�6	���Za�́c[�����n������C�Y�B;�~�z{F�"q�,dY�*���T$���Lq8Q���Qp�-����;�G�\D��k���n��۫��E�����cŞ#:�����s�Ӈ��n+r��I�%�����(W
+6>0̄�A:��I���bF>���9����?�L }�6&ǩ�ی9��r���+Rl�`�ZY�'�г0����3D�&9��B.�&0��f��׃k�� �-��7���A�j��w�.��;W���.+�̀�܄*q�_0}��CE�_@'�(��.�~�B�#Rl�M)���Q&�W�}\2�Q
+"W]���×�(�bv롧K2
+"1���Q�7�T�#oRҩ���<ۆ�*>�q��&�>��_ߕ�
+�ě��>���H�,~b�p�}l�ӞLs�a��v���0�j�gۣ��'���| K8
+�^7�(}�]
+� ��m�FG�T����ī�},�'�.zYb@��d��x�ѭ����}��[�W$�Ӊ���M��	�?"!=�v��@���������i���?no�_M�8'����=�	�khq�U>5a�Ů�ڪ�2Wj	�q���n��z
+��F��֘��)Гz5C�u�$�	���,q8h2*&�-ZV��6�+���Y1��^4�I�,ٶ���yB�	�x�u�0�U�	>���g�:����ޡ&(��uIP��b��� ���6�{%ۣO~P/�R��i D7��ir��i�ʧ� ����{AP�k��y���n��y��a��.�W
+�j�nө���R���R�F����)���=���m����(t��?j$���|������+-7ćJ��;����9�酬my�_���Ut�� �d R4x�5hj��)I�Fu�P����-۴�>�;(0 �)�=�5�8a�J��>2\U�1	~��F�*�X�uN8�5�m\o�W�4�BQM"��ʏ�C�<)}��Р�Z��H�t��Yh���'�f��:r��a*�k�:�߄(%��[�5.�"g�s�r���)?���{��3�5�j/�Wiɷ�>�r�E8�Ric
+s�r��2<�;�fJj�A�u&'��U�t��k�����MV���쯇�_�l��훼޲ǔ��/�=(�z��EGـ�)��!N���fz(�Fo������SG���G�@�џ�2@���8��,�y����F) �Ac�����#t޼ ��	q1*���S(��U��}(�� y�F�2&�EG�W��U�i42|G
+v'3�
+��z�.�8g��
+>H����F>�9u-��I�7v~�k��Z{UPv:S2�8p&�F��!wHbo��O��d@���RG�ZPR.��)�D��(�EN�_.}P���lR�siT�🾉���t{"�����$[0C6�`��+L�?��V��vf�j�@Hѓ/�Ę�*6U�&Z�Èjf�*��!	i �O����0���rj�W����d̍.1���'�HQjYH��e*���F��S���s6�Щ:�V{�d�]��7Fв������d��t�8!	�\���o���>��/z������n^a7��e�߈��)ѕ+HWF��3���X�a;1�!~�z7�n��E�W�s*�A<M���Y8���2ݍ#��ؼ�b)�UL�`��]� ~����V��])��T���۟���|G!&
+l�&�(�Lw����X#��?017��٢�z~g^��?m��́*�0 8�,�E�.�WjҴ�4�����C`m=-s��B���z�.4�!�1��r ������7�����ҁ�������¤{��M�*%�;RO�(�����E�q���띤oAx�kހ��]`�6�~���IC���1�DT)�0�q��&�
+��^�v����:U���S}�P���j�!�({��W�Æ����o=ૺH��*�6��b mZ�`K8�U��x����e��y�s7K�/�6ۤ���w��x�U*v�#Ub]��'���}<�w�\��pҸ"�1�0�L���N�l�^��C�!_x�æ?�z���c��gޙ�������$�H}���kb���S��]ݝ.��3n���* ���5># �Y+�0���%����]Œ x�
+� ������j�3��ȗnO˳U;0���Wk8�CE4�#OK iT�[����/?��H�;�R<���<١h��;�<>��@ֻ�T�%�(�1wy.�9��;��3f��m�^�U���M��Q��O���Q����(&�ϩ`�_�}���{�����g��
+��E�~�	^�?g���Zحaj����h�1N�����wS�èR�!^�U7=�[��p��W9��]����|k���T%�U��%I�'�X�t&#`P:��Zɗ�PĪ!C��kRl���'ۆm(���0cc�,�/~���~�>)u�q��bw�
+��Ԫ���$�Q�(M��7sg�yl�#��JС���\Ǧ�#U��ut�����4NDg��.�G,�rqQb�8�OlL��25�?���u&�|�e4y���/ w�'P��'���;y����S�k�N�0Ј��+�Ak�~-��{���M���jܴ~Ym��w�	��� �_��%ެۤ�]�_�]����u�O���a�P
+�`j�J7�H������	�77*a�3��r�A��Q/��.#]�\���t􃏷����қ�D��Z2�y�����U`�a7���+��>eC��`���0��\'M�|rnNW���Sz�����?&�4̥��݌t�T��FM�(�88���V\�w�3����tڗD-���׫�֦�~)wN>\����=c(1����3����RL#Z �4��b���+v�q%gj�Y��*�.Bg\����<=�*�\�ɷ�\�Fp#CKz��}@oc�<�.W��))�7
+:C��O��0�@�U:��%0nw�{?0r�;���<*p��8r	 �
+r$7j��J*����a|��L9� Ш%U^"���E�>�ZYLt�g
+X*���,4�����Q��P���t��2=�G�� i`!�FZ��u��?"�[�Lg��1<��уv��}��+�[��3g�F�G<]�oJg��_�u���e�>1�/+��1U\�j~���nތ�����=By�0������u���c���V���؋R����a:`��/m�t0���	O,�s���*X�� bL!�}$����$c����_��:CQ��9F(Q��h�QD��/�#��Oc�`L��	 YQC^8�wϘ�_�/^���_q�g�[�A�(�u8����j@W������!�u<�+.x�?��Ps<�޲������peP2�\��_��w�<����ʏ����̟G����*�咻wҧA��Ս��-u�N��}�y�~�F=C|�"�d؄lz���\��/Pۦ�2\�M`����<�V{M�JZ�
+E�b��)l����/ ���MP �Q�:��Ԁ�4�6���×�)�\d���i�K��*Y6>���� �1�GP$�Yq1�2R**��\S'p2�0𗑅� f>���E�PG���y��h7��4�2��n� �V�]�����b�8�iXX�/� �����=���}]NΏ��t��)����!]A]�MݤhTX��%��E�����T1�zl;k.-z����Z�¼���w����4����}���UG&;����N��h����f���m���6����V�}���R�:�&�s�i~0�裖��[�COqKR�b�r�m�1�e���U+���)��{�_<.�X�ʷ�ӎ�?\��
+�\0E�z�亶�4W!�k%���qU@���i��]l.|̴���j��f�D�9�����p�2�Ǝ�|�2���N��s��ؼ��i����qyƌ��"��� ҆��L�t{���q�^bHًG��wl��S���K`��/�p�q��ЦC�����"�'��;�u�7	������,��-�9K�ő��g�z8�aJ�"��j��O��쵨Gɱ�K�Ff�t�;t�c�z�����N�4�.j�� �̸���\����V�q���4& ~�-�5��H��$i@��-ԓ�#u�2�e��K{��u�L��H�q���Q�y�N]��g�v4�"�Ǟ�N1�,�P�����C
+�؁�|�y8�.�ZV�m�\���� ���d�zf�����2�o����"��qJ�8��<��g���0�O�7y��/�#���b��ô�5�f�ta�Bw��.�R ���%�.|�
+>;�O����c�9��/�䳾Ai��o$VTj�{���t�ڹ0m#��%�-�rj����-����Z4����H)|�x� )���d�����bO"6�"�E/⃣�浿�|�E_٬�t�eB�S���\���ш.RY	�SP�i{>���aR�(�f�pe�,�7���R��g)&�V�w��wi�Яzr��F�/V�@E�����H'�n��E�� O��	�Gڕ�>���+.D��C��wi��ȭ���g��鿛i�[���b#�{���/:��VΡ-��?��*, P���̚䎹�4���}q�.�r�o���.���RlETQ�br�E{���]v�y�(�8�^�,Kw<��u�4Pn:�G��'ՎN�0G[gm�b�������x�O	T�P��,�bL��qN�<��4f�2'�?4 � ��h芶�7Lf4	��D��Ĳ����4.a����A��擽�1n��x��U.�".���U_��Z��[4�ZXF��~2��i�iXN�#N`1n�ؑ �)6��ݱbX����p�ހ���z߳�_Fn�x� �'ÿ��+�.b�;ѥ
+j�z�����G��t������M��gJ6�{Q0�-F0TV*#`��#AS���ΦS�
+�=�ok����3_�[�b���d#$@.|��x=���_tt�?jj��&e�� ����?J�;b���e�k�4ϟ���ѡد�z]z�[J	XYw�*�{�����UH]өl�P�#a��H�3�~j�|d�>AE��m�P�!Z�uN*����;/�k��!!O���R����`���^t*l�������5�Lb�� A�^]}($������i�pJ=-�|�ɓ|K�U�*#��5i��|4KY��fv�����O�D`�lIyF��6��Y�༌�(��GşP�D��j(�J��1�[��\V��Gz�Iw�s%�UI��Ѓ;i� ���.єږ��n��2�A�N��t���������_���䡣�r �|��k7�����آqԫ����ش�6popJ�H<@e�SF����#�:�Ro]��4��[f5r�MuSu���phC:Ml	%���Q>E=` �B�C�Q�B�==��F�M�Ʌ|��q����i��cH�Z�Ï'(OX��1�}K�k�� `:����Q<�}H��GQ�?��7��'o����+�T�D�FL��Jj�\r�]P��P�)Wx`_,g:��%�J��x�]�kMQ���a�.�?���.l��+5	��,�lF��5V�:SA��8��PN�CCm�>a�8�#_�?RBʩ�m�D!�	$_��[N99ѽ@����yQ��$��-��3�N:�M�g��4�v���Yͩp�
+!4G�w)!�|�~���x�6b��^�7$Z06 �Ux�@b���M�,Js2$�C���d7��_[�N�7�#��Þjᓑ]p'�s
+*�v�ab�I!��.A�'{�xZQ��B[��-
+��/��?ɳ���R3o�,���v��"JhL~:r�ܭ$�ٵ6�v���:]�D���;��/7�L%X�^B�R*.��&��BL��yb��2��][{��r�^4���*�v�z�^�,Gn�61X�QQ�82J3\�"{	��06�X6��� -�b��#�\�WD�]��	�}v�k�� *l��zl�B�|��\�s� z-��@!�/�r]O���#8�'=e��Sy��X�Ӈ���6��)$��N�p�_�w�msDxF��ŻCPuD��������T�ؓ!���Tl��An��FJ����	�����Ya!�Sa�h����r�ܯzZZ�F���E��4��*��+�kTS�[Y؄��W��_�a]	:�f��s֡�/'��lk���S�F�A*S�k��@y��crA��5�>�F�Zӂghm'Z��<u�Ӂ���i mx�v?E��܈$	�)�g(L*6��݀����e���āxY�U�<��^�9PyU��?�F�����5Wf��-�cl���Ern��up�h�
+�d"�فsIn
+��i�H��Ǯ	U�A:G�va��7!���aa/t�A�Jt��V�ԅ^�8)����8R*ΗbG�i��MMI���>#��{��\�b�5�a"����!��:x����U(��c��خ��Ŷc�f���m���`[]*��'Q[���S�� c�s�\���7A����1�h��(�n���^���& %�O-m-�Q��x#�t�Zؗ)^t�C�S�������O�"6�a?�Pa��,�9Ĝ=�[o�_���',�P]sȰ�Suҳ5�P/�d�a���P�F�\H�fC�@��J	���v��5m�ͳT_�b�:�����,[x:�i,����6#W��B�=^���d-ŨPؤ�]r��X�F(�w���q[���'�K$�ց1�+�~���&E�7�}��5i>�]�#�"y�jO��J'J������!���,�BQRf�?N�a���`DH��M��l}aC"~B��f�Z����N	�ϑ�2l��5y~�L(.M��9�����B.���ϫLh&��"�^�5U���*��L���\
+5v�=��rY�6��e)�����इOWD&~�0��_�W�i��E����+����Y�x�K߄c�}�L��r����b�p����Jy�Rj%y�P��t��7N��ST+�NS���%4{�q�=z��6@�����K���9c����CΆ���H�B�.l�N�z�G_�/� x��~��l�FɜL��|֋�?nP�k�ņH���(k
+`^�>A�2#7z���h/��C�4�3<gL �3�����Q6� ��W64�@r��nL�䃽B��͛<]�{�1 �%�o8���Z1/}3@�~���R_��)��	��)��k�]@go(]ѕ<oP�5�5���`iT&���#׏j��=���U.��5 k�@ ɡMܜ�P` [�0����ϱ6�ln�"R�'�.��|��shd"�;�Ŀْ	 : � lV��H�d�$'ڑG���l
+�A���Iy`r�[L	��pB].e��_(���Ҧ�)S��� 8�7o���N�&7х����95?�����S�K�W����G1�J:`b����6���@�Q��#���M�0�.Q��%p{s��0��`ԙT����B�p�{P F,�c ;�D�'7i����s�!	� #��������dw؊��j*��)���?�٤�&ߠ�Y�>���J�yݏ��S "� �ɍp�����r[��I8
+Cw�z
+Ni��m��©FǞMqP�Tſ+��3X���e�boy
+�aoW�P�sDr�~�GR�7��A�'u�S��9^,+G��W� B�Y@�d�$�Q�
+�VqN�KS�Y#� ��v�GQ,�9���9=T'��iX�Ü�s$�qQ;-���պ�0޳���k�)5�WƂ0��c�`
+֏�8J�Uq�Bb��GQ���6�h���WzJ�Ƿ[��
+����̒2T5LR�&�P���̀�E�|rD}�tK���Gw�QP����r�G⪙
+��  }���"�"�h��e0�v�G���r��1i4���I�S��r��de~����O���V�<�LJ��c�}y��irŁ$X�z�t���ā\q<[ڈ��6��Yi�D�M��(&���r������V���^��`�a�E�2�a����QF�jc1^��h����䈇�Ӛ�BP��۽�(�ޤ��.����b�<����k��$Z�뎍�1ل�+lh/vŉ�ty0L2�P�38��u$���'r[�B�-Z;ɩ]�A��t�=��W7�o/v�m
+*��Ɣv�|<�j� �FZA-Z�y��;�HZ�묧X��ҟ���Ϊ�ء�c�ob�:f>H@��|�+D���� R�F!3H���s�����"�
+�Bv�7x��Y������߰��	-F���aA�}"�7�Ўcv�}��:MW�����_��ۗ+�?{�*3��'Pƽ��D�K�d��û=x�:���O�s��ɯ�����ҟ�nt�G���y�3�DO��~<�Eaש�ڽ}��W�m�
+
+,]�v�fz36�𣐭�-�l%��3�ڠ�_�'Q�`��'.�m����S]�X�������fDKV��T`� AK�,���E]
+Q��/����dR̂�!H	���@���e��RC��V�Md'~B��_��@�MxA�_��cl�ȴv݊�Uh@�Ι����/�zXN��wPf:�Q�Ցm홓+R���Gy_%�;�+�6���/�9?��d���0�6�	��q�.�G�L�]��`j}7�s9M\:���?�3W�<����ڲ�uIb�ڻ� mZ�r5�}h
+@ف��)�Y@@F���˒+˸�ai�0H�e�F�`t�"�� �2Ⱥ=#p?Q:^�'{spÊ,^��ɸh�7�#XK���gӴ�n�k3B}|��Q��h�� ��#�y84ٽ�=�d܍>�e��^����''9��"��B��K?�P��'P�6�YAn��F��TH�˩ʛ�/S7�����7(36�.��t��.��$O�ԭ%�����<|�ڀ���)[�wItgSJ�J�i���S?I��+����Uk��ԫ�	JT�~��w!�<*Ğn��tU�S%�~+��Jn��CA��G��nt�ò��ن`��bl�� �C�{�w`���"kR��_�;Q�d�{��i�7n��p��lsB�]o��,j$؟*r�7���C���|ñ*�����A�i�m�xj4W�<���tg��ЅD�>���	��$7lt�ư�7b��q�q�m�Aw��.�sq����|Ї9�Şl���>��H�4����)F��4S�{�8�S���i�pL����y�:x�$囆�I��F��c�);4+0G����"0��,ʰu�e���,6�8��3L�pPd�7BCt���>��eQ��V"i�8�пi�9��Z+^�$���?�;S$��z	3�q�n}l�8��+�+���#u"�C��
+�i��g���� D�D����t�Q��vK�A��ю�\KaM��F=�$ꏣ��/�`����a���8p��j�.�EJ��|�v��4\�SBo�{�����g`3,�\�R��zM�5��hM��V�=O�	E�W�p���*ٖ���k��1�R��qV�%�I�ݳW�R�V�g����5�5�� *,�;C�-��� k	ׂ�
+q�f�H�\�� H��%&�wX��f���O6�'�!ְ<.�\x��l9�[䂠ne̞�k����u�S6�/�O��Y��Kt��G�y5�F��!D�g�>��,����x��M?���5+������#c6�	��8�E$�JÌr��r�ʞ�V��-y�H��xq:Xّ&?9��f9:��ֳ��)0�3��a�ǃ2bo(�D����ka�Z<���3�b-�h��fMq�O�C�� �I�k�����+�ի�"�H�N�HD�P�p�@����
+��/�G���'�+�?�m�l����\ȁ���L64��߲t�����-��h�㐊����v�OM��x��!zc��{�l���ΩK�2Ŀ����)x����m�9�OБeT�
+Q�:�Y7_�c�!�ikƉ��;�70 ��R�I�8q$=i��O��~,�x�8*�'�rŮ�"�xn�I��=���^^�bAC�H��������W'��$x�7�P?�	vWA�f��e��S�CJ�̑�HcO,]X�G.A�f�n���j�ӹ�0�M w�y_�o�0Ӑa{��LѠ��̉h/fq�m�2��~����7���p�b�\�#T�o�(̲���*X�v��$qn0�%��,�`�`{�bO�8����:%G��P�����d*���C30�ioL��C��X.ƨ�FF�/�րW�f�WeۛI�ŔO��#�����{Ռ��:�×ke� Lb�T�c�bcH@�~��՞���>!�M����T�M=S��j3�����7���/�T�J�t��Z�Sl:�xbf��ݭ��5�(%�ʃ�.s�`�8e������Ǆ��+�^����N���yvN�d&W��MK��;!h���dP\Aޡ)"� ���epr!Y�bC���)a[n����d��U ��������}��W3a�Fz���^Y%䩢`^���*(�P�*� x4�Q+Ĝ���J�_-
+�n\��I팏�@�����w$8-�F6�9��h!���t�_���w�y�tw��	�`���t��z6�]n_,(O�F��ډ�8J�E|�[ض2�g��&`I(�8r��S(�$������q6W�O�Ů$� '�J�Ҋ��kBj�<4tQ�5#Ñ�����hU&|;�¡�c`�W��u�q���=\m��'�V�s� `b����R�yq��>��?\�*�	��s�gQ� ta/ Y�)[�=��)��J�	��T q�\\7�����L���]��8UcGi��z�?T�����و�G�q�Hɍ^���oMJ$"Z�!��ݝw�}]�$�-����7*�U�������;��\���z�8�d��Ed<��J���_�&�j��|c��&��&� F��]O�����0���}p�R���
+��jN`�7�铻k��1o�q�J5>�'vg���H3��|l��K��袙*&Y+i^z18�zY(2�K������kM.��AĈ��	�g��p�qVHP1ݤ>��іՍ�u-���س�E�p�2\���n��a��d,��b���F�d%��rH�M��j-%���	�����õ� �"{����'��?u�Hӟ���p�Љ����G^��eE��-���M�=O�wJ_.�Ձ,�/;}�vq&KLI�ǃ΂Ԍ4x;��3�xd���	&A#��i��=��pp7�ڟ�F�16i&iH�@�S�����s�۩�7��O����i���A�f�7W���_+��&}e����j'ζ�a&Ng+>\�6�����X�
+Ŏl�M�G##M����O �ebhȜX2�U)Ե�fU!S�sW�n4>뻗�0�l����]=�l��z�S�ڃqT�N�;�����x�������B��o� �`�/8�X�E�0� uれ�~.$�`��!No�O8��QH(i��uP|U7�Y�Zu
+�&Sm�e����T�ԟ�\�tǒ��yxg7���֥6��W�uK�f��'����f�?E�<%G�Rp����[���_7h��ǿ�o�Q�p*�S��9���p�Z�#�zO�4L�`R~B�}�V���ꎂj��ᒻ��ЏU� s�XQ#�a��%��qi�~�c��=��p� �@.�� #��7�(��U��^]��}�t(�c��D2�:nu�^�ը��Mm#���t�j�;�,��F�����Ft5��q�%�s����M�Ϙ����@.F�D|4�d����D4��I!A�܈�$%�}`=VBV�^R�YHa�U������mYd����kC�\�bس�6F-���ă\��6[�5�#�)�Ii�(l��TB��|�=�؃�N6�Y&��iJL0]� A��#oQ+Ζ����|I���SO��>6��8�����^�=�w��SW�|�.�^�
+唛S��|/�E�_W.���e�JA{oL�j���X�ӷ��xO����&i�Q�7�L6�z��o'@�7�P�p�j�р�0�aj��4���Lo ` �
+uv�$��d��g��9��N�� {B= �`�y���@��@R�=�M 9�U�!��!=~����HBJ��W�x-|�&�63� ߄���
+�3��L��Qr��'�K���I�O'b(q �oC���U1���b6f�&"�K�x��_y(]l�h����AM���.sHX�7�~��j���*B���b�������=8.[j��߅�`��D��3�y�t�v`��+�,��1��K�<>1V�!��k�� �;�E�ӹŌ�(E��[�L�Y�FftD�|�*���A�V ���<�@��M�%P�n�W&vS��X��>ݤ�!T�?j��|9�5X����us�+�xY�1"*Od����(�~���
+�%#h9z�����H�>���]�d��mϐe�0�V6}�8�ĦЧ��� M��뚡���W� �⹪c��6��_<�A��q��?Yf���c�� ~
+�Śٺ4)�����c���-�& u���r1��"�x�(vI���T�y��_|�'��9���UL����^r�ӱ#�ȆŮX����dǌ����>�=��[P��L���]��Ҏ�8��l7�"Ȭ�FdA�Ū�����8cQꜶ���ǻ�D@$��B�f�G��$�.�`{�@.�]�#Ӫ�i�j��c�$����̈́�}W`[��x������B�$<�_$�i@J�Ո�Ȋd@�Ӻ�Kur�p ���R �{F��g�Z��6!�ٳ�s�v�+_z{����\%V�ͮ�v]zh�z&��7��Ό���]�bT�i����ٞ '/�C�Χ�U� ���e,/Ac�}�ľb�	A������-�.�Ӆb�E�X��+3&a�F����Lr��Vsb�qY)��a淇�`�FGS���0�����0�`�����(U�/��{~�%�M�ɏ��m���#(�y_�r��+���V���Y�&�=^ɱ;��|����	��d���x�)\K'í�i�����ܤU�Y~$9`Fo����@S
+��_J�|F�/�7��K7�Q�ww@��Cps��+%���<����L��R�2l���:(�N�M]hyzE�����m�%	�a��[��=�W,,�̰���������+�7��-nX��l���D`G�b��6w[p��n��j`)���%O�I��f��^���	���=-n1�[���rn�G�Bu�J���MȽ������M��V��]�|
+���e�k��M���wv���60���B���S�H���AK�F9�ڢ�Y��@
+��v�D���x[Y�*{q��f�i(g��(I!ؚ���2��O�+�^LL`4צ���[[#�Cn�q��a���F	���R�(Dd�@������$9�i��{/��q��(�{�b��po
+����ǋ�OKŅL[��}��OX�%+�����\	���rc�@���D#��9�-N���S��Jd�iN�N	"oh�X�g݀g��Cw8�BL2
+}Vy`��B���h�p^�Ɍ�;, k&`-#����+6d�!�Px�܊y��'�!��h_�P)�IX	�x�bdC.���$lk,��M�;�[}���o*
+� Ȗ�RI\"�d�]Y"�ԉ�
+����7��'�8�#/����*]�ΊXl��$�RE"�����-�o}���h����Y�  ��QO���/u�;Daƛ�Y�a��ԅ}�R�|����cAC5�U�C�6�5\FWR��~Y@�Ӭ"�P���5IF�O���L�@�)R��S������	Ϥ��m!z��j�Q�N�
+����[��zʑ�	;�p�Bž��M���B�7I*�F�r*P5�Sz���k���Ye	���:�&���B���x��i�urD9����������/F��`j�q+M�ȔذX-$5}�xc�ߤ v��pK�	,x�L�y���/�Ct:G
+'�Z�o����\����<��r.�+��ܠ�y���to���8m���l�ͻ3c'�rQ�q���T�&|��J�S�K����1���H8E�������x6=���*��;�W0R�M���=��4�̈�f�� ���O�Dl�A`��b��q�s�jEϑyq�
+���� �CE|Yų��m��!�>��M{�/��m$�oGM<(��Z���"*t�
+D�T����Kgg	���A@|����6�],�T)����S<��_�wV������Q=�/��S}{��៮[)�8�bX¿���o_ʅ"����{�3�I��}(����ȥ�n��s9]�����\�(E��%/��A���ݒ
+���3�����e��L&���c\�6��c$`���h 
+��KL���u@x��/�Az
+t[�VPr#x�"Z�.̎}U�ٔ+ �q�2��O�ya42D�(��=Sz���b>y^y�\]������{+���?P-���_�$Et�)-G�0_�P7�X�� �H��v]���  @(f=�%V�9B��ZM�e��m���9�WӪX�6�6�%���R\�	��9�nD��ӂ'0y�/G�Eb����?ѷx+��[��f�*V�f���bK�8}fީ/�ڳ�]r�������Q"�_���P��rlӛE����K���B���^����My���AjϻRJ�N.7�4Y�4����n!�B�#C~8���u�3���w��p�� ]�Y_��A-��aa���¯�����+&!^�n�q��D9��)H�zR�,	�<�V̻��i���j�'*�� ���:R��*�J�P�9B!F�c�c(p�����#t(����ϟ�鮦�Y�m��/�^��I2�6�P���z�Hp��d�`o�����ˋ�~��g�\F�t��J����d-N.t��:��;tF!����O�fL��j� ������Ժ;DI!����:a0�Va��L�s 8��X��bD0&�	3�b�9S�N���<Y��\�!9�x��Y����)@Oi��A��TY"wk���*�Q�^����\��2̠�֕��O��9=�F�҅tҧK�|n.�7����I�^��6�Gl��ӣ����@��#y��0u�GcH�����S���\J ���H��	S��aLa�YFFJF5�� %�`(���U,_㉚Ҝj�C�>��Dˉ������^GM�B:���nB�nPxe`Un�ь�)͝]��d��R��`.#�>�Y�m�)���{VNo��W�g#
+p��iO��qvnT���:��_�u�J��7B�q��]@�����b��|B���v]D�:&;�5�AEE1��=R�����0�\3`��,���T�=�.J
+6�8$�C%�Ꮥc���[q6��^j�wA��!O,�(�*�$vaU,�\gj��� ����I%�.lC�I�ER��O�ƥ������+����+�t�����Jt�����*ͧ� *�F���fI�����W%R���oi}G��A�ڛN|dEf��� r�������5��+��,��,6� 0��!�S���-�0���9{C��PfY��D_HG�9�'ˮT�m��nQ����q�Bh�/9eREcY�0A�}����]A���矗�h�&؎��<o�,ly�Zޠf���%
+ �G�~��{7��<}t�׷��-�jJYE�.}��i�U��'��,���NCh�z�#��r��o������ ��A�&�0�����/���$\t�`�@�jH��l !ab�~�c�oYBb�&�:�=��L�u4o0�N#t�mMv�ʃ��V���렇�㿚C�ͨ܅�J(Ç�̧��q!������-�נ��٨���Bk�a�
+�d?�����:�5���=ӿ��4E��Ur�0�--���1�v�*mh��ByA���&�>�&��ap��O���>�h�� X����]��䱟��N�[��n\�F��F��V�Mr<��΋|��`�g�rZ�Y40�hv8=ەf�U���K{��0�؋0�}";��A9�V��%y�FL�<�lO�8�).�����X+b�Ē�pQ=��g�`��-Z�'WQmO�/�},�$RӤ�]`S���]�9&7���t>�n'D�9��a�x<ԕ��<��:����~�\ 6]n��Vi�|9���=،%l�a��+Ӑ	F-������cIQ���W��a�W˿��5/ܢ��͔��gl�\��U�p�����+.��
+�6#�8F?Sn?����@��CE5���b0�5"�FQ6�dϮ�U��|����{�]1�9䦻u3�hك�:�Ue��L��]L�mAFq*,J�j��:�h& [���gX�4���߹%/�R5�R-�/l��=z 7��`���
+�]� %���B b�y���r
+��Z��o�I� �*��<��hr�IB�%�����s�}�?����F��u%�&���~#��o*s��KLy!�~�2*)~"��Kmt�M�q��)�y���Ej��oL����-c����C>JޓÛM��j�zWwЛjx�P�w���>��&��y�p7��B3=i�JZ�M3t�J3y(�O�E��0?����b᠓�� �2�����eD����P���E^n� ��9��y�:J�lX�P�$���"�Z%e"�{8P�+�$���lt�s�}h���z�Z��cY����y��@��i�g6�����,C��ۥ��'[ldi��u/=0T��TEX#�ZL�uM'�o �PU �l����i�'S�����a����/�f%�
+�z[��j��j�5]⎸Ca�.�Xf���ʨr.L�I$� �T�m*�7 o�	0N�7������f�`+�&��$�s���j�e�fxPk��5�
+��8�R�K�_z Q���C:o*���B�J�wP�]��Ѭ�ё�7�NZ�:�7��io	������7�>��!.w����}�Ü��.�B�.��3�NP�,ɂ�7�r�;S�KgsD|�Z��f�G�Є�}�g�ET�8��J�L	��t�-�S�=�D�����ȑ���]��5��F�vHЗj1E�bɗ�D9ZO�x؇�	�����(t�\b��x���� �g�@�K��M���Y�٬�����k�n>@����X%���
+7�ɍ>��u�'��}D�K�<�n�'5�]lM�-�wX��%��NӤzو��(��͛w�H?>M�,��W�'��`�T����%���.�����G��l-�Fݎ5�p�p�v"{���AV8ͥ���Wb��d>�$��~rF�el���s.$�_�3�$P�
+��׌���q]�Ӱ'e��[�����`!p��?y4=�AS��O-��gđ�ӵ
+��kJ�B
+�LlJYE=��Y�D����A�G;9a�Tћ��Pc�i0,�b�8�p(�f��d�Y�a�l�a��Q�m�r�*�3���^��|zd0��ҕ���WL��T�#�������{��~i�0��´��>��c)�3
+M�,o*��=W#8j�X�*u�Q��i���=�as�gǧ�e����J�Z�쵤�꾽J�m���q��L�C���@�h���g�C�ц�4<˸u��~ݥ�B�O_�����-z�Y8�)���Y���|
+̔$4n�4x�;�k[nq@�S�EqF6䰖.d�D/�n�j&�W'NP�>Z������,�m��+Q��V�l̐
+�]pñ��9�h���T��>*Cܷ�'ۢX�e�'J�F�Yx5�zZ�ҟr����ʆ=��sp�b7Z���Qi6��B�bĉ|���q�L����۫`s��d	dg��L�Ql�Ƕ��%��w��ĺ؇T���z@DgC��9��;���F?N�a����xdF8 �14����Q4�+M#�E���Ԁ7��E�bk�؇ �,��?aj�,_�I볱�Kd�N���J���� 9f`)ߜ?��ƵI�9��q*���/Q�t�3y>�F�Nt9��5�u�����Pw�|9�	"��6$ �����C�͈n��۩�3#���'v�Š=,��hª�V ~������ �������D�J�b���!
+�0M� ����o�]��o�����E�]�	�((���Z@�v�_�W�!��^O�E���\}�O�Zө<��r,�d�7K��lk����ex�&��ʝ���#��V:�EW�H��)ĕ2��*����ڶg�J	%��, ��#��gƊ{%!}�Fw��3�m�>��"U���-x�QM�S�F,����p�'��3�!�Y	g�p�jp �Y ����ztA.|�-��9��ը�1�r��StG>]�"�t�t6��5�k���E�%d� 4��4Kaf`�7�ݎ�ޠF���^�[���}����O��$lΕ���_�K3j$�__�T;@�lC95�� a�:zw�J�9���Y�D���E�{n�7Nl�+� ��,G�`��m9<h ;&1V�<�F�1~"=��x����D�����j�t��T�堋���
+��q����VYx&Vv���� K�8���ؘ���_���#t	s������
+�*���$e��J�i��(�Dz�8_*vǋ�4�ZI��N�Ib�RNE��bW�ty���k1�+�D6Ν�fe���31Q�!dAI�2��Z怠jӍw+��q�#�n&�J�@f��f���M�N�� ͓�$
+DX�f?D"��)fd��k�oB�ޭ*Z�͖F�SEGW&�<�؈�$��=D���Z��;[b�ŎؔG����8QiL,~�"?'�$���v6��;� �ϑa�{:�Ȥ��p��s��6;m���DoY�p����hs�H��p2ع �����Cg�&�dڜQ1�o�1�s(��r�� �������=
+ì���Z���U4�� �_V�q������@�>��1h.�Q�*dn�>��9 	P�� V�٫����.����-r��<���ih�b��G��L2L�B��^4z6QjL:���/���5��O�t_&��o8�Ã[�)}UhĢ{���6�B��R��ϡ3
+�?�_.rr�p,��r��ӥ�Ϛ��w�8�Tnl_rg5$���_
+���	A#�e��yc�5XO#|�Q�WP�A��^��D��0����"��₭Z.��SrV������z�*��*�r�祐r��p�?�-�8��v૞ �XD�\��s����U*��>��8��Ű�����gM�'�S��ӣ��<_m�O�1X�/CƱUb�z�3H���R��<
+�3]�)�;��'� ]���;%Kf6�'(�
+�{`݂��A���[
+��$���F�����vOо��v�mz�X7ŝ����0�S�ϻ�R�_�co�G'^�?M�EtG���?����Oc�7Th-&�%����_�;�\	&�����e�B?;Q����ڤҕ��O��)�u"Nӵͦ� 
+O��Ѣ�N�����J�2�@���̰\���d�9R�Sh�я���"!*��'����zeн!�}���D5�� �6��L�n$��w7��ר�/ER�J:�K~�Ra��Bы/��X��cc��aٯ�r�������侰 Z�l�U�MdbL&���ۃrgH��;����cu������8� �̢�(�_�+v�t������ȶ?s�޼�L֬��O����"��|����$�����Cd,��ĉ�u�綶�J#hڣ͆�<��Kq葮R�0x��[��o̻FM�V�X&��_�	i�D(TU�c�
+Q%4T͞���A� (>�Q�cD����l���a83�x������{�����(*�ݺ��)�[*n�T*�Iq���=�q�6T�uů�S2�>�r{���6����t>�,�������l��O��|�)L$T��05������y!��D�Fc�4�P��
+0m3�R�^V�a�6��Rd�_ �HP�n5&��}��6X� i<����X�I�Z��uG%b,cU�xb��Ǆ;�hF���i0ge���8C�CI���_i%���#U�HCy��/S��y��t��"���ڗQj��i��|�l����o��юS����(�e� ݕ�SN������'WiieX���<�AߥI�B��$���Q�?NE��� �]Ò,�$%�To/m�s�6�5���.者��}g�*6���:�����`^e,l���U?��
+��;��5�n���P�pZ��O��(=��"��
+5nN����\�� � ���� ���t"���0�.���w�����1sE�;H;���'���T:�M=]�O��}DW��p�֫�ÛAb�aPA���;��l�n5/���9��ES*�<N���A��Y
+�0� 0�	_e쀑 �o��J��ܠ�5�t�CFɷ�"1 ��͔�餆Ûu�J��2VARa�3f�� a �S�Y�
+��ʣ��3��t
+J�yvA��=(9����z$��Kl�]�G/�i�hqH�/� �8���9bP�hM��yy:ݱx�U�s:;�g�!`�=������ѾTqN D{|G�����_����v>S�H.¶\�څN*M6�\ۏ�G�7ӕ�37B���o�U儛W�Q�µb�8$�n�u�k��W%`I1N'�<��
+г�Ӄ�ND0�`4�\��_Y���b�WK�G<#M?Q��7p:��[��EEv�zM��ɢ���*'t��`����,T�ūGq@��S��H����|u΁=�����R7v(=�-�刳�_K@AO�7j/m��#��,WlՇ¤C�9
+Cd�*��\�T5��V0��o����3lR=.�z{���-(��ǂ����M�����^z����,X�c�E�2��& ��T=�z"@�>������b��� ���&���-�#3>}-x�9
++UC�D���bk�ȫ��vjB���Q�T ����j϶B�R~pF��}7��I�9��а�6�L96��'G��q�H�ѷ�n�h��x  <���X������9ؓ=�j�i� hګ�Kh0�oEヤ��9�#5�*˾E싖%ڤ�L�j;ײ�,RԵ됞���|���
+a��C0Aل��Տ�_2x����-�	'z�
+��f�SO��̂s�N;��;H9��	|`[_�k(�Pm W|��0���b�;l�QI%�W��y"��E���\���2/W�m�~�@O�S�BMx�L�^Jk�`uɕ{[��P<�5tr�V6��	�kW��a���#��1�@v�=��q�
+[ �����C6�����f�S�a ��	{�5@H�a++�{����t�o��>�y�μE'&��3T��.͗�ц����dϥm�@jo@S����ه�;1�5�"`��DQ?XP�g�s�ɧ�xxgꨓ�Ҥ��PA�C�)&�
+��B��(דz��F�!���f�/�@����=�OF��Ǧp���X2�hXYR��*����Pi_�0��g�Ժ��B���'�����W��ix�3�F�B���V��`q�S��"(��-tt%o��t�(�n�ӱ����m���M�I+���#`��P=`���Qvjk���F��	R�:�@7�n�o't_$!T�3ǳF�@T��Ő����(e��B$���T)�����ľ|q&3a����cE�)V�S�9 "ն��J��g.�����h9{;����:�R�����Vm�?, ~�<�	k��sP�7M�n�ժ�(�,P��6���vd;&�B�k�[��c�P a�5�~���Z]�AZ�
+@�3�|�o�++C����)9Փ�K��o�ٝ�B:iZ?q
+����W�-q]+�&��Ɣ�K�C�����g�}���{�����vB�=W���������顊Z!�u�'i^fK���M���)���yPI��Vt�r���Jڰ����.}�!8�d�r��¶�ϫpU׶�g�7B����zMt2{�ؘ�c�������隉����L�~�~��=IWE����O��#X��O˲������W��sq�����5U���4i+Qa_qp��u�B	O;����L�8�(��ˈ�ә��'��.U����55�oN+�+���1�iV�*�� �y⁗�!���~V4C]�X��*�C���ꌸ����el��`��E!�-����讚+�^��;�*Yowq�S$�f��d�!����m���O"&]����A��)@�B-��)������y���oP�&T�J>��<�.�S�?����kT�L]=���<&�^�sP������V+�1Ϳ�z�en��Ve����{���cX���-Q�a\ł �����m�ZH�WL�"�a�����u��U!��A�K��@��_�}�]��i����,�b��Q�@:��?�\f�͋K�(*m�|�o$�8
+u��m�=�*�I%8��n!5��+���GnaZVJ��TT@�<�#��hK���:m(�u�~�hE��5��O�e��ubp(�V�n��0�8��=��c�V�ZzX��W�����Rl���A��6�/Djb� �9������/C
+ew� ���?@�5O����o��:*�N���!b�1��7?dD�WQ�ͱ������HN	]�Q`cl#H�y�BH�z�q@_.|�梧GTh�����|�{��ܥ�n�խ4��1ynLQ�����p�ݳ
+�+ ��o�����
+VҖH3��]	�C,�����NNt,K`�u���?��Be}V�zTG��BJ�\q��hY�~��L~|#,�7Z$GI��T��/ca&��P���&o����8������[�6#�����֋R
+ȣ���D��'�ZXSTX�Na��?=r�>H�b�bBA�4����`o[�NCTYM�"C�P��H�8u� t��Sc�\�f ��Ś�Ax�Hh�ښ�a��ھ#��ME(�Æ\V��1h���G�H�sK���4������6�� ��O~�"Kwaz���s�7U{�t�U��M��
+
+�K����e
+���'?g*u*U�PW��9�#1 L�p��U�X/@_sL$� �@T��J���/�b�~%��5�(���NFt��@*l�f@ƳP�, �h!z��T��PU�-� a6dm����񢶮Ԙ�፶�c��Q9�TY<5|V���]��0��K�qL�
+�ӪC�B��rt��--�P��)�k�VČB��J�hO*w���*��,]�tcpF�")�`�k�H�!@B;��x�E����H������9��?�$�e(�UPeA������|�Nx�,�'�T~�Z�nUA�]����B�Ng�Q��[�N�[~�ٰ�p��m�ϱa��5�z3H�U��9���Q�]����J�L��G��'��Hۄ�Ҳs��M�L�}��fBu�#V�c�2�R�#X����ei�ԗ@o��jnS� ��+%$S� B��o�p�!�y\��_u�[�����N���%77ro|/1�v��&TJ�#ߨ�� �@����8X+��}��/�͢V����i�kk������'�t`��&_�c5��j�:�����z;�	��l֊ڳܪ����TA����ǘ���5����A���^xc�[���rXz��
+����E˺ٿ@=�ն�)�U��h��^Ϥ�Z���U�(��7�y�C6I�Pkp��kHQr���e_�E�O;#^@�~;��Rl_��b�E�=��\i�A��p�ԝv�O��|٧��煡�����F!�A�Yj�?O!^�j��[@��u�P�Ps�T��5�X�@?z}�ܑfu���i�@yb^� @��a��g�޴t���)<�ُ0��6PCj-**�b;>	�_��ũ-bS��+�)�CV�s:җ�!:ԑ.v	�1��[��Og����}�x�#":^'����@sL��>aC�|:�u�"*H��%'R�>}��e Wnp�����M%�@o�*]�2aˀD	��+�������z/o�pyF�gRsi��^u��i��@soj��X����j���9bK�\��`(u���
+���!���ԉ�'�:����Ş9�o����)"[z��@�s�m�Σ�/�Rř,!w�[���M�@�aW���GQ�.@Wڋ'�=��jÌ���"1�6�X�"�>:st'��b�B�Xl,$c�Dl*I��2�x�9���\g�bS�8��*�@OT�A9
+uH��u��z��#N$♳φc=��S�%2���4)5��9E��G}Ҳ�'·���g�g��}c)u	�"��t,)����"L�[� ��7U;�)���w->�B��y^��F����ʏ&?C�6��q����P�����MC�P�����t!"%�2~&��_�v>/!Έ@H�O���k��îS����/����%�c�k"�Q�Z8|�Ҵ7�`��Poa��3z��5�}��ۍ�3BބAfP86��� Y��r��Ab���r�;a�@�"��x6z���	�AW�^�Iд�|s�?L��D���k�X�!Q��-�R�(��n4�&W�-D���xR�N�[�#J��\�)��B�Ѕkԩ�R�(,�2����hJ�zj�I�9���IԮ�
+�s��2�)!W�P��FE�"	k�,A�����Nt&g7��ёQ��
+���);���~��?�c=�?wr�"�Ϟ͊�0f�CPW��+.FSV5ͥ$��CC����.���;�ǉ��uO"f�.�VHC��t��aa�^��_�Q���ܑ]�yz��6�H�ܾ����PrVP��Θ�	�;}t��m���Z�5ڭՁ_�����:��Ň���떞��>us��#�gN^hܷMHԙ�����ܹ�mz<����SU�����ν��w�p��9���{�^J�KMɧ���{Ԛp8�j���i� 8�GO�L~���g��u���$����/'䴹���s�^���-��r)�};������.L��[��ʤ�7�}s+�����{��3�ZFPnBY����o�����$+�"4���\
+��W��
+��Qi�伀����&~�{�}��?�g�Y?�7�=�{d��&7()��еwb�N�G3����{��pt�}�o���Y�#���ǠNRK6��YȿP��|im��T�&.�'��bf�ч�Q�ed��y~iH_�j� ����ї·S'���[6����$lV���+K��O���A:Ć,���d`�+c� H�2ׯo�ʥ��ENIO����u���~�cΊv��(�h?S��_��C�: 7�ٛ%.��]�#��+[�H�(��.��m�>���O���.*��k�l�oS�:~�."�5Y�7A\��͝�w�au/�Q�6r7�=��@�(a�{�:}�nx�� �����R��
+�~���ۖ(�ѱ��$��"_!v���E 9p��IڪS�6��I�B��?R��舺�U�V�N�M�&>��!X�,�d�=�~�F�s2�E�$>�Eh�Dq�8�&�`m肘�:}�n��T�"N}K���M����[S\y���c�u����	��-����F�mn�����f���J3�V�O�V1.��k\����������D-�R��8�q(��_6�������q�h;P
+�V?�#a�?��Pw�F+�k��NX������c�"0���PZ�z���ę�G��v l��6�*��[�䁰����_��ү=�vp6��� ���U;[[�V������^j��ž
+(j��u���Զd"��#Pq7v����:��[��D鈭m%bm�1Yz�V�u Y�s��]�;!ý��j����z|Փ�D!^�G^�,Ub��';����|�r����Ͼ�B�8���1����V)Ӱ]q�8P��U��[�V0
+lؘ^�Do���[�A���ai*��]8�,��2v���x=��ɭ���l��S�B��g��:!𶆄w�d,��"6����[m�A'u1�۬������7_סX�B��Y��UI����b\h�Qy�F��|�rY%%�=�R��w�
+� X������S�`�l%�� Eb�WH ��P=�YO�	q�܂�P�X�,��%� Z&W
+n�����+������X�-�����QE{Yf����!�-�!A�2��b�7�$���9rSH���PL�燹�AYCȂح��Y�vk7śX9�$�o&u�=9�t|��*CN�`|'sс"5SJ��Ŧt�/Mq������� eL���X��2c8�*P�'D8�bZ�5]���A������fzmN��`���$7L����Iᶤ��H���2�{r3��w^�4�G�t���Z���X�ǡ����xg:���ΟV�/�f$�N'^j%�"�?a��rqQ�����Tp���^�.t�8tZ���%�E[7�~�?�<�/�l�'N���l����9g0� /#�g�}�h'j!��ɡ=�%�A�A'Kڸ�~��\9˅/����M�7{q�<��R�#vb�T�/M�(+c��<ê_=���aX+`=�3u�$Z��lT"J&�D(��:o�����O��)��,�n_/N�X:ٗ��.�M�4��������H0ty�T8��%w�'�?�����.F���r��<�q�q�J9 D�c���'��YyD��ۆ��Śq�h�<�����8"3�G8�p>��)ƖJEI2��(vv�{ϊ�Iڂj $��Xke�
+ϴ`s�T�"r1+ؗ#}���/o�gS�-�
+j|�� =�͕�8Q�d���N��g3\+���0��l��K�<��2������|�s�w)d�h'�@6�	��xN��/.�O'�/�Y�X;����ԙ���_�}���k�����l�����l&�ִ�/4/��up�_e\j�f���1���@E�ק7�[_��bӊ��K��7if��_�;_YQ�Z�_����|�����}PLc掹�����~�|kr��*r���-�>��P~O's�+��BI������4֋k\�N��4�缌�Ƨ�u7k����5(�������o��o;��"ou�2ܥ�\������TÙX��+�<�|9^]�w�qy��>�~�&8J�!�.A8���zd�6߿��M/Ť�n��9a�#wR,O��߾>���+y�t]e�5�F�$b��L#u1�~��Wm��ܳ������G�UE����z��^l��K��i_�(
+Ne;��#�w�30����w]��������7V�Q�l�d�М7�T�jʝ��N[T�Qַ�U�du��I?�h�m��X�XX�ǉx:�0Jضo���٧��-~���(=�麥w��h���vጧ�؋1�~35�R#wN��¹�cM���}���VL�ƭ;x�z�5Aϐi!j�F�C������{�rSن<=�V��`ǅF䩣�߭��]V٧1�G	�sg��sz?���Ao���$8���H�F��������Q��W��D�/S��w�b�Ɏ�$�A����0����O ,܈�0tRTv�Ad�1�wB��OB0����v@�4M%7R�]"�b�Fٵ���Ek���?1������%8������ae����
+��^$S�Y�")V�Q)K/A]�e��B�@\��!�]0+p*��2�L�~�;�3�}Ll�:qb������uC�1%S�T`O[mX�j,�a�#h-Ϲnh޼�׫G� ���M����o�q��5Ɍꯜ\�'����G��5��MSQ��
+j'8-�F.�����(�-/iu�����=�-�N�T���qHt 7���_݊}����&!�Z�&q�������\Л2A�Ы��X��	B-WYN7h$^]��qa�u�~�yv�]���W��>*�(�c�X$����:�4�'����f�D 	%�A��`�����S�,t-�^�箊?�7������u�������[��]Z�� ���Y?�Wqn�@�g�R�e�K�� ���ނT�nX(���� '�� +!DS,j�7aJ��{�\�]U��-�Fj�J�R��������^�R�m��9=�I��c����wY�u�/�������j�u�f�|��27���Y;xaIF�F5F�dܒ��?�����p��{�6a�����am��t���ǲ|��9�q/�m0��Im���D�Y$`@�M1�)���6X�	�S+� ��C���a�2=!M��x�ӧzj_�����q6!�30���!���'��%���$�P0I�2���!f�D�	�!c��D�"ӄ�(�h���u��,D�`�usg�7�q��xo\J�:�Ch�@�g��Z[�� �����Ah` /��0[��d� ɏ�	7D*xH�����B�����}oK�U{�i#%��I��� ��:��DATў�|��97���;����~�^��;zg/���1�?� �m;�V"�$*��Z�k�P�S�'m>m�Di�K��o���p�������N>(�X����4�欞���#]G�������ND��H	�jػ X�✴IO�,R7i�0�w����mch���44����Cv�����դ�IPH�3S0XN�(�د�m�a���
+D�0t�)a�qx�qɰy#(I��S�ś8�Ҳ���=Cg#F��S���:ؽ�� ��x!W�)mM�H#�b*0�
+�-�(�%(�"Y�0�)�;!�2T�䛦PB�c�j��Fn�I��$ F01������<\�ٌ]�{Lh�:����F�x��?m���8��28P
+]M~�Z2��~;�f�u�6��x	x,̴�$�gLuU{��ia?R5x�	Mf�j���!ȕ.�'2���&DUF�)�fB�^��?��k�����|�|�2�iv���à����r9J��$PR
+�+�A�EsaX1��1�q�	����e�ԕ͚�5$���*'E�`���dPSl�Ġ~@���X��9�1���F�v-��~5��S�����u�0����U�X�����}���ᰑzF��4�����t�w�I��n�7���G/��5���p7��فV�Щet�*R6>�P���b%����F}QHU 
+����ӥ]��E!�@�BW(e�z�b�[؉oo�PΜ�|;a2�h;t���C�@��z��J�Q���&3�0rT� &k%�2
+�␉����4e�u��h��Y�U>�s�0��1����N�T�x�i���4�bF���������	i+<�`\�ɐ�Md8�{Ǒ���
+H�r���CA�֝wx�����[~��'^Wb��=,��=F��T}� .;go�*��-4���qc����zMM���/�*��0��/c����ӭ��冉N��)N�w�g}
+�b+��"Gcj2LB�P�UyI2�J�y!:�BA�G\.qhțk�E�?� K�ƛC+��_��Q�2f�$����SI'��%�I�U���wG���!N�#F�y�v��6����v��wZ#�� q4��E����uR\��@6�srX5 ���Mg��֐$(T��_�k��x����{��e}|�rX^A��n:��:�"P� ��L\rth�����5kD4U����$�$��BHA�Tx�?@j
+�.�'�k�-Z��Făo��'c}ü*]�c%��e��9�� ���I��EvV?夝�\�yu���7��y��ᔗ�� =��}`'X.R!��t��àALj� �)	eH	AL4��� �L�������K�%�V��fNH����^�pĺR ~�9&�s1AivCN�#[%��p�3s�9x�����ԑ�AP��_>���U��(��Zt��5,p� �`�_������@h?t-0��t�i�$-|�gbSy�&8�#]����ߖLZ�[�$:!`g{�T�
+�_"�F� .��U�Xx{^:z.=ف�^PF�L����3�F�UA8��9��.�I[t9����.V��(z��/q���Pe�&����Ӹ}�nn������	r��׏"7�M����������G^��p?�Z�J@���W��8���	XI�KQ�f���mI���awI;��������-���.���q4�(`\Ö$�{aРNĲ���C�1����n�<��s�����ݕ�m���#d��A�rw����7��#��mk�t�nL��4��u͹y�)C�q#Tܘ�G���G��fn�[7Q��,ƦJ�)5���I��u�Z�'���B���r��%MC�E���q�;���Mb6`�=�G��|)�6��EP�2���C%�&�	=-�7,?�s'o{�Z�2h��Sڂ��cLOԝ�%s�����y��/2�O}����S(�=��_rJ��7��/�IH�#�b1-!���l�C��0Tj$(d�����Z�\�y	���g�nNE�����,Gو�*�v���-ˈ�(��t�+��d�ݸu��A�8��uȣ�Na��N�/��[��ɞ	x����L���;�;-�0�$�����c�A�n�)j�ue��-v���y�;��a'�����y�� ~�����q������Jx]��e���� �4Y6�|4�b��T%����7�*��C8Ϩڱ�e�;�Kwg5P�6c�V
+������W�&��m��(2mg��Bf���pa���n���w�wݏ�o��y�5���|.s���ҊC��2�5a5�y4��3D	17˥�[V2��q�h1RH�ǅ����}����!��ɟ6\
+#��`kg��C�4�lٵ/PP��=�q�%�����}���QN1��F�F8T� ٢U�����efb�r���H�T۠����?U�%���A�)E��8��X�R9ʢvΠ��"m
+�y��ձ�.��X��
+���#L.�sFޒ��px��ؘ{e�b6C�ɲ{(Q`���;X�Gm�W����Y�߃���=)㌜ֆ�_/j�rMK�=Tw������.����߽��=0�9�m�*�5�c�~VE������X'�2Ru�a����ڼ��\I8pT�M��}YP�T��4��qꊧ%�Ɠԙ��l��G��k�
+?�H�:�܆�yuҗ��������N+C��n(N�
+4��nW�]֬X��&&���v�)�V��=$�m.��R�!< �Js���1�0��|������O�<�>�/_�f̃�iP��z:XWd�?Sy��*�T�=Z�	�V�8��M]=�T<�oA9�c��t�$��x�w���N�N�����~�Zfs��~���^��m��$ۤ\Wnly덷N��H���lH�%�t�DҴ����>��r�U�nm�Y�q� �� (��Zg];ٛ��ʻן�
+����8�#�q������gX6���%��n���w�~w�956�9lQ��*#H���Xn���,�mP���Tzh_�Q�������gT�����M�a�-��7�Ho��u�ׯ��_,|��U��:}��JZNs�3��Q�<���c�3��2�����/y��=e/k����5Pg�x�����������.|H6zt�h��:�v�p��>�x��	6"b�8��-z��q��vR��17B�����j_̣��QZ��\W
+��"A��-��ȝa�I*��+׼rf�bKs����8"�D�"8��eM�j+�Ч��}Tpv2le�Wh�x��>_���j�]Ad	R5fG�����er�.�ҮEq�g#�Ǔ�WO��ؖ҈�j]�.2�>P����mI1'�u�\8i��������+Bn����?׉��5�W�o�*�8���H1E������_�~�3dN�)	Ǎ1BnV���"G�r֔i�X���@v��� ����p^�EL�����7�X�:>	m�����4�$ʚ�н6��ⱽƍ�~���/���滞a�����^zj��RDO�"�'��'>a�!�2XU�� �WH �B)e:Y���E+���d)r������=�'�eL�k�yCn�_��=��"��}��|��v%�G�?"L�2X��@av�
+�n��&{������Wzy�6+�T��� ��i�e�CO��D���|��_j����������݁�	�j6�|�Fv(rq��]�0�~���u�	������
+Mqypdx\egc�� C//cB8Bcccccccccccccccccccccccccccccccccccccccccccccccccc��  � e" ��           	
+�� �   } !1AQa"q2���#B��R��$3br�	
+%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz���������������������������������������������������������������������������        	
+�� �  w !1AQaq"2�B����	#3R�br�
+$4�%�&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz��������������������������������������������������������������������������   ? �
+(��
+(���.����yoo-��.0#ta��9�+n�o�6�M9��d�< ٵ�-�'6�h�XeR����W�s�c�lm�EYVHԂF6�:���K��o�v�qi�^3������v�dl��у+� ��� ��( ��( ��( ��( �/xZ��~U� Ѕn�)�}�$V�yq0P3��|P�"���'v���}N��pXpS�� ���-��5��
+R%^����4��t�q��^9N�2:��,�� �?ƿ��=�^��"$��9f�E(�==x�� ׫�=�[N��Z��L���C4袊 (�� (�� (�����en��J�D�Y� J�K1 �����#x���H���[<;ի�����Kg�� �a�ð�u�omokb�[ ����}s@���7'0�1H 7F���4��;�v��HX1'q$�6
+`.�wpÚe�h��&)�����T���<p��Kc�5�[Lv��O_Ґ��B��R�PQE SZ��#�j�Τ�>�+G
+�������G�QE9�Ӣ7נ}�?*�j�z<�7Q]�S���nH~�?L�W,����4��5�����>�>	$�p2q�ց
+��sC��g#�qU�#���M�h��p8���HA�ݜ29ܚ`)���N9�(�`
+��A�4Ӂ���x�<R�8e8c?wހ�����Xw�hGΖ�������0\�K�e--~[��#|n
+;�{c�"������ �a`{��zC'��( ��(Ś����%#bB{�Y����c�C
+��o޳���ϰ��3��O�n��(�}A����@��Q<��0G�y?)(B��9=� 
+h�1#'�i��;�{ށ���8���S6����[8�T��S��ҜI	�S�|��'�����@f8�����M4@�M.���1?�5(����8���u�k�yu��7�0���r=���k��ê��(;�k��T���������kg��)�"�����t�?�I��s�͓��n�z0�@�KY:>�o��O�w*>hX����E�(��Eu) !��=늁[�����w-�)H���Oc�w5Z����խ�Yb~�Ï��ր(��
+ǽ!���c�oyᣇ�o���fKq�G�j�����g,sǜd6??jb$?.s���4F1�pp
+�ǽ����� �P[8�� rT��@uk���'�/���\`��g��r�U0���U�X��S��� ���R0!	�~a��2��s����C��r�?����C�(�����Cǜ����JOtm�x �P)��9GrT���� 
+�g�E��h���~��?¸�	v*����0���S��Km�i�?��:��@�(�Q@EP1�3X7���F�L��n�$"��C�����8��|K��1�y��O����E f��w�65��uͺ�">��Wa����Ii,r(�`p�L�#�׬���68��YW��j��	!�#>t�� s�X�l��Lku!e����v�r� �K"���i<��[�DZ!j�z���L�1�Ì��uor~ؖ�Ӱ������ ��d�3 %�`y�hq�YT�S�O���*� q���>�Zz��̕�Lv�� 3aT*��̭��=���U�.;Z��1�J$;��'�@I%I��� d��^���_�iӽ�ٔ�'�
+*���4ܭ����&T����J���(z(���Q�t�]V�����L��S�^��<����F��ٖ���}� �LS��aF��+��t��}5��1�>�v5��Ny����ɴ�ZJY�WB�'����Pۄ�T�1�������G��2O��\��	<�����neq�@� �����&6����cM|<�b��=)y�6����0�O~(P�Y#Kx�Gn"Bv��k���H����-��@8_�W�U_
+i�P�V��[�Y����F=(�R�@Q@Q@k��ص+}V%;$;'ǯc����VW�lF���� .zg�Ñ@8HV,��ۇl�R2�\n��<��}*;'�t�� �A,>�����B����OlP!2Q@g�����[�,�Q���1��LT ��⪀�ꑍ�	�7�q]'�`� F��!��M��w��@2ө-
+(��
+(��
+(��
+CKHh��k�jV����$x
+y���r�]$����:�Z�����Ԙ�e�@t�8��S����w?�#s��s�9 �g�5�:����`��	�\�O�Mpi������&P}0z��*1@�QE QE QE QE RZ(���Q��t�#+bc�bs� S��z�}�U|�>�ֹ���q�˖��#ցZJ�%�!~X�v�{�ֻ�+���9Ԯe �Ȃ�O$�� �k�4Z(��
+(��
+(��
+(��
+(��2�K�����r������n��������k�'�f��q�u*�8�����
+m�ܨ8 ������L`�'��u�k��zf��k�{m�^��3d��� (�� (�� ��                                                                                                                                                                                                                                 `  D                                                               ����      T e x t o 1 1               t I n t r o d u z c a   e l   n o m b r e   o   d e n o m i n a c i � n   d e   l a   p r u e b a   o   a c t i v i d a d   d e p o r t i v a ,   i n c l u y e n d o   e l   n � m e r o   d e   e d i c i � n ,   e n   s u   c a s o .           � $$If   �F !v h5� �%#v �%:V �F 
+t  ��0���   ���   ���   ���   ���   ���   �  �  5� �%2�  2� 
+9 a�9 �   D                                                               ����             
+ d d / M M / y y y y       5 F e c h a   d e   c o m i e n z o   d e   l a   p r u e b a   o   a c t i v i d a d   d e p o r t i v a .           �   D                                                               ����      T e x t o 1 3       
+ d d / M M / y y y y       9 F e c h a   e n   l a   q u e   f i n a l i z a   l a   p r u e b a   o   a c t i v i d a d   d e p o r t i v a .           �   D                                                               ����      T e x t o 1 4        H H : m m       = H o r a   e n   l a   q u e   d a r �   c o m i e n z o   l a   p r u e b a   o   a c t i v i d a d   d e p o r t i v a .             D                                                               ����      T e x t o 1 5        H H : m m       @ H o r a   p r e v i s t a   p a r a   q u e   f i n a l i c e   l a   p r u e b a   o   a c t i v i d a d   d e p o r t i v a .             D                                                               ���� 	     T e x t o 1 6        # . # # 0       K N � m e r o   m � x i m o   d e   p a r t i c i p a n t e s   p r e v i s t o   e n   l a   p r u e b a   o   a c t i v i d a d   d e p o r t i v a .           �  D                                                               ���� 	     T e x t o 1 7        # . # # 0       � S i   l a   a c t i v i d a d   s e   c e l e b r a   e n   u n   e s t a b l e c i m i e n t o ,   r e c i n t o   o   i n s t a l a c i � n   d e p o r t i v a ,   i n d i q u e   c u � l   e s   l a   a f l u e n c i a   d e   p � b l i c o   p r e v i s t a .           � $$If   �F !v h5� T5�T5��5��5�5�#v T#v�#v:V �F 
+t  ��0���   ���   ���   ���   ���   ���   �  �  5� T5��5�2�  2� 
+9 a�9 2  D                                                               ����    C a s i l l a 1             ] M a r q u e   e s t a   o p c i � n   s i   s e   t r a t a   d e   u n   t o r n e o ,   c a m p e o n a t o   o ,   e n   d e f i n i t i v a ,   d e   u n a   c o m p e t i c i � n .           R  D                                                               ����    C a s i l l a 2             m M a r q u e   e s t a   o p c i � n   s i   l a   p r u e b a   o   a c t i v i d a d   e s   l � d i c a   o   d e   o c i o   y ,   p o r   t a n t o ,   n o   s e   t r a t a   d e   u n a   c o m p e t i c i � n .           6  D                                                               ����    C a s i l l a 3            _ M a r q u e   e s t a   o p c i � n   s i   l a   p r u e b a   o   a c t i v i d a d   d e p o r t i v a   t i e n e   e l   c a r � c t e r   d e   c o m p e t i c i � n   o f i c i a l .           �   D                                                               ����e    C a s i l l a 4             ? M a r q u e   e s t a   o p c i � n   s i   l a   c o m p e t i c i � n   n o   e s   d e   c a r � c t e r   o f i c i a l .           z  D                                                               ����e   	 C a s i l l a 2 1             � M a r q u e   e s t a   o p c i � n   s i   l o s   p a r t i c i p a n t e s   s o n   d e p o r t i s t a s   f e d e r a d o s .   M a r q u e   a m b a s   o p c i o n e s   s i   p a r t i c i p a n   f e d e r a d o s   y   n o   f e d e r a d o s .           �  D                                                               ����e   	 C a s i l l a 2 0             � M a r q u e   e s t a   o p c i � n   s i   l o s   p a r t i c i p a n t e s   s o n   d e p o r t i s t a s   N O   f e d e r a d o s .   M a r q u e   a m b a s   o p c i o n e s   s i   p a r t i c i p a n   f e d e r a d o s   y   n o   f e d e r a d o s .           � $$If   �F !v h5� �5��5��
+#v �#v�#v�
+:V �F 
+t  ��0���   ���   ���   ���   ���   ���   �  �  5� �5��5��
+2�  2� 
+9 a�9 v  D                                                               ����      T e x t o 1 8                D e s c i r b a   e n   q u �   c o n s i s t i r �   l a   p r u e b a   o   a c t i v i d a d   d e p o r t i v a ,   a s �   c o m o   l a   f o r m a   y   e l   e n t o r n o   o   e l   l u g a r   e n   e l   q u e   s e   d e s a r r o l l a r �           �  D                                                               ����      T e x t o 1 9               � I n d i q u e   l a   v � a ,   p l a z a ,   r e c i n t o ,   e s t a b l e c i m i e n t o ,   i n s t a l a c i � n ,   e t c . ,     e n   l a   q u e   s e   d e s a r r o l l a r � ,   s a l v o   s i   d i s c u r r e   p o r   v a r i a s   v � a s   p � b l i c a s           � $$If   �F !v h5� �%#v �%:V �F 
+t  ��0���   ���   ���   ���   ���   ���   �  �  5� �%/� ���   2�  2� 
+9 a�9 � $$If   �F !v h5� �%#v �%:V �F 
+t  ��0���   ���   ���   ���   ���   ���   �  �  5� �%/� 
+��������2�  2� 
+9 a�9 r  D                                                               ����                     � E s p e c i f i q u e   c o n   d e t a l l e   l a s   v � a s ,   p l a z a s ,   c a r r e t e r a s ,   s e n d e r o s . . .   d e   e l / l o s   r e c o r r i d o / s .   A d j u n t e   e n   h o j a   a p a r t e   c r o q u i s   y   p e r f i l / e s .           � $$If   �F !v h5� �%#v �%:V �F 
+t  ��0���   ���   ���   ���   ���   ���   �  �  5� �%2�  2� 
+9 a�9 t  D                                                               ����                     � I n d i q u e   l o s   p r o b a b l e s   h o r a r i o s   d e   p a s o   p o r   l o s   d i s t i n t o s   p u n t o s ,   v � a s   o   k m s .   d e l   r e c o r r i d o   y ,   s i   e s   p o s i b l e ,   m � r q u e l o s   e n   e l   c r o q u i s .           � $$If   �F !v h5� �%#v �%:V �F 
+t  ��0���   ���   ���   ���   ���   ���   �  �  5� �%2�  2� 
+9 a�9   D                                                               ����      T e x t o 2 0               G I n d i q u e   l a   h o r a   d e   l l e g a d a   a   m e t a   p r e v i s t a   p a r a   l a   c a b e z a   d e   l a   p r u e b a .             D                                                               ����      T e x t o 2 1               H I n d i q u e   l a   h o r a l l a   d e   l l e g a d a   a   m e t a   p r e v i s t a   p a r a   l a   c o l a   d e   l a   p r u e b a .           � $$If   �F !v h5� �	5�$	#v �	#v$	:V �F 
+t  ��0���   ���   ���   ���   ���   ���   �  ��5� �	5�$	2�  2� 
+9 a�9 � $$If   �F !v h5� �%#v �%:V �F 
+t  ��0���   ���   ���   ���   ���   ���   �  �  5� �%2�  2� 
+9 a�9 J  D                                                               ����      T e x t o 2 3               i I n t r o d u z c a   N o m b r e   y   A p e l l i d o s   d e l   R e s p o n s a b l e .   E s t e   c a r g o   e s   O B L I G A T O R I O   e n   c u a l q u i e r   p r u e b a   o   a c t i v i d a d .           �   D                                                               ����      T e x t o 2 4               . I n t r o d u z c a   e l   D N I   d e l   c a r g o   o   p u e s t o   i n d i c a d o .           � $$If   �F !v h5� <5��#v <#v�:V �F 
+t  ��0���   ���   ���   ���   ���   ���   �  �  5� <5��2�  2� 
+9 a�9 �   D                                                               ����      T e x t o 2 5               = I n t r o d u z c a   e l   c o r r e o   e l e c t r � n i c o   d e l   c a r g o   o   p u e s t o   i n d i c a d o .             D                                                               ����      T e x t o 2 6               J I n t r o d u z c a   e l   t e l � f o n o   o   t e l � f o n o s   d e   c o n t a c o   d e l   p u e s t o   o   c a r g o   i n d i c a d o .           � $$If   �F !v h5� �5�\#v �#v\:V �F 
+t  ��0���   ���   ���   ���   ���   ���   �  �  5� �5�\2�  2� 
+9 a�9 Z  D                                                               ����      T e x t o 2 7               q E n u m e r e   c u � l e s   s o n   l a s   p r i n c i p a l e s   f u n c i o n e s   o   c o m e t i d o s   q u e   d e s e m p e � a r �   d u r a n t e   l a   p r u e b a   o   a c t i v i d a d   d e p o r t i v a .           � $$If   �F !v h5� �%#v �%:V �F 
+t  ��0���   ���   ���   ���   ���   ���   �  �  5� �%/� ���   2�  2� 
+9 a�9 � $$If   �F !v h5� �%#v �%:V �F 
+t  ��0���   ���   ���   ���   ���   ���   �  �  5� �%/� 
+��������/� ���   2�  2� 
+9 a�9 � $$If   �F !v h5� �%#v �%:V �F 
+t  ��0���   ���   ���   ���   ���   ���   �  �  5� �%/� 
+   �  2�  2� 
+9 a�9 t  D                                                               ����                     � I n t r o d u z c a   N o m b r e   y   A p e l l i d o s   d e l   R e s p o n s a b l e .   C a r g o   O B L I G A T O R I O   e n   p r u e b a s   o   a c t i v i d a d e s   q u e   d i s c u r r e n   p o r   v � a s   a b i e r t a s   a l   t r � f i c o .           �   D                                                               ����      T e x t o 2 4               . I n t r o d u z c a   e l   D N I   d e l   c a r g o   o   p u e s t o   i n d i c a d o .           � $$If   �F !v h5� <5��#v <#v�:V �F 
+t  ��0���   ���   ���   ���   ���   ���   �  �  5� <5��2�  2� 
+9 a�9 �   D                                                               ����      T e x t o 2 5               = I n t r o d u z c a   e l   c o r r e o   e l e c t r � n i c o   d e l   c a r g o   o   p u e s t o   i n d i c a d o .             D                                                               ����      T e x t o 2 6               J I n t r o d u z c a   e l   t e l � f o n o   o   t e l � f o n o s   d e   c o n t a c o   d e l   p u e s t o   o   c a r g o   i n d i c a d o .           � $$If   �F !v h5� �5�\#v �#v\:V �F 
+t  ��0���   ���   ���   ���   ���   ���   �  �  5� �5�\2�  2� 
+9 a�9 Z  D                                                               ����      T e x t o 2 7               q E n u m e r e   c u � l e s   s o n   l a s   p r i n c i p a l e s   f u n c i o n e s   o   c o m e t i d o s   q u e   d e s e m p e � a r �   d u r a n t e   l a   p r u e b a   o   a c t i v i d a d   d e p o r t i v a .           � $$If   �F !v h5� �%#v �%:V �F 
+t  ��0���   ���   ���   ���   ���   ���   �  �  5� �%/� ���   2�  2� 
+9 a�9 � $$If   �F !v h5� �%#v �%:V �F 
+t  ��0���   ���   ���   ���   ���   ���   �  �  5� �%/� 
+��������2�  2� 
+9 a�9 h  D                                                               ����      T e x t o 2 2               x I n t r o d u z c a   l a   d e n o m i n a c i � n   d e   c u a l q u i e r   o t r o   c a r g o   o   p u e s t o   q u e   c o n s i d e r e   o p o r t u n o   p a r a   l a   p r u e b a   o   a c t i v i d a d   d e p o r t i v a .           � $$If   �F !v h5� �%#v �%:V �F 
+t  ��0���   ���   ���   ���   ���   ���   �  �  5� �%/� 
+   �  2�  2� 
+9 a�9 �   D                                                               ����      T e x t o 2 3               = I n t r o d u z c a   e l   N o m b r e   y   A p e l l i d o s   d e l   c a r g o   o   p u e s t o   i n d i c a d o .           �   D                                                               ����      T e x t o 2 4               . I n t r o d u z c a   e l   D N I   d e l   c a r g o   o   p u e s t o   i n d i c a d o .           � $$If   �F !v h5� <5��#v <#v�:V �F 
+t  ��0���   ���   ���   ���   ���   ���   �  �  5� <5��2�  2� 
+9 a�9 �   D                                                               ����      T e x t o 2 5               = I n t r o d u z c a   e l   c o r r e o   e l e c t r � n i c o   d e l   c a r g o   o   p u e s t o   i n d i c a d o .             D                                                               ����      T e x t o 2 6               J I n t r o d u z c a   e l   t e l � f o n o   o   t e l � f o n o s   d e   c o n t a c o   d e l   p u e s t o   o   c a r g o   i n d i c a d o .           � $$If   �F !v h5� �5�\#v �#v\:V �F 
+t  ��0���   ���   ���   ���   ���   ���   �  �  5� �5�\2�  2� 
+9 a�9 Z  D                                                               ����      T e x t o 2 7               q E n u m e r e   c u � l e s   s o n   l a s   p r i n c i p a l e s   f u n c i o n e s   o   c o m e t i d o s   q u e   d e s e m p e � a r �   d u r a n t e   l a   p r u e b a   o   a c t i v i d a d   d e p o r t i v a .           � $$If   �F !v h5� �%#v �%:V �F 
+t  ��0���   ���   ���   ���   ���   ���   �  �  5� �%/� ���   2�  2� 
+9 a�9 � $$If   �F !v h5� �%#v �%:V �F 
+t  ��0���   ���   ���   ���   ���   ���   �  �  5� �%/� 
+��������2�  2� 
+9 a�9 Z  D                                                               ����                     x I n t r o d u z c a   l a   d e n o m i n a c i � n   d e   c u a l q u i e r   o t r o   c a r g o   o   p u e s t o   q u e   c o n s i d e r e   o p o r t u n o   p a r a   l a   p r u e b a   o   a c t i v i d a d   d e p o r t i v a .           � $$If   �F !v h5� �%#v �%:V �F 
+t  ��0���   ���   ���   ���   ���   ���   �  �  5� �%/� 
+   �  2�  2� 
+9 a�9 �   D                                                               ����      T e x t o 2 3               = I n t r o d u z c a   e l   N o m b r e   y   A p e l l i d o s   d e l   c a r g o   o   p u e s t o   i n d i c a d o .           �   D                                                               ����      T e x t o 2 4               . I n t r o d u z c a   e l   D N I   d e l   c a r g o   o   p u e s t o   i n d i c a d o .           � $$If   �F !v h5� <5��#v <#v�:V �F 
+t  ��0���   ���   ���   ���   ���   ���   �  �  5� <5��2�  2� 
+9 a�9 �   D                                                               ����      T e x t o 2 5               = I n t r o d u z c a   e l   c o r r e o   e l e c t r � n i c o   d e l   c a r g o   o   p u e s t o   i n d i c a d o .             D                                                               ����      T e x t o 2 6               J I n t r o d u z c a   e l   t e l � f o n o   o   t e l � f o n o s   d e   c o n t a c o   d e l   p u e s t o   o   c a r g o   i n d i c a d o .           � $$If   �F !v h5� �5�\#v �#v\:V �F 
+t  ��0���   ���   ���   ���   ���   ���   �  �  5� �5�\2�  2� 
+9 a�9 Z  D                                                               ����      T e x t o 2 7               q E n u m e r e   c u � l e s   s o n   l a s   p r i n c i p a l e s   f u n c i o n e s   o   c o m e t i d o s   q u e   d e s e m p e � a r �   d u r a n t e   l a   p r u e b a   o   a c t i v i d a d   d e p o r t i v a .           � $$If   �F !v h5� �%#v �%:V �F 
+t  ��0���   ���   ���   ���   ���   ���   �  �  5� �%/� ���   2�  2� 
+9 a�9 v  D                                                               ����      T e x t o 2 8                E n u m e r e   c u � l e s   s o n   l a s   m e d i d a s   d e   s e � a l i z a c i � n   q u e ,   e n   s u   c a s o ,   p r o c e d a n   y / o   l o s   d i s p o s i t i v o s   d e   s e g u r i d a d   c o n   l o s   q u e   c o n t a r � .           �  D                                                               ����      T e x t o 2 9               � E n u m e r e   c u a l e s   s o n   l o s   r i e s g o s   p r e v i s i b l e s   a   l o s   q u e   e s t � n   s o m e t i d o s   p a r t i c i p a n t e s   y ,   e n   s u   c a s o ,   e s p e c t a d o r e s   d u r a n t e   l a   a c t i v i d a d .           z  D                                                               ����      T e x t o 3 0               � D e t a l l e   c o m o   a c t u a r �   e n   c a s o   d e   q u e   s e   p r o d u z c a   a l g � n   s i n i e s t r o .   S i   y a   d i s p o n e   d e   u n   p l a n   d e   e m e r g e n c i a   a d j u n t e l o   e n   h o j a   a p a r t e .           �  D                                                               ����      T e x t o 3 1               � I n d i q u e   l a s   m e d i d a s   d e   a u t o p r o t e c c i � n   d e l   p e r s o n a l   q u e   p a r t i c i p a   e n   l a   p r u e b a .   S i   y a   d i s p o n e   d e   u n o   c o n f e c c i o n a d o   a d j u n t e l o   e n   h o j a   a p a r t e           z   D                                                               ����    	 C a s i l l a 1 7                         *  D                                                               ����      T e x t o 3 9               Y I n t r o d u z c a   e l   n � m e r o   d e   v a l l a s   q u e   p r e c i s a   o   e l   n � m e r o   d e   m e t r o s   a   c u b r i r   c o n   l a s   v a l l a s .           x   D                                                               ����     C a s i l l a 8                         >  D                                                               ����      T e x t o 4 0               c I n t r o d u z c a   e l   n � m e r o   d e   v a l l a s   q u e   p r e c i s a   o   e l   n � m e r o   d e   m e t r o s   q u e   p r e c i s a   c u b r i r   c o n   l a s   v a l l a s .           z   D                                                               ����e    	 C a s i l l a 1 1                         �   D                                                               ����      T e x t o 3 5               + I n t r o d u z c a   e l   n � m e r o   d e   c o n o s   q u e   u t i l i z a r �           z   D                                                               ����e    	 C a s i l l a 1 4                           D                                                               ����      T e x t o 3 2               E I n t r o d u z c a   c u a l q u i e r   o t r o   e l e m e n t o   o   e s t r u c t u r a   q u e   p r e c i s e   i n s t a l a r .           x   D                                                               ����e     C a s i l l a 6                         x   D                                                               ����e     C a s i l l a 9                         z   D                                                               ����e    	 C a s i l l a 1 2                         z   D                                                               ����e    	 C a s i l l a 1 5                           D                                                               ����      T e x t o 3 3               E I n t r o d u z c a   c u a l q u i e r   o t r o   e l e m e n t o   o   e s t r u c t u r a   q u e   p r e c i s e   i n s t a l a r .           x   D                                                               ����e     C a s i l l a 7                         �   D                                                               ����      T e x t o 3 6               A I n t r o d u z c a   l o s   m e t r o s   d e   e s c e n a r i o .   E j e m p l o   4 x 2 ;   6 x 4 ;   8 x 4   m .   e t c .           z   D                                                               ����e    	 C a s i l l a 1 0                         �   D                                                               ����      T e x t o 3 7               / I n t r o d u z c a   e l   n � m e r o   d e   c a r p a s   q u e   v a   a   m o n t a r .           �   D                                                               ����      T e x t o 3 8               ? I n t r o d u z c a   l a s   d i m e n s i o n e s   d e   c a d a   c a r p a .   E j e m p l o :   4 x 4 ;   6 x 4   m .             z   D                                                               ����e    	 C a s i l l a 1 3                         z   D                                                               ����e    	 C a s i l l a 1 6                           D                                                               ����      T e x t o 3 4               E I n t r o d u z c a   c u a l q u i e r   o t r o   e l e m e n t o   o   e s t r u c t u r a   q u e   p r e c i s e   i n s t a l a r .           � $$If   �F !v h5� �5��5��#v �:V �F 
+t  ��0���   ���   ���   ���   ���   ���   �  �  5� �2�  2� 
+9 a�9 �  D                                                               ����   	 C a s i l l a 1 8             � O B L I G A T O R I O   s i   v a   a   i n s t a l a r   e s t r u c t u r a s   d e s m o n t a b l e s   c o m o   a r c o s   d e   s a l i d a / m e t a ,   e s c e n a r i o ,   g r a d a s ,   c a r p a s ,   t o r r e s   d e   i l u m i n a c i � n . . .           |  D                                                               ����      T e x t o 4 1               � H a g a   l a s   o b s e r v a c i o n e s   q u e   c o n s i d e r e   e   i n d i q u e   s i   s o l i c i t a   l a   c o l a b o r a c i � n   d e l   P a t r o n a t o   p a r a   a l g u n o / s   d e   l o s   e l e m e n t o s   s e � a l a d o s .           `  D                                                               ����      T e x t o 4 2               t E n u m e r e   c u � l   s e r �   l a   c o m p o s i c i � n   d e l   s e r v i c i o   d e   a s i s t e n c i a   s a n i t a r i a   p r e v i s t o   p a r a   l a   p r u e b a   o   a c t i v i d a d   d e p o r t i v a .           z   D                                                               ����    	 C a s i l l a 1 9                         x   D                                                               ����      T e x t o 4 3                           |   D                                                               ����       T e x t o 4 4    1 2                       x   D                                                               ����      T e x t o 4 5                           x   D                                                               ����      T e x t o 4 6                           x   D                                                               ����      T e x t o 4 7                                                                                                                                                                                                                                   �   �                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            N  @�� N          N o r m a l      % >*OJ QJ ^J _HmH
+sH
+tH
+wh                       N A@��� N          F u e n t e   d e   p � r r a f o   p r e d e t e r .     R i@��� R          T a b l a   n o r m a l    �  4� 
+l 4�   a�      , k ��� ,          	 S i n   l i s t a          < @ � <   �<�   
+ E n c a b e z a d o     � �8!   B  @ B   �<�    P i e   d e   p � g i n a     � �8!   8 )@� 8   �<�    N � m e r o   d e   p � g i n a     8   "8   vv�    T e x t o   n o t a   p i e       B & � 1B   vv�    R e f .   d e   n o t a   a l   p i e    H* ~ �@� C~       T a b l a   c o n   c u a d r � c u l a   7 :V �0   �     �     �     �     �     �           *   L   �   �;           ����               ����               ����      ����                      *   L   �   �                 ��        �;    �    ����    O   P   d   e   n   =    �  �  �  �  �  �      -  A  Q  e  x  �  �  �  �  �  �  �    P  l  �  �  �  �      	  [  �  k  �  �	  !
+  "
+  _
+  �
+  �
+  �
+  �
+  �
+  �
+  �
+  �
+  *  >  ?  ^  r  �  �  �  �  �    B  C  W  k  p  �  �  �  �  �  �  �  �  G  �  �  �  �  �  �  8  V  W  k    �  �  �  �  �  �  �  �    Z  �  >  {  �  �  �  �  �  �  �  �  �  �      &  '  ;  O  g  {  |  �  �  �  �  �  �  �  �       %  9  :  N  b  z  �  �  �  �  �  �    m  �  v  i  C    -  3  4  ]  �       L  �  i  �  �  �  �  �  �  J   �   !  
+"  _$  �%  �&  (  �(  	)  &*  ,*  �*  +  ,  �,  m-  �.  �/  I0  M0  �0  �0  1  1  v1  �1  �1  �1  )2  Y2  _2  `2  2  �2  �2  $3  J3  k3  �3  �3  �3  4  G4  `4  �4  �4  �5  �5  �5  �5  6   7  ,7  97  B7  W7  \7  ]7  9  9  :  t:  �:  �:  �:  �:  �:  �:  �:  �:  �:  �:  �:  �:  �:  �:  �:  �:  �:  �:  �:  �:  �:  �:  �:  �:  �:  �:  ;  ;  ;  ;  ,;  6;  7;  8;  �;  �;  �;  �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �   0       �   �          �   0       �   �          �   0       �   �          �    0       �   �          �    0       �   �          �    0       �   �  �      �    0       �   �  �     �    0       �   �  �      �    0       �   �  �      �    0       �   �  �      �    0       �   �  �      �    0       �   �  �      �    0       �   �  �      �    0       �   �  �      �    0       �   �  �      �    0       �   �  �      �    0       �   �  �      �    0       �   �  �      �    0       �   �  �      �    0       �   �  �      �    0       �   �  �      �    0       �   �  �      �@   0       �   �  �     �@   0       �   �  �     �    0       �   �  �     �    0       �   �  �     �    0       �   �  �     �    0       �   �  �     �    0       �   �  �     �    0       �   �  �     �    0       �   �  �      �    0       �   �          �    0       �   �          �    0       �   �          �@   0       �   �          �@   0       �   �          �@   0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �  �      �    0       �   �  �      �    0       �   �  �      �    0       �   �  �      �    0       �   �  �      �    0       �   �  �      �    0       �   �  �      �    0       �   �  �      �    0       �   �  �      �    0       �   �  �      �    0       �   �  �      �    0       �   �  �      �    0       �   �  �      �    0       �   �  �      �    0       �   �  �      �    0       �   �  �      �    0       �   �          �    0       �   �          �    0       �   �  �      �    0       �   �  �     �@   0       �   �  �      �    0       �   �  �      �    0       �   �  �      �    0       �   �  �      �    0       �   �  �      �    0       �   �  �      �@   0       �   �  �      �@   0       �   �  �      �@   0       �   �  �      �@   0       �   �  �      �@   0       �   �  �      �@   0       �   �  �      �    0       �   �  X     �    0       �   �  �      �    0       �   �  �     �    0       �   �  �     �@   0       �   �  �      �@   0       �   �  �      �@   0       �   �  �      �@   0       �   �  �      �    0       �   �  �     �@   0       �   �  �      �@   0       �   �  �      �@   0       �   �  �     �@   0       �   �  �      �@   0       �   �  �      �@   0       �   �  �      �@   0       �   �  �      �@   0       �   �  �      �@   0       �   �  �      �    0       �   �  �      �@   0       �   �  �      �@   0       �   �  �      �    0       �   �  �     �    0       �   �  �      �    0       �   �  �      �    0       �   �  �      �    0       �   �  �      �    0       �   �  �     �    0       �   �  �     �    0       �   �  �      �@   0       �   �  �      �@   0       �   �  �      �@   0       �   �  �      �    0       �   �  �     �@   0       �   �  �      �@   0       �   �  �      �@   0       �   �  �      �@   0       �   �  �      �@   0       �   �  �      �@   0       �   �  �      �@   0       �   �  �      �@   0       �   �  �      �@   0       �   �  �      �@   0       �   �  �      �@   0       �   �  �      �@   0       �   �  �      �    0       �   �  �      �@   0       �   �  �      �@   0       �   �  �      �@   0       �   �  �      �    0       �   �  �      �    0       �   �  �      �    0       �   �  �      �@   0       �   �  �      �@   0       �   �  �      �@   0       �   �  �      �@   0       �   �  �      �@   0       �   �  �      �@   0       �   �  �      �@   0       �   �  �      �@   0       �   �  �      �@   0       �   �  �      �@   0       �   �  �      �@   0       �   �  �      �@   0       �   �  �      �@   0       �   �  �      �    0       �   �          �    0       �   �          �    0       �   �          �@   0       �   �          �@   0       �   �          �@   0       �   �          �@   0       �   �          �@   0       �   �          �@   0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �  �      �    0       �   �  �     �    0       �   �  �      �    0       �   �  �      �    0       �   �  �      �    0       �   �  �      �    0       �   �  �      �    0       �   �  �      �    0       �   �  �      �    0       �   �  �      �    0       �   �  �      �    0       �   �  �      �    0       �   �  �      �    0       �   �          �    0       �   �          �@   0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �@   0       �   �         I� 0 0                   �@   0       �   �         I� 0 0                   �@   0       �   �         I� 0 0                   �@   0       �   �         I� 0 0                   �@  0       �   �         �@   0       �   �        � �@  0       �   �       � �@  0       �   �        � �@   0       �   �        � �@  0       �   �        �@  0       �   �          �@  0       �   �          �@  0       �   �          �@  0       �   �          �@   0       �   �          I� 0 0                 ��    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �   @      �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �    0       �   �          �           �   �]�     O   P   d   e   �  �  �  �  �  �      -  A  Q  e  x  �  �  �  �  �  �  �  P  l    	  [  �  k  �  �	  !
+  "
+  _
+  �
+  �
+  �
+  �
+  �
+  �
+  �
+  �
+  *  >  ?  ^  r  �  �  �  �  �    B  C  W  k  p  �  �  �  �  �  �  �  �  G  �  �  �  �  �  8  V  W  k    �  �  �  �  �  �  �  �    Z  �  >  {  �  �  �  �  �  �  �  �  �      &  '  ;  O  g  {  |  �  �  �  �  �  �  �  �       %  9  :  N  b  z  �  �  �  �  �  �    m  4  ]  2  �3  �4  6  �;  �    0       �   �          �@   0       �   �          �    0       �   �         �@   0       �   �          �@   0       �   �         �    0       �   �         �    0       �   �         �    0       �   �         �    0       �   �        �    0       �   �        �    0       �   �         �    0       �   �        �    0       �   �         �    0       �   �        �    0       �   �         �    0       �   �        �    0       �   �         �    0       �   �        �    0       �   �         �    0       �   �        �    0       �   �         �    0       �   �        �    0       �   �        �@   0       �   �        �@   0       �   �        �@   0       �   �        �@   0       �   �        �    0       �   �          �    0       �   �          �@   0       �   �         �@   0       �   �          �@   0       �   �          �@   0       �   �          �    0       �   �         �    0       �   �          �    0       �   �          �    0       �   �         �    0       �   �         �    0       �   �        �    0       �   �         �    0       �   �        �    0       �   �         �    0       �   �       � �    0       �   �        �    0       �   �         �    0       �   �       � �    0       �   �        �    0       �   �       � �    0       �   �       � �    0       �   �       � �    0       �   �       � �    0       �   �      � �    0       �   �        ��    0       �   �          �    0       �   �         �    0       �   �        �    0       �   �        �    0       �   �         �    0       �   �        �    0       �   �         �    0       �   �         �    0       �   �        �    0       �   �       � �    0       �   �       � �    0       �   �         �    0       �   �         �    0       �   �        �    0       �   �       � �    0       �   �       ��    0       �   �        �    0       �   �        �    0       �   �      � �    0       �   �       � �    0       �   �        �    0       �   �         �    0       �   �        �    0       �   �        �    0       �   �       � �    0       �   �       ��    0       �   �       � �    0       �   �         �    0       �   �        �    0       �   �       � �    0       �   �       � �    0       �   �         �    0       �   �         �    0       �   �        �    0       �   �       � �    0       �   �       ��    0       �   �       � �    0       �   �       � �    0       �   �       � �    0       �   �       � �    0       �   �       ��    0       �   �        �    0       �   �         �    0       �   �        �    0       �   �         �    0       �   �        �    0       �   �        �    0       �   �       � �    0       �   �       � �    0       �   �       � �    0       �   �         �    0       �   �        �    0       �   �       � �    0       �   �       � �    0       �   �         �    0       �   �         �    0       �   �        �    0       �   �       � �    0       �   �       � �    0       �   �        �    0       �   �         �    0       �   �        �    0       �   �         �    0       �   �        �    0       �   �        �    0       �   �       � �    0       �   �       � �    0       �   �       � �    0       �   �         �    0       �   �        �    0       �   �       � �    0       �   �       � �    0       �   �         �    0       �   �         �    0       �   �        �    0       �   �       � �    0       �   �       � �    0       �   �        �    0       �   �          �    0       �   �          �@   0       �   �          ʑ 0 0                   ʑ 0 0                   ʑ 0�0                   �@   0       �   �       ��� 00               �j>�� 0 0                   �    0       �   �                      	                  +   +   +   .        �    �  �    j  �  �  8  �  !  ^"  �#   &  �+  I1  �;  �=  p�  ��  t�  <�  :�  �  ��  ��  ��  �  ��  "   %   '   *   +   -   /   2   5   8   <   ?   D   H   L   O   Q   R   T   U   ]   ^   `   a   b   d   e   h   j   m      �  �  �    B  H  �  |  D  �    �  �  �  V  @  �    <   �   \!  "  ^"  b"  �"  �#  ,$  �$  �(  H1  �A  �  N�  ��  =�  ��  #   &   (   )   ,   .   0   1   3   4   6   7   9   :   ;   =   >   @   A   B   C   E   F   G   I   J   K   M   N   P   S   V   _   c   i   n      ��  $   �  �  �        -  9  ?  Q  ]  c  x  �  �  �  �  �  �  �  �  �      -  l  |  �  �  �  �  �  �  [  g  
+  �
+  �
+  �
+  �
+  �
+  �
+  *  6  <  ^  j  p  �  �  �  W  c  i  p  |  �  �  �  �  �  �  �  �  �  �  k  w  }  �  �  �  �  �  �  �  �  �      �  �  �  �  �          $  ;  G  M  g  s  y  �  �  �  �  �  �        %  1  7  N  Z  `  z  �  �  �  �  �  m  y  1  �  �  �  �  �  **  �*  �*  ]2  2  �2  �2  �2  �2  �2  �2  �2  �2  �2  �2  3  	3  3  3  $3  43  63  B3  H3  J3  Z3  k3  {3  �3  �3  �3  �3  �3  �3  �3  �3  �3  �3  �3  �3  4  4  4  4  %4  14  =4  C4  G4  W4  `4  p4  r4  ~4  �4  �4  �4  �5  �5  �5   7  7  Z7  9  9  :  ):  .:  3:  ?:  E:  J:  V:  \:  a:  m:  r:  �:  �:  �:  �;  F���F���F���F���F���F���F���G�$G�$G�$G�$G� G� F���F���F���F���F���F���F���F���F���F���F���F���F���F���F���F���F���F���F���F���F���F���F���F���F���F���F���F���F���F���F���F���G� F���G�$F���G�$F���G�$F���G�$G�$G�$G�$F���G�$F���G�$F���F���G�$G�$F���G� F���F���G� F���F���F���F���F���         !   #   .   !� !���  �     �                           / �X   b �$   F0)��������Ao�U� ��     4�      R �$   �9L���ZG�Z���؂� U     ʰ     @ �   ��    � ��� �    �     �         �0    �(    	�                    
+�          �B    
+�        S �   �   �    �   	   ?    �       �t   �         �\   �(    	�                    
+�          ��   �    	�   �  �  �,  �	   
+�       C �N    � � ��6   �    �       �      �  \:  A  \:  M  @8  �L      �      # "�   �    �      �         �       �   �
+�     
+  � �0    � � �    �     �     �   �   �   �    S "�   �  `    �   �   ?     �   �  �  �  �	    �        �       �   �
+�     
+  s �*    � � �    �     �   �   �   �    S "�   �  `    �   �   ?     �   y#  �  �,  �	    �        �       ��   �
+�     
+  � �v    � � A   �      ?  �   ��.   �    E s c u d o   A y t o      ����    ����T  `T  T  `T      ����     "�   �  `   �   @  �  i  �    �       �   �
+�     
+  s �r    � � A   �      �   ��.   �    l o g o   P M D   B y N      >���    >���uS  `T  uS  `T      >���     "�   �  `   �   I&  �  �(  �    �       �   �
+�      
+  � �6   �    �  �  �   �    ���� �  ���� �  �    S "�   �  `    �   �   ?     �        �        �         (   .     |�������`'  �  U@     5������I&  �   u@   ��8    T e x t o 1 1  T e x t o 1 3  T e x t o 1 4  T e x t o 1 5  T e x t o 1 6  T e x t o 1 7  C a s i l l a 1  C a s i l l a 2  C a s i l l a 3  C a s i l l a 4 	 C a s i l l a 2 1 	 C a s i l l a 2 0  T e x t o 1 8  T e x t o 1 9  T e x t o 2 0  T e x t o 2 1  T e x t o 2 3  T e x t o 2 4  T e x t o 2 5  T e x t o 2 6  T e x t o 2 7  T e x t o 2 2  T e x t o 2 8  T e x t o 2 9  T e x t o 3 0  T e x t o 3 1 	 C a s i l l a 1 7  T e x t o 3 9  C a s i l l a 8  T e x t o 4 0 	 C a s i l l a 1 1  T e x t o 3 5 	 C a s i l l a 1 4  T e x t o 3 2  C a s i l l a 6  C a s i l l a 9 	 C a s i l l a 1 2 	 C a s i l l a 1 5  T e x t o 3 3  C a s i l l a 7  T e x t o 3 6 	 C a s i l l a 1 0  T e x t o 3 7  T e x t o 3 8 	 C a s i l l a 1 3 	 C a s i l l a 1 6  T e x t o 3 4 	 C a s i l l a 1 8  T e x t o 4 1  T e x t o 4 2 	 C a s i l l a 1 9  T e x t o 4 3  T e x t o 4 4  T e x t o 4 5  T e x t o 4 6  T e x t o 4 7 �  -  Q  x  �  �  �    l  �  �  �  [  �
+  ^  �  W  p  �  �  �  �  m  �  �  �*  2  �2  �2  �2  �2  	3  %3  63  K3  l3  �3  �3  �3  �3  �3  4  4  14  H4  a4  r4  �4  �5   7  9  :  3:  I:  `:  �:  �;                              	   
+                                                                      !   "   #   $   %   &   '   (   )   *   +   ,   -   .   /   0   1   2   3   4   5   6   7   �  @  d  �  �  �    .  }  �  �  �   
+  �
+  q  �  j  �  �  �  �  �  2  �  +*  ^2  �2  �2  �2  �2  3  3  53  I3  [3  |3  �3  �3  �3  �3  �3  4  &4  D4  X4  q4  �4  �4  �5  [7  9  /:  F:  ]:  s:  �:  �;  ��    A%�8
+  ��R;  �;       ^;  �;         V      *�urn:schemas-microsoft-com:office:smarttags
+�PersonName�http://www.microsoft.com  8R   �La Salobreja	�ProductID               �   �   �  �  �:  �:  �:  �:  �:  �:  �:  �:  �:  �:  �:  �:  �:  �:  �:  �:  U;  ^;  �;                             ;  =  �9  �9  �:  �:  �:  �:  �:  �:  �:  �:  �:  �:  �:  �:  �:  �:  .;  0;  �;   3  3                3      P   n   �  �  �      -  A  Q  e  x  �  �  �  �  �  	  C  W  k  p  �  �  �  �  �  �  8  k    �  �  �  �  �  �  �  �  �      '  ;  O  g  |  �  �       %  :  N  b  z  �  �  �  �  Y2  2  �2  J3  �3  �3  G4  �4  �5  �5  �:  �:  �:  �:  �:  �:  �:  �:  �:  �:  �:  �:  �:  �:  �:  �:  ;  ;  6;  �;                                                                                                �:  �:  �:  �:  �:  �:  �:  �:  �:  �:  �:  �:  �:  �:  �;                  �2$ȸ`���������� K-Z��A���������  �-C0Z��A��������� �Ue0�℡��������� j �?f����������� ��^����������� |8_i��
+����������              h        ������ �^��`���OJ QJ o( �h    �H   ��   �          h        ������ �^��`���OJ QJ ^J o( �h    �H   o    �          h        �p���� p^�p`���OJ QJ o( �h    �H   ��   �          h        �@���� @^�@`���OJ QJ o( �h    �H   ��   �          h        ����� ^�`���OJ QJ ^J o( �h    �H   o    �          h        ������ �^��`���OJ QJ o( �h    �H   ��   �          h        ������ �^��`���OJ QJ o( �h    �H   ��   �          h        ������ �^��`���OJ QJ ^J o( �h    �H   o    �          h        �P���� P^�P`���OJ QJ o( �h    �H   ��                       ������ �^��`���o(    )                      
+  ������ �^��`����h    �H    .                     
+  �p�L�� p^�p`�L��h    �H    .                       
+  �@���� @^�@`����h    �H    .                      
+  ����� ^�`����h    �H    .                     
+  ���L�� �^��`�L��h    �H    .                       
+  ������ �^��`����h    �H    .                      
+  ������ �^��`����h    �H    .                     
+  �P�L�� P^�P`�L��h    �H    .                        ������ �^��`���o(    )    �                 
+  ������ �^��`����h    �H    .    �                 
+  �p�L�� p^�p`�L��h    �H    .     �                 
+  �@���� @^�@`����h    �H    .    �                 
+  ����� ^�`����h    �H    .    �                 
+  ���L�� �^��`�L��h    �H    .     �                 
+  ������ �^��`����h    �H    .    �                 
+  ������ �^��`����h    �H    .    �                 
+  �P�L�� P^�P`�L��h    �H    .                        ������ �^��`���o(    )    �                 
+  ������ �^��`����h    �H    .    �                 
+  �p�L�� p^�p`�L��h    �H    .     �                 
+  �@���� @^�@`����h    �H    .    �                 
+  ����� ^�`����h    �H    .    �                 
+  ���L�� �^��`�L��h    �H    .     �                 
+  ������ �^��`����h    �H    .    �                 
+  ������ �^��`����h    �H    .    �                 
+  �P�L�� P^�P`�L��h    �H    .              �      "  �4���� 4^�4`���B* CJ OJ QJ o( ph   ��h    �H   ��   �          �        ������ �^��`���OJ QJ ^J o( �h    �H   o    �          �        ������ �^��`���OJ QJ o( �h    �H   ��   �          �        ������ �^��`���OJ QJ o( �h    �H   ��   �          �        �T���� T^�T`���OJ QJ ^J o( �h    �H   o    �          �        �$���� $^�$`���OJ QJ o( �h    �H   ��   �          �        ������ �^��`���OJ QJ o( �h    �H   ��   �          �        ������ �^��`���OJ QJ ^J o( �h    �H   o    �          �        ������ �^��`���OJ QJ o( �h    �H   ��                       ������ �^��`���o( �h    �H     )               �      "  ������ �^��`���B* CJ OJ QJ o( ph   ��h    �H   ��   �                 
+  �p�L�� p^�p`�L��h    �H    .     �                 
+  �@���� @^�@`����h    �H    .    �                 
+  ����� ^�`����h    �H    .    �                 
+  ���L�� �^��`�L��h    �H    .     �                 
+  ������ �^��`����h    �H    .    �                 
+  ������ �^��`����h    �H    .    �                 
+  �P�L�� P^�P`�L��h    �H    .                         ������ �^��`���OJ PJ  QJ ^J o(  -    �                    ������ �^��`���OJ QJ ^J o( �h    �H   o    �                    �p���� p^�p`���OJ QJ o( �h    �H   ��   �                    �@���� @^�@`���OJ QJ o( �h    �H   ��   �                    ����� ^�`���OJ QJ ^J o( �h    �H   o    �                    ������ �^��`���OJ QJ o( �h    �H   ��   �                    ������ �^��`���OJ QJ o( �h    �H   ��   �                    ������ �^��`���OJ QJ ^J o( �h    �H   o    �                    �P���� P^�P`���OJ QJ o( �h    �H   ��   |8_i            �-C0            �Ue0            K-            ��^            j �?            �2$            ������������������������������                 ��     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   X�r 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ T> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4�� 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ��DG4�� 
+ 
+ 
+ 
+ 
+ 
+ 
+ �a(� 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+�         �       �   A 3l �8 2w �s �? _\ d - �#  �J 54	 � �V 8* %s �{  �( j �y  �{ � Y �B ) s uF �@ �I � �  c �  }  �>$ -% S1& �u'  ( \#( �) �o) R* g+ Ob, - �. A3. �K. �{/ 
+:1 ~X1 ]U2 ^$3 �F3 M84 �4 �H5 �V5 �G6 )07 �J8 ;W8 2+: �]: �: �; TG; !B< Am< 2= .W= �J> �T? �2@ obB tC �,C `*F p;F �	G CH �cH qgH ()L 5rM �+N �+N sOP �PP �R �R �}R �\T �:U �W �X S8X &MX �\] �^ �M^  _ !~_ �
+` 'b �#f �ng b
+j Eil um 0Fm M[n �:o �aq �=s �Ws �^x Ry ey s_{ � } �) �b �Q� �"� �^� �J� ) � �N� � ;� �\� �� Y� g5� Hr� )&� �� y� g8� �� _l� �v� 2� 0X� p#� �F� �� �� !/� \e� ?r� �:� �C� �V� >+� �R� sv� BA� �(� 6*� |Z� �L� �V� {� �j� >G� �x� �
+� !8� �N� `� �E� {w� �� �!� �� S� �� 5G� >� Y	� �2� R
+� � �Z� 2l� L� rn� i5� vv� �+� �� �<� Y� �� Z`�  2� 4� dC� 
+U� !� �u� �4� �B� e� �
+� �� x� DC� 1� W6� ^M� �>� {� �M� `Z� ^C� 0X� /� D� �{� BS� W� $%� �� bA�     �  �  �    A  e  �  �  �  �  P  �      _
+  �
+  �
+  �
+  �
+  �
+  �
+  >  ?  r  �  �  �  B  C  k  �  �  �  �  �  �  �  �  �  V  W    �  �  �  �  �  �  �  �  �  �  �    &  '  O  {  |  �  �  �  �  �  �     9  :  b  �  �  �  �  2  J3  �3  �4  �4  �;           �             �       �      �   �   �   �     �      �     �     �   �   �   �     �     �   �   �   �     �     �   �   �   �     �     �   �           �@  �2  �2  �/u  �2     �2                       
+           x  x  x  x  x  `2  `3  `4  `5  `6  �7  �9  �:  �;  P   @  P  
+    P      P   @  P      P      P      P  4 @  P      P  < @  P       P  $    P  L @  P  �    P  �    P  �    P  �    P  p@  P  �@  P  �    P  �@  ��    U n k n o w n ��            ��     ��   ��    ��   ��       G�  �z     �       �      T i m e s   N e w   R o m a n   5�                   �    S y m b o l   3&�  �z     �       �      A r i a l   E&�  �              �       C e n t u r y   G o t h i c   7�                                 M V   B o l i   ?5�  	�z     �       �      C o u r i e r   N e w   ;�                            �    W i n g d i n g s   "  1� ��  �    )�zGf�zG        		  �1       j   		  �1      j       )% �                                                                                                                                                                                                                                                                                                                        �!	� � ��4    d      �:  �:                                                                       2�q �                              HP    	�� ?  �  ���������������������s     2                 ��        M O D E L O   D E   M E M O R I A   D E S C R I P T I V A        P a p i  f o r t a s                     (                                                                                                          ��                      �����Oh�� +'��0   �        �      �      �      �      �      �      �        	           
+   @     L     X     d     l     t     |     �         MODELO DE MEMORIA DESCRIPTIVA                   Papi                              Normal        fortas        3         Microsoft Office Word   @    �    @    f�����@    �(͈�         		     �1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     ��                      ��՜.�� +,��0           h      p      |      �      �      �      �      �      �      �      �      �      �               j            �:     �                                     MODELO DE MEMORIA DESCRIPTIVA            T�tulo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          	   
+                                                                      !   "   #   $   %   &   '   (   )   *   +   ,   -   .   /   0   1   2   3   4   5   6   7   8   9   :   ;   <   =   >   ?   @   A   B   C   D   E   F   G   H   I   J   K   L   M   N   O   P   Q   R   S   T   U   V   W   X   Y   Z   [   \   ]   ^   _   `   a   b   c   d   e   f   g   h   i   j   k   l   m   n   o   p   q   r   s   t   u   v   w   x   y   z   {   |   }   ~      �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �����   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �   �                      	  
+        ����                                     !  "  #  $  %  &  '  (  )  *  +  ,  -  .  /  0  1  2  3  4  5  6  7  8  9  :  ;  <  =  >  ?  @  A  B  C  D  E  F  ����H  I  J  K  L  M  N  ����P  Q  R  S  T  U  V  ����������������[  ����������������������������������������������������������������������������������������������������������������������������������������������������R o o t   E n t r y                                              ��������   	     �      F            ��H͈�]  �       D a t a                                                         
+ ������������                                    �   8]      1 T a b l e                                                            ����                                      �q      W o r d D o c u m e n t                                                ����                                        �      S u m m a r y I n f o r m a t i o n                           ( ������������                                    G          D o c u m e n t S u m m a r y I n f o r m a t i o n           8    ��������                                    O          C o m p O b j                                                   ������������                                        r                                                                           ������������                                                   ���������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������� ��
+  ����	     �      F    Documento Microsoft Office Word 
+   MSWordDoc    Word.Document.8 �9�q                                                                                                                                                                                                                                                                                                                                                                                                                          R o o t   E n t r y                                              ��������   	     �      F            ��j����b         D a t a                                                         
+ ������������                                    �   8]      1 T a b l e                                                            ����                                      �q      W o r d D o c u m e n t                                                ����                                        �                     	  
+        ����                                     !  "  #  $  %  &  '  (  )  *  +  ,  -  .  /  0  1  2  3  4  5  6  7  8  9  :  ;  <  =  >  ?  @  A  B  C  D  E  F  ����H  I  J  K  L  M  N  ����������������������������������������������������������������a  ������������������������������������������������������������������������������������������������������������������������������������   ����               ���������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������� S u m m a r y I n f o r m a t i o n                           ( ������������                                    G          D o c u m e n t S u m m a r y I n f o r m a t i o n           8    ��������                                       �       C o m p O b j                                                   ������������                                        r                                                                           ������������                                                 ��
+  ����	     �      F    Documento Microsoft Office Word 
+   MSWordDoc    Word.Document.8 �9�q                          ��                      ��՜.�� +,��D   ��՜.�� +,��L          h      p      |      �      �      �      �      �      �      �      �      �      �               j            �:     �                                     MODELO DE MEMORIA DESCRIPTIVA            T�tulo          4                 $      �,          �     
+  
+
+------------------------------
+
+
+
+Link: Solicitud
+URL: https://sede.aytojaen.es/sta/docs/GetDocumentServlet?CUD=12434156454120753167&HASH_CUD=5c8922c6233a9cbd9b0b1fc9c9a5cb94a7355247&APP_CODE=STA
+Tipo detectado: pdf
+
+
+
+[PDF: https://sede.aytojaen.es/sta/docs/GetDocumentServlet?CUD=12434156454120753167&HASH_CUD=5c8922c6233a9cbd9b0b1fc9c9a5cb94a7355247&APP_CODE=STA]
+
+ 
+ 
+ 
+  Excmo. Ayuntamiento 
+ de Jaén Patronato Municipal de 
+Deportes de Jaén  SOLICITUD DE AUTORIZACIÓN DE PRUEBAS DEPORTIVAS, 
+MARCHAS CICLISTAS Y OTROS EVENTOS 
+ 
+SOLICITANTE:  
+NOMBRE Y APELLIDOS: 
+ D.N.I.: 
+ 
+TELÉFONO: TELÉFONO MÓVIL: FAX: CORREO ELECTRÓNICO: 
+Representante legal de:  (Cumplimentar solo cuando el solicitante sea una  persona jurídica –club, asociación, etc.-) 
+RAZÓN SOCIAL DE LA ENTIDAD, CLUB, ASOCIACIÓN, ETC.: C.I.F.: 
+Domicilio a efectos de notificación:  
+NOMBRE DE LA VIA: NUM.: BLQ: PISO: PTA: 
+CÓDIGO POSTAL: LOCALIDAD: PROVINCIA: 
+ 
+ACTIVIDAD PARA LA QUE SE SOLICITA LA AUTORIZACIÓN:  
+DENOMINACIÓN: 
+ 
+LUGAR DE CELEBRACIÓN: Nº. PARTICIPANTES PREVISTO: 
+FECHA CELEBRACIÓN (INICIO): FECHA CELEBRACIÓN (FINALIZACIÓN): HORA DE INICIO: HORA DE FINALIZACIÓN: 
+ 
+DOCUMENTACIÓN APORTADA:  
+ Permiso de organización y reglamento de la prueba, ex pedido y sellado por la Federación Deportiva Andaluza 
+correspondiente (cuando se trate de pruebas deportivas) . 
+ Memoria descriptiva: (deberá contener la siguiente información) 
+ Nombre de la actividad, fecha de celebración y, en su caso, número cronológico de la edición. 
+ Croquis preciso del recorrido, itinerario, perfil, horario pr obable de paso por los distintos lugares del recorrido y 
+promedio previsto tanto de la cabeza como de la cola o cierre de la prueba. 
+ Identificación de las personas responsables de la organizac ión, concretamente de la persona que se ocupe de la 
+dirección ejecutiva y, cuando proceda, de la persona responsable de seguridad vial, que dirigirá la actividad del 
+personal auxiliar habilitado.  
+ Número de participantes previstos. 
+ Propuesta de medidas de señalización de la prueba o ev ento y del resto de los dispositivos de seguridad en los 
+posibles lugares peligrosos. 
+ Plan de emergencia y autoprotección acompañado, si se trata de una prueba deportiva, del informe técnico de la 
+Federación Deportiva Andaluza correspondiente sobre la adec uación técnico-deportiva de la competición, suficiencia 
+e idoneidad de los medios de seguridad, atención médica, evacuación y extinción de incendios para caso de 
+accidente. 
+ Justificante de la contratación y vigencia del seguro obligatorio de responsabilidad civil en materia de espectáculos 
+públicos y actividades recreativas, o conforme a la Ley del  Deporte si se trata de una competición deportiva oficial 
+organizada por federaciones deportivas o clubes que las integran. 
+ Informe favorable de la Administración Pública titular de la vía sobre la viabilidad de la prueba o evento. (cuando su desarrollo 
+discurra, en parte, por vías interurbanas). 
+ Autorización de los titulares, en el supuesto de utiliz ar espacios, vías o terrenos de titularidad privada. 
+ Informe favorable de la Consejería competente en materia de medio ambiente sobre la viabilidad de la prueba o evento. 
+(cuando se desarrolle, en todo o en parte, en espacios natura les protegidos, terrenos forestales y vías pecuarias). 
+ Acreditación de la contratación de servicios sanitarios, en su caso.  
+ 
+IMPORTANTE:  La solicitud, junto con la documentación, deberá presentarse en el Registro de Entrada del Patronato de Deportes, de 9:00 a 
+13:00 h., de lunes a viernes, salvo festivos, con una antelación mínima de 30 días al previsto para la celebración de la prueba  o evento, 
+ 
+ 
+Jaén, ____ de ______________________ de ______ 
+Firma del solicitante, 
+ 
+ 
+ 
+   
+  
+ 
+  
+ 
+  
+  
+REGISTRO DE ENTRADA 
+ 
+ 
+ 
+
+------------------------------
+
+
+
+Link: Tramitación Online
+URL: javascript:enterNewReg(window.catser.dboid,'es');
+Tipo detectado: restricted
+
+
+
+Es necesario Cl@ve o certificado digital
+
+------------------------------
+

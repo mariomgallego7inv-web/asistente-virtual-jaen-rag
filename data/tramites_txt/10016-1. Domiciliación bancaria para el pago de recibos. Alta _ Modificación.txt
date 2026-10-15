@@ -1,0 +1,368 @@
+Trámite ID: 6269026886868231305011
+
+Nombre: 10016-1. Domiciliación bancaria para el pago de recibos. Alta / Modificación
+
+URL: https://sede.aytojaen.es/sta/CarpetaPublic/doEvent?APP_CODE=STA&PAGE_CODE=CATALOGO&DETALLE=6269026886868231305011
+
+
+--- Contenido principal ---
+
+
+Es necesario instalar Autofirma para firmar solicitudes de registro electrónico, aceptar notificaciones y firmar documentos del portafirmas
+[descargar]
+10016-1. Domiciliación bancaria para el pago de recibos. Alta / Modificación
+Descripción
+10016-1. Domiciliación bancaria para el pago de recibos.Alta / Modificación
+ATENCIÓN
+: Desde el
+1 de enero de 2026
+, la gestión y recaudación de los impuestos sobre Vehículos de Tracción Mecánica (IVTM), Bienes Inmuebles de naturaleza Urbana, Rústica y de Características Especiales (IBIU/IBIR/BICES), y de Actividades Económicas (IAE), quedarán delegadas a la
+Diputación Provincial de Jaén
+.
+Si su solicitud es referida a estos conceptos, deberá presentarla en el
+Servicio Provincial de Gestión y Recaudación de la Diputación Provincial de Jaén
+. Se facilita el enlace a la
+Oficina Virtual Tributaria
+en "
+https://ofsgt.dipujaen.es/
+".
+Finalidad
+Utlilice esta solicitud para
+ordenar la domiciliación
+de recibos en su cuenta bancaria o
+modificar el número de cuenta
+de la domiciliación que tenga actualmente.
+Presentación
+Si dispone de certificado digital/clave/e-DNI puede
+domiciliar o cambiar la cuenta EN LÍNEA
+accediendo a la opción
+Objetos tributarios
+de la carpeta ciudadana de la sede electrónica.
+Presencial
+:
+Servicio Municipal de Gestión y Recaudación Tributaria (
+Calle Obispo González, 9)
+Registro Electrónico: Enlaces al final de esta página
+Organo Gestor
+Servicio Municipal de Gestión y Recaudación Tributaria
+Calle Obispo González, 9
+Telf: Información: 953 21 91 82 - 953 21 91 83
+Fax:  953 21 91 70
+Plazo de resolución
+Esta Orden surtirá efectos a partir del período siguiente al de haber sido recibida en el Negociado encargado de su tramitación, siempre que la presentación sea con dos meses de antelación a lapuesta al cobro del citado periodo. En caso contrario, surtirá efectos al siguiente (Art. 25.2 del R.G.R)
+Art. 25.2 del Reglamento General de Recaudación, R. D. 939/2005 de 25 de julio: Las domiciliaciones tendrán validez por tiempo indefinido en tanto no sean anuladas por elinteresado, rechazada por la Entidad de Depósito o que la Administración Pública disponga expresamente su invalidez por razones justificadas.
+Efecto del silencio Administrativo
+No procede
+Normativa básica
+Ordenanza Fiscal General de Gestión, Recaudación e Inspección
+Modelos de solicitud
+10016-1. Domiciliación de Pagos de recibos Alta o Modificación
+10016-1. Domiciliación de Pagos de recibos Alta o Modificación v2
+Nivel de identificación en trámitación online
+Substancial:
+Acceso mediante sistema Cl@ve
+Tramitación Online
+Seleccione como desea identificarse:
+Con certificado digital (Autofirma)
+Acceso mediante sistema Clave
+Tramitación Presencial
+
+
+--- Recursos vinculados (seguido su contenido) ---
+
+
+Link: [descargar]
+URL: https://firmaelectronica.gob.es/Home/Descargas.html
+Tipo detectado: html
+
+
+
+[HTML: https://firmaelectronica.gob.es/Home/Descargas.html]
+
+Firma Electrónica | Descargas -Ciudadanos
+Ir al contenido
+Cerrar sesión
+Castellano
+Castellano
+Català
+Gallego
+Euskara
+Valencià
+English
+Ciudadanos
+Inicio
+Portada de Ciudadanos
+Tutoriales
+Ciudadanos
+Portada de Tutoriales
+Firmar un documento - Certificado Electrónico
+Firmar al mismo nivel que otros (cofirmar)
+Firmar para certificar otras firmas (contrafirmar)
+Validar una firma
+Visualizar una firma
+Cosas que deberías saber
+Ciudadanos
+Portada de Cosas que deberías saber
+La firma electrónica
+El DNI electrónico
+Certificados electrónicos
+Formatos de firma
+Aplicaciones de firma
+Validación de las firmas
+Base legal
+Navegadores y ordenador
+Tipos de certificados
+Identidad digital en las AA.PP:
+Para no equivocarse
+Descargas
+Empresas
+Inicio
+Portada de Empresas
+Tutoriales
+Empresas
+Portada de Tutoriales
+Firmar un documento - Certificado Electrónico
+Firmar al mismo nivel que otros (cofirmar)
+Firmar para certificar otras firmas (contrafirmar)
+Validar una firma
+Visualizar una firma
+Cosas que deberías saber
+Empresas
+Portada de Cosas que deberías saber
+Navegadores y ordenador
+Certificados de empresa
+Factura electrónica
+Autoridades de Certificación
+La firma electrónica
+Los Certificados Electrónicos
+Formatos de firma
+Aplicaciones de firma
+Tipos de Certificados
+Base legal
+Validación de las firmas
+Para no equivocarte
+Identidad Digital
+Navegadores y ordenador
+Descargas
+Empleados Públicos
+Ciudadanos
+Tutoriales
+Cosas que deberías saber
+Descargas
+Portada de
+                                                        Ciudadanos
+Empresas
+Tutoriales
+Cosas que deberías saber
+Descargas
+Portada de
+                                                        Empresas
+Empleados Públicos
+Buscar
+Ciudadanos
+Descargas
+Descargas para ciudadanos
+Desde aquí puedes descargarte aquellas aplicaciones que necesites para firmar electrónicamente y otras utilidades o documentos.
+Autofirma
+Autofirma
+Manuales
+Plugin de Huella Digital v1.0
+@Firma (obsoleto)
+Política de Firma de la AGE
+Autofirma
+Manuales
+Plugin de Huella Digital v1.0
+@Firma (obsoleto)
+Política de Firma de la AGE
+Aplicación de firma electrónica desarrollada por el Ministerio de Asuntos Económicos y Transformación Digital. Al poder ser ejecutada desde el navegador, permite la firma en páginas de Administración Electrónica cuando se requiere la firma en un procedimiento administrativo.
+Autofirma Apps
+Para Windows
+Versión 1.9
+Versión 1.9 para Windows 64 bits
+Versión 1.9 para Windows 32 bits
+Versiones anteriores
+Versión 1.8.3 para Windows 64 bits
+Versión 1.8.3 para Windows 32 bits
+Para Linux
+Versión 1.9
+Versión 1.9 para Debian Linux
+Versión 1.9 para Fedora Linux
+Versión 1.9 para OpenSUSE Linux
+Versiones anteriores
+Versión 1.8.3 para Debian Linux
+Versión 1.8.3 para Fedora Linux
+Versión 1.8.3 para OpenSUSE Linux
+Para MacOS
+Versión 1.9
+Versión 1.9 para MacOS procesadores x64
+Versión 1.9 para MacOS procesadores x64 (incl Java 11)
+Versión 1.9 para MacOS procesadores M1 y siguientes
+Versiones anteriores
+Versión 1.8.4 para MacOS procesadores x64
+Versión 1.8.4 para MacOS procesadores M1
+Manuales
+Guía para el usuario final de AutoFirma a través del proceso de instalación, posibilidades de uso de AutoFirma a través de consola, uso de tarjetas inteligentes y listado de diversos problemas que pueden surgir en la instalación y ejecución de la aplicación.
+Manual de Instalación para Usuarios (1.9)
+Manual de Instalación para Usuarios (1.8.2 y siguientes)
+Plugin de Huella Digital v1.0
+Plugin para el cálculo y la comprobación de hashes versión v1.0. El componente permite generar ficheros de hashes con el hash de un fichero o de todos los ficheros de un directorio. También permite comprobar que un fichero de hashes es válido seleccionando el fichero o directorio a partir del cual se generó. IMPORTANTE: El plugin requiere de Autofirma v1.8 o superior (no es compatible con la versión 1.7.2 y anteriores). En versiones de Autofirma anteriores a la v1.8 la funcionalidad del plugin estaba integrada en la aplicación. Su paso a plugin se ha realizado para facilitar su gestión y evolución.
+Plugin de Huella Digital 1.0 (para Autofirma v1.8 o superior)
+Cliente @Firma (obsoleto) - Se recomienda usar Autofirma
+Cliente @Firma es una aplicación de firma desarrollada por el Ministerio de Hacienda y Administraciones Públicas. Al tratarse de una versión obsoleta se recomienda el uso de Autofirma.
+Cliente @Firma (obsoleto)
+Política de Firma de la AGE
+Define un modelo de esquema de referencia para la identificación y autenticación electrónica, recogidos en la Ley 11/2007, de 22 de Junio, de Acceso Electrónico de los Ciudadanos a los Servicios Públicos en el ámbito de la AGE
+Política de Firma de la AGE
+Mapa web
+Accesibilidad
+Aviso Legal
+Política de cookies
+Política de privacidad
+Plan de Recuperación, Transformación y Resiliencia - Financiado por la Unión Europea - NextGenerationEU
+© Portal de Administración Electrónica · Agencia Estatal de Administración Digital
+Política de cookies
+Este sitio web utiliza cookies propias y de terceros para ofrecer un mejor servicio. Si continúa navegando consideramos que acepta su uso.
+Ver política de cookies
+Rechazar todas las cookies
+Aceptar todas las cookies
+
+------------------------------
+
+
+
+Link: javascript:;
+URL: javascript:;
+Tipo detectado: restricted
+
+
+
+Es necesario Cl@ve o certificado digital
+
+------------------------------
+
+
+
+Link: https://ofsgt.dipujaen.es/
+URL: https://ofsgt.dipujaen.es/
+Tipo detectado: html
+
+
+
+[HTML: https://ofsgt.dipujaen.es/]
+
+Oficina Virtual Tributaria de Jaén
+
+------------------------------
+
+
+
+Link: Objetos tributarios
+URL: https://sede.aytojaen.es/sta/CarpetaPrivate/Login?APP_CODE=STA&PAGE_CODE=OTRIB
+Tipo detectado: html
+
+
+
+[HTML: https://sede.aytojaen.es/sta/CarpetaPrivate/Login?APP_CODE=STA&PAGE_CODE=OTRIB]
+
+Objetos tributarios
+STA. Carpeta Ciudadana
+Autenticación del Usuario
+Identificación requerida
+Solo se admite el uso de Cl@ve
+con Nivel Avanzado de seguridad (esto es,
+obtenido presencialmente o usando un certificado electrónico)
+No puede acceder a la sede si obtuvo
+cl@ve
+con una carta de invitación o mediante videoidentificación.
+Certificado/DNI-e/Cl@ve
+Acceso con Certificado Digital
+
+------------------------------
+
+
+
+Link: Ordenanza Fiscal General de Gestión, Recaudación e Inspección
+URL: https://sede.aytojaen.es/portal/sede/se_contenedor1.jsp?seccion=s_fdoc_d4_v1.jsp&contenido=30653&tipo=5&nivel=1400&layout=se_contenedor1.jsp&codResi=1&language=es
+Tipo detectado: html
+
+
+
+[HTML: https://sede.aytojaen.es/portal/sede/se_contenedor1.jsp?seccion=s_fdoc_d4_v1.jsp&contenido=30653&tipo=5&nivel=1400&layout=se_contenedor1.jsp&codResi=1&language=es]
+
+Sede Electrónica - Ordenanza Fiscal General de Gestión, Recaudación e Inspección
+Sede Electrónica
+Ayuntamiento de Jaén
+Ordenanza Fiscal General de Gestión, Recaudación e Inspección
+volver
+imprimir
+escuchar
+compartir
+Fecha de publicación:
+27 de Noviembre de 2019
+DESCARGA DE DOCUMENTOS
+Ordenanza Fiscal General de Gestión, Recaudación e Inspección
+29 de Noviembre de 2019
+volver
+imprimir
+escuchar
+compartir
+Ayuntamiento de Jaén
+Plaza
+                   
+                   
+                    	Santa María
+                   
+                   
+                    	1.
+                   
+                   
+                    	23002
+                   
+                   
+	                Jaén
+                   
+                   
+                  	(Jaén)
+Teléfono: 953 21 91 00
+(Centralita)
+900 72 72 73
+(Oficina de Información y Atención al Ciudadano)
+Correo electrónico: oic@aytojaen.es
+
+------------------------------
+
+
+
+Link: 10016-1. Domiciliación de Pagos de recibos Alta o Modificación
+URL: https://sede.aytojaen.es/sta/docs/GetDocumentServlet?CUD=12434156153327746477&HASH_CUD=281391aab9f45c1b7c63b608ddc7a3c599710af0&APP_CODE=STA
+Tipo detectado: pdf
+
+
+
+[PDF: https://sede.aytojaen.es/sta/docs/GetDocumentServlet?CUD=12434156153327746477&HASH_CUD=281391aab9f45c1b7c63b608ddc7a3c599710af0&APP_CODE=STA]
+
+ALTA O MODIFICACIÓN DOMICILIACIÓN PAGOS RECIBOS ENTIDADES BANCARIAS
+Nombre y apellidos
+NIF 
+PoblaciónDomicilio
+Jaén, Código PostalEn calidad de
+Teléfono E-mail
+DATOS DE LA CUENTA BANCARIA
+IBANEXCMO. AYUNTAMIENTO DE JAÉN 
+SERVICIO MUNICIPAL DE GESTIÓN Y RECAUDACIÓN TRIBUTARIA 
+C/ Obispo González, 9 - 23002 - JAÉN 
+Teléfonos: 953 21 91 82 - 83FORM PROC-10016-1 Solicitud disponible para tramitación telemática en https://sede.aytojaen.esALTA DE DOMICILIACIÓN
+Concepto tributario NIF Nombre y apellidos o Razón Social que aparece en el recibo Referencia
+NOTA. -De Conformidad con la vigente Ordenanza Fiscal General de Gestión, Recaudación e Inspección:  
+* Las domiciliaciones tendrán validez por tiempo indefinido, en tanto no sean anuladas por el interesado, rechazadas por la entidad 
+bancaria correspondiente o cuando no resulten eficaces de forma reiterada por causas no imputables al Ayuntamiento. 
+* Las domiciliaciones surtirán efecto a partir del periodo siguiente al de la presentación de la orden, siempre que dicha presentación se 
+efectúe al menos con dos meses de antelación a la puesta al cobro del citado periodo.
+LOPD: Responsable del Tratamiento: Ayuntamiento de Jaén. Finalidad: Gestión y Recaudación de tributos. Legitimación: Ley 58/2013, General Tributaria. 
+Cesión de datos: no prevista. Ejercicio de los derechos de acceso, rectificación, supresión y portabilidad, y limitación u oposición a su tratamiento, 
+presentando solicitud al Ayuntamiento. Más información en sede.aytojaen.es
+EL SOLICITANTENIF TitularMODIFICACIÓN DE DOMICILIACIÓN
+IMPORTANTE: Es obligatorio incluir la referencia de cada concepto tributario.
+
+------------------------------
+

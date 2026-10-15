@@ -1,0 +1,3 @@
+﻿Modelo;BM25_Recall@5;BM25_Precision@5;FAISS_Recall@5;FAISS_Precision@5;Hibrido_Recall@5;Hibrido_Precision@5
+hiiamsid/sentence_similarity_spanish_es;50,06;37,08;61,68;44,99;61,57;43,48
+dariolopez/bge-m3-es-legal-tmp-6;50,06;37,08;75,68;57,59;68,68;46,41

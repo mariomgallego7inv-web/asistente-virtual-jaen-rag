@@ -1,0 +1,211 @@
+Trámite ID: 6269026856646536505011
+
+Nombre: 50001. Exención de IVTM por Discapacidad
+
+URL: https://sede.aytojaen.es/sta/CarpetaPublic/doEvent?APP_CODE=STA&PAGE_CODE=CATALOGO&DETALLE=6269026856646536505011
+
+
+--- Contenido principal ---
+
+
+Es necesario instalar Autofirma para firmar solicitudes de registro electrónico, aceptar notificaciones y firmar documentos del portafirmas
+[descargar]
+50001. Exención de IVTM por Discapacidad
+Descripción
+50001. Exención de IVTM por Discapacidad
+Finalidad
+A
+partir del 1 de enero de 2026
+este trámite no estará disponible en la Sede Electrónica del Ayuntamiento de Jaén. Deberá hacerse directamente en el
+Servicio Provincial de Gestión y Recaudación de la Excma. Diputación Provincial de Jaén
+Efecto del silencio Administrativo
+No procede
+Documentos a Presentar
+
+
+--- Recursos vinculados (seguido su contenido) ---
+
+
+Link: [descargar]
+URL: https://firmaelectronica.gob.es/Home/Descargas.html
+Tipo detectado: html
+
+
+
+[HTML: https://firmaelectronica.gob.es/Home/Descargas.html]
+
+Firma Electrónica | Descargas -Ciudadanos
+Ir al contenido
+Cerrar sesión
+Castellano
+Castellano
+Català
+Gallego
+Euskara
+Valencià
+English
+Ciudadanos
+Inicio
+Portada de Ciudadanos
+Tutoriales
+Ciudadanos
+Portada de Tutoriales
+Firmar un documento - Certificado Electrónico
+Firmar al mismo nivel que otros (cofirmar)
+Firmar para certificar otras firmas (contrafirmar)
+Validar una firma
+Visualizar una firma
+Cosas que deberías saber
+Ciudadanos
+Portada de Cosas que deberías saber
+La firma electrónica
+El DNI electrónico
+Certificados electrónicos
+Formatos de firma
+Aplicaciones de firma
+Validación de las firmas
+Base legal
+Navegadores y ordenador
+Tipos de certificados
+Identidad digital en las AA.PP:
+Para no equivocarse
+Descargas
+Empresas
+Inicio
+Portada de Empresas
+Tutoriales
+Empresas
+Portada de Tutoriales
+Firmar un documento - Certificado Electrónico
+Firmar al mismo nivel que otros (cofirmar)
+Firmar para certificar otras firmas (contrafirmar)
+Validar una firma
+Visualizar una firma
+Cosas que deberías saber
+Empresas
+Portada de Cosas que deberías saber
+Navegadores y ordenador
+Certificados de empresa
+Factura electrónica
+Autoridades de Certificación
+La firma electrónica
+Los Certificados Electrónicos
+Formatos de firma
+Aplicaciones de firma
+Tipos de Certificados
+Base legal
+Validación de las firmas
+Para no equivocarte
+Identidad Digital
+Navegadores y ordenador
+Descargas
+Empleados Públicos
+Ciudadanos
+Tutoriales
+Cosas que deberías saber
+Descargas
+Portada de
+                                                        Ciudadanos
+Empresas
+Tutoriales
+Cosas que deberías saber
+Descargas
+Portada de
+                                                        Empresas
+Empleados Públicos
+Buscar
+Ciudadanos
+Descargas
+Descargas para ciudadanos
+Desde aquí puedes descargarte aquellas aplicaciones que necesites para firmar electrónicamente y otras utilidades o documentos.
+Autofirma
+Autofirma
+Manuales
+Plugin de Huella Digital v1.0
+@Firma (obsoleto)
+Política de Firma de la AGE
+Autofirma
+Manuales
+Plugin de Huella Digital v1.0
+@Firma (obsoleto)
+Política de Firma de la AGE
+Aplicación de firma electrónica desarrollada por el Ministerio de Asuntos Económicos y Transformación Digital. Al poder ser ejecutada desde el navegador, permite la firma en páginas de Administración Electrónica cuando se requiere la firma en un procedimiento administrativo.
+Autofirma Apps
+Para Windows
+Versión 1.9
+Versión 1.9 para Windows 64 bits
+Versión 1.9 para Windows 32 bits
+Versiones anteriores
+Versión 1.8.3 para Windows 64 bits
+Versión 1.8.3 para Windows 32 bits
+Para Linux
+Versión 1.9
+Versión 1.9 para Debian Linux
+Versión 1.9 para Fedora Linux
+Versión 1.9 para OpenSUSE Linux
+Versiones anteriores
+Versión 1.8.3 para Debian Linux
+Versión 1.8.3 para Fedora Linux
+Versión 1.8.3 para OpenSUSE Linux
+Para MacOS
+Versión 1.9
+Versión 1.9 para MacOS procesadores x64
+Versión 1.9 para MacOS procesadores x64 (incl Java 11)
+Versión 1.9 para MacOS procesadores M1 y siguientes
+Versiones anteriores
+Versión 1.8.4 para MacOS procesadores x64
+Versión 1.8.4 para MacOS procesadores M1
+Manuales
+Guía para el usuario final de AutoFirma a través del proceso de instalación, posibilidades de uso de AutoFirma a través de consola, uso de tarjetas inteligentes y listado de diversos problemas que pueden surgir en la instalación y ejecución de la aplicación.
+Manual de Instalación para Usuarios (1.9)
+Manual de Instalación para Usuarios (1.8.2 y siguientes)
+Plugin de Huella Digital v1.0
+Plugin para el cálculo y la comprobación de hashes versión v1.0. El componente permite generar ficheros de hashes con el hash de un fichero o de todos los ficheros de un directorio. También permite comprobar que un fichero de hashes es válido seleccionando el fichero o directorio a partir del cual se generó. IMPORTANTE: El plugin requiere de Autofirma v1.8 o superior (no es compatible con la versión 1.7.2 y anteriores). En versiones de Autofirma anteriores a la v1.8 la funcionalidad del plugin estaba integrada en la aplicación. Su paso a plugin se ha realizado para facilitar su gestión y evolución.
+Plugin de Huella Digital 1.0 (para Autofirma v1.8 o superior)
+Cliente @Firma (obsoleto) - Se recomienda usar Autofirma
+Cliente @Firma es una aplicación de firma desarrollada por el Ministerio de Hacienda y Administraciones Públicas. Al tratarse de una versión obsoleta se recomienda el uso de Autofirma.
+Cliente @Firma (obsoleto)
+Política de Firma de la AGE
+Define un modelo de esquema de referencia para la identificación y autenticación electrónica, recogidos en la Ley 11/2007, de 22 de Junio, de Acceso Electrónico de los Ciudadanos a los Servicios Públicos en el ámbito de la AGE
+Política de Firma de la AGE
+Mapa web
+Accesibilidad
+Aviso Legal
+Política de cookies
+Política de privacidad
+Plan de Recuperación, Transformación y Resiliencia - Financiado por la Unión Europea - NextGenerationEU
+© Portal de Administración Electrónica · Agencia Estatal de Administración Digital
+Política de cookies
+Este sitio web utiliza cookies propias y de terceros para ofrecer un mejor servicio. Si continúa navegando consideramos que acepta su uso.
+Ver política de cookies
+Rechazar todas las cookies
+Aceptar todas las cookies
+
+------------------------------
+
+
+
+Link: javascript:;
+URL: javascript:;
+Tipo detectado: restricted
+
+
+
+Es necesario Cl@ve o certificado digital
+
+------------------------------
+
+
+
+Link: Servicio Provincial de Gestión y Recaudación de la Excma. Diputación Provincial de Jaén
+URL: https://ofsgt.dipujaen.es/
+Tipo detectado: html
+
+
+
+[HTML: https://ofsgt.dipujaen.es/]
+
+Oficina Virtual Tributaria de Jaén
+
+------------------------------
+

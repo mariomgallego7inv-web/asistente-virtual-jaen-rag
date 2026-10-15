@@ -1,0 +1,414 @@
+Trámite ID: 6269026893999754405011
+
+Nombre: 00012. Buzón de Quejas y Sugerencias
+
+URL: https://sede.aytojaen.es/sta/CarpetaPublic/doEvent?APP_CODE=STA&PAGE_CODE=CATALOGO&DETALLE=6269026893999754405011
+
+
+--- Contenido principal ---
+
+
+Es necesario instalar Autofirma para firmar solicitudes de registro electrónico, aceptar notificaciones y firmar documentos del portafirmas
+[descargar]
+00012. Buzón de Quejas y Sugerencias
+Descripción
+Buzón de Quejas y Sugerencias
+Finalidad
+Haga llegar al Ayuntamiento sus consultas, quejas y sugerencias rellenando esta formulario, que será atendido a través de la Oficina Municipal de Información y Atención Ciudadana (OMIAC)
+Quien lo puede Presentar
+Cualquier ciudadano
+Organo Gestor
+Oficina Municipal de Información y Atención Ciudadana (OMIAC)
+Efecto del silencio Administrativo
+No procede
+Nivel de identificación en trámitación online
+Bajo:
+No es necesario demostrar su identidad
+Documentos a Presentar
+Documentación
+Fotografías
+Tramitación Online
+Seleccione como desea identificarse:
+Escribiré mis datos
+Atención : si accede sin identificación, podrá realizar el trámite, pero sus datos no se asociarán a su historial, al no ser posible garantizar su identidad. ¿Desea continuar?
+Aceptar
+Tramitación Presencial
+Tramitación Telefónica
+
+
+--- Recursos vinculados (seguido su contenido) ---
+
+
+Link: [descargar]
+URL: https://firmaelectronica.gob.es/Home/Descargas.html
+Tipo detectado: html
+
+
+
+[HTML: https://firmaelectronica.gob.es/Home/Descargas.html]
+
+Firma Electrónica | Descargas -Ciudadanos
+Ir al contenido
+Cerrar sesión
+Castellano
+Castellano
+Català
+Gallego
+Euskara
+Valencià
+English
+Ciudadanos
+Inicio
+Portada de Ciudadanos
+Tutoriales
+Ciudadanos
+Portada de Tutoriales
+Firmar un documento - Certificado Electrónico
+Firmar al mismo nivel que otros (cofirmar)
+Firmar para certificar otras firmas (contrafirmar)
+Validar una firma
+Visualizar una firma
+Cosas que deberías saber
+Ciudadanos
+Portada de Cosas que deberías saber
+La firma electrónica
+El DNI electrónico
+Certificados electrónicos
+Formatos de firma
+Aplicaciones de firma
+Validación de las firmas
+Base legal
+Navegadores y ordenador
+Tipos de certificados
+Identidad digital en las AA.PP:
+Para no equivocarse
+Descargas
+Empresas
+Inicio
+Portada de Empresas
+Tutoriales
+Empresas
+Portada de Tutoriales
+Firmar un documento - Certificado Electrónico
+Firmar al mismo nivel que otros (cofirmar)
+Firmar para certificar otras firmas (contrafirmar)
+Validar una firma
+Visualizar una firma
+Cosas que deberías saber
+Empresas
+Portada de Cosas que deberías saber
+Navegadores y ordenador
+Certificados de empresa
+Factura electrónica
+Autoridades de Certificación
+La firma electrónica
+Los Certificados Electrónicos
+Formatos de firma
+Aplicaciones de firma
+Tipos de Certificados
+Base legal
+Validación de las firmas
+Para no equivocarte
+Identidad Digital
+Navegadores y ordenador
+Descargas
+Empleados Públicos
+Ciudadanos
+Tutoriales
+Cosas que deberías saber
+Descargas
+Portada de
+                                                        Ciudadanos
+Empresas
+Tutoriales
+Cosas que deberías saber
+Descargas
+Portada de
+                                                        Empresas
+Empleados Públicos
+Buscar
+Ciudadanos
+Descargas
+Descargas para ciudadanos
+Desde aquí puedes descargarte aquellas aplicaciones que necesites para firmar electrónicamente y otras utilidades o documentos.
+Autofirma
+Autofirma
+Manuales
+Plugin de Huella Digital v1.0
+@Firma (obsoleto)
+Política de Firma de la AGE
+Autofirma
+Manuales
+Plugin de Huella Digital v1.0
+@Firma (obsoleto)
+Política de Firma de la AGE
+Aplicación de firma electrónica desarrollada por el Ministerio de Asuntos Económicos y Transformación Digital. Al poder ser ejecutada desde el navegador, permite la firma en páginas de Administración Electrónica cuando se requiere la firma en un procedimiento administrativo.
+Autofirma Apps
+Para Windows
+Versión 1.9
+Versión 1.9 para Windows 64 bits
+Versión 1.9 para Windows 32 bits
+Versiones anteriores
+Versión 1.8.3 para Windows 64 bits
+Versión 1.8.3 para Windows 32 bits
+Para Linux
+Versión 1.9
+Versión 1.9 para Debian Linux
+Versión 1.9 para Fedora Linux
+Versión 1.9 para OpenSUSE Linux
+Versiones anteriores
+Versión 1.8.3 para Debian Linux
+Versión 1.8.3 para Fedora Linux
+Versión 1.8.3 para OpenSUSE Linux
+Para MacOS
+Versión 1.9
+Versión 1.9 para MacOS procesadores x64
+Versión 1.9 para MacOS procesadores x64 (incl Java 11)
+Versión 1.9 para MacOS procesadores M1 y siguientes
+Versiones anteriores
+Versión 1.8.4 para MacOS procesadores x64
+Versión 1.8.4 para MacOS procesadores M1
+Manuales
+Guía para el usuario final de AutoFirma a través del proceso de instalación, posibilidades de uso de AutoFirma a través de consola, uso de tarjetas inteligentes y listado de diversos problemas que pueden surgir en la instalación y ejecución de la aplicación.
+Manual de Instalación para Usuarios (1.9)
+Manual de Instalación para Usuarios (1.8.2 y siguientes)
+Plugin de Huella Digital v1.0
+Plugin para el cálculo y la comprobación de hashes versión v1.0. El componente permite generar ficheros de hashes con el hash de un fichero o de todos los ficheros de un directorio. También permite comprobar que un fichero de hashes es válido seleccionando el fichero o directorio a partir del cual se generó. IMPORTANTE: El plugin requiere de Autofirma v1.8 o superior (no es compatible con la versión 1.7.2 y anteriores). En versiones de Autofirma anteriores a la v1.8 la funcionalidad del plugin estaba integrada en la aplicación. Su paso a plugin se ha realizado para facilitar su gestión y evolución.
+Plugin de Huella Digital 1.0 (para Autofirma v1.8 o superior)
+Cliente @Firma (obsoleto) - Se recomienda usar Autofirma
+Cliente @Firma es una aplicación de firma desarrollada por el Ministerio de Hacienda y Administraciones Públicas. Al tratarse de una versión obsoleta se recomienda el uso de Autofirma.
+Cliente @Firma (obsoleto)
+Política de Firma de la AGE
+Define un modelo de esquema de referencia para la identificación y autenticación electrónica, recogidos en la Ley 11/2007, de 22 de Junio, de Acceso Electrónico de los Ciudadanos a los Servicios Públicos en el ámbito de la AGE
+Política de Firma de la AGE
+Mapa web
+Accesibilidad
+Aviso Legal
+Política de cookies
+Política de privacidad
+Plan de Recuperación, Transformación y Resiliencia - Financiado por la Unión Europea - NextGenerationEU
+© Portal de Administración Electrónica · Agencia Estatal de Administración Digital
+Política de cookies
+Este sitio web utiliza cookies propias y de terceros para ofrecer un mejor servicio. Si continúa navegando consideramos que acepta su uso.
+Ver política de cookies
+Rechazar todas las cookies
+Aceptar todas las cookies
+
+------------------------------
+
+
+
+Link: javascript:;
+URL: javascript:;
+Tipo detectado: restricted
+
+
+
+Es necesario Cl@ve o certificado digital
+
+------------------------------
+
+
+
+Link: Oficina Municipal de Información y Atención Ciudadana (OMIAC)
+URL: http://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_floc_d4_v1.jsp&codbusqueda=1491&language=es&codResi=1&layout=p_20_contenedor1.jsp&codAdirecto=513
+Tipo detectado: http_error
+
+
+
+[HTTP Error 404 al acceder a http://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_floc_d4_v1.jsp&codbusqueda=1491&language=es&codResi=1&layout=p_20_contenedor1.jsp&codAdirecto=513]
+
+------------------------------
+
+
+
+Link: Aceptar
+URL: https://sede.aytojaen.es/sta/CarpetaPublic/doEvent?APP_CODE=STA&PAGE_CODE=CATALOGO&DETALLE=6269026893999754405011
+Tipo detectado: html
+
+
+
+[HTML: https://sede.aytojaen.es/sta/CarpetaPublic/doEvent?APP_CODE=STA&PAGE_CODE=CATALOGO&DETALLE=6269026893999754405011]
+
+Catalogo de procedimientos
+Ir a la web municipal
+Identificate
+Sede Electrónica
+Ayuntamiento de Jaén
+Menu
+Sede Electrónica
+✕
+Mis Datos
+Datos personales
+Objetos tributarios
+Recibos
+Multas
+Autoliquidaciones
+Datos del padrón de habitantes
+Censo electoral
+Anotaciones en el registro
+Expedientes
+Buzón de notificaciones electrónicas
+Documentos
+Portafirmas
+Mi Calendario fiscal
+Publicaciones Oficiales
+Oferta de empleo
+Tablón de anuncios y edictos electrónicos
+Ordenanzas municipales
+Sesiones de junta de gobierno local
+Sesiones de pleno
+Perfil de contratante
+Calendario fiscal
+Trámites
+Catálogo de trámites
+Suscripción o baja de notificaciones electrónicas
+Presentación de documentación a expedientes en trámite
+Inscripciones en Cursos, Talleres y Actividades de la Universidad Popular
+Inscripciones en cursos y reservas de instalaciones del Patronato de Deportes
+Quejas y sugerencias
+Verificación de documentos
+Es necesario instalar Autofirma para firmar solicitudes de registro electrónico, aceptar notificaciones y firmar documentos del portafirmas
+[descargar]
+00012. Buzón de Quejas y Sugerencias
+Descripción
+Buzón de Quejas y Sugerencias
+Finalidad
+Haga llegar al Ayuntamiento sus consultas, quejas y sugerencias rellenando esta formulario, que será atendido a través de la Oficina Municipal de Información y Atención Ciudadana (OMIAC)
+Quien lo puede Presentar
+Cualquier ciudadano
+Organo Gestor
+Oficina Municipal de Información y Atención Ciudadana (OMIAC)
+Efecto del silencio Administrativo
+No procede
+Nivel de identificación en trámitación online
+Bajo:
+No es necesario demostrar su identidad
+Documentos a Presentar
+Documentación
+Fotografías
+Tramitación Online
+Seleccione como desea identificarse:
+Escribiré mis datos
+Atención : si accede sin identificación, podrá realizar el trámite, pero sus datos no se asociarán a su historial, al no ser posible garantizar su identidad. ¿Desea continuar?
+Aceptar
+Tramitación Presencial
+Tramitación Telefónica
+Sobre la Sede
+Titularidad
+Normativa
+Acceso a la sede
+Calendario y cómputo de plazos
+Relación de servicios electrónicos
+Información de interés
+Política de privacidad
+Compromiso con la protección de datos personales
+Política de cookies
+Certificados electrónicos
+Interrupciones del servicio
+Sistemas de firma
+Enlaces de interés
+Ayuda
+Preguntas frecuentes (FAQs)
+Información sobre notificaciones
+Ayuda de la Sede
+Aviso legal
+Códigos de barras en documentos de pago
+Usabilidad
+Inicio
+Accesibilidad
+Mapa web
+Ayuntamiento de Jaén
+Plaza Santa María 1. 23002 Jaén
+900 72 72 73
+oic@aytojaen.es
+http://www.aytojaen.es
+
+------------------------------
+
+
+
+Link: Tramitación Telefónica
+URL: https://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_floc_d4_v1.jsp&codbusqueda=1491&language=es&codResi=1&layout=p_20_contenedor1.jsp&codAdirecto=513
+Tipo detectado: html
+
+
+
+[HTML: https://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_floc_d4_v1.jsp&codbusqueda=1491&language=es&codResi=1&layout=p_20_contenedor1.jsp&codAdirecto=513]
+
+Oficina Municipal de Información y Atención Ciudadana
+Ayuntamiento de Jaén
+Inicio
+Accesibilidad
+Mapa web
+Está en:
+Inicio
+->
+Oficina Municipal de Información y Atención Ciudadana
+Oficina Municipal de Información y Atención Ciudadana
+Volver
+Imprimir
+¿QUE ES LA OMIAC?
+Es una oficina creada especialmente para mejorar la calidad de servicio al ciudadano y conseguir una Administración acogedora, receptiva y eficiente. El objetivo prioritario es integrar en un único punto de atención, un servicio de información, registro y tramitación que, mediante la simplificación y agilización de procesos, facilite el acceso de la ciudadanía y el ciudadano al Ayuntamiento.
+SOLICITUDES:
+- Recepción y derivación de cualquier tipo de quejas.
+- Reclamaciones de todo tipo.
+CONSULTAS
+- Informar y orientar a los ciudadanos de Jaén sobre los recursos municipales existentes, así como los trámites necesarios para acceder a los mismos.
+- Informar sobre cuestiones y asuntos de interés municipal, así como canalizar las posibles demandas hacia otras instituciones.
+- Informar sobre otras cuestiones y asuntos: oposiciones, concursos, becas, premios etc.
+- Servir de tablón de anuncios para todas aquellas actividades de carácter social y cultural que el Ayuntamiento de Jaén organice o se partícipe.
+- Información sobre la ciudad, agenda de actividades, instalaciones, campañas, direcciones de organismos oficiales y otros datos de interés.
+"Sus peticiones serán atendidas y si no podemos resolverlas les dirigiremos a donde pueda hacerlo"
+COMPROMISOS
+Las personas que acudan a la Oficina Municipal de Atención Ciudadana pueden esperar:
+- Ser tratadas con respeto y amabilidad
+- Ser informadas con claridad de cuantos asuntos estén relacionados con el motivo de la consulta
+- Que los datos presentados por las personas que requieren un servicio sean tratados con confidencialidad.
+- Poner a su disposición cauces eficaces para la presentación de avisos, quejas, sugerencias y reclamaciones.
+- Ahorrar esfuerzos y favorecer la agilidad a la ciudadanía en su relación con los procedimientos administrativos.
+- Mejorar continuamente la atención prestada y los procedimientos puestos a disposición de la ciudadanía.
+NORMATIVA REGULADORA DE LOS SERVICIOS PRESTADOS POR LA OFICINA DE INFORMACIÓN Y ATENCION CIUDADANA.
+- La Constitución Española en su art. 9.2.
+- El derecho de petición del art. 29 de la Constitución Española
+- La ley 30/92 de Régimen Jurídico de las Administraciones Públicas y Procedimiento Administrativo Común (BOE del 27 de Noviembre), modificada por la ley 4/99
+- El Real Decreto 208/1996, de 9 de febrero, por el que se regulan los Servicios de Información Administrativa y Atención al Ciudadano (BOE del 4 de marzo-1996)
+Llámenos y dénos su opinión
+Progresivamente iremos incorporando nueva información, trámites y servicios; por eso necesitamos conocer su opinión.
+La opinión de la ciudadanía nos ayuda a saber hacia donde debe ir nuestro servicio y corregir nuestras carencias.
+Dirección y datos de contacto
+Dirección
+Calle 
+                  Pintor Francisco Quero de Miguel (Lateral UPM), s/n
+Planta Baja (Derecha)
+23006 Jaén (Jaén)
+Telf:
+900 72 72 73
+953 24 59 23
+Horario
+De 09:00 h. a 13:30 h de Lunes a Viernes
+Datos de contacto
+Correo electrónico:
+oic@aytojaen.es
+Cómo llegar
+Fecha última modificación: 22 de enero de 2024 a las 14:17
+Excmo. Ayuntamiento de Jaén
+Plaza de Santa María, 1. 23002
+Tfno:
+953 21 91 00
+Oficina Municipal de Información y Atención Ciudadana
+Pintor Francisco Quero de Miguel s/n (Lateral UPM) - Planta Baja (Derecha)
+Tfno:
+900 72 72 73
+Correo electrónico:
+oic@aytojaen.es
+Administrador Web: En caso de cualquier duda técnica sobre el portal,
+envíe sus consultas a la Oficina de Acceso Electrónico
+oae@aytojaen.es
+Portal optimizado para una resolución de 1024 x 768
+RSS
+Protección de datos
+Aviso legal
+
+------------------------------
+

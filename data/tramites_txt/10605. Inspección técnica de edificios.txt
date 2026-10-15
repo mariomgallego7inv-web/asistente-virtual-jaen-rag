@@ -1,0 +1,965 @@
+Trámite ID: 6269026896559081705011
+
+Nombre: 10605. Inspección técnica de edificios
+
+URL: https://sede.aytojaen.es/sta/CarpetaPublic/doEvent?APP_CODE=STA&PAGE_CODE=CATALOGO&DETALLE=6269026896559081705011
+
+
+--- Contenido principal ---
+
+
+Es necesario instalar Autofirma para firmar solicitudes de registro electrónico, aceptar notificaciones y firmar documentos del portafirmas
+[descargar]
+10605. Inspección técnica de edificios
+Descripción
+10605. Inspección técnica de edificios
+Finalidad
+Sirve para acreditar el correcto estado de conservación de los edificios de más de 50 años de antigüedad.
+Debe solicitrse antes de un año a partir de los 50 años de antigüedad del edificio. Seis meses cuando exista requerimiento expreso de la GMU.
+Plazo de resolución: Tres meses si la inspección resultara favorable. Si fuera desfavorable se estará a la tramitación que se establece en los artículos 155 y siguientes de la ley 7/2.002
+Presentación
+Presencial
+:
+Información y Registro de la Gerencia Municipal de Urbanismo
+Registro Electrónico
+: Enlaces al final de esta página
+Organo Gestor
+Área de Disciplina y Conservación - GMU
+Plazo de resolución
+Tres meses si la inspección resultara favorable. Si fuera desfavorable se estará a la tramitación que se establece en los artículos 155 y siguientes de la ley 7/2.002
+Efecto del silencio Administrativo
+No procede
+Normativa básica
+Ordenanza Reguladora de la inspección técnica de edificaciones en el término municipal de Jaén
+Artículo 156 de la Ley 7/2002
+Pago de tasas
+Autoliquidación Modelo 620 - Apartado 2 - Epígrafe 1
+Información Adicional
+Documentación a aportar:
+Se requieren tres formularios y una autoliquidación
+Informe de Inspección Técnica (Anexo II)
+Ficha Técnica del Edificio (Anexo III)
+Documentación complementaria (si procede)
+Autoliquidación Modelo 620 - Apartado 2 - Epígrafe 1
+Observaciones:
+Con carácter transitorio, los edificios con más de 50 años de antigüedad a la entrada en vigor de la ordenanza y que se encuentren fuera de la delimitación del PEPRI, dispondrán excepcionalmente de un plazo de 2 años para la presentación del Informe de inspección técnica del edificio
+Modelos de solicitud
+Solicitud
+10605. Modelo de Inspeccion Técnica de Edificios Documentacion Extra
+Solicitud
+10605 Modelo de Inspección Técnica de Edificios-Ficha Técnica-Anexo III
+Solicitud
+10605 Modelo de Inspección Técnica de Edificios-Informe-Anexo II
+Nivel de identificación en trámitación online
+Substancial:
+Acceso mediante sistema Cl@ve
+Documentos a Presentar
+Documentación
+Informe de Inspección Técnica (Anexo II)
+Ficha Técnica del Edificio (Anexo III)
+Documentación complementaria (si procede)
+Tasas
+Autoliquidación Modelo 620
+Tramitación Online
+Seleccione como desea identificarse:
+Con certificado digital (Autofirma)
+Acceso mediante sistema Clave
+Tramitación Presencial
+
+
+--- Recursos vinculados (seguido su contenido) ---
+
+
+Link: [descargar]
+URL: https://firmaelectronica.gob.es/Home/Descargas.html
+Tipo detectado: html
+
+
+
+[HTML: https://firmaelectronica.gob.es/Home/Descargas.html]
+
+Firma Electrónica | Descargas -Ciudadanos
+Ir al contenido
+Cerrar sesión
+Castellano
+Castellano
+Català
+Gallego
+Euskara
+Valencià
+English
+Ciudadanos
+Inicio
+Portada de Ciudadanos
+Tutoriales
+Ciudadanos
+Portada de Tutoriales
+Firmar un documento - Certificado Electrónico
+Firmar al mismo nivel que otros (cofirmar)
+Firmar para certificar otras firmas (contrafirmar)
+Validar una firma
+Visualizar una firma
+Cosas que deberías saber
+Ciudadanos
+Portada de Cosas que deberías saber
+La firma electrónica
+El DNI electrónico
+Certificados electrónicos
+Formatos de firma
+Aplicaciones de firma
+Validación de las firmas
+Base legal
+Navegadores y ordenador
+Tipos de certificados
+Identidad digital en las AA.PP:
+Para no equivocarse
+Descargas
+Empresas
+Inicio
+Portada de Empresas
+Tutoriales
+Empresas
+Portada de Tutoriales
+Firmar un documento - Certificado Electrónico
+Firmar al mismo nivel que otros (cofirmar)
+Firmar para certificar otras firmas (contrafirmar)
+Validar una firma
+Visualizar una firma
+Cosas que deberías saber
+Empresas
+Portada de Cosas que deberías saber
+Navegadores y ordenador
+Certificados de empresa
+Factura electrónica
+Autoridades de Certificación
+La firma electrónica
+Los Certificados Electrónicos
+Formatos de firma
+Aplicaciones de firma
+Tipos de Certificados
+Base legal
+Validación de las firmas
+Para no equivocarte
+Identidad Digital
+Navegadores y ordenador
+Descargas
+Empleados Públicos
+Ciudadanos
+Tutoriales
+Cosas que deberías saber
+Descargas
+Portada de
+                                                        Ciudadanos
+Empresas
+Tutoriales
+Cosas que deberías saber
+Descargas
+Portada de
+                                                        Empresas
+Empleados Públicos
+Buscar
+Ciudadanos
+Descargas
+Descargas para ciudadanos
+Desde aquí puedes descargarte aquellas aplicaciones que necesites para firmar electrónicamente y otras utilidades o documentos.
+Autofirma
+Autofirma
+Manuales
+Plugin de Huella Digital v1.0
+@Firma (obsoleto)
+Política de Firma de la AGE
+Autofirma
+Manuales
+Plugin de Huella Digital v1.0
+@Firma (obsoleto)
+Política de Firma de la AGE
+Aplicación de firma electrónica desarrollada por el Ministerio de Asuntos Económicos y Transformación Digital. Al poder ser ejecutada desde el navegador, permite la firma en páginas de Administración Electrónica cuando se requiere la firma en un procedimiento administrativo.
+Autofirma Apps
+Para Windows
+Versión 1.9
+Versión 1.9 para Windows 64 bits
+Versión 1.9 para Windows 32 bits
+Versiones anteriores
+Versión 1.8.3 para Windows 64 bits
+Versión 1.8.3 para Windows 32 bits
+Para Linux
+Versión 1.9
+Versión 1.9 para Debian Linux
+Versión 1.9 para Fedora Linux
+Versión 1.9 para OpenSUSE Linux
+Versiones anteriores
+Versión 1.8.3 para Debian Linux
+Versión 1.8.3 para Fedora Linux
+Versión 1.8.3 para OpenSUSE Linux
+Para MacOS
+Versión 1.9
+Versión 1.9 para MacOS procesadores x64
+Versión 1.9 para MacOS procesadores x64 (incl Java 11)
+Versión 1.9 para MacOS procesadores M1 y siguientes
+Versiones anteriores
+Versión 1.8.4 para MacOS procesadores x64
+Versión 1.8.4 para MacOS procesadores M1
+Manuales
+Guía para el usuario final de AutoFirma a través del proceso de instalación, posibilidades de uso de AutoFirma a través de consola, uso de tarjetas inteligentes y listado de diversos problemas que pueden surgir en la instalación y ejecución de la aplicación.
+Manual de Instalación para Usuarios (1.9)
+Manual de Instalación para Usuarios (1.8.2 y siguientes)
+Plugin de Huella Digital v1.0
+Plugin para el cálculo y la comprobación de hashes versión v1.0. El componente permite generar ficheros de hashes con el hash de un fichero o de todos los ficheros de un directorio. También permite comprobar que un fichero de hashes es válido seleccionando el fichero o directorio a partir del cual se generó. IMPORTANTE: El plugin requiere de Autofirma v1.8 o superior (no es compatible con la versión 1.7.2 y anteriores). En versiones de Autofirma anteriores a la v1.8 la funcionalidad del plugin estaba integrada en la aplicación. Su paso a plugin se ha realizado para facilitar su gestión y evolución.
+Plugin de Huella Digital 1.0 (para Autofirma v1.8 o superior)
+Cliente @Firma (obsoleto) - Se recomienda usar Autofirma
+Cliente @Firma es una aplicación de firma desarrollada por el Ministerio de Hacienda y Administraciones Públicas. Al tratarse de una versión obsoleta se recomienda el uso de Autofirma.
+Cliente @Firma (obsoleto)
+Política de Firma de la AGE
+Define un modelo de esquema de referencia para la identificación y autenticación electrónica, recogidos en la Ley 11/2007, de 22 de Junio, de Acceso Electrónico de los Ciudadanos a los Servicios Públicos en el ámbito de la AGE
+Política de Firma de la AGE
+Mapa web
+Accesibilidad
+Aviso Legal
+Política de cookies
+Política de privacidad
+Plan de Recuperación, Transformación y Resiliencia - Financiado por la Unión Europea - NextGenerationEU
+© Portal de Administración Electrónica · Agencia Estatal de Administración Digital
+Política de cookies
+Este sitio web utiliza cookies propias y de terceros para ofrecer un mejor servicio. Si continúa navegando consideramos que acepta su uso.
+Ver política de cookies
+Rechazar todas las cookies
+Aceptar todas las cookies
+
+------------------------------
+
+
+
+Link: javascript:;
+URL: javascript:;
+Tipo detectado: restricted
+
+
+
+Es necesario Cl@ve o certificado digital
+
+------------------------------
+
+
+
+Link: Información y Registro de la Gerencia Municipal de Urbanismo
+URL: https://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_floc_d4_v1.jsp&tipo=1&&contenido=1011&nivel=1400&layout=p_20_contenedor1.jsp&codResi=1
+Tipo detectado: html
+
+
+
+[HTML: https://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_floc_d4_v1.jsp&tipo=1&&contenido=1011&nivel=1400&layout=p_20_contenedor1.jsp&codResi=1]
+
+Gerencia Municipal de Urbanismo
+Ayuntamiento de Jaén
+Inicio
+Accesibilidad
+Mapa web
+Está en:
+Inicio
+Gerencia Municipal de Urbanismo
+Volver
+Imprimir
+La Gerencia Municipal de Urbanismo está estructurada de la siguiente manera:
+- Área de Arquitectura
+- Área de Disciplina y Conservación
+- Área de Administración y Economía
+- Área de Planeamiento y Gestión
+Dirección y datos de contacto
+Dirección
+Plaza 
+                  Merced, s/n
+Jaén (Jaén)
+Telf:
+953 21 91 91
+Cómo llegar
+Ver
+Gerencia Municipal de Urbanismo
+en un mapa más grande
+Fecha última modificación: 15 de febrero de 2012 a las 12:33
+Excmo. Ayuntamiento de Jaén
+Plaza de Santa María, 1. 23002
+Tfno:
+953 21 91 00
+Oficina Municipal de Información y Atención Ciudadana
+Pintor Francisco Quero de Miguel s/n (Lateral UPM) - Planta Baja (Derecha)
+Tfno:
+900 72 72 73
+Correo electrónico:
+oic@aytojaen.es
+Administrador Web: En caso de cualquier duda técnica sobre el portal,
+envíe sus consultas a la Oficina de Acceso Electrónico
+oae@aytojaen.es
+Portal optimizado para una resolución de 1024 x 768
+RSS
+Protección de datos
+Aviso legal
+
+------------------------------
+
+
+
+Link: Área de Disciplina y Conservación - GMU
+URL: https://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_floc_d4_v1.jsp&tipo=1&&contenido=28291&nivel=1400&layout=p_20_contenedor1.jsp&codResi=1
+Tipo detectado: html
+
+
+
+[HTML: https://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_floc_d4_v1.jsp&tipo=1&&contenido=28291&nivel=1400&layout=p_20_contenedor1.jsp&codResi=1]
+
+Área de Disciplina y Conservación - GMU
+Ayuntamiento de Jaén
+Inicio
+Accesibilidad
+Mapa web
+Está en:
+Inicio
+Área de Disciplina y Conservación - GMU
+Volver
+Imprimir
+Área de Disciplina y Conservación
+Gerencia Municipal de Urbanismo
+Dirección y datos de contacto
+Dirección
+Plaza de la Merced, s/n
+Jaén (Jaén)
+Telf:
+953219191
+Cómo llegar
+Fecha última modificación: 1 de junio de 2020 a las 10:20
+Excmo. Ayuntamiento de Jaén
+Plaza de Santa María, 1. 23002
+Tfno:
+953 21 91 00
+Oficina Municipal de Información y Atención Ciudadana
+Pintor Francisco Quero de Miguel s/n (Lateral UPM) - Planta Baja (Derecha)
+Tfno:
+900 72 72 73
+Correo electrónico:
+oic@aytojaen.es
+Administrador Web: En caso de cualquier duda técnica sobre el portal,
+envíe sus consultas a la Oficina de Acceso Electrónico
+oae@aytojaen.es
+Portal optimizado para una resolución de 1024 x 768
+RSS
+Protección de datos
+Aviso legal
+
+------------------------------
+
+
+
+Link: Ordenanza Reguladora de la inspección técnica de edificaciones en el término municipal de Jaén
+URL: https://sede.aytojaen.es/portal/sede/se_contenedor1.jsp?seccion=s_fdoc_d4_v1.jsp&contenido=10425&tipo=5&nivel=1400&codResi=1&language=es
+Tipo detectado: html
+
+
+
+[HTML: https://sede.aytojaen.es/portal/sede/se_contenedor1.jsp?seccion=s_fdoc_d4_v1.jsp&contenido=10425&tipo=5&nivel=1400&codResi=1&language=es]
+
+Sede Electrónica - Ordenanza Reguladora de la Inspección Técnica de Edificaciones en el término municipal de Jaén
+Sede Electrónica
+Ayuntamiento de Jaén
+Ordenanza Reguladora de la Inspección Técnica de Edificaciones en el término municipal de Jaén
+volver
+imprimir
+escuchar
+compartir
+Fecha de publicación:
+1 de Junio de 2012
+DESCARGA DE DOCUMENTOS
+Ordenanza Reguladora de la Inspección Técnica de Edificaciones en el término municipal de Jaén
+4 de Marzo de 2015
+volver
+imprimir
+escuchar
+compartir
+Ayuntamiento de Jaén
+Plaza
+                   
+                   
+                    	Santa María
+                   
+                   
+                    	1.
+                   
+                   
+                    	23002
+                   
+                   
+	                Jaén
+                   
+                   
+                  	(Jaén)
+Teléfono: 953 21 91 00
+(Centralita)
+900 72 72 73
+(Oficina de Información y Atención al Ciudadano)
+Correo electrónico: oic@aytojaen.es
+
+------------------------------
+
+
+
+Link: Autoliquidación Modelo 620 - Apartado 2 - Epígrafe 1
+URL: https://sede.aytojaen.es/sta/CarpetaPublic/Public?APP_CODE=STA&PAGE_CODE=GTLIQSPUB
+Tipo detectado: html
+
+
+
+[HTML: https://sede.aytojaen.es/sta/CarpetaPublic/Public?APP_CODE=STA&PAGE_CODE=GTLIQSPUB]
+
+Crear Liquidaciones zona no Autenticada
+Ir a la web municipal
+Identificate
+Sede Electrónica
+Ayuntamiento de Jaén
+Menu
+Sede Electrónica
+✕
+Mis Datos
+Datos personales
+Objetos tributarios
+Recibos
+Multas
+Autoliquidaciones
+Datos del padrón de habitantes
+Censo electoral
+Anotaciones en el registro
+Expedientes
+Buzón de notificaciones electrónicas
+Documentos
+Portafirmas
+Mi Calendario fiscal
+Publicaciones Oficiales
+Oferta de empleo
+Tablón de anuncios y edictos electrónicos
+Ordenanzas municipales
+Sesiones de junta de gobierno local
+Sesiones de pleno
+Perfil de contratante
+Calendario fiscal
+Trámites
+Catálogo de trámites
+Suscripción o baja de notificaciones electrónicas
+Presentación de documentación a expedientes en trámite
+Inscripciones en Cursos, Talleres y Actividades de la Universidad Popular
+Inscripciones en cursos y reservas de instalaciones del Patronato de Deportes
+Quejas y sugerencias
+Verificación de documentos
+Cálculo, presentación y liquidación de tributos
+1
+Tributo
+2
+Información
+3
+Cálculo
+4
+Presentación
+5
+Liquidación
+Tributo
+Información
+Cálculo
+Presentación
+Liquidación
+Desde el
+1 de enero de 2026
+la gestión y recaudación del
+Impuesto sobre Vehículos de Tracción Mecánica
+quedará delegada a la Diputación Provincial de Jaén y podrá generar la autoliquidación en la
+oficina virtual tributaria del Servicio Provincial de Gestión y Recaudación de la Diputación Provincial
+de Jaén
+https://ofsgt.dipujaen.es/
+Debe indicar la institución en la que desea liquidar el tributo. Una vez seleccionada la institución deberá indicar que liquidación quiere realizar.
+Seleccione la institución en la que desea realizar la autoliquidación:
+<seleccione una institución>
+Excmo. Ayuntamiento de Jaén
+Gerencia Municipal Urbanismo
+Universidad Popular
+Uso exclusivo personal interno
+Sobre la Sede
+Titularidad
+Normativa
+Acceso a la sede
+Calendario y cómputo de plazos
+Relación de servicios electrónicos
+Información de interés
+Política de privacidad
+Compromiso con la protección de datos personales
+Política de cookies
+Certificados electrónicos
+Interrupciones del servicio
+Sistemas de firma
+Enlaces de interés
+Ayuda
+Preguntas frecuentes (FAQs)
+Información sobre notificaciones
+Ayuda de la Sede
+Aviso legal
+Códigos de barras en documentos de pago
+Usabilidad
+Inicio
+Accesibilidad
+Mapa web
+Ayuntamiento de Jaén
+Plaza Santa María 1. 23002 Jaén
+900 72 72 73
+oic@aytojaen.es
+http://www.aytojaen.es
+
+------------------------------
+
+
+
+Link: Solicitud
+URL: https://sede.aytojaen.es/sta/docs/GetDocumentServlet?CUD=13524515246705172625&HASH_CUD=f7c37fb4dc498ac7519b6e537d73951825146aef&APP_CODE=STA
+Tipo detectado: html
+
+
+
+[HTML: https://sede.aytojaen.es/sta/docs/GetDocumentServlet?CUD=13524515246705172625&HASH_CUD=f7c37fb4dc498ac7519b6e537d73951825146aef&APP_CODE=STA]
+
+��ࡱ�                >  ��	               `          b      ����    _   �������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������� #`	  ��             0   bjbjm�m�                  
+ l&  �  �  h      �                      ��         ��         ��                 �     �      �  �      �      �      �      �  �           �      0      0      0  (  X  <   �     �      �a  �   �  L     �   �      �      �      �  .   �  $        a     a      a      a      a      a      a  $   Db  h  �d  �   3a                     �      %                      �      �      %      %      3a              �      �      �              �  �   Ha     �      �      �      %  d   �      �      �      �      a              �                                                      %      a              �              �      �      �                                                              �      �      �     9���X�        0      �  d   �              a      ^a  0   �a      �      �e      �  <  �e      �                                                                              �e              �      �  �I  %      %      �      %      %                                      %      %      %      3a      3a                                      )  d                                   %      %      %      �a      %      %      %      %              �      �      �  �  L  �  �      �      �      L      �      �      �      �      �      �      �      �      �      ����                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       Nombre y apellidos del t�cnico:  FORMTEXT NOMBRE Y APELLIDOS- Relativa al plano de situaci�n:- Relativa a las fotograf�as de las fachadas:- Relativa a otros m�todos de inspecci�n:- Relativa a descripci�n de da�os observados:- Relativa a fotograf�as de da�os observados:Ja�n, a  FORMTEXT d�a de  FORMTEXT mes de  FORMTEXT 2012DOCUMENTACI�N COMPLEMENTARIA AL INFORME DE INSPECCI�N T�CNICA DEL EDIFICIOIndique aqu� el n�mero de parcela catastralP�gina PAGE  1 de  NUMPAGES 1DOCUMENTACI�N COMPLEMENTARIA AL INFORME DE INSPECCI�N T�CNICA DEL EDIFICIOIndique aqu� el n�mero de parcela catastralP�gina PAGE  1 de  NUMPAGES 1DOCUMENTACI�N COMPLEMENTARIA AL INFORME DE INSPECCI�N T�CNICA DEL EDIFICIOIndique aqu� el n�mero de parcela catastralP�gina PAGE  1 de  NUMPAGES 1DOCUMENTACI�N COMPLEMENTARIA AL INFORME DE INSPECCI�N T�CNICA DEL EDIFICIOIndique aqu� el n�mero de parcela catastralP�gina PAGE  1 de  NUMPAGES 1DOCUMENTACI�N COMPLEMENTARIA AL INFORME DE INSPECCI�N T�CNICA DEL EDIFICIOIndique aqu� el n�mero de parcela catastralP�gina PAGE  1 de  NUMPAGES 1DOCUMENTACI�N COMPLEMENTARIA AL INFORME DE INSPECCI�N T�CNICA DEL EDIFICIOIndique aqu� el n�mero de parcela catastralP�gina PAGE  1 de  NUMPAGES 1                                                                                                                                                                                                                      !  +  ,  -  ?  @  B  Q  d  g  �  �  �  �  �  �   	  "	  #	  +	  ,	  6	  7	  8	  ;	  <	  @	  A	  K	  L	  M	  P	  Q	  U	  V	  `	  a	  b	  f	  g	  h	  i	  ������������������ʿ���������������������zr         j    hP� UhjeQ h�@/  �j�  hP� U�j&  hP� Uh{u  h�s} mH nH u�j�   hP� Uh�s}  j    h�s} Uh�Q9  h3<^ hjeQ CJ aJ  h.�  h��  h�s} >*mH nH u �j    h.� h�/ >*U 	h.� >*j    h.� >*U hjeQ +   A  B  d  e  f  �  �  �  �  �  �  �  �  �   	  !	  "	  #	  h	  j	  k	  m	  n	  p	  �            �            �            �            �            �            �            �            �            �            �            �            �            �            �            �            �            �            �            �            �            �            �            �                        
+ $dh a$gd�Q9   dh gd.�   dh gdjeQ   ��� dh ^��`� gduX�     h	  /  ��                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             i	  k	  l	  n	  o	  q	  r	  t	  u	  �	  �	  �	  �	  �	  �	  �	  �	  �	  �	  �	  �	  
+  
+  
+  
+  ������������ɷ��}�h��Q>Q$h9� h	 0J CJ OJ QJ ^J aJ  -j    h9� h	 0J CJ OJ QJ U^J aJ )h�s} 0J CJ OJ QJ ^J aJ mH nH u$h'S� h	 0J CJ OJ QJ ^J aJ  -j    h'S� h	 0J CJ OJ QJ U^J aJ h	 0J CJ OJ QJ ^J aJ  #hQ^� h	 6�CJ OJ QJ ^J aJ h	 6�CJ OJ QJ ^J aJ h	  hjeQ h	 mH
+sH
+ 	h	 >*h�e� h	 >*j    hP� UhP� p	  q	  s	  t	  �	  �	  �	  �	  
+  
+  
+  ^
+  _
+  `
+  �
+  �
+  �
+  �
+  �
+  �
+  �
+  +  O  P  Q  �            �            �            �            �            �            �            �            �            �            �            �            �            �            �            �            �            �            �            �            �            �            �            �                            $�� �&�#$a$gdjeQ   �h]�hgdjeQ    
+ $d� a$gdjeQ     
+  
+  
+  
+  
+  
+  ]
+  ^
+  _
+  `
+  �
+  �
+  �
+  �
+  �
+  �
+  �
+  �
+  �
+  �
+  �
+  �
+  �
+  �
+  �
+  �
+  �
+  �
+  �
+  �����������s\�\�\s�I��������  $h9� h	 0J CJ OJ QJ ^J aJ  -j    h'S� h	 0J CJ OJ QJ U^J aJ h	 0J CJ OJ QJ ^J aJ  #hQ^� h	 6�CJ OJ QJ ^J aJ h	 6�CJ OJ QJ ^J aJ hjeQ h	 mH
+sH
+ 	h	 >*h�e� h	 >*h	  $h'S� h	 0J CJ OJ QJ ^J aJ  -j    h9� h	 0J CJ OJ QJ U^J aJ )h	 0J CJ OJ QJ ^J aJ mH nH u �
+  �
+  �
+     +  2  3  9  :  ;  <  @  A  K  L  M  N  O  Q  R  �  �  �  �  �  �  �  �  �  �����������jWj�j��OJO�������    	h	 >*h�e� h	 >*$h9� h	 0J CJ OJ QJ ^J aJ  -j    h9� h	 0J CJ OJ QJ U^J aJ )h	 0J CJ OJ QJ ^J aJ mH nH u$h'S� h	 0J CJ OJ QJ ^J aJ  -j    h'S� h	 0J CJ OJ QJ U^J aJ h	 0J CJ OJ QJ ^J aJ  #hQ^� h	 6�CJ OJ QJ ^J aJ h	 6�CJ OJ QJ ^J aJ h	  hjeQ h	 mH
+sH
+Q  �  �  �  �  �  �  �  ;  <  =  i  �  �  �  �  �  �    ,  -  .  /  0  �            �            �            �            �            �            �            �            �            �            �            �            �            �            �            �            �            �            �            �            �            �            �                    
+ $dh a$gd�Q9     $�� �&�#$a$gdjeQ   �h]�hgdjeQ       
+ $d� a$gdjeQ  �  �  �  �  �  �  �  �  �  �  �  �  �  :  ;  <  =  ^  i  p  q  w  x  y  z  ~    �  �  ���ì��Ӭ��zuzj�[I�����ì��  #hQ^� h	 6�CJ OJ QJ ^J aJ h	 6�CJ OJ QJ ^J aJ hjeQ h	 mH
+sH
+ 	h	 >*h�e� h	 >*h	  $h'S� h	 0J CJ OJ QJ ^J aJ  $h9� h	 0J CJ OJ QJ ^J aJ  -j    h9� h	 0J CJ OJ QJ U^J aJ h	 0J CJ OJ QJ ^J aJ  )h	 0J CJ OJ QJ ^J aJ mH nH u-j    h'S� h	 0J CJ OJ QJ U^J aJ  �  �  �  �  �  �  �  �  �  �  �                    (  )  *  +  ,  .  /  �����������s\�\�\s�I�����E    hP�  $h9� h	 0J CJ OJ QJ ^J aJ  -j    h'S� h	 0J CJ OJ QJ U^J aJ h	 0J CJ OJ QJ ^J aJ  #hQ^� h	 6�CJ OJ QJ ^J aJ h	 6�CJ OJ QJ ^J aJ hjeQ h	 mH
+sH
+ 	h	 >*h�e� h	 >*h	  $h'S� h	 0J CJ OJ QJ ^J aJ  -j    h9� h	 0J CJ OJ QJ U^J aJ )h	 0J CJ OJ QJ ^J aJ mH nH u /  0  �                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         hjeQ h�@/ 5 	0 1�h:p.� ��. ��A!��"��#��$��%�  ������8 	0 01�h:p.� ��. ��A!��"��#��$��%�  ������5 	0 1�h:p.� ��. ��A!��"��#��$��%�  ������8 	0 01�h:p.� ��. ��A!��"��#��$��%�  ������5 	0 1�h:p.� ��. ��A!��"��#��$��%�  ������8 	0 01�h:p.� ��. ��A!��"��#��$��%�  ������5 	0 1�h:p.� ��. ��A!��"��#��$��%�  ������8 	0 01�h:p.� ��. ��A!��"��#��$��%�  ������5 	0 1�h:p.� ��. ��A!��"��#��$��%�  ������8 	0 01�h:p.� ��. ��A!��"��#��$��%�  ������5 	0 1�h:puX� ��. ��A!��"��#��$��%�  ������                                                                                                                                                                                                                                                                                                                                                                                                                    �   D                                                               ����       T E C N I C O    N O M B R E   Y   A P E L L I D O S   
+ M a y � s c u l a s                   v   D                                                               ����       d i a    d � a                       �   D                                                               ����       m e s    m e s   
+ M a y � s c u l a s                   x   D                                                               ����       a � o    2 0 1 2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               �   �                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            @  @�� @          N o r m a l       CJ _HaJ mH
+sH
+tH
+                  N A@��� N          F u e n t e   d e   p � r r a f o   p r e d e t e r .     R i ��� R          T a b l a   n o r m a l    �  4� 
+l 4�   a�      , k ��� ,          	 S i n   l i s t a          < @ � <   jeQ   
+ E n c a b e z a d o     � �8!   B  @ B   jeQ    P i e   d e   p � g i n a     � �8!   8 )@� 8   jeQ    N � m e r o   d e   p � g i n a     d �O��"d    jeQ    D e f a u l t     1$ 7$ 8$ H$ - B*CJ OJ QJ ^J _HaJ mH
+ph    sH
+tH
+     e   f   �   �   �   �   �   �   !  "  0    $    ���� 7$    ���� q$    ���� �$    ���� �$    ���� %    ���� S%    ���� �%    ���� �%    ���� �%    ���� 5&    ����    A   B   d   e   f   �   �   �   �   �   �   �   �   �      !  "  #  h  j  k  m  n  p  q  s  t  �  �  �  �        ^  _  `  �  �  �  �  �  �  �  +  O  P  Q  �  �  �  �  �  �  �  ;  <  =  i  �  �  �  �  �  �    ,  -  .  1  �   0       �   �         �   0       �   �          �   0       �   �          �   0       �   �          �@  0       �   �          �   0       �   �          �   0       �   �          �@  0       �   �          �   0       �   �          �   0       �   �          �@  0       �   �          �   0       �   �          �   0       �   �          �@  0       �   �          �   0       �   �          �@  0       �   �         �@  0       �   �          �   0       �   �          �   0       �   �          I� 0 0                  q� 0 0                   �I� 0 0                  q� 0 0                   �I� 0 0                  q� 0 0                   �I� 0 0                  q� 0 0                   ��@  0       �   �         �@  0       �   �          I� 00                  q�@  0       �   �          �@  0       �   �         �@  0       �   �          I� 0 0                   ��@  0       �   �         �@  0       �   �          I� 00                  q�@  0       �   �          �@  0       �   �         �@  0       �   �          I� 0 0                   ��@  0       �   �         �@  0       �   �          I� 00                  q�@  0       �   �          �@  0       �   �         �@  0       �   �          I� 0 0                   ��@  0       �   �         �@  0       �   �          I� 00                  q�@  0       �   �          �@  0       �   �         �@  0       �   �          I� 0 0                   ��@  0       �   �         �@  0       �   �          I� 00                  q�@  0       �   �          �@  0       �   �         �@  0       �   �          I� 0 0                   ��@  0       �   �         �@  0       �   �          I� 00                  q�@  0       �   �          �@  0       �   �         �@  0       �   �          I� 0 0                   �� 0 0                 |�    �      #  h  �  �    ^  �  �  �  +  O  �  �  �  ;  i  �  �    ,  1  K� 0 0                  �    0W   X   �o         K� 0 0                   �
+    0            0'     K� 0 0                  �@  0                  K� 0 0                  �K� 0 0                  �@  0                  K� 0 0                  �K� 0 0                  �@  0                  K� 0 0                  �K� 0 0                  �@  0                  K� 0 0                  �K� 0 0                  �@  0                  K� 0 0                  �K� 0 0                  �@  0                  K� 0 0                  �
+    0            0'                  	            Y   Y   �   �   �   �   �   �   �   �   �   �   �   �   J  J  J  J  J  J  J  J  J  J  �  �  �  �  �  �  �  �  �  �  �  �  6  6  �  �  �  �  �  �  �  �  �  �  �  �  '  '  '  '  '  '  '  '  '  '  t  t  �  �  �  �     i	  
+  �
+  �  �  /  0     
+                     p	  Q  0              /  	       ,   ?   +  7  ;  @  L  P  U  a  f  0  F���F���F���F����   �   �   �   �   �   +  2  4  9  D  F  �  �  �  �  �  �  i  p  r  w  �  �          !  #  �  �  �  �  �  �  �  !������!������!������!������!������!������  �8     �                    @ �   ��    � ��� �    �    �         �0    �(    	�                    
+�          �B    
+�        S �   �   �    �   	   ?    �      ��    T E C N I C O  d i a  m e s  a � o     +  @  U  1               @   <  Q  g  1      -   ?   h  h  j  j  k  k  m  n  p  q  s  t  .  1                      -   ?   h  h  j  j  k  k  m  n  p  q  s  t  .  1                      -   ?   h  h  j  j  k  k  m  n  p  q  s  t  �  �  �        �  �  �  �  �  �  +  2  <  @  N  O  �  �  �  �  �  �  i  p  z  ~  �  �          +  ,  .  1                                                          -   ?   h  h  j  j  k  k  m  n  p  q  s  t  .  1                  Z        �       Y      �  �  �'  *  �6  �;  ?  r@  �B  �H  DK  �V  vX  J[  �c  h  �k  �w  K|  � � E$ �) �+ 3 p8 �C 
+D �N Q �^ �` hl gs �y X D : � � 	 4" �& �) �/ W0 �A �V cZ �Z �^ yc �h �m [ A � � � 0 ^$ �- �. 38 �k �r �| � � N � 3' �: ?G jH HO �T XV �{ L l � � n a) b< yN �` �i �m �r �} #
+ � X � � {# #& M) �+ / �1 �4 �5 	< �O  a ^c �f Og �j �j �l � � � � 8 j � � Y 0# >9 �B �G "Z �` <d �q �t �u 
+x � l � � �# �* [/ �8 5F �K L �M �N �R SZ �[ +] /] �j �j p �r =u �u Yw �	 �	 	 �0	 Q5	 4:	 �@	 vI	 sT	 �U	 V	 �W	 ^	 _	 �j	 -q	 
+ �
+ t
+ �4
+ {;
+ �<
+ KR
+ �R
+ �U
+ uY
+ �[
+ �c
+ �f
+ �i
+   N \ � ( O+ �< G= �H �q s �w tx M{ � �  � � B	 � �' �) �2 63 5= rD xF 9G H �O �] �] sg !i �  � � � �$ l' r. =4 �H /Q �S >U �[ =a �m �m �n � � � �1 �4 �8 �@ xR �U \ �e �h "o �s -z ! b  | �# �$ ( G- �3 �9 �; �= A �C AL @N �R �W pZ �_ va �g �j _k �  � � � � 
+! �% �C �D �W �Y O^ a �h �l n �u �x �	 r '  �  �% �/ �7 &C �C I J �M S �^ Db sd k Hq �q �v { | � � � � {% �0 �2 �> T �W z^ �g i xu � )  k  #$ �4 9 �= 2C >F 9I �P 1T �T �Y %^ rf Qn Rq ^u g{ 7~ G �  � �% 9 V; �B LI cK �g �i in {u y { ]{ �{ � ( t � � # �# M& r& �&  9 �? �H �I �K S 8Z >[ �[ �] �h �i �n Kz V  k � ] $ k$ �$ 4& �( �+ f. �1 �2 �8 B MH P uQ �] g g �p _r �u �v     & m p �' +  - �0 �6 !S �` zv �x �~ 4 � X �  �' �' ') / �0 �5 x7  C �F �J pR T �a �b �e nk �p � �
+ � 6 ) � _% �% C' �9  D O �S EV �Y �\ �p _t }x �{ x| |~ �~ �  �  � O {! �+ �< iJ ,M {R S XX �X �g "s ^t ( Q � � � �! �& �/ > =B vH ML Q �X �\ �k �q �r w * H � � 5# :$ �% �& �( �+ �1 �; JC �C �J �Z �_ �a �c 3e bl �q s V ~ �% �* �, f= �> �D L 9T tZ �q  u �x L} 
+    D  i YH X Y ]^ xc �c h p . �  �" # 4. l= �> DF MK d_ a �  �  :    �&  y<  B  ~E  5c  �k   ! (! f! ! �! �! �@! �M! �\! �_! $`! eh! �m! r! 7" �
+" C" �%" 5" �;" �<" X=" 	E" LF" �H" �K" M" �T" �\" �_" �a" �b" �r" v" -x" }" L}" 	# ;# �# �# # �(# �)# �+# 7-# �5# =# �># eR# �X# 0\# oh# >k# n# �q#  $ 3$ $ �2$ �:$ E<$ $?$ �H$ �N$ �\$ rd$  y$ �	% R% Q% 4% �% V.% /% �5% �=% uD% �D% �H% :K% �K% �\% �g% �k% zu% �v% �y% +}% �& d&  & �& O& �& M'& z1& �C& �G& HL& ?N& -U& W& 5Y& (]& 6c& �f& "u& �z& .' �' ) ' � ' �<' �=' �O' �V' �W' H]' �]' xd' �i' �j' 4q' vu' F( #( ( (( t( �( C%( O&( �*( G( �i( �o( nu( �u( �) �)  ) 
+) �) �) ) [) �") F*) �.) d/) �/) �0) �7) �@) ]M) h) �l) n) 8p) �w) Y* z* 4* `)* 91* �2* �4* ;7* Y:* %A* K* �\* ic* td* sp* �p* &q* v* by* =~* �* �+ + �+ �+ Z+ �+ + �"+ �)+ 1+ �1+ c=+ �M+ (X+ �b+ �e+ .f+ �n+ �~+ !, �, #, �+, `-, �0, s1, 8, f<, #B, I, [J, DK, }M, hQ, �Z, ka, �b, �g, �p, 3r, �w, �~, ,, �- �
+- - :- �- f(- �)- 3- =- �>- �U- �p- �u- dx- �|- �}- �~- . �	. �. Z#. �&. �0. �6. �9. �;. �<. �=. H. fK. �M. +P. �Q. T. b. ~m. �~. � / z/ 3/ �/ �/ �/ / 9/ U$/ �;/ <
+Z3 �b3 �m3 e4 �4 p4 :"4 i14 ]?4 oE4 �N4 �S4 �S4 \T4  \4 2]4 6^4 �a4 b4 Yf4 �k4 jm4 �x4 �y4 +5 � 5 -5 05 #65 l<5 �a5 Ej5 Qt5 |y5 �|5 b}5 6 �6 6 #6 �#6 b(6 Q06 �46 \6 �e6 �k6 5t6 �v6 l6 �7 �7 �7 "!7 <07 �37 �?7 �A7 KE7 �S7 �S7 �U7 /b7 8b7 �j7 Sk7 �l7 �w7 E~7 (7 � 8 �8 �8 �8 D8 �'8 (8 �-8 �/8 �58 OE8 SF8 �M8 �T8 [8 �_8 �a8 �c8 �e8 �j8 ]r8 4v8 T|8 �9 �9 �9 �9 p&9 �D9 �H9 WQ9 �Q9 3W9 �X9 D[9 �b9 �p9 �s9 �u9 : �: �: �: �: �: (: �/: �3: �7: �G: dI: 1X: fb: �j: �s: �; f; �; �&; �,; �1; =9; KG; :K; �R; >Y; Va; �o; Zq; �q; ^r; �r; �~; �	< �< �< �< �"< �,< �0< �3< �5< 6< �8< Z:< &=< ^< �d< df< s< �t<  = : = 5= H
+= �= z= �= �= ?!= �/= &4= r4= ;= �>= �C= �P= :[= �j= k= �r= &> �> ]> �> => 4> A> $> �&> �0> p5> s5> �:> d?> �@> �C> �N> �P> :S> �W> 6X> ~^> xd> �j> M? �? �? g? �? ?? �$? ")? -1? 7? h;? �=? zB? 3L? �d? �o? �y? �|? �@ �@ �	@ �@ �@ �@ �@ @ -@ �:@ �<@ �=@ �C@ �E@ �J@ �M@ )N@ �T@ �`@ �c@ ce@ *m@ �p@  z@ {@ � A 
+A �A �%A �/A �3A TA �VA �WA �[A lA oA 0yA �zA ~A �B �B �	B �	B )B �*B �1B I<B eJB �MB �YB �]B mdB iB �iB �rB �yB 0	C QC uC �C �*C �2C x<C �<C �@C �AC �HC �QC �RC �ZC xC �D �D �	D D �D D ;D �!D �"D �$D F(D �5D �GD �MD OOD \D �cD -hD �iD �kD slD |D .E �E E �E E E zE &E �9E �:E �;E �?E �DE �IE _ME �SE �UE HaE �fE �jE QnE �E F �F pF �!F \"F 'F �0F Z4F ;F �FF �MF "NF @RF tRF 5VF �WF �]F gF �jF �kF 5pF FyF 7G �G >G G �G �#G �&G �1G �1G �2G �5G +BG �JG �KG vLG =QG RG �_G erG �rG �~G �H �H �H H 9H %H ?H VH �H �H �H H&H �.H �.H BH GJH +LH �OH 9SH �VH bH =dH !lH �pH I~H }I �
+I �I  I "#I ;+I �/I ~0I �3I �<I �BI �GI HI �LI �RI UI �YI �ZI _`I bI �eI !iI 8pI !J /J �J �J �J 
+'J q'J �)J ,J �2J �5J �8J �>J _EJ �GJ �[J �tJ �K �K }K *K �K $$K �$K Q-K �.K �;K {=K FK �PK  UK CfK NlK �uK �wK P}K 4L �	L >L �L �L L �L �#L 1-L �0L g5L �:L �;L �>L �JL �ML hQL �QL �SL �[L ?bL �jL �nL �M �M M �M �4M �7M �=M �>M �EM �EM IHM BcM gdM �jM �rM �M TN ;N rN �N PN ^N yN �6N @<N �?N �IN �JN �TN 8WN �pN tN �xN �|N �O �O 3O �O lOO �TO �UO �^O �_O �pO �{O P �P �P �&P K*P �+P �.P /P �0P $8P �;P <P �=P )?P �BP QCP =EP ,GP AIP �NP �RP �YP �^P �bP @lP �pP ZtP @xP Q "Q |Q `Q qQ ZQ �Q TQ �Q v$Q �*Q �0Q �>Q �EQ �EQ }XQ �[Q jeQ -pQ �{Q }Q R l#R �(R �6R �:R 0DR #HR �QR �XR ymR sR TyR �yR �S �S �S �S �S y#S 1&S 1S �4S �7S �7S �;S )LS \_S dS �jS 1zS fzS ~S %T �T ,T �4T MKT tNT &UT �^T �_T �`T �aT 'pT ^tT �vT �yT �{T �U r"U #U �,U e2U �5U =U AHU �LU :UU \aU sU qV OV �V (V '9V �<V �IV $JV �QV ORV tSV GVV H]V �]V (sV �zV �~V < W �W �W �	W W eW �!W �!W �(W �7W EW GW JW $JW �XW  ]W �]W �cW {hW �uW �wW �{W QX �X XX �X \X bX �X �;X �LX �VX JXX �ZX teX DnX �zX �X nY ^Y Y �Y �Y [Y �Y x*Y �.Y �:Y �;Y �DY HY �HY VIY <JY QLY �NY �NY &PY �QY �]Y �jY �nY �pY �sY �xY �{Y ?|Y � Z �Z #
+Z ,Z �Z 'Z �(Z d1Z �3Z �@Z TAZ �DZ 3ZZ mZZ �ZZ �`Z �jZ �[ K[ �[ [ � [ � [ �-[ C9[ <[ *F[ �R[ �U[ �[[ �\[ g[ �g[ Vm[ g\ �\ � \ �'\ v1\ �;\ �M\ �U\ �W\ i_\ �f\ �n\ Gp\ �p\ /v\ �y\ C|\ �}\ ~~\ "]  
+] �] w] ] � ] � ] e/] �4] �@] JC] �E] eL] �M] R] iR] �^] �_] b] 3j] 
+^ ]^ �^ */^ �/^ �3^ 3<^ O<^ �?^ �C^ S^ CZ^ ab^ &f^ �|^ i _ �_ �_ O_ �_ �_ }&_ �*_  +_ 92_ �8_ I;_ �A_ �C_ 1J_ dL_ M_ YP_ �U_ `Y_ �Y_ hZ_ `_ �n_ {p_ qs_ �z_ j ` ` �` �.` �;` ZC` [E` �H` Q` �Q` �V` �W` 7]` �e` �j` �v` �z` E{` |` ~` Ia �
+a 6a �a `a �a �$a o(a O2a p5a ;;a \Ca �Fa �Oa !Ya GYa �aa eqa �wa �{a {}a �b gb =	b .b �b �,b �-b �6b �7b $<b �Ab �Cb ^Eb �bb �fb Dpb zb +	c �c �&c g'c �.c �7c �:c 0;c �=c VGc 3Kc Qc xRc �Yc `c bpc �d �d �d �d ,d Zd Pd �d �d "d O"d c/d �4d �8d F:d �<d ?d JNd Rd ]d �]d 0id (	e �e ;"e �&e �'e e(e �)e *e z.e 0e .0e /8e E;e �Ce �Ge Le �Qe >Ue �ge �te �e 'f �f �f ! f � f 
+7f 9f P?f �Ef �If YLf eLf Of �Pf �Zf �`f �gf kpf 'sf >g g �g �*g 8,g W1g �:g �Kg �[g &^g Eag Hig @pg �h Yh �h �h �h �+h _,h |.h �/h Ch <Dh IJh �Kh �Kh aUh �Vh l\h {nh |rh vh xh �{h Hi �i }!i 1-i �>i (Ei �Ii �Ki �Qi {\i �^i �fi qli �li � j �j ;j j Yj �j �j n!j �*j v1j �Uj \Zj �[j 3\j �cj �ij �j � k �k �k �k �k �k �k �k P k y0k 6k �6k y;k �@k zKk KSk LUk F`k Sdk �ik �jk R|k �|k 3}k zl nl �l \ l �,l 0l 9l �=l �?l 3Dl �Il ELl PLl �al �ul m �m �m �m m ym �m cm -&m )m +m �.m �5m �Bm Dm �Dm �Dm �Gm Rm �Wm �om �om �pm �n jn �	n �n �n /n �1n �5n �:n �Dn �Xn ?hn hn �ln �pn �yn zn �n +o �o �o M&o �;o �=o ePo +Yo �Zo \]o %go �jo �ko lo �po zo 	p :p �p *$p �$p H)p O+p h.p 56p �6p �7p �9p �?p �Cp BEp �Gp ~Np �[p Sap hp �pp dqp 3vp m}p �~p q �!q 7"q 59q  Lq q]q �iq �iq �kq �qq ;yq \zq %r .)r �-r HAr CEr DEr 7Fr 9Ir �Lr �Nr ^Rr �Xr 9fr 6gr �rr ~r �~r ;s :s os �s �s �%s �2s �6s �:s �;s �<s ?>s �>s �As �Cs DIs �Rs �Ss �Ys  t �t �t �t �#t D7t 	<t Bt fIt _Lt Rt QSt �\t h_t ct  dt �et �mt @ut zt � u iu u �	u :u lu �u �u h3u �9u A?u ]Ju Ru �\u �tu �tu �yu u �v 5v �v �v �-v i;v dv �fv 8jv g
+w �w �w �w �w �.w 6w �7w 9w *>w mNw Y^w �uw 8x 
+x �x z%x M.x �6x �Bx �Ix i\x �nx krx �~x 'y �y |	y �
+y �y �5y 	;y �By �Dy �Fy �Hy �Ky �Yy �[y �oy �{y Zz z Mz %z -z �-z �2z �:z �<z �=z gIz �[z �az �az �gz �jz �nz �qz Drz �tz �tz �{ �{  { /{ W${ �${ �'{ �2{ 8{ 7={ �F{ �J{ [T{ wT{ �W{ xd{ &f{ �i{ )o{ [r{ �}{ l| �| �| �| )| z| �#| $| +'| q'| =1| 2| �>| G| FG| I| �I| �L| XQ| �_| )c| �c| s| }z| �| �} >} r?} �T} �W} �X} �e} �s} �}} � ~ �~ O~ �~ H'~ �/~ F1~ D9~ L<~ �S~ �X~ �c~ �i~ r~ 9t~ �{~ }~ �
+ � � "  F% ( ( + �: �; �; < �> �@ ^K mO �X ~c 	k Jn jn �p �w �| �� �� Z
+� � �� )� �*� �:� A� BH� �M� �R� |U� NX� Z� �a� pj� gm� xm� pn� �v� cz� �~� �� �� �� {� �%� �1� �G� NH� YI� �M� �N� ~P� Pd� ho� �r� �� �� �� �� �1� w2� NA� �H� �H� �L� U� <U� �W� ``� �f� �h� [m� �r� �~� �� ~
+� � �� 0-� 4� �>� dF� �G� QH� �K� �S� �n� �u� �w� H� @� =� �� �� �� �!� 9"� �&� -5� �:� �;� $@� �B� �F� �T� r]� �d� �f� <r� �s� �t� y� *� q� �� �� �� j� �� B"� �-� �1� 28� �A� [� qx� �� �	� <� I� �� M'� �+� �-� N.� �4� �5� F� Z� �\� F]� *o� �o� �r� �t� �� �� � �� �� �$� w'� s(� �*� 0� �>� �A� 'P� �P� 9Q� S� �V� iW� �d� %f� &g� ch�  p� �u� hy� �{� �� � �� r� }=� �=� �M� P� Q� �Q� �Q� S� �S� �S� �T� Fk� +w� a� �� 0� 3� }&� d-� 3.� W0� *?� �Z� �]� i� �u� y� �{� s� �� �� �� {(� q9� �>� �?� RG� �M� �N� �N� �X� �Y� nZ� �Z� �l� �l� u� 8v� �v�  }� �� �� n� �.� 4� �<� �H� �J� wK� R� �U� �V� �Y� �Z� �[� p]� ^e� 2f� bj� �m� �s� �t� ]x� ox� $� b� K� � :� �$� �*� �1� _3� G8� r8� c;� E?� 3J� FN� �l� �o� Tt� wt� 6v� �� � �� � I � L � �/� ?=� ?� �C� �I� >K� �[� i_� �i� �m� �r� �� �� P� 4� .� D� B� �D� �M� �\� �^� �|�  ~� o�  � �� [2� �5� Q;� D� ZH� GI� .N� �a� Be� �f� Wi� Nk� �n� �q� ^x� �� �%� b&� �&� �:� T=� s>� M@� +A� �F� �K� pZ� ]� �h� Xp� 2w� x� �� � �� �� � �'� �-� �1� gA� L� VQ� >S� kZ� k]� �^� �e� �k� �v� �y� �� �� �)� �+� f-� r/� �D� ~J� �K� |O� �R� pS� �Y� �c� qj� �k� �u� w� �y� {� �� 
+� l� �� �� _� �&� �(� �0� �2� �=� �>� �E� 2U� uZ� �f� �n� �p� �z� 
+� �� M&� g0� �8� w=� �>� �@� �U� �U� (V� sW� �Y� N`� b� �i� �l� �m� �q� �s� u� �� B� D� |� �� 3#� H%� �*� >,� �@� A� �U� �W� �W� �^� �o� "r� �t� �y� �� �� �� �	� �
+� �� � 9� ]� �� � � �#� �(� B� SB� (D� hI� K� T� �^� 3m� �m� �z� �� � 	� � �� � � !� �(� <+� J/� a0� �6� :� |>� VA� DH� �M� �R� XV� Y� Ha� �b� �q� �{� H~� Y	� �� � � � 5+� �>� ?� .A� �D� F� �W� 9X� ^_� �`� �c� Sd� 	l� �m� �o� Ot� �}� I� �� �� �� 2� �2� D5� b?� 6A� >h� nk� bm� 7v� �v� �� �� �� b� J!� z+� o,� �0� @5� �B� �E� fF� �N� T� �_� ac� Rd� Me� Sf� �p� �~� r � �� �� �� '*� �0� �5� u6� �9� �;� �=� ^S� kW� �j� �m� �r� �w� d{� t � � � �� �� �&� �5� z:�  K� vY� �\� �h� �i� �p� w� �|� �� �� �� � z-� �9� O>� �B� �J� >K� �[� �[� -f� 3p� jt� �~� �� �
+� �� �� � � �*� �.� �7� �9� H:� 1?� �E� K� U� If� (r� x� �� �� �� f � �!� 9#� �$� �$� �%� `'� �5� �<� �A� YB� �E� �G� lQ� %i� �x� �{� �� � Z� �� +� �-� �5� iU� �U� \W� �^� �c� Kd� �g� ]k� @z� � � �� �� G� �� � � �&� _-� 92� ,4� �D� N� {S� �T� �V� �V� �W� �a� �f� j� {� w
+� �� ^� �� � �� �.� H/� _E� �F� �R�  j� (j� Cq� �v� *|� �� � |� �� �� d� 7� �#� �;� lF� �U� �X� bZ� 1\� g]� vd� Y� �� � �� �� *� �0� �8� hA� G� iN� �\� �b� �i� ez� d{� �� �� �	� �
+� �� �� �� �&� 9� g<� =� .?� @� NA� �C� X� {h� �t� �w� �}� }� ~� �	� �
+� O� �� � �&� �(� �0� 3� �6� 39� _:� +L� Y� wb� �s� }� H}� w� ~
+� �� 4� �� ? � �/� �5� �H� �S� &T� &U� �V� @\� �`� �`� Vb� aw� Ez� � �� �� �� �� n� � &� -� �=� �J� �R� �`� �c� e� �j� �n� Ur� u� �v� x� �z� 0� � p� j1� �6� �8� iX� �x� �z� *� ^� I� 0� {� b(� �4� 99� ]<� �>� :M� �M� V� �W� _j� 5k� `o� �p� �t� Vu� �y� �� ;� �� �� `� 3"� )� �*� �;� �=� iD� EG� WN� �S� �V� \X� �^� lg� �p� �x� 1� =� �� �� 	� �� �� ?� �� �� �&� �(� �9� �=� �F� �J� �q� s� <t� Zu� �~� )� 1� x� 5� �� !� ":� <E� 8T� �Y� �h� g � 
+� �� "� �� ^!� O#� a%� �(� �*� �;� <� F� L� �L� �\� �g� m� �r� �� �� �� q� ,� i#� �,� �7� �O� |Q� �\� �_� vh� �z� /|� � e� �� �� F(� \-� 1� �2� �4� %9� @� �J� }L� \V� Pl� �o� pp� d{� � �� 
+� � � �� c� W � �#� �%� �(� �1� �2� -4� �4� �;� �<� EJ� 3L� �V� �\� $a� 4d� �g� 7j� {n� 1s� �s� �� � � � �*� G/� �6� [9� b;� c;� SD� �F� H� 6M� mM� �T� _� 1_� _j� �j� �p� =z� {� �� ,� �	� ?� � R'� )B� /L� lS� �S� �U� �Z� �[� �_� �d� "h� �m� \t� u� �u� "~� 	
+� �� �� �$� �'� K1� �3� E� N� TQ� {`� `h� `k� %p� �� �� �	� f� �"�  $� �&� \5� 9� �C� .J� NP� �P� 'T� �Z� �b� &e� �k� �m� �q� yt� �� E� �� l'� �+� �0� �2� &?� B� �G� �I� �L� wb� Nw� -� � F� �� M� �� ��  � #� .� �:� �@� eD� wD� /J� �P� W� mX� EZ� v\� �c� �l� Io� �{� �� F� X� �!� �$� �+� �3� �9� [B� �W� _� �_� s� �{� �� �� B� �� 7� %�  � w� � � �"� #� C'� �3� �4� �4� �;� �S� "W� �W� �Y� 1]� �]� sa� qd� �e� {t� su� Cx� ~� -~�  � � �� �	� � � �(� 0)� o.� �.� �/� 
+3� 53� m6� b8� /H� �O� ]X� "Y� sm� %n� 4�  � O� �� I!� Q3� N:� �B� G� I�  J� \L� ?N� N� �R� �U� �_� �b� Mc� Uf� k� �l� 1n� q� �{� P� &� �� �� �)� �,� A0� 1� �2�  5� �8� �=� mA� uB� nU� �U� ~Z� 5j� �v� 	� �!� W'� )� �-� 	/� M0� 6� Q9� ;?� �R� �U� Z� �[� k� �� G#� �)� Q.� f/� �0� �9� �>� '@� A� *A� R� �c� �n� �q� xt� �v� � ,� h	� �� �� �!� �"� I%� �+� �.� O1� P1� �N� �R� �R� _� we� tf� �j� �t� �w� �� �� �� � � h!� �!� u%� �;� @� �D� .P� �X� [� �q� s� Is� �w� ~� l~� .� 5� � �(� �-� T6� �7� �9� WJ� N� dY� x`� Rd� �k� �m� H� �� �� �� 7'� �'� 3� l4� d7� 39� �B� �C� �J� �L� ]N� 
+W� ke� �g� t� yt� s{� A|� d� �� 6� �� w� �� V#� &� n1� 5� z6� �<� ME� �G� -[� �]� �d� #m� �m� �{� �� � W� �� C'� a,� �3� 5� =� �=� 5E� ;F� �K� �M� �Y� �s� #� %#� *� �0� 2� {4� �5� �^� {a� �l� b� �� x� 3!� I+� 5� �=� �B� �M� �N� �R� �_� �_� �v� �� �	�  � �� �$� �+� 
+6� �6� _9� bH� �N� T� �\� i]� �f� h� �l� �p� �y� `� z� �� x� !� \2� 35� �:� �@� �C� �G� .I� pI� CS� �T� OV� @[� d� �p� =v� >}� �}� � �� �� �� +�  � y"� �$� �)� �/� �0� �6� Z8� ;� YA� �B� [K� �\� ^�  a� e� h� �l� ]m� 3q� _q� �� � �,� �.� Z/� �>� �A� �P� %V� �W� y� L
+� �� J%� �(� �*� [3� �?� �B� �B� �H� WU� /W� LZ� �l� �n� Sx� m{� }� �~� �� [� �� �� "� "� $� G+� B-� �0� Z2� 5� +@� �A� D� eD� �G� �H� �[� �r� �r� qs� k	� � n� �� �$� �'� a6� h8� �<� @� �D� �I� YJ� �O� �P� �d� k� �n� �r� �w� Y~� �� z� k� �� �� Z� � W%� �*� G6� $I� iK� �V� 	[� �]� �l� -t� a{� �� g� � � [&� �)� �?� �?� �A� �N� �O� $U� `� �l� �u� ;}� D� [� 8� *� _� !&� <&� F,� 1� *1� gJ� �\� `� %a� aa� 'o� (u� ={� J|� �� X� �� !� !#� �%� �%� =6� �6� �9� �:� LB� �E� �F� �I� J� �M� �O� 	V� �V� +^� �l� m� Lm� �s� �v� �}� #~� u� �!� �.� |0� �0� �8� �R� o� �� 0� 8� �#� �+� /� �4� >� ;M� '[� 	o� Zo� �p� }{� '}� �� X� m� (� �!� (� �/� >� �B� �F� �O� af� �j� �q� >� v� � k	� � I� � � z$� Q.� �<� �C� �J� �O� (X� >Y� ah� i� Yl� �p� �~� �� �� �� �� �� +"� 0� <� MG� �K� �S� �W� �Y� [� �c� �q� �q� � � �� '� #� V8� �;� wG� �X� XY� \� ]� �`� {a� Tc� �f� �k� � �� � �� �� �� �� r� �� $� �)� �*� ,� �.� �/� %H� �M� �N� P[� ^� ef� �k� �n� �q� �s� �v� 	� �� �� �� ;1� �2� �9� �A� CX� �`� {� \� B� l� �� �� �� N� �'� �*� �_� `� �g� �k� xs� \� `� � c� �&� �)� �7� l;� 0?� �I� \J� dJ� �R� �m� �p� 9r� Jt� �� Z� �� �� �� U� �=� �=� Z� �_� �h� /k� \q� �t� � �� �#� �,� }9� h;� >� ?� A� �H� �I� �I� eN� �k� &l� Fq� �� � ?� �� T� �� 2!� �(� B4� �P� �Q� I^� \^� �c� 6d� �h� �q� �u� �� �� w� }$� ~6� 3R� U� @Z� �[� �`� ~f� x� nz� �� �� >*� �0� 5� 7� 39� +A� /F� :F� �I� 'J� �T� �[� �^� t_� b� �j� 0 � �� �	� E� �� �� `� �#� -%� �1� �9� �;� �<� �?� �A� [D� 6H� �I� )V� �W� �a� :i� ~i� [m� s�  � L
+� �� � _� �%� �6� �E� &F� �I� �O� zS� �Y� 6[� �[� �j� o� e� �� �� �� s� �� *� =� � I!� �!� �#� )%� �+� P,� \.� �2� �=� �?� I� �b� �{� �� �� �� �� �!� �*� 7+� �-� �/� �2� �7� �7� �=� �A� �A� �T� �U� �j� %m� �p� �w� �x� �{� �|� 	� 0� �� �� �� �(� �*� �.� �.� �=� 'M� 1W� �]� U^� �g� �i� �m� �{� N~� 1� � �� �� �� � r �  !� �(� @+� �,� "-�  :� u;� ]<� BG� K� �W� �X� �[� ~\� �`� xg� '}� �~� � D� �� �� � � X#� l8� b=� [C� SD� �G� BQ� S� �S� �V� sf� �q� �q� 2t� �� =� �� �&� �5� S;� <� �G� Z� �e� �j� �n� �}� �� �� a� �� �� c)� �/� t0� TF� qR� �\� �\� �l� 4r� >{� �{� �� � U� z� �,� `?� _T� uX� c� e� �f� �s� �x� D� m� '!� �$� )� �0� -5� s8� �>� 'D� >E� ]P� Q� (k� �l� � ,� S"� �"� �,� B6� <� \P� lV� =k� �n� ,� �� a� 4� � #� n$� �$� �%� �9� TD� AJ� @P� �Z� �[� �e� �v� Ay� �� �	� �� �#� �+� r/� �1� &7� �<� @� �@� QO� Z� {i� �p� �r� �� � �
+� �$� �0� �<� zE� G� �L� "O� Ij� �w� �w� �}� O� �� �� t� �"� $� .'� �/� 9� Y9� �9� H;� ]<� }F� �X� yb� �o� 
+t� v� �w� � H
+� ~� � ~ � �,� 1� *=� ~H� L� �P� lS� �T� �U� �U� lZ� �c� 1d� �j� Xo� �{� x� �� �� �� �� � ,� �/� 8� �?� .D� :E� �H� I� %I� [J� k[�  d� Li� �n� �p� 3w�   � �� �� x� �%� �.� 6:� #G� fH�  O� RO� 3Q� yq� �u� �~� � �� �	� �� �� �!� �,� r0�  4� 6� M�  N� �[� �_� �d� �f�  k� �� q� �#� �#� �'� �2� H>� }?� �U� 5d� �e� +l� �u� Nw� )� �� ��  � D � �$� �+� 50� �0� �5� �A� �L� (U� �\� �m� �o� �q� �� �� �  � !� �)� �3� �5� 46� �8� �8� �=� 3D� �H� �Q� �W� �X� I[� g`� �a� Qk� �k� � � s	� �� 3� >� &� q%� �*� �0� �2� !5� X>� �L� �`� �`� b� �b� �d� o� �}� � � �� s� �� 
+� �� �� �"� �#� )� �4� @;� 8A� �M� Da� h� 4j� | � N� �� �%� �.� �?� :D� BF� fF� hO� �R� �_� �h� Dj� l|� <� E� �� �� �#� '� �*� �-� E1� r8� ;� �D� {E� �E� IG� }U� �Y� uh� �� �� �"� �.� �/� /6� P6� �@� ]C� [F� �H� �X� dh� n� ko� Nw� b|� �� ;
+� � �.� �3� Y5� \B� gC� �Y� |e� �e� 2h� |� �� �� !� � �� �� :� ;"� ;$� Z5� `7� �7� M8� �9� lB� vB� J� �Q� W� ]j� �s� B{� �� $� �� �� M� �� ;%� x&� �2� k5� �6� V@� �I� �Q� W� �Z� Z`� �h� �@  -   ?   �"�   ?      ?              0  P   @  ��    U n k n o w n ��            ��     ��   ��    ��   ��       G�  �z     �       �      T i m e s   N e w   R o m a n   5�                   �    S y m b o l   3&�  �z     �       �      A r i a l   "  1� ��  �    6GVG        7   1          7   1         ��(�� �                                                                                                                                                                                                                                                                                                                        ��� � ��4    d      g  g                                                                       2�Q �                              HP    �� ?  �  ���������������������jeQ     *                 ��       Q N o m b r e   y   a p e l l i d o s   d e l   t � c n i c o :   _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _        G L O P E Z  i m u n o z                                                                                                                                     ��                      �����Oh�� +'��0   �        �      �      �                      (     <  	   L     X  
+   x     �     �     �     �     �     �     �     T   Nombre y apellidos del t�cnico: _________________________________________________                   GLOPEZ                            Normal.dot        imunoz        18        Microsoft Office Word   @    d�   @    �ȟ�X�@    \$��X�         7      1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ��                      ��՜.�� +,��0   H        h      p      �      �      �      �      �      �      �      �      �      &     �        Ayto de Ja�n                   g     '                                  R   Nombre y apellidos del t�cnico: _________________________________________________            T�tulo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          	   
+                              ����                     ����             !   "   #   $   %   &   '   (   )   *   +   ,   -   .   /   0   1   2   3   4   5   6   7   8   9   :   ;   <   =   >   ?   @   A   B   C   D   E   F   G   H   I   J   K   L   M   N   ����P   Q   R   S   T   U   V   ����X   Y   Z   [   \   ]   ^   ��������a   ����������������������������������������������������������������������������������������������������������������������������R o o t   E n t r y                                              ��������   	     �      F            ����X�c   �       D a t a                                                         
+ ������������                                              1 T a b l e                                                            ����                                       �e      W o r d D o c u m e n t                                                ����                                        l&       S u m m a r y I n f o r m a t i o n                           ( ������������                                    O           D o c u m e n t S u m m a r y I n f o r m a t i o n           8    ��������                                    W           C o m p O b j                                                   ������������                                        r                                                                           ������������                                                   ���������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������� ��
+  ����	     �      F    Documento Microsoft Office Word 
+   MSWordDoc    Word.Document.8 �9�q                                                                                                                                                                                                                                                                                                                                                                                                                          
+
+------------------------------
+
+
+
+Link: Solicitud
+URL: https://sede.aytojaen.es/sta/docs/GetDocumentServlet?CUD=12434155731265420502&HASH_CUD=5628afdd07c495b39db179c3ab8d57cafea6c172&APP_CODE=STA
+Tipo detectado: pdf
+
+
+
+[PDF: https://sede.aytojaen.es/sta/docs/GetDocumentServlet?CUD=12434155731265420502&HASH_CUD=5628afdd07c495b39db179c3ab8d57cafea6c172&APP_CODE=STA]
+
+ANEXO III 
+ORDENANZA MUNICIPAL INSPECCIÓN TÉCNICA DE EDIFICIOS . AYUNTAMIENTO DE JAÉN. 
+FICHA TÉCNICA DEL EDIFICIO. 
+DATOS DEL EDIFICIO 
+- El informe ITE está referido a: Referencia parcela/s catastral/es 
+Un edificio sobre una sola parcela catastral. 
+Un edificio sobre varias parcelas catastrales 
+(indíquelas ). 
+Un edificio en régimen de propiedad horizontal. 
+Un edificio con otros regímenes de propiedad. 
+- Tipo de vía: ________________. Nombre de la vía:_ ___________________________________. 
+- Nº / Bloque / Km: _______________. Planta / Puert a: _________. 
+- Polígono / Parcela catastral (solo para inmuebles fuera de delimitación de casco urbano ): _____________________________. 
+DATOS DEL DECLARANTE 
+Propietario del edificio. Titular de intereses o derechos sobre el edificio (artículo 6.8 de la Ordenanza ). Representante del titular del edificio. 
+- Nombre: ____________________. Apellidos:_________ __________________. DNI:_________. 
+- Teléfono de contacto: _____________________. 
+- Domicilio a efectos de notificaciones: 
+Vía: ___________ . Nombre de la vía: ______________ ____________________. Nº:____. 
+Planta: _____. Puerta: ___. Código Postal: ________ ___. 
+Municipio: ________________________________________ . Provincia: _______________. 
+CARACTERÍSTICAS DEL EDIFICIO 
+Propiedad 
+Arrendamiento Renta Antigua SI NO - Régimen de ocupación y tenencia 
+(en caso de existir varios indique el predominante )
+Usufructo 
+Sobre rasante Bajo rasante 
+- Uso principal del edificio. Nºplantas Superficie Nº plantas Superficie Superficie total 
+inmueble 
+Residencial unifamiliar 
+Residencial plurifamiliar 
+Dotacional 
+Terciario 
+Industrial 
+Año de construcción. _________ Documento acreditativo  de tal extremo. ____________________________ 
+Instalaciones con las que cuenta Fontanería Electricidad  Gas Ascensor Protección contra incendios 
+Está sometido a algún tipo de protección urbanístic a o histórica SI NO 
+Jaén, a _________________________ de ______________ _____ de 20_______. 
+Firma declarante. 
+
+------------------------------
+
+
+
+Link: Solicitud
+URL: https://sede.aytojaen.es/sta/docs/GetDocumentServlet?CUD=12434156776725052323&HASH_CUD=98928229e3020f9ae06e59142e5897060bc588a5&APP_CODE=STA
+Tipo detectado: pdf
+
+
+
+[PDF: https://sede.aytojaen.es/sta/docs/GetDocumentServlet?CUD=12434156776725052323&HASH_CUD=98928229e3020f9ae06e59142e5897060bc588a5&APP_CODE=STA]
+
+Indique aquí el número de parcela catastral Página 1 de 8 ANEXO II 
+ORDENANZA MUNICIPAL INSPECCIÓN TÉCNICA DE EDIFICIOS . AYUNTAMIENTO DE JAÉN. 
+INFORME DE INSPECCIÓN TÉCNICA DEL EDIFICIO. 
+DATOS DEL EDIFICIO 
+- Parcela/s catastral/es sobre la que se asienta: _ _________________________________________. 
+- Tipo de vía: ________________. Nombre de la vía:_ _____________________________________. 
+- Nº / Bloque / Km: _______________ . Planta / Puer ta: _________. 
+- Polígono / Parcela catastral (solo para inmuebles fuera de delimitación de casco urbano ): _______________________. 
+- Uso principal: ______________________________. 
+- En construcción (marque lo que proceda) : NO  SI  Obra de nueva planta  Reforma, rehabilitación .
+Nº licencia municipal: ____________. 
+Técnico/os director/es: ___________________________ _____________________________. 
+PLANO DE SITUACIÓN 
+FOTOGRAFÍAS FACHADAS 
+Indique aquí el número de parcela catastral Página 2 de 8 A) CIMENTACIÓN Y ESTRUCTURA. 
+ESTADO GENERAL A FECHA: ______ de _________________ ___ de 20______. 
+Inspección Daños Importancia del daño Propuesta de Actuación 
+Visual Otros métodos NO SI Despreciable Bajo Moderado Alto Mantenimiento Consolidación Reparación Riesgo inminente 
+Cimentación 
+Muros de 
+contención 
+Muros de carga 
+Soportes 
+Vigas 
+Entramados 
+horizontales 
+Cerchas 
+Otros (indíquese) 
+Marque lo que proceda, en blanco se entenderá que n o procede. 
+OTROS MÉTODOS DE INSPECCIÓN 
+DESCRIPCIÓN DAÑOS OBSERVADOS 
+FOTOGRAFÍAS DAÑOS OBSERVADOS 
+Se aportan a continuación en hoja aparte. 
+Dejar en blanco solo cuando no existan daños 
+Indique aquí el número de parcela catastral Página 3 de 8 B) FACHADAS. 
+ESTADO GENERAL A FECHA: ______ de _________________ ___ de 20______. 
+Inspección Daños Importancia del daño Propuesta de Actuación 
+Visual Otros 
+métodos NO SI Despreciable Bajo Moderado Alto Mantenimient o Consolidación Reparación Riesgo 
+inminente 
+Revestimiento continuo y 
+sus juntas 
+Revestimiento discontinuo 
+y sus juntas 
+Aplacados 
+Cornisas y demás 
+elementos salientes 
+Carpinterías y translucidos 
+Elementos de cerrajería 
+Antepechos y pretiles 
+Otros (indíquese) 
+Marque lo que proceda, en blanco se entenderá que n o procede. 
+OTROS MÉTODOS DE INSPECCIÓN 
+DESCRIPCIÓN DAÑOS OBSERVADOS 
+FOTOGRAFÍAS DAÑOS OBSERVADOS 
+Se aportan a continuación en hoja aparte. 
+Dejar en blanco solo cuando no existan daños 
+Indique aquí el número de parcela catastral Página 4 de 8 C) CUBIERTAS. 
+ESTADO GENERAL A FECHA: ______ de _________________ ___ de 20______. 
+Inspección Daños Importancia del daño Propuesta de Actuación 
+Visual Otros 
+métodos NO SI Despreciable Bajo Moderado Alto Mantenimiento Consol idación Reparación Riesgo 
+inminente 
+Piezas de cobertura 
+Sumideros y canales de 
+evacuación 
+Lámina impermeabilizante 
+Carpinterías y translucidos 
+Sellado de juntas 
+Elementos metálicos de 
+fijación 
+Otros (indíquese) 
+Marque lo que proceda, en blanco se entenderá que n o procede. 
+OTROS MÉTODOS DE INSPECCIÓN 
+DESCRIPCIÓN DAÑOS OBSERVADOS 
+FOTOGRAFÍAS DAÑOS OBSERVADOS 
+Se aportan a continuación en hoja aparte. 
+Dejar en blanco solo cuando no existan daños 
+Indique aquí el número de parcela catastral Página 5 de 8 D1) INSTALACIONES. SANEAMIENTO, FONTANERÍA Y CALEFA CCIÓN. 
+ESTADO GENERAL A FECHA: ______ de _________________ ___ de 20______. 
+Inspección Daños Importancia del daño Propuesta de Actuación 
+Visual Otros 
+métodos NO SI Despreciable Bajo Moderado Alto Mantenimiento Consol idación Reparación Riesgo 
+inminente 
+Evacuación red de 
+saneamiento y drenaje 
+Bombas de achique 
+Estanqueidad de las redes 
+Elementos metálicos de 
+fijación canalizaciones 
+Válvulas de corte redes 
+fontanería y calefacción 
+Protección contra 
+sobrepresiones redes 
+fontanería y calefacción 
+Otros (indíquese) 
+Marque lo que proceda, en blanco se entenderá que n o procede. 
+OTROS MÉTODOS DE INSPECCIÓN 
+DESCRIPCIÓN DAÑOS OBSERVADOS 
+FOTOGRAFÍAS DAÑOS OBSERVADOS 
+Se aportan a continuación en hoja aparte. 
+Dejar en blanco solo cuando no existan daños 
+Indique aquí el número de parcela catastral Página 6 de 8 D2) INSTALACIONES. ELECTRICIDAD Y PUESTA A TIERRA. 
+ESTADO GENERAL A FECHA: ______ de _________________ ___ de 20______. 
+Inspección Daños Importancia del daño Propuesta de Actuación 
+Visual Otros 
+métodos NO SI Despreciable Bajo Moderado Alto Mantenimiento Consol idación Reparación Riesgo 
+inminente 
+Correcto funcionamiento 
+protecciones cuadro de 
+mando 
+Conexión con red enterrada 
+de puesta a tierra 
+Resistencia instalación 
+puesta a tierra dentro de 
+valores admisibles 
+Secciones adecuadas de 
+conductores 
+Existencia corrosiones CGP 
+Inspección reglamentaria 
+por OCA (si procede) 
+Otros (indíquese) 
+Marque lo que proceda, en blanco se entenderá que n o procede. 
+OTROS MÉTODOS DE INSPECCIÓN 
+DESCRIPCIÓN DAÑOS OBSERVADOS 
+FOTOGRAFÍAS DAÑOS OBSERVADOS 
+Se aportan a continuación en hoja aparte. 
+Dejar en blanco solo cuando no existan daños 
+Indique aquí el número de parcela catastral Página 7 de 8 D3) INSTALACIONES. GAS, ASCENSORES Y PROTECCIÓN CON TRA INCENDIOS. 
+ESTADO GENERAL A FECHA: ______ de _________________ ___ de 20______. 
+Inspección Daños Importancia del daño Propuesta de Actuación 
+Visual Otros 
+métodos NO SI Despreciable Bajo Moderado Alto Mantenimiento Consol idación Reparación Riesgo 
+inminente 
+Certificado Inspecciones 
+reglamentarias de las 
+instalaciones 
+Comprobación protección 
+catódica instalación de gas 
+(si procede) 
+Otros (indíquese) 
+Marque lo que proceda, en blanco se entenderá que n o procede. 
+OTROS MÉTODOS DE INSPECCIÓN 
+DESCRIPCIÓN DAÑOS OBSERVADOS 
+FOTOGRAFÍAS DAÑOS OBSERVADOS 
+Se aportan a continuación en hoja aparte. 
+Dejar en blanco solo cuando no existan daños 
+Indique aquí el número de parcela catastral Página 8 de 8 RESULTADO DE LA INSPECCIÓN. 
+PROPUESTA DE ACTUACIÓN 
+1ª.- 
+___________________________________________________ ___________________________________________________ ___________________________________________________ __. 
+2ª.- 
+___________________________________________________ ___________________________________________________ ___________________________________________________ __. 
+3ª.- 
+___________________________________________________ ___________________________________________________ ___________________________________________________ __. 
+4ª.- 
+___________________________________________________ ___________________________________________________ ___________________________________________________ __. 
+5ª.- 
+___________________________________________________ ___________________________________________________ ___________________________________________________ __. 
+Don/Doña __________________________________________ ___, con número de DNI _____________en su calidad d e: 
+Propietario del edificio. Titular de intereses o derechos sobre el edificio (artículo 6.8 de la Ordenanza ). 
+, declara conocer y aceptar toda la información con tenida en el presente documento, y en concreto: 
+ Se compromete a realizar las obras correspondiente s conforme a lo establecido en el artículo 9 de la presente 
+ordenanza, previa obtención de los correspondientes  permisos municipales. 
+ Se compromete a presentar ante la Gerencia Municip al de Urbanismo, certificado técnico que acredite l a adecuación 
+de las medidas de seguridad adoptadas a la situació n previa de riesgo inminente. 
+Para que conste, firmo en: 
+Jaén, a _________________________ de ______________ _____ de 20_______. 
+Firma propietario o titular. No se han detectado deficiencias que afectan a la s eguridad constructiva del inmueble, y/o las condici ones de 
+salubridad y ornato público, por tanto, el presente  informe ITE es FAVORABLE .
+Se han detectado deficiencias que afectan a la segu ridad constructiva del inmueble, y/o las condicione s de 
+salubridad y ornato público, por tanto, el presente  informe ITE es DESFAVORABLE . En consecuencia, se 
+propone la adopción, según orden de importancia, de  las siguientes medidas: 
+Se ha detectado en el edificio la existencia de un riesgo inminente para las personas y/o los bienes, lo cual, ha 
+sido comunicado formalmente a su propietario/titula r de intereses o derechos sobre el mismo (táchese lo que no proceda ),
+a fin de que adopte con carácter inmediato las medi das necesarias para garantizar la estabilidad y seg uridad 
+del edificio. 
+Jaén, a ___________________________ de ____________ _________ de 20_______. 
+Fdo.: 
+___________________________________________________  (nombre, apellidos y firma técnico actuante) .
+Titulación.: 
+______________________________. Colegio Profesional: 
+____________________. Nº colegiado: 
+__________. 
+GLOSARIO 
+- Respecto de la IMPORTANCIA DEL DAÑO :
+/g130/g130 /g130 /g130 Despreciable : Aquella lesión, síntoma o anomalía que por su nat uraleza e intensidad, no presupone la existencia de
+un riesgo claro o con dudas razonables para la segu ridad o salubridad del inmueble inspeccionado. 
+/g130/g130 /g130 /g130 Bajo : Cuando los daños que se observan, por su naturale za e intensidad, permitan enjuiciar la existencia d e dudas 
+razonables respecto a la seguridad del elemento ins peccionado, y a su vez, entrañen un cierto riesgo d e alcance a 
+otros elementos constructivos, todo ello como conse cuencia de un proceso de deterioro en fase inicial.
+/g130/g130 /g130 /g130 Moderado : Los daños que se observan en esta situación, adem ás de implicar dudas respecto de la seguridad del 
+elemento inspeccionado, plantean al técnico inspect or, supuestos razonables de generar un riesgo que p ueda 
+afectar a otros elementos constructivos, tanto en s u nivel de seguridad como aptitud al servicio, todo  ello en el marco 
+de un proceso de deterioro en fase de progresión. 
+/g130/g130 /g130 /g130 Alto : Este nivel se asignará en aquellos casos en los qu e los daños y lesiones observados, en el marco de u n
+estado final del proceso de deterioro, puedan supon er un riesgo cierto de causar perjuicio a terceros,  sean 
+viandantes, usuarios o edificios colindantes, por d isminuir considerablemente el umbral mínimo de segu ridad y 
+salubridad del inmueble, pudiendo dar lugar al desp rendimiento de materiales y elementos, asientos de cimentación, 
+filtraciones, problemas higiénico-sanitarios, etc. 
+- Respecto de la PROPUESTA DE ACTUACIÓN :
+/g130/g130 /g130 /g130 Mantenimiento : Si el elemento inspeccionado no se halla afectado por daños o procesos patológicos, ni existe en él 
+deficiencias apreciables, bastará con efectuar una labor de mantenimiento que impida la progresión del  deterioro del 
+mismo. La omisión o incorrecta implementación de es ta medida podrá producir problemas ulteriores y más  graves. 
+Consolidación : Si el elemento inspeccionado presenta lesiones o s íntomas de riesgo bajo, se recomendará realizar 
+una intervención, la cual por su carácter, podrá se r llevada a cabo sin ningún tipo de supervisión téc nica al no 
+revestir complejidad alguna desde un punto de vista  constructivo. Esta situación no hace prever grandes  problemas 
+en el edificio a corto plazo, pero si en un periodo  de tiempo medio. 
+/g130/g130 /g130 /g130 Reparación : Este grado de actuación se alcanza, cuando las obr as a realizar, siendo de consolidación, tienen 
+carácter generalizado en la totalidad del inmueble,  es decir, van más allá de lo que se refiere a un e lemento o zona 
+localizada. También se alcanza este grado, cuando l as obras a realizar revistan una cierta complejidad  constructiva 
+que aconseje supervisión técnica, o bien, reglament ariamente se exija la redacción del correspondiente  documento 
+técnico y nombramiento de dirección facultativa. 
+- Respecto de la situación de RIESGO INMINENTE :
+Esta situación se alcanza cuando la cimentación y/o estructura del inmueble, presentan daños y lesiones , que por su 
+entidad y alcance, son indicativos de que los eleme ntos afectados se encuentran por debajo del umbral mínimo de su 
+capacidad portante, y por tanto, su fallo dará luga r al colapso parcial o total del edificio. 
+
+------------------------------
+
+
+
+Link: Tramitación Presencial
+URL: https://sede.aytojaen.es/sta/Relec/CatalogDetail?dboidRequest=6269026880904535805011&action=make&dboidProcedure=6262626880904520905011&urlBack=https%3A%2F%2Fsede.aytojaen.es%2Fsta%2FRelec%2FCatalogBrowse
+Tipo detectado: http_error
+
+
+
+[HTTP Error 500 al acceder a https://sede.aytojaen.es/sta/Relec/CatalogDetail?dboidRequest=6269026880904535805011&action=make&dboidProcedure=6262626880904520905011&urlBack=https%3A%2F%2Fsede.aytojaen.es%2Fsta%2FRelec%2FCatalogBrowse]
+
+------------------------------
+

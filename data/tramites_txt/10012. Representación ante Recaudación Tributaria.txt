@@ -1,0 +1,357 @@
+Trámite ID: 6269026880812999505011
+
+Nombre: 10012. Representación ante Recaudación Tributaria
+
+URL: https://sede.aytojaen.es/sta/CarpetaPublic/doEvent?APP_CODE=STA&PAGE_CODE=CATALOGO&DETALLE=6269026880812999505011
+
+
+--- Contenido principal ---
+
+
+Es necesario instalar Autofirma para firmar solicitudes de registro electrónico, aceptar notificaciones y firmar documentos del portafirmas
+[descargar]
+10012. Representación ante Recaudación Tributaria
+Descripción
+10012. Representación ante Recaudación Tributaria
+Presentación
+Modalidad presencial:
+Registro General del Ayuntamiento
+Organo Gestor
+Servicio Municipal de Gestión y Recaudación
+Efecto del silencio Administrativo
+No procede
+Modelos de solicitud
+Solicitud
+10012. Representación ante Recaudación tributaria
+Tramitación Presencial
+
+
+--- Recursos vinculados (seguido su contenido) ---
+
+
+Link: [descargar]
+URL: https://firmaelectronica.gob.es/Home/Descargas.html
+Tipo detectado: html
+
+
+
+[HTML: https://firmaelectronica.gob.es/Home/Descargas.html]
+
+Firma Electrónica | Descargas -Ciudadanos
+Ir al contenido
+Cerrar sesión
+Castellano
+Castellano
+Català
+Gallego
+Euskara
+Valencià
+English
+Ciudadanos
+Inicio
+Portada de Ciudadanos
+Tutoriales
+Ciudadanos
+Portada de Tutoriales
+Firmar un documento - Certificado Electrónico
+Firmar al mismo nivel que otros (cofirmar)
+Firmar para certificar otras firmas (contrafirmar)
+Validar una firma
+Visualizar una firma
+Cosas que deberías saber
+Ciudadanos
+Portada de Cosas que deberías saber
+La firma electrónica
+El DNI electrónico
+Certificados electrónicos
+Formatos de firma
+Aplicaciones de firma
+Validación de las firmas
+Base legal
+Navegadores y ordenador
+Tipos de certificados
+Identidad digital en las AA.PP:
+Para no equivocarse
+Descargas
+Empresas
+Inicio
+Portada de Empresas
+Tutoriales
+Empresas
+Portada de Tutoriales
+Firmar un documento - Certificado Electrónico
+Firmar al mismo nivel que otros (cofirmar)
+Firmar para certificar otras firmas (contrafirmar)
+Validar una firma
+Visualizar una firma
+Cosas que deberías saber
+Empresas
+Portada de Cosas que deberías saber
+Navegadores y ordenador
+Certificados de empresa
+Factura electrónica
+Autoridades de Certificación
+La firma electrónica
+Los Certificados Electrónicos
+Formatos de firma
+Aplicaciones de firma
+Tipos de Certificados
+Base legal
+Validación de las firmas
+Para no equivocarte
+Identidad Digital
+Navegadores y ordenador
+Descargas
+Empleados Públicos
+Ciudadanos
+Tutoriales
+Cosas que deberías saber
+Descargas
+Portada de
+                                                        Ciudadanos
+Empresas
+Tutoriales
+Cosas que deberías saber
+Descargas
+Portada de
+                                                        Empresas
+Empleados Públicos
+Buscar
+Ciudadanos
+Descargas
+Descargas para ciudadanos
+Desde aquí puedes descargarte aquellas aplicaciones que necesites para firmar electrónicamente y otras utilidades o documentos.
+Autofirma
+Autofirma
+Manuales
+Plugin de Huella Digital v1.0
+@Firma (obsoleto)
+Política de Firma de la AGE
+Autofirma
+Manuales
+Plugin de Huella Digital v1.0
+@Firma (obsoleto)
+Política de Firma de la AGE
+Aplicación de firma electrónica desarrollada por el Ministerio de Asuntos Económicos y Transformación Digital. Al poder ser ejecutada desde el navegador, permite la firma en páginas de Administración Electrónica cuando se requiere la firma en un procedimiento administrativo.
+Autofirma Apps
+Para Windows
+Versión 1.9
+Versión 1.9 para Windows 64 bits
+Versión 1.9 para Windows 32 bits
+Versiones anteriores
+Versión 1.8.3 para Windows 64 bits
+Versión 1.8.3 para Windows 32 bits
+Para Linux
+Versión 1.9
+Versión 1.9 para Debian Linux
+Versión 1.9 para Fedora Linux
+Versión 1.9 para OpenSUSE Linux
+Versiones anteriores
+Versión 1.8.3 para Debian Linux
+Versión 1.8.3 para Fedora Linux
+Versión 1.8.3 para OpenSUSE Linux
+Para MacOS
+Versión 1.9
+Versión 1.9 para MacOS procesadores x64
+Versión 1.9 para MacOS procesadores x64 (incl Java 11)
+Versión 1.9 para MacOS procesadores M1 y siguientes
+Versiones anteriores
+Versión 1.8.4 para MacOS procesadores x64
+Versión 1.8.4 para MacOS procesadores M1
+Manuales
+Guía para el usuario final de AutoFirma a través del proceso de instalación, posibilidades de uso de AutoFirma a través de consola, uso de tarjetas inteligentes y listado de diversos problemas que pueden surgir en la instalación y ejecución de la aplicación.
+Manual de Instalación para Usuarios (1.9)
+Manual de Instalación para Usuarios (1.8.2 y siguientes)
+Plugin de Huella Digital v1.0
+Plugin para el cálculo y la comprobación de hashes versión v1.0. El componente permite generar ficheros de hashes con el hash de un fichero o de todos los ficheros de un directorio. También permite comprobar que un fichero de hashes es válido seleccionando el fichero o directorio a partir del cual se generó. IMPORTANTE: El plugin requiere de Autofirma v1.8 o superior (no es compatible con la versión 1.7.2 y anteriores). En versiones de Autofirma anteriores a la v1.8 la funcionalidad del plugin estaba integrada en la aplicación. Su paso a plugin se ha realizado para facilitar su gestión y evolución.
+Plugin de Huella Digital 1.0 (para Autofirma v1.8 o superior)
+Cliente @Firma (obsoleto) - Se recomienda usar Autofirma
+Cliente @Firma es una aplicación de firma desarrollada por el Ministerio de Hacienda y Administraciones Públicas. Al tratarse de una versión obsoleta se recomienda el uso de Autofirma.
+Cliente @Firma (obsoleto)
+Política de Firma de la AGE
+Define un modelo de esquema de referencia para la identificación y autenticación electrónica, recogidos en la Ley 11/2007, de 22 de Junio, de Acceso Electrónico de los Ciudadanos a los Servicios Públicos en el ámbito de la AGE
+Política de Firma de la AGE
+Mapa web
+Accesibilidad
+Aviso Legal
+Política de cookies
+Política de privacidad
+Plan de Recuperación, Transformación y Resiliencia - Financiado por la Unión Europea - NextGenerationEU
+© Portal de Administración Electrónica · Agencia Estatal de Administración Digital
+Política de cookies
+Este sitio web utiliza cookies propias y de terceros para ofrecer un mejor servicio. Si continúa navegando consideramos que acepta su uso.
+Ver política de cookies
+Rechazar todas las cookies
+Aceptar todas las cookies
+
+------------------------------
+
+
+
+Link: javascript:;
+URL: javascript:;
+Tipo detectado: restricted
+
+
+
+Es necesario Cl@ve o certificado digital
+
+------------------------------
+
+
+
+Link: Registro General del Ayuntamiento
+URL: https://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_floc_d4_v1.jsp&tipo=1&&contenido=1087&nivel=1400&layout=p_20_contenedor1.jsp&codResi=1
+Tipo detectado: html
+
+
+
+[HTML: https://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_floc_d4_v1.jsp&tipo=1&&contenido=1087&nivel=1400&layout=p_20_contenedor1.jsp&codResi=1]
+
+Registro General del Ayuntamiento
+Ayuntamiento de Jaén
+Inicio
+Accesibilidad
+Mapa web
+Está en:
+Inicio
+Registro General del Ayuntamiento
+Volver
+Imprimir
+Dirección y datos de contacto
+Dirección
+Plaza 
+                  Santa María, 1
+23002 Jaén (Jaén)
+Telf:
+953 21 92 29
+Horario
+Atención al público :
+de 9:00 h a 13:00 h
+Cómo llegar
+Ver mapa más grande
+Fecha última modificación: 5 de noviembre de 2014 a las 08:47
+Excmo. Ayuntamiento de Jaén
+Plaza de Santa María, 1. 23002
+Tfno:
+953 21 91 00
+Oficina Municipal de Información y Atención Ciudadana
+Pintor Francisco Quero de Miguel s/n (Lateral UPM) - Planta Baja (Derecha)
+Tfno:
+900 72 72 73
+Correo electrónico:
+oic@aytojaen.es
+Administrador Web: En caso de cualquier duda técnica sobre el portal,
+envíe sus consultas a la Oficina de Acceso Electrónico
+oae@aytojaen.es
+Portal optimizado para una resolución de 1024 x 768
+RSS
+Protección de datos
+Aviso legal
+
+------------------------------
+
+
+
+Link: Servicio Municipal de Gestión y Recaudación
+URL: https://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_floc_d4_v1.jsp&tipo=1&&contenido=1081&nivel=1400&layout=p_20_contenedor1.jsp&codResi=1
+Tipo detectado: html
+
+
+
+[HTML: https://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_floc_d4_v1.jsp&tipo=1&&contenido=1081&nivel=1400&layout=p_20_contenedor1.jsp&codResi=1]
+
+Servicio Municipal de Gestión y Recaudación Tributaria
+Ayuntamiento de Jaén
+Inicio
+Accesibilidad
+Mapa web
+Está en:
+Inicio
+Servicio Municipal de Gestión y Recaudación Tributaria
+Volver
+Imprimir
+Dirección y datos de contacto
+Dirección
+Calle 
+                  Obispo González, 9
+Jaén (Jaén)
+Telf:
+Información: 953 21 91 82 - 953 21 91 83
+Fax:
+953 21 91 70
+Horario
+Horario de Atención al Público: de 9:00 a 14:00 H.
+Reserve su cita en
+https://citaprevia.aytojaen.es
+Cómo llegar
+Ver mapa más grande
+Fecha última modificación: 20 de octubre de 2025 a las 09:51
+Excmo. Ayuntamiento de Jaén
+Plaza de Santa María, 1. 23002
+Tfno:
+953 21 91 00
+Oficina Municipal de Información y Atención Ciudadana
+Pintor Francisco Quero de Miguel s/n (Lateral UPM) - Planta Baja (Derecha)
+Tfno:
+900 72 72 73
+Correo electrónico:
+oic@aytojaen.es
+Administrador Web: En caso de cualquier duda técnica sobre el portal,
+envíe sus consultas a la Oficina de Acceso Electrónico
+oae@aytojaen.es
+Portal optimizado para una resolución de 1024 x 768
+RSS
+Protección de datos
+Aviso legal
+
+------------------------------
+
+
+
+Link: Solicitud
+URL: https://sede.aytojaen.es/sta/docs/GetDocumentServlet?CUD=12434156650321553004&HASH_CUD=c652a460421d3209506d7c0b79e3e158c7800ab2&APP_CODE=STA
+Tipo detectado: pdf
+
+
+
+[PDF: https://sede.aytojaen.es/sta/docs/GetDocumentServlet?CUD=12434156650321553004&HASH_CUD=c652a460421d3209506d7c0b79e3e158c7800ab2&APP_CODE=STA]
+
+EXCMO. AYUNTAMIENTO DE JAÉN 
+SERVICIO MUNICIPAL DE RECAUDACIÓN TRIBUTARIA 
+C/ Obispo González, 9 - 23002 - JAÉN 
+Teléfonos: 953 21 91 00 - 83 
+http://www.aytojaen.esREPRESENTACIÓN ANTE LA RECAUDACIÓN 
+TRIBUTARIA
+NIF, DNI, Tarjeta de residencia, CIF Nombre Apellidos o Razón social
+Tipo Vía Domicilio Número Bis Portal Escalera Puerta Planta
+C.P. Municipio Provincia Teléfono
+NIF, DNI, Tarjeta de residencia, CIF Nombre Apellidos o Razón social
+Tipo Vía Domicilio Número Bis Portal Escalera Puerta Planta
+C.P. Municipio Provincia TeléfonoRepresentado  1
+Y en su nombre y representación D  2 (otorgante)
+ Para que actúe ante la Administración Tributaria del Excmo. Ayuntamiento de Jaén en el procedimiento de recaudación número
+Jaén, a de de Con relación a dicho/s procedimiento/s podrá ejercitar las siguientes facultades: facilitar la práctica de cuantas actuaciones sean 
+precisas para la instrucción del expediente, aportar cuantos datos y documentos se soliciten o se interesen, recibir todo tipo de 
+comunicaciones, formular peticiones y solicitudes, ,presentar toda clase de escritos o alegaciones, manifestar su decisión de no efectuar 
+alegaciones ni aportar nuevos documentos en el correspondiente trámite de audiencia o renunciar a otros derechos, así como firmar 
+cuantas diligencias se extiendan, suscribir las propuestas de resolución que resulten de la tramitación del/de los procedimiento/s así como 
+otros documentos que pueda extender el órgano competente y, en general, realizar cuantas actuaciones correspondan al representado en 
+el curso de dicho/s procedimiento/s. 
+ ACEPTACIÓN DE LA REPRESENTACIÓN 
+ Con la firma del presente escrito el representante acepta la representación conferida y responde de la autenticidad de la firma 
+del otorgante, así como de la copia del DNI3 del mismo que acompaña a este documento. 
+ En caso de actuar el otorgante en nombre de otra persona o entidad, declara expresamente que su título de apoderamiento está 
+vigente y es bastante para el presente acto.
+EXCMO. AYUNTAMIENTO DE JAÉNRepresentanteOtorga su representación a:
+NIF, DNI, Tarjeta de residencia, CIF Nombre Apellidos o Razón social
+Tipo Vía Domicilio Número Bis Portal Escalera Puerta Planta
+C.P. Municipio Provincia Teléfono
+, relativo al concepto de
+Fdo. Fdo.
+El otorgante El representante
+1 Si el representado es una persona jurídica, deberá aportarse el poder concedido por ésta. 
+2 Rellenar únicamente si el otorgante es persona distinta del representado. 3 DNI, CIF o documento equivalente de identificación de extranjeros del representado y, en su caso, de la persona física otorgante que actúe en nombre del represetnado. 
+
+------------------------------
+

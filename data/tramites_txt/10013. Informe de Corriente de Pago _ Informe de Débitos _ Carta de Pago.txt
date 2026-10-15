@@ -1,0 +1,345 @@
+Trámite ID: 6269026880048539105011
+
+Nombre: 10013. Informe de Corriente de Pago / Informe de Débitos / Carta de Pago
+
+URL: https://sede.aytojaen.es/sta/CarpetaPublic/doEvent?APP_CODE=STA&PAGE_CODE=CATALOGO&DETALLE=6269026880048539105011
+
+
+--- Contenido principal ---
+
+
+Es necesario instalar Autofirma para firmar solicitudes de registro electrónico, aceptar notificaciones y firmar documentos del portafirmas
+[descargar]
+10013. Informe de Corriente de Pago / Informe de Débitos / Carta de Pago
+Descripción
+10013. Informe de estar al Corriente de Pago / Informe de Débitos / Carta de Pago
+Finalidad
+Este trámite le permite solicitar uno de estos informes:
+Informe de estar al corriente de pago
+: Informe que certifica estar al corriente de pago con el Ayuntamiento de Jaén. USO: tramitar veladores, mercadillos, ventas de inmuebles, liquidar impagos de inmuebles, para facturar al ayuntamiento, solicitar devoluciones de ingresos a este ayuntamiento, etc.
+Informe de débitos
+: Documento donde se le detalle los débitos del contribuyente con este Ayto. USO: Solicitar fraccionamiento, compensación, para presentar en otra entidad u organismo oficial, etc.
+Documento o carta de pago
+: Impreso de recibo pendiente de pago para su abono en una de las entidades bancarias colaboradoras que aparecen detalladas en el propio impreso.
+Las solicitudes recibidas por la web son tramitadas por el personal del
+Negociado de Atención al Contribuyente
+, se registran y se emite el correspondiente informe, justificante o documento de pago.
+El contribuyente tiene la opción de elegir la recepción del informe o del justificante mediante un aviso por mail de su puesta a disposición en la sede electrónica o recogiéndolo presencialmente en nuestras oficinas en calle Obispo Gonzalez, nº 9  Planta baja, en el plazo mínimo de tres días.
+En caso de que la solicitud se haga de manera presencial, ha de presentarse en el Registro General del Ayuntamiento, excepto en el caso de los documentos o carta de pago, que se hará en las oficinas de la calle Obispo González, nº 9.
+Quien lo puede Presentar
+Contribuyentes, empresas, entidades bancarias, organismos oficiales, notarias, inmobiliarias, ..
+En el caso de solicitudes de personas jurídicas, el destinatario del informe será la persona física que actue como representante.
+Presentación
+Presencial
+:
+Registro General del Ayuntamiento
+Registro Electrónico
+: Enlaces al final de esta página
+Organo Gestor
+Negociado de atención al contribuyente y archivo
+Servicio Municipal de Gestión y Recaudación Tributaria
+Calle Obispo González, 9, 23002 Jaén
+673662392 / 673662422 / 673662584
+Plazo de resolución
+El plazo de tramitación es de 8 Días
+Efecto del silencio Administrativo
+No procede
+Normativa básica
+Ley general tributaria
+Reglamento General de Recaudación
+Información Adicional
+Documentación a aportar
+Copia del DNI, si no se da consentimiento para la consulta de datos de identidad.
+Modelos de solicitud
+Solicitud
+10013. Informe de estar al Corriente de Pago/Justificante de Pago/Informe de Débitos / Carta de Pago
+Nivel de identificación en trámitación online
+Substancial:
+Acceso mediante sistema Cl@ve
+Documentos a Presentar
+Cuando el solicitante no coincide con el sujeto pasivo en los conceptos, Impuesto sobre Vehículos de Tracción Mecánica (IVTM) e Impuesto de Bienes Inmuebles de naturaleza Urbana y Rustica (IBIU ¿ IBIR), se deberá aportar la siguiente documentación:
+IVTM: Fotocopia del Permiso de Circulación
+IBIU - IBIR: Fotocopia de las Escrituras de la Finca
+Tramitación Online
+Seleccione como desea identificarse:
+Con certificado digital (Autofirma)
+Acceso mediante sistema Clave
+Tramitación Presencial
+
+
+--- Recursos vinculados (seguido su contenido) ---
+
+
+Link: [descargar]
+URL: https://firmaelectronica.gob.es/Home/Descargas.html
+Tipo detectado: html
+
+
+
+[HTML: https://firmaelectronica.gob.es/Home/Descargas.html]
+
+Firma Electrónica | Descargas -Ciudadanos
+Ir al contenido
+Cerrar sesión
+Castellano
+Castellano
+Català
+Gallego
+Euskara
+Valencià
+English
+Ciudadanos
+Inicio
+Portada de Ciudadanos
+Tutoriales
+Ciudadanos
+Portada de Tutoriales
+Firmar un documento - Certificado Electrónico
+Firmar al mismo nivel que otros (cofirmar)
+Firmar para certificar otras firmas (contrafirmar)
+Validar una firma
+Visualizar una firma
+Cosas que deberías saber
+Ciudadanos
+Portada de Cosas que deberías saber
+La firma electrónica
+El DNI electrónico
+Certificados electrónicos
+Formatos de firma
+Aplicaciones de firma
+Validación de las firmas
+Base legal
+Navegadores y ordenador
+Tipos de certificados
+Identidad digital en las AA.PP:
+Para no equivocarse
+Descargas
+Empresas
+Inicio
+Portada de Empresas
+Tutoriales
+Empresas
+Portada de Tutoriales
+Firmar un documento - Certificado Electrónico
+Firmar al mismo nivel que otros (cofirmar)
+Firmar para certificar otras firmas (contrafirmar)
+Validar una firma
+Visualizar una firma
+Cosas que deberías saber
+Empresas
+Portada de Cosas que deberías saber
+Navegadores y ordenador
+Certificados de empresa
+Factura electrónica
+Autoridades de Certificación
+La firma electrónica
+Los Certificados Electrónicos
+Formatos de firma
+Aplicaciones de firma
+Tipos de Certificados
+Base legal
+Validación de las firmas
+Para no equivocarte
+Identidad Digital
+Navegadores y ordenador
+Descargas
+Empleados Públicos
+Ciudadanos
+Tutoriales
+Cosas que deberías saber
+Descargas
+Portada de
+                                                        Ciudadanos
+Empresas
+Tutoriales
+Cosas que deberías saber
+Descargas
+Portada de
+                                                        Empresas
+Empleados Públicos
+Buscar
+Ciudadanos
+Descargas
+Descargas para ciudadanos
+Desde aquí puedes descargarte aquellas aplicaciones que necesites para firmar electrónicamente y otras utilidades o documentos.
+Autofirma
+Autofirma
+Manuales
+Plugin de Huella Digital v1.0
+@Firma (obsoleto)
+Política de Firma de la AGE
+Autofirma
+Manuales
+Plugin de Huella Digital v1.0
+@Firma (obsoleto)
+Política de Firma de la AGE
+Aplicación de firma electrónica desarrollada por el Ministerio de Asuntos Económicos y Transformación Digital. Al poder ser ejecutada desde el navegador, permite la firma en páginas de Administración Electrónica cuando se requiere la firma en un procedimiento administrativo.
+Autofirma Apps
+Para Windows
+Versión 1.9
+Versión 1.9 para Windows 64 bits
+Versión 1.9 para Windows 32 bits
+Versiones anteriores
+Versión 1.8.3 para Windows 64 bits
+Versión 1.8.3 para Windows 32 bits
+Para Linux
+Versión 1.9
+Versión 1.9 para Debian Linux
+Versión 1.9 para Fedora Linux
+Versión 1.9 para OpenSUSE Linux
+Versiones anteriores
+Versión 1.8.3 para Debian Linux
+Versión 1.8.3 para Fedora Linux
+Versión 1.8.3 para OpenSUSE Linux
+Para MacOS
+Versión 1.9
+Versión 1.9 para MacOS procesadores x64
+Versión 1.9 para MacOS procesadores x64 (incl Java 11)
+Versión 1.9 para MacOS procesadores M1 y siguientes
+Versiones anteriores
+Versión 1.8.4 para MacOS procesadores x64
+Versión 1.8.4 para MacOS procesadores M1
+Manuales
+Guía para el usuario final de AutoFirma a través del proceso de instalación, posibilidades de uso de AutoFirma a través de consola, uso de tarjetas inteligentes y listado de diversos problemas que pueden surgir en la instalación y ejecución de la aplicación.
+Manual de Instalación para Usuarios (1.9)
+Manual de Instalación para Usuarios (1.8.2 y siguientes)
+Plugin de Huella Digital v1.0
+Plugin para el cálculo y la comprobación de hashes versión v1.0. El componente permite generar ficheros de hashes con el hash de un fichero o de todos los ficheros de un directorio. También permite comprobar que un fichero de hashes es válido seleccionando el fichero o directorio a partir del cual se generó. IMPORTANTE: El plugin requiere de Autofirma v1.8 o superior (no es compatible con la versión 1.7.2 y anteriores). En versiones de Autofirma anteriores a la v1.8 la funcionalidad del plugin estaba integrada en la aplicación. Su paso a plugin se ha realizado para facilitar su gestión y evolución.
+Plugin de Huella Digital 1.0 (para Autofirma v1.8 o superior)
+Cliente @Firma (obsoleto) - Se recomienda usar Autofirma
+Cliente @Firma es una aplicación de firma desarrollada por el Ministerio de Hacienda y Administraciones Públicas. Al tratarse de una versión obsoleta se recomienda el uso de Autofirma.
+Cliente @Firma (obsoleto)
+Política de Firma de la AGE
+Define un modelo de esquema de referencia para la identificación y autenticación electrónica, recogidos en la Ley 11/2007, de 22 de Junio, de Acceso Electrónico de los Ciudadanos a los Servicios Públicos en el ámbito de la AGE
+Política de Firma de la AGE
+Mapa web
+Accesibilidad
+Aviso Legal
+Política de cookies
+Política de privacidad
+Plan de Recuperación, Transformación y Resiliencia - Financiado por la Unión Europea - NextGenerationEU
+© Portal de Administración Electrónica · Agencia Estatal de Administración Digital
+Política de cookies
+Este sitio web utiliza cookies propias y de terceros para ofrecer un mejor servicio. Si continúa navegando consideramos que acepta su uso.
+Ver política de cookies
+Rechazar todas las cookies
+Aceptar todas las cookies
+
+------------------------------
+
+
+
+Link: javascript:;
+URL: javascript:;
+Tipo detectado: restricted
+
+
+
+Es necesario Cl@ve o certificado digital
+
+------------------------------
+
+
+
+Link: Registro General del Ayuntamiento
+URL: http://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_floc_d4_v1.jsp&contenido=1087&tipo=1&nivel=1400&layout=p_20_contenedor1.jsp&codResi=1&language=es&codMenu=91&codMenuPN=1
+Tipo detectado: http_error
+
+
+
+[HTTP Error 404 al acceder a http://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_floc_d4_v1.jsp&contenido=1087&tipo=1&nivel=1400&layout=p_20_contenedor1.jsp&codResi=1&language=es&codMenu=91&codMenuPN=1]
+
+------------------------------
+
+
+
+Link: Reglamento General de Recaudación
+URL: https://sede.aytojaen.es/portal/sede/se_contenedor1.jsp?seccion=s_fdoc_d4_v1.jsp&contenido=30653&tipo=5&nivel=1400&codResi=1&language=es
+Tipo detectado: html
+
+
+
+[HTML: https://sede.aytojaen.es/portal/sede/se_contenedor1.jsp?seccion=s_fdoc_d4_v1.jsp&contenido=30653&tipo=5&nivel=1400&codResi=1&language=es]
+
+Sede Electrónica - Ordenanza Fiscal General de Gestión, Recaudación e Inspección
+Sede Electrónica
+Ayuntamiento de Jaén
+Ordenanza Fiscal General de Gestión, Recaudación e Inspección
+volver
+imprimir
+escuchar
+compartir
+Fecha de publicación:
+27 de Noviembre de 2019
+DESCARGA DE DOCUMENTOS
+Ordenanza Fiscal General de Gestión, Recaudación e Inspección
+29 de Noviembre de 2019
+volver
+imprimir
+escuchar
+compartir
+Ayuntamiento de Jaén
+Plaza
+                   
+                   
+                    	Santa María
+                   
+                   
+                    	1.
+                   
+                   
+                    	23002
+                   
+                   
+	                Jaén
+                   
+                   
+                  	(Jaén)
+Teléfono: 953 21 91 00
+(Centralita)
+900 72 72 73
+(Oficina de Información y Atención al Ciudadano)
+Correo electrónico: oic@aytojaen.es
+
+------------------------------
+
+
+
+Link: Solicitud
+URL: https://sede.aytojaen.es/sta/docs/GetDocumentServlet?CUD=12434156247762112430&HASH_CUD=2e7538629b4566fb3d88e9db25c779cfd9121052&APP_CODE=STA
+Tipo detectado: pdf
+
+
+
+[PDF: https://sede.aytojaen.es/sta/docs/GetDocumentServlet?CUD=12434156247762112430&HASH_CUD=2e7538629b4566fb3d88e9db25c779cfd9121052&APP_CODE=STA]
+
+EXCMO. AYUNTAMIENTO DE JAÉN 
+SERVICIO MUNICIPAL DE RECAUDACIÓN TRIBUTARIA 
+C/ Obispo González, 9 - 23002 - JAÉN 
+Teléfonos: 953 21 91 00 - 83
+SOLICITUD INFORME AL CORRIENTE DE PAGO/JUSTIFICANTE DE PAGO/INFORME DE DÉBITOS/ CARTA DE PAGO
+Representado por Nombre y Apellidos/Razón social
+DNI/NIF/NIE Correo Electrónico
+C.P. Municipio ProvinciaTeléfono
+Domicilio (Calle, Plaza,..) Número y PlantaSOLICITANTE
+DOCUMENTACIÓN IMPRESCINDIBLE PARA LA REALIZACIÓN DEL INFORME
+Si el informe lo solicita un REPRESENTANTE DEL OBLIGADO TRIBUTARIO y éste es: 
+1.- Persona física: Poder notarial de representación o autorización específica debidamente firmada. 2.- Persona jurídica: Documentación que acredite el poder para representar a esa persona jurídica, fotocopia de la tarjeta de identificación fiscal y, en su 
+caso, autorización específica a un tercero por parte del representante legal, debidamente firmada.   Cuando el solicitante no coincide con el sujeto pasivo en los conceptos: Impuesto sobre Vehículos de Tracción Mecánica (IVTM) e Impuesto de Bienes 
+Inmuebles de Naturaleza Urbana y Rústica (IBIU-IBIR), se deberá aportar la siguiente documentación: - Para IVTM: Fotocopia del DNI, fotocopia del permiso de circulación y fotocopia de la Inspección Técnica de Vehículos. - Para IBIU-IBIR: Fotocopia del DNI y fotocopia de las escrituras de la finca.
+FORM PROC-10013 Solicitud disponible para tramitación telemática en https://sede.aytojaen.es
+EXPONE: Que con motivo de TIPO DE SOLICITUD: Elija una de las siguientes opciones
+Informe al Corriente de Pago Justificante de Pago Informe de Débitos
+SOLICITA: Que se expida Informe al Corriente de Pago, Justificante de Pago, Informe de Débitos por el concepto, 
+identificativos / referencia y ejercicio / periodo que se relaciona
+CONCEPTO IDENTIFICATIVO/REFERENCIA EJERCICIO/PERIODO
+Jaén, a de de
+Firma del Autorizante, Firma del Autorizado,
+Elegir una opción para recibir el Informe:
+Por correo electrónico Avisar por teléfono para recogerlo en la oficina
+Los datos recogidos en el presente formulario se incorporarán a un fichero de datos de carácter personal, cuyo responsable es el Excmo. Ayuntamiento de Jaén. Puede ejercer sus derechos de Acceso, Rectificación, Consulta y Cancelación en la Oficina de Acceso Electrónico y Nuevas Tecnologías en la C/ Joaquín Tenorio, nº 12.
+ILMO. SR. ALCALDE PRESIDENTE DEL EXCMO. AYUNTAMIENTO DE JAÉN.Carta de Pago
+La presente solicitud ha de presentarse en el Registro General del Ayuntamiento, excepto en el caso de la solicitud de documento/carta de pago, que se hará en las oficinas de la calle Obispo González, nº 9
+
+------------------------------
+

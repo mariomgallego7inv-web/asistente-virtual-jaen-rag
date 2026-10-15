@@ -1,0 +1,3501 @@
+Trámite ID: 6269026923184623505011
+
+Nombre: 20009. Informe de Arraigo Social
+
+URL: https://sede.aytojaen.es/sta/CarpetaPublic/doEvent?APP_CODE=STA&PAGE_CODE=CATALOGO&DETALLE=6269026923184623505011
+
+
+--- Contenido principal ---
+
+
+Es necesario instalar Autofirma para firmar solicitudes de registro electrónico, aceptar notificaciones y firmar documentos del portafirmas
+[descargar]
+20009. Informe de Arraigo Social
+Descripción
+20009. Informe de Arraigo Social
+Finalidad
+Informe emitido por los/as Trabajadores/as Sociales a los Inmigrantes que lo solicitan y que llevan más de tres años de residencia en España como parte de la documentación necesaria para pedir el Permiso de Residencia.
+Presentación
+Registro del Patronato Municipal de Asuntos Sociales
+Organo Gestor
+Patronato Municipal de Asuntos Sociales
+Efecto del silencio Administrativo
+No procede
+Normativa básica
+Ley Orgánica 4/2000 sobre derechos y libertades de los Extranjeros en España y su Integración Social
+Información Adicional
+Documentación a aportar
+Copia del Pasaporte del Solicitante /NIF
+Certificados de Empadronamiento de todos aquellos municipios donde haya residido en los últimos 3 años.
+Aportar oferta de trabajo en firme de contrato y documentos justificativos de ingresos (cuentas bancarias, pensiones, etc...)
+Aportar contrato de alquiler y últimos recibos; escritura de la vivienda y gastos de la misma.
+Aportar certificado de asistencia a cursos de formación laboral, clases de español, etc...
+Certificado de pertenencia a Asociaciones de carácter social, cultural, educativo, etc...
+Modelos de solicitud
+Solicitud
+INFORME DE ARRAIGO SOCIAL
+Tramitación Presencial
+
+
+--- Recursos vinculados (seguido su contenido) ---
+
+
+Link: [descargar]
+URL: https://firmaelectronica.gob.es/Home/Descargas.html
+Tipo detectado: html
+
+
+
+[HTML: https://firmaelectronica.gob.es/Home/Descargas.html]
+
+Firma Electrónica | Descargas -Ciudadanos
+Ir al contenido
+Cerrar sesión
+Castellano
+Castellano
+Català
+Gallego
+Euskara
+Valencià
+English
+Ciudadanos
+Inicio
+Portada de Ciudadanos
+Tutoriales
+Ciudadanos
+Portada de Tutoriales
+Firmar un documento - Certificado Electrónico
+Firmar al mismo nivel que otros (cofirmar)
+Firmar para certificar otras firmas (contrafirmar)
+Validar una firma
+Visualizar una firma
+Cosas que deberías saber
+Ciudadanos
+Portada de Cosas que deberías saber
+La firma electrónica
+El DNI electrónico
+Certificados electrónicos
+Formatos de firma
+Aplicaciones de firma
+Validación de las firmas
+Base legal
+Navegadores y ordenador
+Tipos de certificados
+Identidad digital en las AA.PP:
+Para no equivocarse
+Descargas
+Empresas
+Inicio
+Portada de Empresas
+Tutoriales
+Empresas
+Portada de Tutoriales
+Firmar un documento - Certificado Electrónico
+Firmar al mismo nivel que otros (cofirmar)
+Firmar para certificar otras firmas (contrafirmar)
+Validar una firma
+Visualizar una firma
+Cosas que deberías saber
+Empresas
+Portada de Cosas que deberías saber
+Navegadores y ordenador
+Certificados de empresa
+Factura electrónica
+Autoridades de Certificación
+La firma electrónica
+Los Certificados Electrónicos
+Formatos de firma
+Aplicaciones de firma
+Tipos de Certificados
+Base legal
+Validación de las firmas
+Para no equivocarte
+Identidad Digital
+Navegadores y ordenador
+Descargas
+Empleados Públicos
+Ciudadanos
+Tutoriales
+Cosas que deberías saber
+Descargas
+Portada de
+                                                        Ciudadanos
+Empresas
+Tutoriales
+Cosas que deberías saber
+Descargas
+Portada de
+                                                        Empresas
+Empleados Públicos
+Buscar
+Ciudadanos
+Descargas
+Descargas para ciudadanos
+Desde aquí puedes descargarte aquellas aplicaciones que necesites para firmar electrónicamente y otras utilidades o documentos.
+Autofirma
+Autofirma
+Manuales
+Plugin de Huella Digital v1.0
+@Firma (obsoleto)
+Política de Firma de la AGE
+Autofirma
+Manuales
+Plugin de Huella Digital v1.0
+@Firma (obsoleto)
+Política de Firma de la AGE
+Aplicación de firma electrónica desarrollada por el Ministerio de Asuntos Económicos y Transformación Digital. Al poder ser ejecutada desde el navegador, permite la firma en páginas de Administración Electrónica cuando se requiere la firma en un procedimiento administrativo.
+Autofirma Apps
+Para Windows
+Versión 1.9
+Versión 1.9 para Windows 64 bits
+Versión 1.9 para Windows 32 bits
+Versiones anteriores
+Versión 1.8.3 para Windows 64 bits
+Versión 1.8.3 para Windows 32 bits
+Para Linux
+Versión 1.9
+Versión 1.9 para Debian Linux
+Versión 1.9 para Fedora Linux
+Versión 1.9 para OpenSUSE Linux
+Versiones anteriores
+Versión 1.8.3 para Debian Linux
+Versión 1.8.3 para Fedora Linux
+Versión 1.8.3 para OpenSUSE Linux
+Para MacOS
+Versión 1.9
+Versión 1.9 para MacOS procesadores x64
+Versión 1.9 para MacOS procesadores x64 (incl Java 11)
+Versión 1.9 para MacOS procesadores M1 y siguientes
+Versiones anteriores
+Versión 1.8.4 para MacOS procesadores x64
+Versión 1.8.4 para MacOS procesadores M1
+Manuales
+Guía para el usuario final de AutoFirma a través del proceso de instalación, posibilidades de uso de AutoFirma a través de consola, uso de tarjetas inteligentes y listado de diversos problemas que pueden surgir en la instalación y ejecución de la aplicación.
+Manual de Instalación para Usuarios (1.9)
+Manual de Instalación para Usuarios (1.8.2 y siguientes)
+Plugin de Huella Digital v1.0
+Plugin para el cálculo y la comprobación de hashes versión v1.0. El componente permite generar ficheros de hashes con el hash de un fichero o de todos los ficheros de un directorio. También permite comprobar que un fichero de hashes es válido seleccionando el fichero o directorio a partir del cual se generó. IMPORTANTE: El plugin requiere de Autofirma v1.8 o superior (no es compatible con la versión 1.7.2 y anteriores). En versiones de Autofirma anteriores a la v1.8 la funcionalidad del plugin estaba integrada en la aplicación. Su paso a plugin se ha realizado para facilitar su gestión y evolución.
+Plugin de Huella Digital 1.0 (para Autofirma v1.8 o superior)
+Cliente @Firma (obsoleto) - Se recomienda usar Autofirma
+Cliente @Firma es una aplicación de firma desarrollada por el Ministerio de Hacienda y Administraciones Públicas. Al tratarse de una versión obsoleta se recomienda el uso de Autofirma.
+Cliente @Firma (obsoleto)
+Política de Firma de la AGE
+Define un modelo de esquema de referencia para la identificación y autenticación electrónica, recogidos en la Ley 11/2007, de 22 de Junio, de Acceso Electrónico de los Ciudadanos a los Servicios Públicos en el ámbito de la AGE
+Política de Firma de la AGE
+Mapa web
+Accesibilidad
+Aviso Legal
+Política de cookies
+Política de privacidad
+Plan de Recuperación, Transformación y Resiliencia - Financiado por la Unión Europea - NextGenerationEU
+© Portal de Administración Electrónica · Agencia Estatal de Administración Digital
+Política de cookies
+Este sitio web utiliza cookies propias y de terceros para ofrecer un mejor servicio. Si continúa navegando consideramos que acepta su uso.
+Ver política de cookies
+Rechazar todas las cookies
+Aceptar todas las cookies
+
+------------------------------
+
+
+
+Link: javascript:;
+URL: javascript:;
+Tipo detectado: restricted
+
+
+
+Es necesario Cl@ve o certificado digital
+
+------------------------------
+
+
+
+Link: Registro del Patronato Municipal de Asuntos Sociales
+URL: https://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_floc_d4_v1.jsp&tipo=1&&contenido=1217&nivel=1400&layout=p_20_contenedor1.jsp&codResi=1
+Tipo detectado: html
+
+
+
+[HTML: https://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_floc_d4_v1.jsp&tipo=1&&contenido=1217&nivel=1400&layout=p_20_contenedor1.jsp&codResi=1]
+
+Patronato Municipal de Asuntos Sociales
+Ayuntamiento de Jaén
+Inicio
+Accesibilidad
+Mapa web
+Está en:
+Inicio
+Patronato Municipal de Asuntos Sociales
+Volver
+Imprimir
+Dirección y datos de contacto
+Dirección
+Calle 
+                  Cerón, 19
+Jaén (Jaén)
+Telf:
+953 21 91 41
+Horario
+Atención al Público:
+de 9:00 a 13:00
+Cómo llegar
+Ver
+Concejalía de Educación
+en un mapa más grande
+Fecha última modificación: 13 de marzo de 2018 a las 08:42
+Excmo. Ayuntamiento de Jaén
+Plaza de Santa María, 1. 23002
+Tfno:
+953 21 91 00
+Oficina Municipal de Información y Atención Ciudadana
+Pintor Francisco Quero de Miguel s/n (Lateral UPM) - Planta Baja (Derecha)
+Tfno:
+900 72 72 73
+Correo electrónico:
+oic@aytojaen.es
+Administrador Web: En caso de cualquier duda técnica sobre el portal,
+envíe sus consultas a la Oficina de Acceso Electrónico
+oae@aytojaen.es
+Portal optimizado para una resolución de 1024 x 768
+RSS
+Protección de datos
+Aviso legal
+
+------------------------------
+
+
+
+Link: https://www.boe.es/boe/dias/1996/01/17/pdfs/A01225-01238.pdf
+URL: https://www.boe.es/boe/dias/1996/01/17/pdfs/A01225-01238.pdf
+Tipo detectado: pdf
+
+
+
+[PDF: https://www.boe.es/boe/dias/1996/01/17/pdfs/A01225-01238.pdf]
+
+BOE nuffii.J 5 Miercoles 17 enero 1996 1225 
+1. Disposiciones generales 
+1069 JEFATURA DEL ESTADO 
+LEY ORGANICA 1/1996, de 15 de enero; de 
+Protecci6n Jurfdica del Menor, de modifica­
+ci6n parcial def C6digo Civil y de la Ley de 
+Enjuiciamiento' Civil. 
+JUAN CARLOS 1 
+REY DE ESPANA 
+A todos los que la presente vieren y entendieren. 
+Sabed: Que las Cortes Generales han aprobado y Yo 
+vengo en sancionar la siguiente Ley Organica. 
+EXPOSICION DE MOTIVOS 
+1 
+La Constituci6n Espanola de 1978 al enumerar, en 
+el capftulo III del Tftulo 1, los principios rectores de la 
+polftica social y econ6mica, hace menci6n en primer 
+lugar a la obligaci6n de los Poderes Publicos de asegurar 
+la protecci6n social, econ6mica y juridica de la familia 
+y dentro de esta, con caracter sin'gular, Ja de los menores. 
+. Esta preocupaci6n por dotar al menor de un adecuado 
+marco jurfdico de protecci6n trasciende tambien de 
+diversos Tratados Internacionales ratificados en los ulti­
+mos anos por Espaıia y, muy especialmente, de la Con­
+venci6n de Derechosdel Niiio, de Naciones Unidas, de 
+20 de noviembre de 1989, ratificada por Espaıia el 30 
+de noviembre de 1990, que marca elinicio de.una nueva 
+filosoffa en relaci6n con el menor, basada en un mayor 
+reconocimiento del papel que este desempeıia en la 
+sociedad yen la exigencia de un mayor protagonismo 
+para el mismo. . 
+Esta necesidad ha sido compartida' por otras instan­
+cias internacionales, como el Parlamento Europeo que, 
+a traves de la Resoluci6n A 3-0172/92, aprob6 la Carta 
+Europea de los Derechos del Nino. 
+Consecuente con el mandato constitucional y con 
+la tendencia general apuntada. se ha Ifevado a cabo, 
+en los ultimos aıios, un importante proceso de reno­
+vaci6n de nuestro ordenamiento juridico en materia de 
+menores. 
+Primero fue la Ley 11/1981, de 13 de mayo, de 
+modificaci6n de la Filiaci6n,. Patria Potestad y Regimen 
+Econ6mico del Matrimonio, que suprimi6 la distinci6n 
+entre filiaci6n .Iegltima e ilegitima, equipa.r6 al padre ,y 
+a la ,madre a efectos del ejercicio de la patria potestad 
+e introdujo la investigaci6n de la paternidad. Despues se han promulg,ado, entre otras, las Leyes 
+13/1983, de 24 de octubre, sobre la tutela; la. Ley 
+21/1987, de 11 de noviembre, por la que se modifican 
+determinados artıculos del C6digo Civil y de la Ley de 
+Enjuiciamiento Civil en materia de adopci6n; la Ley Orga­
+nica 5/1988, de 9 de junio, sobre exhibicionismo y pro­
+vocaci6n sexual en relaci6n con losmenores; la Ley Orga­
+nica 4/1992, de 5 de junio, sobrə reforma de i.a Ley 
+reguladora de la competencia y el procedimiento de los 
+Juzgados de Menores; y la Ley 25/1994, de 12 de julio, 
+por la que se incorpora al ordenamiento jurfdico espaıiol 
+la Directiva 89j552/CEE, söbre la coordinaci6n de dis­
+posiciones legales reglamentarias y administrativas de 
+los Estados miembros relativas al ejercicio de actividades 
+de radiodifusi6n televisiva. 
+De las Leyes citadas, la 2 1/1 987, de 11 de noviem­
+bre, es la que, sin duda, ha introducido cambios mas 
+sustanciales en el ambito de la protecci6n del menor. 
+A raız de la misma, el anticuado concepto de aban­
+dono fue sustituido. por la instituci6n del desamparo, 
+cambio que ha da do lugtu'a una considerable agilizaci6n 
+de los procedimientos de protecci6n del menor al per­
+mitir la asunci6n automatica, por parte de la entidad 
+publica competente, de la tutela de aquel en los supues­
+tos de desprotecci6n grave del mismo. 
+Asimismo, introdujo la consideraci6n de la adopci6n 
+como un elemento de plena integraci6n fami1iar, la con­
+figuraci6n del acogimiento familiar como una nueva ins­
+tituci6n de protecci6n del menor, la generalizaci6n del 
+interes superior del menor como principio inspirador de 
+todas las. actuaciones relacionadas con aquel, tanto 
+administrativas como judiciales; y el incremento de la~ 
+facultades del Ministerio Fiscal en relaci6n con los meno­
+res, ası como de sus correlativas obligaciones. 
+No obstante, y pese al indudable avance que esta 
+Ley supuso y a las importantes innovaciones que intro­
+dujo, su aplicaci6n ha ido poniendo de manifiesto deter­
+minadas lagunas, a la vez que el tiempo transcurrido 
+desde su promulgaci6n ha' hecho surgir nuevas nece­
+sidades y demandas en la sociedad. 
+Numerosas instituciones, tanto publicas como priva­
+das -Ias dos Camaras Parlamentarias, el Defensor del 
+Pueblo, el Fiscal General del Estado y diversas asocia­
+ciones relacionadas con los menores-, se han becho 
+eco de estas demandas, .trasladando al Gobierno la nece­
+sidad de adecuar el ordenamiento a la realidad de nues-
+. tra sociedad actual. 
+2 
+La presente Ley pretende ser la' primera respuesta 
+a estas demandas, abordando una reforma en -profon­
+didad de tas tradicionales instituciones de protecci6n. 
+del mer:ıor reguladas en el C6digo CiviL. 
+1226 Miercales:- 17 enera 1996 BQE num. 15, 
+En este sentidD -y aunque. el nucleD centrat de la 
+Ley lD cDnstituye, cDmD nD pDdıa ser de Dtra fDrma, 
+la mDdificaci6n de IDS cDrrespDndientes preceptDs 'del 
+eitadD C6digo-, su cDntenidD trasciende IDS Iımites de 
+este para cDnstruir un ampliD marCD jurfdicD de prDtec­
+ei6n que vincula a tDdDS IDS Poderes PublicDS, a las ins­
+tituciDnes . especfficamente relaciDnadas CDn IDS meno­
+res, a IDS padres y familiares y a IDS ciudadanDs en 
+general. 
+Las transfDrmaciDnes sDciales y culturales Dperadas 
+en nuestra sDciedad han prDvDcadD un cambiD en el 
+status sDcial def nino. y CDmD cDnsecuencia de ellQ se 
+ha dadD un nueVD enfDque a la cDnstrucei6n del edificiD 
+de IDS derechDS humanDs de la infancia. . 
+. çste enfDque refDrmula la estructura del derechD a 
+la protecci6n de la infancia vigente en Espana y en la 
+maYDrfa de IDS pafses desarrDlladDs desde finales del 
+siglo XX, y cDnsiste fundamentalmente en el recDn~, 
+cimientD plenD de la titularidad de derechDs en los menD­
+res ~ de edad y de una capaeidad progresiva para ejer­
+cerlDs. 
+EI desarrDIID leg,i~lativD pDstcDnstituciDnal :refleja esta 
+tendencia, intrDduciendo la cDndici6n de sujetD de dere­
+ChDS a las perSDnas menores de edad. Asf, el cDncepto 
+«ser escuchadD· si tuviere suficiente juiciD» se haidD 
+trasladandD a tDdD el DrdenamientD jurfdicD en tDdas 
+aquellas cuestiDnes que le afectan. Este cDnceptD intrD-, 
+duce la dimensi6n del desarrDItD eVDlutivD en el ejercieio 
+directo de sus derechDs. 
+Las limitaciDnes que pudieran derivarse del hechD 
+eVDlutivD deben interpretarse de fDrma restrictiva. Mas 
+aun, esas limitaciDnes debencentrarse mas en IDS pro­
+cedimientDs, de tal manera que se adDptaran aquellDs 
+que sean mas ad.ecu.adDs a la edəd del sujetD. 
+EI DrdenamientD jurfdico, y esta Ley en particular, va 
+reflejando progresivamente una cDncepei6n de las per­
+SDnas menores deedad CDmD sujetDs activDs, partici­
+pativos y creativDs, CDn capaeidad de mDdificar su prDpiD 
+medio. personal Y sDcial; de participar en la busqueda 
+y satisfacci6n de sus necesidades y en la satisfacci6n 
+de las necesidades de los demas. 
+EI cDnDcimiento cientificD actual nDS permite conclui~ 
+que no existe una diferencia taJante entre tas neeesi­
+dades de protecci6n y las necesidades telaciohadas con 
+la autonomfa del sujeto, sino que la mejDr fDrma de 
+garantizar soeial y jurfdicamente la protecei6n a la infan­
+eia es promover suautDnomfa CDmo sujetos. Deesta 
+manera pDdran ir construyendo progresivamente una 
+percepci6n de contr()I, acerca de su situaci6n' personal 
+y de su proyecci6n de futuro. Este es el punto crftico 
+de todos IDS sistemas de prQtecci6n a la infancia en 
+la actualidad. V, pDr 10 tantD" es el reto para tOdDS los 
+DrdenamientDs jurfdicos y IDS disPDSitivos de prDmDei6n 
+y protecci6n de las perSDnas menores de edad. Esta 
+es 'la cDncepci6n del sujetD sobre la que descansa la 
+presente Ley: las necesidades de IDS' menDres CDmo eje 
+de sus derechDs y de su prDtecci6n. 
+EI Tftulo 1 cDmienza enunciandD un reconocimiento 
+general de derechDs cDntenidosen los TratadDs Inter­
+nacionales delDs que Espana es parte, que ademas 
+deben ser utilizadDs como mecanismo de interpretaci6n 
+de tas distintas nDrmas deaplicaci6n a las perSDnas 
+menDres de edad. 
+PDr Dtra parte, del cDnjuntD de derechDs de IDsmeno­
+res, se ha Dbservado la . necesidad de matizar algunDs 
+de ellos, cDmbinando, pDr una parte, la pDsibilidad de 
+su ejerciciDcDn la necesaria protecci6n que, pDr raz6n 
+de la edad, IDS menDres merecen. 
+Asf, con el fin de refDrzar IDS mecanismDs de garantıa 
+previstDs en la Ley Organica 1/1982, de '5 de maYD, 
+de PrDtecci6n Civil del Derecho al HDnDr, a la Intimidad 
+PersDnal y Familiar y a la PrDpia Imagen, 'se prDhfbe la difusi6n de datDs 0. imagenes referidDs a menDres 
+de edad en IDS medios de comunicaci6n cuando sea 
+cDntrario a su interes, inclusD cuan'dD conste el CDh­
+sentimiento del menor. CDn ellD se pretende prDteger 
+al menDr, que puede ser Dbjeto de manipulaci6n incluso 
+pDr sus propiDs representantes legales 0 grupDs en que 
+se mueve. CDmpleta esta modificaci6n la legitimaci6n 
+activa al MinisteriD Fiscal. 
+ElderechD a la participaci6n de los menDres tambien 
+se ha recogidD expresamente eh' el articu1ado, con refe­
+rencia al derecho a formar parte de aSDciaciones y a 
+prDmDver asociaciones infantiles y juveniles, CDn ciertDs 
+requisitos, que se cDmpleta con el derechD a participar 
+en, reuniones publicas y manifestaciDnes pacfficas, esta­
+bleeiendDse el requisitD de la autDrizaei6n de IDS padres, 
+tutDres 0. guardadores. 
+La Ley regula IDS principiDs generales de actuaci6n 
+frente a situaciDnes de desprDtecci6n sDcial,incluyendD 
+la' Dbligaci6n de ,la entidad publica de investigar IDS 
+hechDs que CDnDzca para cDrregir la situaci6n mediante 
+la intervenci6n de IDS ServiciDs SDciales 0., en su caSD, 
+asumiendo la tutela del menDf pDr ministeriD de la ley. 
+De igual modo, se establece la Dbligaci6n de toda 
+persona que detecte una situaci6n de riesgD 0. pDsible 
+desamparD de un menDr, de prestarle auxiliD inmediatD 
+y de cDmunicar el hechD a la autDridad 0. sus agentes 
+mas pr6ximDs. Cpn caracter especfficD se preve, a'simis­
+mD, el deber de IDS ciudadanDs de cDmunicər a las auto­
+ridades publicas cDmpetentes la ausencia del menDr, 
+de fDrma habitual 0. sin justificaci6n, del centrD escDlar. 
+De innDvadDra se puede calificar la distinei6n, dentrD 
+de las situaciDnes de desprDtecci6n sDcial del menDr, 
+entre situaciDnes de riesgD y de desamparD que dan' 
+lugar a un grado distinto de intervenci6n de la entidad 
+publica.Mientras en las situaeiDnes de riesgD, carac-' 
+terizadas por la existencia de un perjuieiD para el menar 
+que nD alcanza la gravedad suficiente para justificar su 
+separaci6ndel nucleD familiar, la citada intervenei6n se 
+limita a intentar eliminar, dentrD de la instituei6n familiar, 
+IDS factores de riesgD, en las situaeiDnes de desamparD, 
+donde la gravedad de IDS hechos 'aconseja la extracci6n 
+del menor de la familia, aquella se CDncreta en la asun­
+eion por la entidad publiea de la tutela del menor y la 
+consiguiente suspensi6ı:ı de la patria pDtestad 0 tutela 
+Drdinaria. 
+Subyace 'a 10 largo de la Lev una preDcupaci6n basada 
+en laexperieneia extraida de la aplieaci6n de la Lev 
+21/1987, por'agilizar V clarifiear IDS tramites de IDS pro­
+əedimientos administrativos y judiciales que afectan al 
+menof, con la finalidad de que aste ne quede indefensD 
+0. desp.rDtegido en ningun momento. 
+Esta esla raz6n per la que, ademas de establecerse 
+como prif1cipio general, el de que tDda actuaci6n habra 
+de tener fundamentalmente en cuenta el intfres deJ 
+menor y no interferir en su vida. escDlar, sDcial 0 laboral 
+se determina que las resoluciones que aprecien la exis­
+tencia de la 'situaci6n de desamparo deberan nDtificarse 
+a los padres, tutores V guardadores, en un plazo de cua­
+renta y oeho horas, informandDles, asimismo, y, a ser 
+posible, de fDrma presencial y de mDdD claro y CDm­
+prensible, de las causas quedieron·lugar ala intervenci6n 
+de la Administraci6n y de IDS pDsibles efectDs de la deei-, 
+si6n adoptada. 
+Respeeto a las medidas que IDS Jueces pueden adDp­
+tar para evitar situaciones perjudieiales para IDS hijDS, 
+que cDntempla actualmente el C6digD Civil en el artfcu­
+lD 158, se ~mpHan a tOdDS los menDres,' y a situaciDnes 
+que exceden del ambito de las relaciDnes paternD-filiales, 
+haeiendose extensivas a las derivadas de la tutela y de 
+la guarda, y se establece la posibilidad de que el Juez 
+las adopte oon caracter cautelar al iniciD 0. en el curSD 
+de cualquier proceso civil ö penal. 
+Miercoles 17 enera 19Ş6 
+En definitiva, se trata de consagrar, un principio de 
+agilidad e inmediatez en todos los procedimientos tanto 
+administrativqs como judiciales que afectan a menores 
+PClra evitar perjuiciosinnecSsarios "ue puedan derivaL 
+de la rigidez de aquaııos. 
+. Menci6n especial merece el acogimiento familiar, 
+figura que introdujola Ley 21/1987. Este puede cons­
+tituirse por la entidad publica competente cuando con­
+curre el consentimiento de los padres. En otro caso, debə 
+dirigirse al Juez Rara que sea aste quien constituya el 
+acogimiento. La aplicaci6n de este precepto ha obligado, 
+hasta ahora: a las entidades publicas a internar a los 
+menores en algun. centro, incluso en ~quellos casos en 
+los que la familia extensa ha rnanifestado su intenci6n 
+de acoger al menor, por no contar con la voluntad de 
+los p-adres con el consiguiente perjuicio psicol6gico y 
+emocional ,que el1o, lIeva consigo para los niıios, que 
+se ven privados innecesariamente de la permanencia 
+en un ambiente familiar. 
+Para remediar esta situaci6n, la' presente Ley recoge 
+la posibilidad de que la entidad publica pueda acordar 
+en inten3s d~1 menor UA acogimiento provisional en fami­
+lia. Este podra ser acordado por la entidad publica cuan­
+do los padres no consientan 0 se opongan al acogimien­
+to, y subsistira mientras se tramita' el necesario expe­
+diente, eri tantO' no se produzca resoluci6n judiciaL De 
+esta manera, şe fa'cilita la constituci6n ,del acogimiento 
+de aquellos niıios sobre los que sus padres han mostrado 
+el maximo desinteres. ~ , 
+Hasta ahora ı la legislaci6n concebia. el acogiriıiento 
+como una situaci6n temporal y por tanto la .regulaciQn 
+del mismo no hada distin.ciones respecto a las distintas 
+circunstancias en que podfa encontrarse el menor, dando 
+siempre a la familia acogedora una autonomia limitada 
+en cuantoal cuidado del menor. 
+Una reflexi6n que actualrnente se esta haciendo en 
+muchos pafses es si las instituciones jurfdicas de pro­
+tecci6n de menores dan respuesta a la diversidad de' 
+situaciones de desprotecci6n en la que estos se encuen­
+tran. La respuesta es que tanto la diversificaci6n de ins­
+tituciones jurfdicas como la flexibilizaci6n de las practicaş 
+profesionales, son indispensables paramejorar cualita­
+tivamente los sistemas de protecci6n a la infancla. Esta 
+Ley opta en esta direcci6n, flexibilizando la acogidafami­
+liar y adecuando el marcp de relaciones entre los aco­
+gectores y el menor acogido en funci6n de la estabilidad 
+de la acogidə. -
+Atendiendo a la finalidad del mismo, se recogen tres -
+tiposde acogimiento. Junto al acogimiento simple, cuan­
+do se dan las condiciones de temporalidad, en las que 
+es relativamente previsibl.e el retorno del menor a su 
+famiJia, se -introduce 'la posibilidad de. constituirlo con 
+carşcter permanente, en aqueJlos casos en, los que la 
+edad u otras circunstancias delmenor 0 su -familia acon­
+sejan dotarlo de una mayor estabilidad, ampliando la 
+autonomfa də ,la fa.m.ilia acogedora respecto a las fun­
+ciones derivadas del cuidado del men-o.r,· mediante la 
+atribuci6n p,or el Juez,de aquenas facultades de la tutela 
+que faciliten el desempeıio de sus responsabilidades. 
+. Tambien"se recoge expresamente lamodalidaa del 
+acogimiento preadoptivo que en la Ley.21/1987 apa­
+reda unicamente an la exposici6ri de motivos, y que 
+tambien existe en otras legislaciones. Esta Ley preve 
+la posibilidad de establecer un periodo, preadoptivo, a 
+traves de la formalizaci6n de un acogimiento con esta 
+finalidad, bien sea porque la entidad publica eleve la 
+propuesta de adopcian de un menor 0 cuando considere 
+·necesario establecer un perfodo de-adaptaci6n del menor 
+a la familia antes de elevar al Juez dicha propuesta. 
+Con ello, se subsanan las insuficiencias de que'ado­
+leda al artfculo 173.1 del C6digo Civil diferenciando entre los distintos tipos. de acogimiento en funci6n qe 
+que la situaci6n de la familia pueda mejorar y que el 
+retorno del menor no 'implique riesgos para este, que 
+las circunstancias aconsejen que se constituya con carac­
+ter permanerite, 0 que convenga constituirlo con caracter 
+preadoptivo. Tambien secontemplan los extremos que 
+deben recogerse' en el documento de formalitaci6n que 
+el C6digo Civil exige. 
+. En materia de adopci6n, la Ley introduce 'la exigencia 
+del requisito de idoneidad de los adoptantes, que habra 
+de ser apreciado por la entidad publica, si es esta la 
+que formula lapropuesta, 0 directamente por al Juez, 
+en otro caso. Este requisito, si bien no est,aba expre­
+samente establecido en nuestro derecho positivo, su exi:" 
+gencia' aparece .~xplicitarnente en i~ Convenciqn de los 
+Derechos del Nıno y en el Convenıo de La Haya sobre 
+,protecci6n de menores y cooperaciôn en materia de 
+adopci6n internacional. y se tenia en cuenta en la practica 
+en los procedimientos de selecci6n de familias adop­
+tantes. 
+La Ley aborda .Ia regulaci6n de la adopci6n interna­
+cionaL En los ultimos aıios se ha proqucido un aumento 
+considerable de las adopciones de niıios extranjeros por 
+partel:leadoptantes espaıioles. En el momento de la 
+el~boraci6n de la Ley 21/1987 no era un fen6meno 
+tpn extendido y no habia süficiente perspectiva para 
+abordarlo en d.ichareforma. La Ley diferencia las fun­
+cionesque han de ejercer directamente las entidades 
+publicas de aquellas fUr1ciones de mediaci6n que puedan 
+delegar en agencias privadas que gocan de la corres­
+pondiente acreditaci6n. Asim~smo, establece las condi­
+ciones y requisitos para la acreditaci6n de estas agencias, 
+entre los que es de destacar la ausenc1a de fin de lucro 
+por parte de las mismas. . 
+. _ Ademas' se modifica el articulo 9.5 del C6digo Civil 
+estableciendo la necesidad de la idoneidad de los adop­
+tantes para la eficaci.a en nuestro pais de las adopciones 
+conshtuidas en el extranjero, dando de esta manera cum­
+plimiento al compromiso adquirido en el momeıito de 
+la ratificaci6n de "la Convenci6n' de Derechos del Niıio 
+de Naciones. Unidas que obliga a los Estados Parte a 
+. velar porque los niıios 0 niıias que sean adoptados en 
+otro pais gocen de los mis(Tlos derechos que los nacio­
+nales en .Ia adopci6n. 
+Finalmente, se abordan tambian en la presente Ley 
+algunos aspectos de la tutela, desarrollando aquellos ar­
+ticulos del C6digo Civil que requieren matizaciones cuan­
+do afətten a menores de edad. Asi, la tutela de un menor 
+de edad debe tender, cuando ~ea posible, ala integraci6n 
+del menor en la familla del tutor. Ademas se introduce 
+como causa de remoci6n la existencia de graves y rei­
+terados problemas de convivencia y se da en este pro-
+cedimiento audiencia al menor. ' 
+En todo el texto aparece reforzada la int~rvenci6n 
+del Ministerio Fiscal, siguiendo la tenden.cia iniciada con 
+la Ley 21/1987, ampJiando los cauces de actuaci6n de 
+esta instituci6n, a la que, por su propio Estatuto, corres­
+ponde la representaci6n de los mehores e incapaces 
+que care_zcan de representaci6n legal. 
+Otra cuesti6n que se aborda en la Ley es el inter­
+namiento' del menor en centro psiquiatrico y que con 
+el objetivo de que se reali.ce cön las maximas gru:.antias 
+por tratarse de un menor de edad, se somete a la auto­
+rizaci6n judicial previa y a las reglas del articulo 211 
+del C6digo Civil, con informe preceptivo del Ministerio 
+Fiscal, equiparando, a estos efectos, el menoral presunto 
+incapaz y no considerando valido el consentimiento de 
+sus-ı>adres para que el internamiento se considere volun­
+tario, excepci6n hecha del internamiento de urgencia. 
+) 
+1228 Miercoles 17 enera 1996 BOE num. 15 
+,3 
+la lev pretende .ser respetuosa con el reparto cons­
+titucional y estatutario de competencias entre Estago 
+y Comunidades Aut6nomas. 
+En este sentido, la lev regula aspectos relativos a­
+la legislaci6n civil y.procesal y a la Administtaci6n de 
+Justicia, para los que goza de habilitaci6n constitucional 
+espedfica en los apartados 5.°, 6.° y 8.° del artıcu-
+,10 149.1 .. 
+No obstante, se dejan a salvo, en una disposici611 
+final .espedfica, las competencias de las Comunidades 
+Aut6nomas que dispongan de Derecho CiviL, Foral 0 
+especial propio, para las que la Ley se declara subsidiaria 
+respecto de las disposiciones espedficas viger:ıtes en 
+aqueUas. , 
+Asimismo, cuando se hace referencia a competencias 
+de caracter administrativo, ~e especifica que las mismas 
+corresponden a las Comunidades Aut6nom,as y a las 
+ciudades de Ceutə y Melilla, de conformidad con el repar­
+to constitucional de competenCias y las asumidas por 
+aquellas en sus respectivos Estatutos. 
+4 
+Por ultimo se incorpora a la lev la modificaci6n de 
+una serie de artıculos del C6digo Civil con el fin de depu­
+rar los qesajustes gramaticales y de-contenido produ-, 
+cidos por las suces1vas reformas parciales operadas en 
+el C6digo. 
+Al margen de otras reformas que tan s610 afectaron 
+tangencialmente a la instituci6n de la tutela,la, lev 
+13/1983, de 24 de octubre, modific6 el Titulo X del 
+libro 1 del C6digo CiviL, rubricado «De i~ tutela,. de la 
+curatela y de la guarda de losmenores 0 incapacitados» 
+y mejor6 el regimen de la tutela ordinaria que ya con­
+templaba el C6digo CiviL. Asimismo, la lev 21/1987, 
+de 11 de noviembre, dio. una nueva redacci6n a los ar­
+ticulos que regulanla tutelaasumiCJa por ministerio de 
+la ley por las .entidades publicas y cuya reforma ahora 
+se aborda. '. 
+la coexistencia de estas dos vertientes de la insti­
+tuci6n de la tu'tela demanda una armonia interna en el 
+C6digo Civil quela Secci6n Primera, de Derecho Privado; 
+de la Comisi6n General de 'Codificaci6n ha cubierto a 
+traves de la modificaci6n de los articulos citados que, 
+tras la reforma de 1983, ya resultaban incoherentes 0 
+de compleja aplicaci6n practica. ' _ -
+De este modo, y dado quela leytiene como objetivo 
+basico la protecci6n de los rhenores' de edad a traves 
+de la tutela administrativa se haiocorporado la modi­
+ficaci6n de otros articulos en su gran mayoria conexos 
+con esta materia. 
+. , 
+TITULO I 
+De los derechos' delos menores 
+CAPITUlO I 
+Ambito, y principios 'generales 
+Articulo 1. Ambito de ap/icaci6n. 
+la presente ley y sus disposiciones ,de desarrollo son 
+de aplicaci6n' a los menores de dieciocho arios que se 
+encuentren en territorioespariol, salvo que en virtud de 
+laley que les sea aplicablehayan alcanzado anterior-
+mente la mayorıa de edad. . ' Articulo 2. Principios generales. 
+En la aplicaci6n de la presenteley primara el interes 
+superior delos meRores sobre cualquier otro interes legı­
+timo que pudi'era concurrir. Asimismo, cuantas medidas 
+se. adop!en al amparQ de la presen,e leydeberan tener 
+un caracter educativo. 
+las limitaciones a la capaçidad de obrar de los meno­
+res se interpretaran de forma restrictiva. 
+, CAPITUlO'1I . , 
+Derechos del menor 
+Ahiculo 3. Referencia a Instrumentos Intetnacionales. 
+los nienores gozaran de los derechos que les reco­
+noce la Consfituci6n y los Tratados Internacionales de 
+108 que Espana sea parte, especialmente la Convenci6n 
+de O·erechos def Nino de Naciones Unidas y los demas 
+derechos garantizados en al ordenamiento juridico, sin 
+discriminaci6n alguna por raz6n. de nacimiento, nacio­
+nalidad" raza, sexo, deficiencia 0 enfermedad, religi6n, 
+lengua, cultura, opini6n 0 cualquier otra circunstancia 
+personaJ, famitiar 0 social. 
+la, prasente lev, sus normas de desarrollö y demas 
+disposiciones le9ales' relativas a Jas personas menores 
+de edad, se interpretaran de conformidad con los Tra­
+tados Internacionales de los ,que Espanasea parte y, 
+especialm~nte, de aeuerdo con la Convenci6n de los 
+Derechos del Nino de Naciones Unidas de 20 de noviem- -
+bre de 1989. 
+Los poderes publicos' garantizaran el respeto de lo!)' 
+derechos de 105 menoras y adecuaran sus actuaciones 
+a la presente lev y a la mencionada norm'ativa inter­
+nactonal. ' 
+Artfculo 4. Derecho aıhonor, ala intimidad ya la propia 
+imagen. 
+1. los menores tienen derecho al honor, a la inti­
+midad personal' y fami1iar y a la propia imagen. Este 
+dere.cho comprende tambien la inviolabilidad del domi­
+eilio .familiar y de 'Ia correspondencia, asi como del secre.:. 
+to de las comunicaciones. , 
+2. la difusi6n de informaci6n 0 la utilizaci6n de 'ima­
+genes 0 nombre de los menores en los medios de comu­
+nicaci6n que puedan implicar' una intromisi6nilegitima 
+en su intimidad, honra 0 reputaci6n, 0 que sea contraria 
+a sus' intereses, determinarala intervenci6n del Minis­
+terio Fiscal, que instara de inmediato 'Ias medidas cau­
+telares yde protecci6n' previstas en la lev y solicitara 
+las indemnizacio,nes que correspondan por los perjuicios 
+causados. 
+3. Se considera intromisi6n ilegitima en el derecho 
+al honor, a la intimidad personal y familiar y a la propia 
+imagen del menor, cualquier utilizaci6n de suimagen 
+o su 1J0mbre en los medios de comunicaci6n que pueda 
+implicar merıoscabo de .su honra ö reputaci6n, 0 que 
+sea contraria a sus intereses incluso si consta el con­
+sentimiento del menor 0 de sus representantes legales. 
+4. Sin perjuicio de las acciones de las que ,sean titu­
+lares los representantes legales del menor, corresponde 
+en todo caso 'əl Ministerio Fiscal su ejercicio, que podra 
+actuar de· oficio 0 a instancia del propio menor 0 de 
+cualquier persona: interesada, flsica, juridica 0 entidad 
+publica. . 
+5. Los padres 0 tutores y los poderes publicos res­
+petaran estosderechos y los protegeran frente a posibles 
+ataqijes de terceros. 
+le' ~ BOE num. '15 Miercoles 17 enera 1996 1229 
+Articulo 5. Derecho a la informaci6n. 
+1. Los menores tienen derecho a buscar, recibir V 
+utilizar la informaci6n adecuada a su desarrollo. 
+2. Los padres 0 tutores V los poderes publicos vela­
+ran porque lainformaci6n que reciban los menores sea 
+veraz, plural V respetuosa con los principios constitu­
+cionales. 
+3-. Las' Administraciones publicas incentivaran la 
+producci6n V difusi6n de materiales informativos V otros 
+destinados a los menores; que respeten los criterios 
+enunciados, al mismo tiempo que facilitaran el acceso 
+de los menores a los servicios de' informaci6n, docu­
+mentaci6n, bibliotecas y demas servicios culturales. 
+En particular, velaran porque los medios de comu­
+nicaci6n en sus mensajes dirigidos a menores promue­
+van los valores de igualdad,' solidaridad V respeto a los 
+demas, eviten imagenes de violencia, explotaci6n en las 
+relaciones interpersonales 0 que retlejen un trato degra­
+dante 0 sexista. 
+4. Para garantizar que la publicidad 0 mensajes diri­
+gidos a menores 0 emitidos en la programaci6n dirigida 
+a estos, no les perjudique moral 0 ffsicamente, podra 
+s.er regulada por normas especiales. 
+5.. Sin perjuicio de otros sujetos legitimados, corres­
+ponde en todo caso al Ministerio Fiscal V a las Admi­
+nistraciones publicas competentes en materiade pro­
+tecci6n de menQres el ejercicio de las acciones de cese 
+V rectificaci6n de publicidad i~lcita. 
+Artıculo 6. Libertad ideol6gica. 
+1. EI menor tiene ·derecho a la libertad de ideologia, 
+conciencia V religi6n. 
+2. E1 ejercicio de los derechos dimanantes de esta 
+libertad tiene unicamente las limitaciones prescritas por 
+la Lev v,el respeto de los derechos V libertades fun-
+damentales de los demas. ' 
+, 3. 'Los padres 0 tutores tienen el derecho V el deber 
+de cooperar para que el menor ejerza esta libertad de 
+modo que contribuva a su desarrollo integral. 
+Articulo 7. Derecho de participaci6n, asociaci6n y reu­
+ni6n. 
+1. Los menores tienen derecho a participar plena­
+mente en la vida social, cultural, artistica V recreativa 
+de su entorno, asi como a una incorporaci6n progresiva 
+a la ciudadanıa activa. 
+Los poderes publicos promoveran la constituci6n de 
+6rganos de participaci6n de los menores V delas orga­
+nizaciones sociales de infancia. 
+2. Los menores tienenel derecho de asociaci6n que, 
+en especial, comprende: 
+a) EI derecho a formar parte de asociaciones V orga­
+nizaciones juveniles de los partidos politicos V sindicatos, 
+de acuerdo con la Lev V los Estat",tos. 
+b) EI derecho a pr0!ll0ver asociaciones infantiles V 
+juveniles e inscribirlas de conformidad con la Lev. Los 
+menores podran formar parte de los 6rganos directivos 
+de estas asociaciones. 
+Para que las asociaciones' infantiles V juveniles pue­
+dan obligarse civilmente, deberan haber nombrado, de 
+acuerdo con sus Estatutos, un-representante legal con 
+plena capacidad. . 
+Cuando la pertenencia de un menor 0 de sus padres 
+a una asociaci6n impida 0 perjudique al desarrollo inte­
+gral del menor, cualquier interesado, persona ffsica 0 
+juridica, 0 entidad publica, podra dirigirse al Ministerio 
+Fiscal para que promueva las medidas juridicas de pro­
+tecci6n que estime necesarias. 3. Los menores tienen derecho a participar en reu­
+niones publicas V manifestaciones pacificas, convocadas 
+en los terminos establecidos por la Lev. 
+En iguales terminos, tienen tambien derecho a pro­
+moverlas V convocarlas con elconsentimiento expreso 
+de sus padres, tutores 0 guardadores. 
+Articulo 8. Derecho a la /ibertad de expresi6n. 
+1. Los menores gozan del derecho a la libertad de 
+expresi6n en los terminos constitucionalmente previstos. 
+Esta libertad de expresi6n tiene tambien su limite en 
+la protecci6n de la intimidad V la imagen del propio 
+menor recogida en əl articulo 4 de esta Lev. 
+2. En especial, el derecho a la libertad de expresi9n 
+de los menores se extiende: 
+a) A la publicaci6n V difusi6n de sus opiniones. 
+b) Ala edici6n V producci6n de medios de difusi6n. 
+c) Al acceso a las avudas que las Administraciones 
+publicas establezcah con tal fin. 
+3. EI ejercicio de este derecho podra estar sujeto 
+a las restricciones que prevea la Lev para garantizar el 
+respeto de los derechos de los demas 0 la protecci6n 
+de la seguridad, salud, moral u orden publico. 
+Articulo 9. Derecho a ser oido. 
+1. EI menor tiene derecho ci ser oido, tanto en el 
+ambito familiar como en cualquier procedimiento admi­
+nistrativo 0 judicial en que este directamente implicado 
+V que cond4zca a una decisi6n que afecte a su' estera 
+personal, tamiliar 0 social. 
+En los procedimientO$ judiciales, las comparecencias 
+del menor se realizaran de forma adecuada a su situaci6n 
+V al desarrollo evolutivo de este, cuidando de preservar 
+su intimidad. 
+2. Se garantizara que el menor pueda ejercitar este 
+derecho por si mismo 0 a traves de la persona que desig­
+ne para que le represente, cuando tenga suficiente juicio. 
+No obstante, cuando ello no sea posible 0 no con­
+venga al interes delmenor, podra conocerse su opini6n 
+por medio de sus representantes legales, siempre 'que 
+no sean parte interesada ni tengan intereses contrapues-' 
+tos a los del meAQr, 0, a traves de otras personas que 
+por su profesi6n 0, ielaci6n de especial confianza co~ 
+əl puedan transmitirla objetivamente .. 
+3. Cuando el menor solicite ser oido directamente 
+o por medio de persona que le represente, Ja denegaci6n 
+de la audiencia sera motivada V comunicada al Ministerio 
+Fiscal V a aqueııos. ' 
+CAPITULO iii 
+Medidas y principios rectores de la acci6n 
+administrativa • 
+Articulo 10. Medidas para faci/itar e/ ejercicio de /os 
+derechos. 
+1. Los menoreş tienen derechoa recibir de las Admi­
+nistraciones publicas la asistencia adecuada para el ~fec­
+tivo ejercicio de sus derechos V que se garantice su 
+respeto. 
+2. Para la defensa V garantia de sus derechos el 
+menor puede: 
+a) Soficitar la protecci6n V tutela de la entidad' publi­
+ca competente. 
+il) Poner en conocimiento del Ministerio Fiscal las 
+situaciones que considere que atentan contra sus dere-
+J230 Miercoles ·17 enero 1996 'B06ıoum. 15 
+choscon el fin de qua.este.promueva fas acc~ones 
+oportunas. 
+c) P.antea~ sus .quejas ·antee1 Defensor del Puablo. 
+A tal fin" uno de·' los ,Adjuotos de dicha instituci6n se 
+hara cargo de modo per_manente de los asuntos rela:­
+eionados con los m~nore&. 
+d) Solieitar los recursos sociales disponibles de las 
+Administracioneş pubJic~s. 
+3. Los menores extranjeros que se encuentrenen 
+Espana tienen derecho a Ja educaci6n. Tienen derecho 
+a la asistencia sanitariq y a 10S demas servicios publicos 
+los menores extranjeros qu~se. hallen en situaci6n de 
+riesgo 0' bajo la tutela 0: güarda de la Administraci6n 
+publica competente, aun cuando' no residieran legalmen­
+te en Espana. 
+4. Una vez constituida la guarda 0 tutela a que se 
+refiere el apartado anteri.or de, este artfculo, la Admi­
+nistraci6n publica competenıe facilitara a los menores 
+extranjeros' la documentaciôn, acraditativa de su situa­
+ei6n, an los terminos que regtamentariamente se deter­
+minen. 
+Artfculo 11. Principios rectores de la acci6n adminis­
+trativa. 
+1. Las Administraciones publicas facilitaran a los 
+menores la asistencia adecuada para el ejercicio de sus 
+derechos. 
+Las AdministraeioneS -pUbticas,-en los ·ambitos que 
+les son propios an:icularan polfticas integrales, encami­
+nadas al desarrolto de-ra infanci'a por medio de lös medios 
+oportunos, de modo muy especial, cuanto se refie'ra a 
+los derechos enumerados en esta Ley. Los menores tie~ 
+nen derecho a accedera 'tate8 servicios por sfmismös 
+o a traves de sus padres 0 tutores 0 instituciones en 
+posici6n equivalente, quienesa. su vez, tienen -el deber 
+de utilizarlos en beneficio de losmenores. 
+Se . impulsaran poUtic~s compensatorias dirigidas a 
+corregir las desiguatdades socia(es. En todo caso, el CQn­
+tenido esencial de los derechos d~1 menor no podra que­
+dar afectado por falta de recursos sociales basicos. 
+Las Administr.aciones publi.cas deberan tener encuen­
+ta las necesidadas del menor ar ejercer sus competen­
+cias, espeeialmente en materia de.J;Qotrol sobre produc­
+-tos alimenticios~ consumo, vivienda,' educaci6n, sanidad, 
+cultura, deporte, espectaculos, medios de comunicaci6n, 
+transportes y espaeios libres en las ciudades. 
+Las Administraciones publicas tendran particularmen­
+te en cuenta la adecuada regulaci6n y supervisi6n, de 
+aquellos espacios, centros y servicios, en los que per­
+manecen habitualmente ninos y ninas, en 10 que se refie­
+re a sus condiciones 'fisico-ambientales, higienico-sani­
+tarias y de recursos humanos y a sus proyectos edu­
+cativos, participaci6n de los rnenores y demas condi­
+ciones q.ue contribuyan a asegurat SlJS derechos. 
+2. Seran principiosrectoresde la actuaci6n de los 
+poderes publicos, 105 siguientes: 
+a) La supremacfa del interesdel menor. 
+b) El mantenimiento del menor en el medio familiar 
+de origensalvo que no sea conveniente para su interes. 
+c) Su·integraci6n famHiar y socia!. 
+d) La'prevenci6n de todas aquellas situaciones que 
+puedan perjudicar su desarrollo personal. 
+e) Sensibilizar ala poblaei6n' ante situaciones de 
+indefensi6n del manor. 
+f) Promover la participaci6n y la solidaridad socja!. 
+g) La objetivJdad, imparcialidad y seguridad jurfdica 
+an la actuaci6nprotectoragarantizando el caracter co'le­
+giadoe interdisciplinar en la adopci6n de medidas. TITULO ii 
+Actuaciones en situaci6n de desprotecci6n social 
+. del hıen.or e instituciones deprotecci6n .'. 
+. ',de menarəs 
+CAPITULO 1 
+Actu3ciones en situaciones de de'sprotecci6n social 
+del menQr 
+Artfculo 12.' Actuaciones deprotecci6n. 
+1. La protecci6n del menor por los poderes publicos 
+se realizara mediante la prevenei6n y reparaci6n de situa­
+ciones de riesgo,con el establecimiento de los servicios 
+adecuados para ta l' fin, el ejercicio de la guarda, y, en 
+los casos de desamparo. la asunci6n de la tutela por 
+rninrsteriode laley. ' 
+2 .. Los poderes publicos velaran para que los padres. 
+tutores 0 guardadores desarrollen adecuadamente sus 
+responsabilidades,. y facilitaran servieios accesibles en 
+todas las areas qua afectan al desarrollo del menor. 
+Articulo 13. ObligaCionesde los ciudadanos ydeber 
+de reserva. 
+1. Toda persona 0 autoridad, y especialmente aque-. 
+lIos que por su profesi6n 0 'funci6n, detectenuna situa­
+ci6n de riesgo 0 posible desamparo de un menor, 10 
+comunicaran ci la a.utoridado· sus agentes mas pr6ximos, 
+sin perjutcio cj~ pr~st~r!e el.'auxifio inmediafo que precise. 
+, 2~ Cualquierpersona: .. o autoridad que tenga cono­
+einıiento de que urı menor no' estaescolarizado 0 no 
+asiste al centro escolar de forma habitual y sin justi­
+ficaei6n,durante e.1 perfodo obligatorio, debera ponerlo 
+en conocimiento de las autoridades publicas competen-
+_ tes, que adoptaran las medidas necesarias para su esco­
+larizaci6n. 
+3. Las autoridades ylas personas que por su pro­
+fesion 0 funci6n çonozcan el caso actuaran con la debida 
+reserva. 
+Enlas actuaciones se evitara toda interferencia inne­
+cesaria en la vida del menar. 
+Artfculo 14. Atenci6n inmediata. 
+Las autoridadeş y servicios publicos tianen obligaci6n 
+deprestar la atenci6n inmediata que precise cualquier 
+manor, de actuar si corresponde a su ambito de com­
+petencias 0 de dar traslado en otro casoal 6rganocom­
+petente y de poner 105 hechos en conocimiento de 19s 
+representantes .legales del menor. ocuando sea nece­
+sario, de.1 Mjnisterio Fj~çat 
+Artfculo 15. Prfncipio de colaboraci6n. 
+En toda intervenci6n se procurara contar con la cola­
+boraci6n del menor y su familia y no interferir en su 
+vida escolar, sodal o·labora1. 
+Artfculo 16. Evaluaci6n de la situaci6n. 
+Las entidades publicas competentes en materia de 
+protecci6n demenores estaran obligadas a verificar la 
+situaci6n denunciada y a adoptar las medidas necesarias 
+p~raresolv.erla en funci6n del resultado de aquella actua-
+eion. . 
+BOE nOrit 15 Miercoles 17 enaro 1996 1231 
+Articulo 17. Actuaciones en situaciones de riesgo.· 
+En situaciones de riesgo de,cualquier indole que per­
+judiquen el desarrollo personal 0 social del menor, que 
+no requieran la asunci6n de lat,utela por ministerio de 
+la Ley, la actuaci6n de los poderes publicos debera garan-_ 
+tizar en todo caso los derechos que le asisten y se orien­
+tara a disminuir los factores de riesgo y dificultad social 
+que 'incidan en la situaci6n personal y social en que 
+se encuentra y a promover los factores de protecci6n 
+del menor y su familia. 
+Una vez apreciada la situaci6n de riesgo, la entidad 
+publica competente en materia de protecci6n. de .meno­
+res pondra en marcha las actuaciones pertinentes para 
+reducirla y realizara el seguimiento de la evoluci6n del 
+menor en la familia. 
+Articulo 18. Actuaciones en situaci6n de desamparo. 
+1. Cuando la entidad publica competente considere 
+que el menor se encuentra en situaci6n de desamparo, 
+.actuara en la forma previstaen 'el articulo 1 ~2 y siguien­
+tes del C6digo Civil, asumiendo la tutela .de aquel, adop­
+tando las oportunas medidas de prQtecci6n y ponilmdolo 
+en conocimiento del Ministerio Fiscal. 
+2. Cada entidad publica designara el 6rgano que 
+ejercera la tutela de acuerdo con sus estructuras örga­
+nicas de funcionamiento. 
+Articulo 1.9. Guarda de menores. 
+Ademas de la guarda de los menores tutelados por 
+erıcontrarse ən situaci6n de desamparo, La entidad publi­
+ca podra asumir la guarda en los terminos previstos en 
+el articulo. 172 del C6digo Civil, cuando 108 padres 0 
+tutores no puedancuidar de unmenor 0 cuando asi 
+10 acuerde. el Juez en los casos an que legalmente pro­
+ceda. 
+Articulo 20. Acogimiento familiar~ 
+EI acogimiento familiar, de acuerdo con su finalidad 
+y con independencia del procedimiento' en que se acuer­
+de, revestira las modalidadesestablecidas an el C6digo 
+CiviL. 
+Articulo 21. Servicios especializados. 
+1. Cuando la entidad publica acuerde la acogida 
+residencial de un menor, teniendo en cuenta que es.nece­
+sario que tenga una experiencia de vida familiar, prin­
+cipalmente en la primera infancia, procurara que el 
+menor permanezca internado durante əl menor tiempo 
+posible, salvo que convenga alinteres del menor; 
+2. Todos los servicios, hogares funcionales 0 cen­
+tros dirigidos a menores, deberan estar autorizados y 
+acreditados por la entidad publica .. 
+La entidad publica regulara de manera diferenciada 
+el regimen de funcionamiento de los servicios especia­
+lizados y los inscribira en el registro correspondiente a 
+las entidades y servicios de acuerdo con sus. disposi­
+ciones, prestando especial atenci6n a la seguridad, sani­
+dad, numero y cualificaci6n profesional de su personal, 
+proyecto educativo, participaCiôn de los menores en su 
+funcionamiento interno, y demas condiciones que con-· 
+tribuyan a asegurar sus derechos. 
+3. A los efectos deasegurar la protecci6n de los 
+derechos de los menores, la entidad p(Jblica competente 
+en materia de protecci6nde menores debera realizar 
+la inspecci6n y supervisi6n de los centros y servicios semestralmente y siəmpre que ası 10 exijan las circuns-
+tancias. . 
+4. Asimismo, el Ministerio Fiscal debera ejercer su 
+vigilancia sobre todos los centros que acogen menores. 
+Articulo 22. Infor"?aci6n a los familiares. 
+. La entidad publica que tenga menores bajo su guarda 
+o tutela debera informar a los padres, tutores 0 guar­
+. dadores sobre la situaci6n de aquellos cuando no· exista 
+resoluci6n judicial que 10 prohiba. 
+CAPITULO ii 
+De la tutela 
+Articulo 23. /ndices de tute/as. 
+Para el ejercicio de la funci6n de vigilancia de la tutela 
+que atribuyen al Ministerio Fiscal los articulos 174 Y 
+232 del C6digo Civil, se lIevara en cada Fiscalia un Indice 
+de Tutelas de Menores. , 
+CAPITULO iii 
+De la adopci6n 
+Artlculo24. Adopci6n de menores. 
+La adopci6n se ajustara a 10 establecido por la legis­
+laci6n civil aplicable. 
+Artfculo 25. Adopci6n internacional. 
+1. En materia de adopci6n internacional, correspon-
+de a las entidades publicas: . 
+a) La recepci6n y tramitaci6n de las solicitudes, ya 
+sea directamente 0 a traves de entidades debidamente 
+acreditadas. .' 
+b) La expedici6n, en todo caso, de los certificados 
+de idoneidad y, c.uando 10 exija el paıs ~e origen del 
+adoptando, la expedici6n del compromiso de seguimiento. 
+c) . La acreditaci6n, control, inspecci6n y la elabo­
+raci6n de directrices de actuaci6n de .Ias entidades que 
+realicen funciones de mediaci6n en su ambito territorial. 
+Las funciones . demediaci6n a realiz~u por las enti­
+dades acreditadas seran tas siguientes: 
+-Informaci6n y asesoramianto a los interesados en 
+materia de adopc;6n irıternacional. 
+-Intervenci6n en la tramitaci6n de expedientes de 
+adopci6n ante las autoridades competentes, tantoespa-
+nolas como extranjeras. . 
+-Asesoramientoy apoyo a 10S solicitəntes de adop­
+ci6n en los tramites y gestiones que deben realizar en 
+Espana y en el extranjero. 
+S610 podran. ser' acreditadas .tas entidades sin animo 
+de rucro inscritas .. ' eh al registro correspondiente, que 
+tengan como finalidad en sus estatutos .Ia protecci6n 
+de menores, dispongan de los medios materiales y equi­
+pos pluridisciplinares' necesarios para el desarrollo de 
+las funciones encomendadas y' estan dirigidas y admi­
+nistradas por personas cualificadas por su integridad 
+moral y por su formaci6n en el ambitode la adöpci6n 
+internacional. . 
+Las entidades publicas podran retirar la acreditaci6n 
+concedida, mediante expediente contradictorio a aque­
+Ifas entidades de mediaci6n que dejen de cumplir las 
+Miercoles 17 enero 1996 
+condiciones que motivaran su concesi6n 0 que infrinjan 
+en su actuaci6n el ordenamiento juridico. 
+2. La comunicaci6n entre las autoridades centrales 
+espa;;olas competentes y las autoridades competentes 
+de otros Estados se coordinara deacuerdo con 10 pre­
+visto en el Convenio relativo a la Protecci6n del Ni;;o 
+y a la Cooperaei6n en materia de Adopci6n Internacional, 
+hecho en La Haya el 29 de mayo de 1993 y ratifi­
+cado por Espa;;a mediante Instrumento de 30 de junio 
+de 1995. 
+3. En las adopeiones internacionales nunca podran 
+producirse benefieios financieros distintos de aquallos 
+que fueran precisos para cubrir los gastos estrictamente , 
+necesarios. 
+4. Las entidades publicas competentes crearan un 
+registro de reCıamaciones formuladas por las personas 
+que acudana las entidades acreditadas de este artlculo. 
+Disposici6n adicional primera. 
+Se aplicaran las normas de la jurisdicci6n voluntaria 
+a las actuaciones que se sigan:' , 
+'1.° Para adoptar las medidas previstas en el artıcu-
+10 158 del C6digo CiviL. . . . 
+2.° Contra las resoluciones que declaren el desam­
+paro y la asunci6n de la tutela por ministerio de la Ley 
+y la idoneidad de los solicitantes de adopci6n. 
+3.° Para cualesquiera otras reclamaciones frante a 
+resoluciones. de las entidades publicas que surjan con 
+motivo del ejercicio de sus funciones en materia de tutela 
+o guarda de menore~." 
+En el indicado prôcedimiento, los recursos se adrrii; 
+tiran, en todo caso en un solo efecto. 
+Quedara siempre a salvo el ejercicio de las acciones 
+en la via judieial ordinaria. 
+Disposiei6n adicional segunda. 
+Para la inscripci6n en el Registro espa;;ol de las adop­
+ciones constituidas en el extranjero, el· encargado del 
+Registro apreeiara la concurrencia de. los requisitos del 
+articulo 9.5 del C6digo CiviL. .' , 
+Disposici6n adicionalt"ercera: 
+Con excepci6nde I.əsdeclaraciones de incapacitaci6n 
+y de prodigalidad, las demas 8ctua,Çiones judiciaJes pre­
+vistas en los Tıtulos iX y X del Libro I del C6digo Civil 
+se ajustaran a1 procedimiento previsto para la jurisdicci6n 
+voluntaria, con las siguientes J)8rticularidades: . 
+1.8 Tanto el Juezcomo elMinisterio Fiscal actuaran 
+de oficio en intares ,del menoro incapaz, adoptando y 
+proponiendo las medidas, diligencias y pruebasque .esti­
+men oportunas. SupJ.iran Ja',pasividad de los particulares 
+y les asesoraran sobre sus derechosy, sobre el modo' 
+de subsanar los defectos de sus solicitudes. 
+2.8 No sera necesaria la intervenCi6n de Abogado 
+ni de Procurador. 
+3.8 La oposici6n da algun interesado se ventilara 
+en el mismo' procedimiento, sin convertirlo en conten-
+eioso. . 
+Disposici6n transitoria unica. 
+Los procedimientos ifliciados con anterioridad a la 
+entrada en vigor de esta Ley se regiran por la normativa 
+anterior. Disposici6n derogatoria unica. 
+Queda d.erogado el Decreto de 2 de julio de 1948 
+por el que se aprueba el texto refundido de la Legislaci6n . 
+sobre Protecei6n de Menores.y c·uantas normas se opon­
+gan a la preseAte Ley. 
+Disposiei6n final primera. 
+EI articulo 9.4 del C6digo CiviL, tendra la siguiente 
+redacci6n: . 
+«EI caracter y contenido de la filiaci6n,. incluida 
+la adoptiva y las relaciones paterno-filiales, se regi­
+ran por la Ley personal del hijo y si no, pudiera 
+determinarse asta, se estara a la de la residencia 
+habitual del hijo.)) 
+DiSposici6n final segunda. 
+EI articulo 9.5 del C6digo Civil, parrafos tercero, cuarto 
+y quinto, tendra la siguiente redacci6n: 
+«Para la eonstituei6n de la adopei6n, los C6n­
+sules espa;;oles tendran las, mismas atribueiones 
+que el Juez, siempre que el adoptante sea espa;;ol 
+y el adoptando esta domieiliado en la demareaci6n 
+eonsular. La propuesta previa sera formulada por 
+la entidad publiea eorrespondiente al ultimo lugar 
+de residencia del adoptante en Espa;;a. Si el adop­
+tante no tuvo resideneia en Espa;;a en los dos ulti­
+mos anos, no sera necesaria propuesta previa, pero 
+el C6nsul recabara de las autoridades del lugar de 
+residencia deaquel informes sufieientes para valo­
+rar su idoneidad. 
+En, la adopci6n eonstituida por la competente 
+autoridad extranjera, la Ley del adoptando regira 
+en euanto a capacidad y eonsentimientos necesa­
+rios. Los consentimientos exigidos por tal Ley 
+podran prestarse ante una autoridad del' pais en 
+que se iniei61a constituei6n 0, posteriormente, ante 
+cualquier otra autoridad eompetente. En su caso, 
+para la adôpei6ıi de un espaiiol səra neeesario el 
+consentimiento de la entidad' publica 'correspon­
+diente a la ultima residencia del adoptando en 
+Espa;;a. 
+No sera reeonoeida en Espa;;a como adopei6n 
+la constituida en el extranjero por adoptante espa­
+;;01' silos efectos de aquella no se eorresponden 
+con los previstos por la legislaci6n espaliola. Tam­
+poco"lo sera, mientras 'la entidad'publica compe­
+tente no hava declaradola idoneidad del adoptante, 
+si aste fuera espa;;ol y estuviera domieiliado en 
+Espana al tiempo de la adopciôn.)) 
+Disposici6n final tercera. 
+EI articulo 149 delC6digo CiviL, tendra la siguiente 
+redacci6n: 
+«Ei obligado a prestar alimentos podra, a su elee­
+ei6n, satisfcıeerlos, 0 pagando la pensi6n que se 
+fije, 0 recibiendo y manteniendo en su propia easa 
+al que tiene dereeho a ellos. 
+Esta eJecci6n, no se.ra posible en cuanto contra­
+digala situaei6n de conviveneia determinada para 
+el alimentista por las normas aplicables 0 por reso­
+luci6n judicial. Tambien podra ser reehazada euan­
+do conc.urra justa causa 0 perjudique el interes del 
+alimentista menor de edad.» 
+BOE nufll~ ~6 Miercoles 17 enera 1996 1233 
+Dispo~ici6n final cuarta. 
+EI artıculo 158 gel C6digo Civil tendra la . siguiente . redacci6n: 
+«EI Juez de oficfo 0 a instancia del propio hijo, 
+de cualqui~r pariente 0 del Minrsterıô Fis~~t d~çtara: . 
+1.° Las medidas convenientes para asegurar la 
+. prestaci6n de alimentos y proveer a las futuras 
+necesidades del hijo, en caso de incumplimiento 
+de este deber, por sus padres. 
+2.° Las disposiciones apropiadas a fin de evitar 
+a los hijos perturbaciones dariosas en los casos 
+de cambio de titular de la potestad de guarda. 
+3.° En general, las demas disposiciones que 
+considere oportunas, a fin de apartar al menor de 
+un peltgro 0 de evitarle perjuicios. '. 
+Todas estas medidas podran adoptarse dentro 
+de cualquier proceso civil 0 penal 0 bien en un 
+procedimiento de jurisdicci6n voluntaria.n 
+Disposici6n final quinta. 
+EI artıculo 172 def C6digo Civil queda redactado como 
+sigue: 
+« 1. La entidad publica a la que, en el respectivo 
+territorio, esta encomendada la protecci6n de los 
+menores, cuando con state que un menor se 
+encuentra en situaci6n de desamparo, tiene por 
+ministerio de la Ley la tutela del mismo y debera 
+adoptar las medidas de protecci6n necesarias para 
+su guarda, poniendolo en conocimiento del Minis­
+terio Fiscal, y notificando en legal forma a los 
+padres, tutores 0 guar~adores, en un plazo .de cua­
+renta y ocho horas. Sıempre que sea posıble, en 
+el momento de la notificaci6n' se les informara de 
+forma presencial y de modo claro y comprensible 
+de las causas que dieron lugar a la intervenci6n 
+de la Administraci6n y de los posibles efectos de 
+la decisi6n adoptada. 
+Se considera como situaci6n de desamparo la 
+que se produce de hecho a causa delincumpli­
+miento, 0 del imposible 0 inadecuado ejercicio de 
+los deberes de protecci6n estableoidos por las leyes 
+para la guarda de los menores, cuando estos que­
+den privados de la necesaria asistencia moral 0 
+materiaL. 
+La asunci6n de la tutela atribuida a la .entidad 
+publica lIeva consigo la suspensi6n deJa patria 
+potestad 0 de la tutela ordin.aria. No. obst~nte; seran 
+. validos 105 actos de contenıdopatrımonıal que rea­
+licen 105 padres 0 tutores en representaci6n del 
+menor y que s~an beneficiosos para el. ' .. 
+2. Cuando los padres 9 tutores, por ctrcuns­
+tancias graves~ no puedan 'cuidar al menor, podran 
+solicitar de la entidad publica competente que asta 
+asuma su guarda durante el tiempo necesario. 
+La entrega de la guarda se hara constarpor escri­
+to dejando constancia de que los padres 0 tutores 
+hansido informados de las. responSabilidade~ que 
+siguen manteniendo respecto del hijo, ası como 
+de la forma en que dicha guarda va a ejercerse 
+por la Administraci6n. . 
+CuaJquier variaci6n posterior de la forma de ejer­
+cicio sera fundamentada y comunicada a aquellos 
+y al Ministerio Fiscal. . 
+Asimismo, se asumira la guarda por la .entıdad 
+publica cuando ası 10 acuerde el Juez en los casos 
+en que legalmente proceda. 
+3. La guarda asumida a solicitud de.tos padres 
+o tutores 0 como funci6n de la tutela porministerio 
+de la Ley, se realizara mediante el acogimiento fami-liar 0 el acogimiento residencial. Et acogimiento 
+familiar se ejercera por la. persona 0 personas que 
+determine la entidad publica. EI acogimiento resi­
+dencial se ejercera por el Director del centro donde 
+sea acogido et men,or. 
+4. Se buscara siempre el interes del menor y 
+se procunıra, cuando no sea contrario a ese interas, 
+. su reiıissrc!6D en la propia familia yque la guarda 
+de los hermanos se coniie a ~rn!. rrüsmə instituci6n 
+o persona. 
+5. Si surgieren problemas graves. de conviv~n­
+ciə entre el menor y la persona 0 personas a qUlen 
+hubiere' sido confiado en guarda, aquet 0 persona 
+interesada podra solicitar la remoci6n de esta. 
+6. Las resoluciones que aprecien el desamparo 
+y declaren la asunci6n de la tutela por ministerio 
+de la Ley seran rəcurribles ante la jurisdicci6ncivil 
+sin necesidad de reclamaci6n administrativa pre­
+via.» 
+Disposici6n final sexta. 
+EI artıculo 173 del C6digo Civil tendra la siguiente 
+redacci6n: 
+« 1. EI acogimiento familiar produce la plena 
+participaci6n del menor en la vida de familia e impo­
+ne a quien 10 recibe las obligaciones de velar por 
+el, tenerlo en su compania, alimentarlo, educarlo 
+y procurarle una formaci6n integral. 
+Este acogimiento se podra ejeroer por la persona 
+o personas que· sustituyan al nucleo famifiar del 
+menor 0 por responsable del hogar funcional. 
+2. EI acogimiento se form,al.i~ara PQr escrito, 
+con el consentimiento de la entidad publica, tenga 
+o no la tutela 0 la 'guarda, de las personas que 
+reciban al menor y de aste si tuviera doce arios 
+cumplidos. Cuando fueran, conocidos los padres 
+que no estuvieran privados de la patria potestad, 
+o el tutor, sera necesario tambiən que presten 0 
+hayan prestado su consentimiento, salvo que se 
+trate də un acogimiento familiar provisional a que 
+-hacə refərəncia əl apartado 3 de este articulo. 
+EI documento deformalizaci6n del acogimiento 
+. familiar, a que se refiere el parrafo anterior, inCıuira 
+los siguientes extremos: 
+1. ° Los consentimientos necesarios. 
+2.° Modalidad del acogimiento y duraci6n pre­
+vista para elmismo. 
+3.'? Los derechos y debei'es de cada una de 
+las partes. y ən particufar: 
+a) La periodicid~d de las visitas por parte de' 
+la familia del manOf c;lcogido. 
+b) EI sistema de cobertura por parte də· la enti­
+dad publica 0 deotrös responsables civiləs de los 
+darios que sufra el menor 0 de loş que puedacausar 
+a terceros. 
+c) . La asunci6n delos gast05 de manutenci6n, 
+educaci6n y .atenci'6n s~nitaria. 
+4.° Et conten.ido def seguimiento que, en tun­
+ci6n de la finalidad del acogimiento, vaya a realizar 
+la entidad publica,y el compromiso de colaboraci6n 
+de la tamilia acogedora al mismo. 
+5.° La compensaci6n econ6mica que, en su 
+caso, vayan a recibir los acogedores. 
+6.° Si los acogedores actuan con caracter pro­
+fesionalizado"O si el acogimiento se realiza en un 
+hogar funcional, se serialara expresamente. 
+, 7.0lnforme de los servicios de atenci6n a 
+menorəs. • 
+Dicho documento se remitira al Ministerio Fiscal. 
+1234 Miersales 17 enera 1996 
+3. Si 10S padres 0 el tutor na consienten 0 se 
+oponen al mismo, el aeogimientos610 podra ser 
+aeordado por el Ju~z, en interes del menor, con­
+forme a los tramites de la Ley de Enjuieiamiento 
+CiviL. La propuesta de la entidad publica eontendra 
+los mismos extremos referidos en el numero ante-
+rior. * 
+No obstante, la entidad publjç~;LWAf~ -dt;ordar 
+. e~. interes de,lmenffi,triLacögimiento familiar pro­
+_-V;SKfıiat,' que subsistira' has'ta tanto se produzea 
+resoJuci6n judieial. ' 
+La entidad publica, una vez realizadas las dili­
+geneias oportunas, y eoncluido el expediente, debe­
+ra presentar la propuesta al Juez de manera inme­
+diata y, en,todo easo, en elplazo maximo de quinee 
+dias. 
+'4. EI acogimiento del menor eesara: 
+1.° Por decisi6n judicial. 
+2.° Por decisi6n de las personas que 10 tienen 
+acogido, previa comuhicaci6n de estas a la entidad 
+publica. . 
+3.° A petici6n del tutor 0 de los padres que 
+tengan la patria potestad y reclamen sü compa;Ua. 
+4.° Por decisi6n de 1a entidad publica que tenga 
+la tuteıa 0 guarda def menor, cuando 10 considere 
+necesario para salva,guardar el interes de este oidos 
+los acogedores. 
+Ser-a precisa resoluci6n judieial de cesaci6n 
+cuando el aeogimiento hava sido dispuesto por el 
+Juez. . 
+5 .. Todaş lasactuaciones de formalizaci6n y 
+cesaci6n def acogimiento se practicaran con la obli­
+gada reserva.)) 
+Disposiei6h final septima. 
+Se introduee. en el C6digoCivil un nuevo artiçulo con 
+el numero 17'3 bis, con la siguiente redacci6n: 
+«Articulo 173 bis. 
+.. EI acogimiento familiar, podr.a adoptar las 
+sigu~entes modalidades atendiendo a su finalidad: 
+1.° Aeogimiento familiar simple, que tendra. 
+earacter transitorio, bien porque de la situaci6n del 
+menor se prevea la reinserei6n de este en su propia 
+familia bien en tanto se adopte una medida de pro­
+teeci6n que revista un caracter mas estable. 
+2.° Aeogimiento familiar permanente, cuando 
+la edad u otrascircunstaneias del menor y su familia 
+asi 10 aconsejen y asr 10 informen los servicios de 
+atenci6n al menor. En tal supuesto, la entidad'publi­
+ca podra solicitar def Juez que atribuyaa los aco­
+gedores aquellas facultades de la tutela que faci­
+liten el desempeno de sus responsabilidades, aten­
+diendo en todo easo al interes superior del menor. 
+3.° Acogimiento fammar preadoptivo, que se 
+formalizara por la entidad pubtica euando asta eleve 
+la propuesta de adopci6n def menor, informada por 
+los servicios de atenci6n al manor, ante la autoridad 
+judicial, siempre que los acogedores reunan los 
+requisitos neeesarios para adoptar, hayan sido 
+selecck>nados y hayan prestado ante la entidad 
+publica su consentimiento a la adopci6n, y se 
+eneuentre el menor en situaei6n juridica adecuada 
+para su adopci6n. 
+La entidad pubHca podra formalizar, asimismo, 
+un acogimiento familiar preadoptivo cuando con­
+. sidere, con anterioridad a la presentaei6n de la pro­
+puesta de adopci6n, que fuera neeesarioestablecer 
+un periodo de adaptaci6n del menor a la familia. Este periodo sera 10 mas breve posible y, en todo 
+caso, no podra exceder del plazo de un ano.)) 
+Disposici6n' final octava. 
+EI art(çıılo 17 ~.2-Geı'C6dig'o Civil queda redactado 
+(;üfno-sigue: . 
+«2. A tal fin, la entidad publica le dara noticia 
+inmediata de los nuevos ingresos de menores y 
+le remitira copia de las resoluciones administrativas 
+y de los escritos de formalizaei6n relativos a la eons­
+tituci6n, varraci6n y cesaci6n de las tutelas, guardas 
+y acogimientos. Igualmente le dara cuenta de cual­
+quier novedad de interes en las circunstancias del 
+menor. 
+EI Fiscal habra de comprobar, al melios semes­
+tralmente, la situaci6n del menor, y promovera ante 
+el Juez las.rnedidas de protecci6n que estime nece­
+sarias.)) 
+Disposici6n final novena. 
+EI articulo 175.1 del C6digo Civil.queda redactado 
+eomo sigue: 
+« 1. . La adopciön requiere que el adoptante sea 
+mayor de veinticinco anos. En la adopei6n por 
+ambos c6nY'+lges basta que uno de ellos hava alcan­
+zado dieha edad. Eo todo caso, el adoptante habra 
+de tener, por 10 menos, catorce anos mas que el 
+adoptado.)) 
+Disposici6n final decima. 
+EI articulo 116 del C6digo Civil quedara redactado 
+como sigue: . 
+«1. La adopci6n se eonstituye por resoluci6n 
+judicial, que tendra en cuenta siempre el interas 
+del adoptando y ra idoneidad del adoptante 0 adop­
+tantes para el ejereicio de la patria potestad. 
+2. Para iniciar el expediente de adopci6n es 
+necesaria la propuesta previa de la entidad publica 
+a favor del·adoptante 0 adoptantes que dieha enti­
+dad p(ıbliea hayadeeJarado id6neos para el ejer-
+. cicio· de la patria potestad. La declaraci6n de ido­
+neidad podra ser previa a la propuesta. 
+. No ob~tante, no se requiere propuesta cuando 
+en el adoptando concurra alguna de las circuns­
+tançias siguientes: 
+1.& Ser huerfano y pariente del adoptanteen 
+tereer grado por consanguinidad 0 afinidad. 
+2.a Ser hijo del consorte del adoptante. 
+3.8 Llevar mas de un ano acogido legalmente 
+bajo la medida de un acogimiento preadoptivo 0 
+haber estado bajo su tutela por el rnismo tiempo. 
+4.8 Ser mayor de edad omenor emancipado. 
+3. En los tres primeros supuestos del apartado 
+anterior podra eonstituirse la adopci6n, aunque el 
+adoptənte hubiere faflecido, si aste hubiese pres­
+tado ya anta el Juezsu consentimiento. Los efectos 
+de la resoluci6n' judicial en este e~so se retrotraeran 
+a la fecha de prestaei6n de tal eonsentimiento.)) 
+Disposici6n final undecima. 
+EI articulo 177 del C6digo Civil quedara redactado 
+como sigue: . . 
+« 1. H,abran de consentir la adopei6n, en pre­
+sencia del Juez, el adoptante 0 adoptantes y el 
+adoptando mayor de doce anos. 
+Miercoles 17, ene'r01996 
+2. ,Deberan asentir a la adopcionenfa forma 
+establecida ~nfa lev de Enjuiciamiento Civil: 
+1.° EI c6nyuge del adoptante, s,alvo,quemedie 
+separaci6n leg,al por sentenciafirme 0 separaci6n 
+de hecho por mutuo acuen;lo queconste fehacien-
+temente. ~ , 
+2.° los padres del adoptando que no se hallare 
+, emancipado, a menos que estuvieran privados de 
+la patria potestad por sentencia firma oincursos 
+en causa legal para tal privac.i6n,~ Esta situaci6n 
+5610 podra aprecjarse en procedimient() judicial 
+cpntradictorio, el cual podra tramitarse como dis­
+pone el artfculo 1.827 de la' Ley de Enjuiciamiento 
+CiviL. 
+No sera necesariə el asentimiento, cuahdo 105 
+que deban prestarlo se'encuentren:trnpo'sibilitados 
+para ellq, , imposibilidad 'que se'apreCiara,Jııotiva­
+damen'te en la resoluci6n judicial ~qlJe .constituya 
+la adopci6n. -, 
+EI asentimiento de la madre no podra prestarse 
+hasta que hayan transcurrido, treintadfasdasde' el 
+parto. 
+. 3., Deberan ser simplementeofdosporel Juez: 
+1.° los padres que no hayan sido privados de 
+lapatri'a ipotestad, cuando su asentimiento no sea 
+necesario para laadopci6n. 
+2.° Et tutor yi etı su caso, et guardadôr'o guar­
+dadores. 
+3:.° Et :adoptando menor de do ee anos, si tuvie­
+re suficiente juicio. 
+4.° la entidad publica, a fin de apreciar la ido­
+neidad del adoptante, cuando el, .adoptando Heve 
+mas de un ano acogido legalmente por aquel.» 
+Disposici6n final duodecima. 
+EI primer parra.fo, del artfGulQ 211 del C6~i.go Civil 
+'tendr~ l?l siguiente redacciç>n: ' , 
+«EI internamiento por raz6n de trastornopsfqui­
+co~ deuna persona que no :esta en condiciones 
+de decidirlo por si, aunque aste sometida ala patria 
+potestad, requerira autorizaci6nhJdicial. Esta sera 
+previa al internamiento, salvo que razones de urgen­
+cia hiciesen necesaria 'la inmediata adopci6n de 
+la medida, de la que se 'dara cuenta cuanto antes 
+al Juez y, en todo caso, dentro del plazo de vein­
+ticuatro' horas. EI internariıientô de menores, se rea­
+lizara en tado caso en un establecimiento 'de salud 
+" mental adecuado a su edad,prevjo informe de los 
+servjcios de asistencia al menor~» 
+Disposici6n final decimotercera. 
+Elartfculo 216 del C6digoCivil tendra un segundo 
+parrafo conla'sigLiienteredacci6n: . ' 
+«lasmedidas y disp,osiciones previstas en el ar­
+t(culo 158 de eşte C6Qigo podran ser acordadas 
+tambien por el Juez, deoficio 0 a instanciade cual­
+quier interesado,en todosJos( supuestos de tutela 
+,0 guarda.de hecho 0 . de derecho, de menores e 
+incapəces,. en cuanto lorequjera el interes de 
+estos.» , . 
+Disposici6n final decimocuarta. 
+EI artfcu'lo 234 del C6digo Civil tendra un ultimo parra­
+fo con la siguiente redacci6n: 
+«Se considera beneficiosa paraeL menorla inte­
+graci6n en la vida de famiJia def tutor.»· 'Dispos1çi6n adicional deçlt)lçqüinta. ," " '., : ,-
+. EI, ə:r!~culo ?47 def C?>,çiiQo Ciyi.!.tendrə'·la sfguiente 
+redaccıon: ' " "', ". ' " , 
+«Sarari removidos:' de la' tutela los qtıe despues 
+de deferida incurran~n causa legal. de inhabilidad, 
+o se' conduzcan mal' enel desempefio de la tutela, 
+por. .incumplimiento -cıe tos·deberes pröpiös del car­
+go 0 por notoria ineptitudde su· ejerciCiö,"O' cuando 
+surgieran problemas de conviVencia graves y con-
+tinuados.)) . : . 
+Disposici6nfinal decimösexta. 
+EI artfculo 248. del,G6gigo Civil tendra la siguiente 
+redacci6n: 
+«EI Juez, de oficio;oasoltcitud·defMinisterio 
+Fiscal; del tutelado:cordeotrə;persona· interesada, 
+decretara la remoci6n del, tutor, previaaudiencia 
+,de aste si,dtado, compareciere'o'Asimismo, se dara 
+• audiencia al, tutelado si,tuviere suficiente juicio.» 
+Disposicion final decimo;s~rtima. 
+Se anade un segundo parrafo alartıcui'6 260 del C6di-
+go Civil con la siguient~ r:eçJacci6m, ' 
+, «'Na obstantet~\'ra ehticfadpub1ida que psuma la 
+tutela, de un .menor por mimsterİp de la Ley 0 la 
+desempene por resoluci6n 'jiJdicial' no precisara , prestar fianza.» , ,'.'." "-. 
+Disposici6n final decimoctava .. 
+_ l." los artıculos del C6digo Civil que se relacionan 
+a continuaci6n quedar{m;redactados como $igue:: 
+Parrafo segundo del artfculo 166: 
+«los padres deberan recabar autorizaci6n judi­
+:cial para .repudiaf la herencia 0: legado deferidos 
+.al hijo. Si el Juez çfenegase la autorizaci6n, la heren­
+cia s610 podra ,ser aceptada,'abeoeficio de inven-tario.» '. " " 
+Parrafo segundo del artfcuI0186:" ' 
+«Seran apHc~blesa, 105' ,representantesdativos 
+,del ausente, eripuanto se ~cfap~en, a su especial 
+, representaci6r't las preceptos"que ~egUlanel ejer­
+cicio de la tutela y las causas: de 'inh'abllidad, remo­
+ei6n y excusa delos 'tutores.» 
+Artlculo. 271: 
+«Eltutor necesitaautorizaCi6n judicial: 
+" . " ."' >"., - • .:.": ..; ~ " ' 
+1.° Para'ijnternar al \tutetado' en un estableci­
+miento de salud mental 0 de edücaci6n oformaci6n 
+especial. 
+2.° Para enajenar 0 gravar bienes inmuebles, 
+establecimientosmercantiles 0 industriales, objetos 
+preciosos y valores mobiliarios' de: 105 menores 0 
+incapacitados,o celebrar cantratos6 realizar actos 
+que tengan caracter dispositivoy Sean susceptibles 
+deinscripci6n. Seexceptua1a Nenta 'del derecho 
+de suscripci6n preferente de 'acCıOnes.· 
+3.° Para renunciar'derecho$j asi como transigir 
+o sometera 'arbitrajecoestioneS'Ə"n -que altute"lado 
+estuvieseinteresadö~ ,. , 
+1236 Mi'rcto!es 17 enero 1996 BOE num. 1-5 
+4.° Para aceptar sin beneficio de inventario 
+cualquier herencia, 0 para repudiar əsta 0 las libe-
+ralidades. " 
+5.° Para hacer gastos extraordinarios en los 
+bienes. 
+6.° Para entablar demanda en nombre de los 
+sujetosa tutela, salvo en 105 asuntos urgentes 0 
+de escasa cuantla. 
+7. ° Para ceder bienes en arrendamiento por 
+tiempo superior a seis anos. 
+8.° Para dar y tomar dinero a prƏstamo. 
+9.°, Para disponer a tftulo gratuito de bienes 
+o derechos del tutelado. 
+10. Para ceder a terceros los cnəditos que el 
+tutelado tenga contra el, 0 adquirir a titulo oneroso 
+los creditos de terceros contra el tutelado.» 
+Artfculo 272: 
+«No necesitaran autorizaci6n judicialla partici6n 
+de herencia ni la divisi6n de cosa comun realizadas 
+porel tutor, pero una vez practicadas requeriran 
+aprobaci6n judicial.» ' 
+Artfculo 273: 
+«Antes de autorizar 0 aprobar cualquiera de los 
+actos comprendidos en los dos artfculos anteriores, 
+el Juez oıra al Ministerio Fiscal y al tutelado, si 
+fuese mayor de doce anos 0 10 considera op.ortuno, 
+y recabara los informes que le sean solicitados 0 
+estime pertinentes.» 
+Artfculo 300: 
+«EI Juez, en procedimiento de jurisdicci6n volun­
+taria, de oficio 0 a petici6n del Ministerio Fiscal, 
+del propio menor 0 de cualquier persona capaz de 
+comparecer en juicio, nombrara defensor a quien 
+estime mc\s id6neo para el cargo.» 
+ArtfculQ 753: 
+«Tampoco surtira efecto ladisposici6n testamen­
+taria en favor de quien sea tutor 0 curador del tes­
+tador, salvo cuando se hava hecho despues de apro­
+badas definitivamente las cuentas 0, en el caso 
+en que no tuviese que rendirse estas, despues de 
+la extinci6n de la tutela 0 curatela. 
+Seran, sin embargo, validas las disposiciones 
+hechas enfavor del tutor 0 curador que sea ascen­
+diente, descendiente, hermano, hermana 0 c6nyu-
+ge del testador.)) . 
+Artfculo 996: 
+«Si la sentencia de incapacitaci6n por enferme­
+dades 0 deficiencias ffsicas 0 psfquicas no dispu­
+siere otra cosa, el sometido a curatela podra, asis­
+tido del curador, aceptar la herencia pura y sim­
+plemente 0 a beneficio de' inventario.» 
+Parrafo tercero del artfculo 1.057: 
+eeLo dispuesto en este artfculo y en el anterior 
+se observara aunque entre los coherederos hava 
+alguno sometido a patria potestad 0 tutela, 0 a 
+curatela por prodigalidad 0 por enfermedades 0 
+deficiencias fisicas 0 psiquicas; pero el contador 
+partidor debera en estos casos inventariar los bie­
+nes de ,la herencia, con citaci6n de los represen­
+tantes \ legales 0 curadores de dichas personas.» Articulo 1.329: 
+eeEt menor no emancipado que cori arreglo a la 
+lev pueda casarse podra otorgar capitulaciones, 
+pero necesitara el concurso y consentimiento de 
+sus padres 0 tutor, salvo que se limite a pactar 
+el regimen de separaci6n 0 el de participaci6n.» 
+Articulo 1.330: 
+«EI incapacitado judicialmente s610 podra otor­
+gar capitulaciones matrimonialescon la asistencia 
+de sus padres, tutor 0 curador.» 
+Numero 1.° del articulo 1.459: 
+«los que desempenen algun cargo .tutelar, los 
+bienes de la persona 0 personas que esten bajo 
+su guarda 0 protecci6n.» 
+Numero 3.°. del articulo 1.700: 
+«Por muerte, insolvencia, incapacitaci6n 0 decla­
+raci6n de prodigalidad de cualquiera de Ios socios, 
+y en el caso previsto en el artfculo 1.699.» • 
+-Numero 3.° del articulo 1.732: 
+«Por muerte, incapacitaci6n, declaraci6n de pro­
+digalidad, quiebra 0 insolvencia del manda.nte 0 
+del mandatario.» 
+2. Quedan modificados los siguientes artfculos del 
+C6digo Civil: 
+En los articulos 108, 823 y 980 quedah suprimidas, 
+respectivamente, las palabras «plena», eeplena» y «ple­
+namente)) .. 
+En los artfculos 323' y 324 se sustituyen, respecti­
+vamente, las pafabras «tutorn y eetutores» por «curador» 
+y «curadores»·. . 
+Queda suprimido el parrafo tercero del artfculo 163. 
+En el primer parrafo def artfculo 1 71 se eliminan fas 
+palabras «no se constituira ta tutela, sino que». 
+Al final del ultimo' parrafo de este mismo artfculo 1 71 
+se agrega la frase (eO curatela, segun proceda». 
+EI numero ':0 del artfculo 234 se sustituye por el 
+siguiente: 
+«AL c6nyuge que conviva con el tutelado.» 
+En el articulo 852 se sustituye «y 5.°» por ee, 5.° 
+y 6.°». 
+En el artfculo 855 se sustituye eey 6.°» por ee, 5.° 
+y 6.°)); « 169)) por (e 170n, y se suprime su ultimo parrafo. 
+Queda suprimido el parrafo segundo del artfculo 992 
+y en el tercero, que pasara a ser segundo, se elimina 
+la pafabra (etambien». 
+Se agrega un segundo parrafo al artfculo 1.060 del 
+siguiente tenor: 
+«EI defensor judicial designado para representar 
+a un menor 0 incapacitado en una partici6n, debera 
+obtener la aprobaci6n del Juez, si aste no hubiera 
+dispuesto otra cosa al hacer el nombramiento.)) 
+EI numero 2.° del articulo 1.263 queda sustituidö 
+por el siguiente: . 
+«los incapacitados.» 
+En el numero 1.° del artfculo 1.291 las palabras «sin 
+autorizaci6n judicial»' sustituyen a «sin autorizaci6n del 
+consejo de familia». 
+En el articulo 1.338 se sustituyen las palabras «EI 
+menor» por «EI menor no emancipado». 
+BOE nurıiCf5 Miercoles .17 ene.ro 1996 
+En el numero 1.° del artfculo 1.393 se sustitUyen 
+las palabras «declarado ausente,>por «decJarado pr6digo, 
+. ausente». . 
+Disposici6n final decimonovena. 
+La Ley de Enjuiciamiento Civil quedara modificada 
+en el, siguiente sentido: 
+, , 1. Los actuales, artfculos 1.910 a 1.918' de la Ley 
+de Enjuicjamiento Civil pasaran a ;ntegrar la Secci6n Ter­
+cera del.Tftulo iV deı Ubro 11.l, titulada '«M~didas pro­
+visionales en relaci6n con los hijos de familia». 
+2. La Secci6n Segunda del TıtulolV delLibro III, 
+se denominara «Medidas relativas al retorno de menores 
+:en los supuestos de sustracci6n ınternacional;, y com­
+prendera los artfculos 1.901 ,a 1.909, ambos inclusive, 
+con el siguiente contenido: '. 
+«Artıculə 1.901 
+En IQs supuestos en que, stendG aplicable un 
+convenio internacionat se pretenda.la restituci6n 
+de un menor que hubiera sido objeto de un.traslado 
+o retenci6n iHaita, se procedera de acuerdo con 
+10 previsto en esta Secci6n. ' 
+. Articulo 1.902 
+Sera competente el Juez de Primera Instancia 
+'en cuya demarcaci6n judicial se halle el menor que 
+ha s'ido .objeto de un traslado 0 retenci6n ilfcitos. 
+P.Odra promover el procedimiento la persona, in5-
+tituci6n u organismo que tenga atribuido el derecho 
+de custodia del menor, la autoridad central espa­
+riola encargada del cumplirniento de fas obligacio­
+nes impuestaspor el correspondiente conveniö ,1, 
+en representaci6n de esta, la persona que designe 
+dicha autoridad. 
+Las actuaciones se practicaran con intervenci6n 
+del Ministerio Fiscal y los interesados podr.anactuar 
+bajola direcci6n de Abogado. . 
+La tramitaci6n del procedimiento tendra caracter 
+preferente y debera realizarse en el plazo ,de seis 
+semanas desde la fecha en que se hubiere soli­
+citado ante el Juez la restituci6n deLmenor.' 
+Artıculo 1.903 
+A petici6n de quien promueva el procedimiento 
+o del M~nisteriQ Fiscal, el Juez podra 'adoptar la 
+medida provisional.de custodia' del menor prevista 
+en la Secci6n &iguiente de esta Ley y cualquier 
+otra medida de aseguramiento que estime perti­
+nente. 
+Articulo 1.904 
+P~omovido el expediente mediante la solicitud 
+a la que se acompaıiara la documentaci6n reque­
+rida por el correspondiente convenio internacional, 
+elJuez dictara, en el plazo de veinticuatro horas, 
+tesoluci6n en la que se requerinı a la persona que 
+'hasustrafdo 0 retiene al menor, con los aperci­
+bimientoslegales, para,que en la fecha que se deter­
+mine, que no podra exceder de los tres dıaş siguien­
+tes, comparezca en el juzgado con' el menor y 
+manifieste: 
+a)' Si aCGede voluntariamente a la restituci6n 
+del menor a la persona, instituci6n y organismo 
+que es titul ar de!. derecho de custodia; 0, en otro 
+caso~ i 
+b) Si se opone ala restituci6n por existiralguna 
+de tas causCls 'estabJecidas en el cörrespondiente 
+convenio cuyo texto se acompariara al requerimiento. Articulo 1.905 .. 
+Si no compareciese el requerido,el, Juez dispon­
+dra a continuaci6n,del prpcedimiento de su rebeldıa 
+citando a los' interesados y al MiriisterioFiscal a 
+una comparecencia que tendra lugar an plazo no 
+superior a .Ios cirico dias siguiertt,es y decretara las 
+medidas provisionales' que juzgü~ pertineot-es en 
+, relaci6n con el menor, ..• , .', ..' " 
+'En la comparecenCia se"'öi'r~ al' solic.itan~.e y al 
+Ministerio Fiscal y ensu' caso y_separadamente, 
+al menor sobre su restituci6n. EI Juez resolvera por 
+auto dentro 'de los dos dlass.iguientes a contar 
+desde, la fecha de lacomparecencia,si procede 
+o no ra restituci6ıi, teniendo en 'cuenta el interes 
+del menor y losterminos del corre~pondiente con-
+venio. ' 
+Artfculo' 1.906 
+Si compareciese ~lrequeri~o y . accediere a la 
+restituci6n voluntarfa ~el'menor,:se I,evantara acta, 
+acordando el. Juez,. rriedianteauto,' la 'conclusi6n 
+del procedimiento y la entrega det menar a la per­
+sona, . instituci6n y organism'o tituler del derecho 
+de custodia, ası como 10' procedenteen cuanto a 
+costas y.gastos . 
+Artıculo 1.907 
+Si enla primeıa comparecenciael requerido for­
+mulase oposiciôn a la restituci6n del menor, al 
+amparode las causas establecidas en el corres­
+pondiente convenio, no sera; de ap1icaci6h Jo dis­
+puesto en el artıculo 1.817 de esta Ley, ventilan-
+,dose la oposici6n ante el mismo Juez por los tra­
+mites del juicio verbal. A est~ fin: 
+a) En el mismoacto de comparecencia seran 
+citados todos los interesados y el Ministerio Fiscal, 
+para que expongar:l'10 que estimen procedente y, 
+en su caso, se pr-actiquen las pruebas, enulterior 
+comparecencia, que se celebrara de conformidad 
+con 10 dispuesto 'en el artfculo 730 y concordantes 
+.. de esta Ley dentro del plazo impr6rrogable de los 
+cinco dıas a contar desde la primera. 
+b) Asimismo, tras la primera comparecencia el 
+Juez oira, en su caso, separadamente al menor 
+sobre su restitud6n y podra recabar los informes 
+qu.e estime per.tinentes. 
+Artfculo 1.908 
+'Celebrada la comparecençia y~,'en su caso, prac--· 
+ticadas las pruebas pertinentes dentro de los seis 
+dıas posteriores, el Juez dictara auto,dentro de los 
+tres dıas siguientes, resolviendo, en interes del 
+menor y en los, terminos del convenio, si procede 
+o no su restituci6n. Contra dicho auto s610 cabra 
+recurso de apeJaci6n en un sqlo efecto, que debera 
+resolverse enel improrrogable plazo de veinte dıas. 
+Artıculo 1.909 
+Si si Juezresolviese la restituci6n del menor, 
+en el auto se establecera que la persona 'que tras­
+lad6 0 retuvo al menor abone las costas del pro­
+cedimiento ası como los gastos en que hava incurri­
+do el solicitante, fnclufdos los del viaje' y 10S que 
+ocasione la restituci6n del menor al Estado de su 
+residencia habitual con anterior~dad a la sustrac­
+ci6n, que se haranefectivos por los tramites pre­
+vistos en el artıculo 928 y concordantes de esta 
+Ley. 
+En los demas süpuestos, se declararan de oficio 
+las cO$tas del procedimiento.)) 
+1238 Mie~oles 17 enero 1996 . ~eeE num. ·'15 
+Disposici6n final vigesima. 
+EI Ministerio Fiscal velara para que, incoado un' pro­
+cedimiEmto sobre redamad6n frente a las resc»uciones 
+de las entidades püblicas que surjan con motivo del ejer­
+cicio de sus funciones en materia de tutela 0 de guarda, 
+se resuelvan en el niismo expediente todas las acciones 
+e incidencias que afecten a un mismo menar. A talefecto, 
+promovera ante los 6rgano~ jurisdiccionales las actua­
+ciones opoitunas previstas en la legisraci6n procesal. 
+Disposici6n final vigesima primera. 
+1. EI artıcul05, en süs apartados 3 y. 4; el artıcu-
+10 7 en su apartado 1; el artıculo 8~ en su apartado 2 
+letra c); el artlculo 10, en sus apartados 1 y 2 le­
+tras al, b)'y d); los art(culos 11, 12, 13, 15, 16, 17, 
+18 en su apartado 2, .2,1 en sus' apartad6s '1, 2 y 3, 
+yel articulo 2~ son legislaci6n supletoria de La que dicten 
+las Comunidades Aut6nomas con competencia en mate­
+ria de asistencia social. 
+2. EI articulo 10, en su apartado 3, el articulo 21, 
+en su apartado 4, el artıculo 23,las disposiciones adi­
+cionates primera,segunda '1 tercera, la disposict6n tran­
+sitoria unica y las disposiciones finales decimonov'ena 
+y 'vigesima, se dictan al amparo del artıculo 149.1.2.a, 
+5.a y 6.a de la Constituci6n. . 
+3. Los restan"tes preceptos no organicos de la Ley, 
+asr-como ,Ias revisiones al C6digo Civil contenidas en 
+la misma, se dictan al amparo del artıculo 149.1.8.a de 
+la Constituci6n y se aplicaran sin perjuiciode la nor­
+mativa que dicten las Comunidades Aut6nomas con 
+competencia en materia de Derecho Civil, Foral 0 Espe-cial. ",', '.,,' ' . 
+Disposici6n final vigesi~a segunda. 
+Las entidades publicas mencionadas en esta Ley son 
+las designadas por las Comunidades Aut6nomas y las 
+ciudades de Ceuta y Melilla, de acüerdo con sus, res': 
+pectivas normas de organizaci6n. 
+Disposici6n final vigesima tercera. 
+\ 
+Tienen caracter de Ley ordiriaria los' artfculos 1 ; 
+2; 5, apartados 3y 4; 7, apartado 1; 8, ap~rtado 2 
+letra c; 10, apartados 1 y 2,letras ,a, b y d, 3 y 4, 11, 
+12,13,14,15,16,17,18,19,20,21,22,23,24 
+"'y 25; las disposiciones adicionales primera, segundci y 
+tercera; la disposici6n transitoria; la disposici6n derbga­
+toria, y las disposiciones finales primera a vigesima 
+segunda y vigesima cuarta. 
+Los preceptos relacionados en el parrafo anterior se 
+aplicaran 'segun 10 previsto en la disposici6n adicional 
+vigesima primera. ' ' 
+Disposiçi6n final vigesima cuarta. 
+La presente Ley entrara en vigor a los. treinta dıas 
+de su publicaci6n en el «Boletın Oficial del Estado». 
+Por tanto, 
+, Mando a tOOos. tos esparioles, particulares y auto­
+ridades que guarden y hag~n guardar esta Ley Organica. 
+Madrid, 15 de enero de 1996. 
+JUAN CARLOS R. 
+EI Presidente del GobiernQ. 
+FELIPE GONZALEZ MARQUEZ 1070 LEY ORGANICA 2/1996; de 15 de enero, 
+complementaria de la de .Ordenaci6n del 
+Comercio Minorista. 
+JUAN CARLOS 
+REY 1 DE ESPANA 
+A todos los que la presente vieren y entendieren. 
+Sabed: Que las Cortes Generales han aproj)ado y Yo 
+vengo en saricionar la siguiente Ley Organica. 
+EXPOSICION DE MOTIVOS 
+Durante latramitaci6n parlamentaria de la presente 
+Ley Organica el Senado, en el ejercicjo de,las potestades 
+atribuidas por el artıculo 90.2 de la Constituci6n, aprob6 
+diversas enmiendas al texto de la proposici6n de Ley 
+de ordenaci6n del comercio que' le habıa sido remitida 
+por el Congreso ae los Diputados. ' 
+EI mensaje motivado del Senado que acompariaba 
+a tales enmiendas indi.caba que «atribuyendo a la dis­
+posici6n transitoria primera el caracter de Ley Organica 
+de transferenci Cl 0 delegaci6n a las Comunidades Aut6-
+nomas de facultades correspondientes a materia de titu­
+laridad estatal, queda colmado cualquier defecto de titu­
+los competenciales en las Comunidades Aut6nomas (0 
+. en algunas de ellas) para el ejercicio de las facultades, 
+de distinta naturaleza, que se les atribuyen en la citada 
+disposic16n. Ei caracter organicodela nueva disposici6n 
+adicional sexta' introducida no puede ofrecer duda, de 
+acuerdo con el artıculo 150.2 de la Coristituci6n. En 
+cuanto al artıtulo 16 su menci6n en este nuevd"precepto 
+obedece, principalmente, al prop6sito de que puedaaca-
+. bar incluido an el mismo instrumento normativo que la 
+disposici6n transitoria. primera y la disposici6n adicional 
+sexta: como 10 aconsejan razones de conexi6n tematica, 
+sistematicidad y buena poHtica legislativa. Es evidente 
+que si el Congreso de los Diputados decidiera que en 
+la ultima ·fase d~ tramitaci6n' de esta p'roposici6n de 'Ley, 
+conforme al artfculo 90.2 de la Constituci6n espariöla, 
+los tres preceptos mencionados (artıculo 16, 'disposici6n 
+adicional sexta y dispbsici6n transitoria primera), se con­
+virtieran en una proposici6n de Ley Orgfmica indepen­
+ö-iente, esta nueva disposici6n final introducida quedarıa 
+implicitamente aceptada y cumplirıa suobjeto con ·ia 
+sola aprobaci6n de· esa proposici6n de Ley como tal 
+Ley Organica, sin incluir en su texto (por no tenerenton­
+ces .sentido) el de esta disposici6n final nueva». 
+, EI Congreso de los Diputados, en virtudı de 10 esta­
+blecido en elııartıculo 90.2 de la Constituci6n, y de acuer­
+do con 10 dispuesto en el ar:ticulo 81 de la misma, en 
+relaci6n con elarticulo 150.2 del texto constitucional, 
+aprob6 pormayoria absoluta las enmiendas introducidas 
+por el Senado relativas a la disposici6n adicional sexta 
+y a la disposici6nfinal segunda, en relaci6n con el artıcu-
+10 16 yla disposici6n transitoria primera de la propoiici6n 
+de Ley de ordenaci6n del comercio minorista, en una ( 
+votaci6n final sobre el conjunto, habiendo pasado a inte­
+grar la presente Ley Organic~. 
+Articulo '1. 
+Setransfiere a la Comunidad Aut6noma de las Islas 
+Baleares, por la via d~t artıculo 1 50.2 de la Constituci6n, 
+la competencia de ejecuci6n de la legi,slaci6n del Estado 
+en materiatfe comercio interior. 
+
+------------------------------
+
+
+
+Link: Ley Orgánica 4/2000 sobre derechos y libertades de los Extranjeros en España y su Integración Social
+URL: http://www.boe.es/boe/dias/2000/01/12/pdfs/A01139-01150.pdf
+Tipo detectado: pdf
+
+
+
+[PDF: http://www.boe.es/boe/dias/2000/01/12/pdfs/A01139-01150.pdf]
+
+BOE núm. 10 Miércoles 12 enero 2000 1139
+I. Disposiciones generales
+JEFATURA DEL ESTADO
+543 LEY ORGÁNICA 3/2000, de 11 de enero, de
+modificación de la Ley Orgánica 10/1995,
+de 23 de noviembre, del Código Penal, en
+materia de lucha contra la corrupción de agen-
+tes públicos extranjeros en las transacciones
+comerciales internacionales.
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo
+vengo en sancionar la siguiente Ley Orgánica.
+EXPOSICIÓN DE MOTIVOS
+La ratificación por España del Convenio de la Orga-
+nización de Cooperación y Desarrollo Económico (OCDE)
+de lucha contra la corrupción de agentes públicos extran-
+jeros en las transacciones comerciales internacionales,
+firmado el 17 de diciembre de 1997, conlleva la nece-
+sidad de tipificar penalmente las conductas contempla-
+das en el Convenio.
+Se pretende así complementar la normativa penal,
+incluyendo los presupuestos de este Convenio que no
+podían ser previstos por el legislador de 1995, ante
+el fenómeno de la corrupción en las, cada día más
+frecuentes e intensas, transacciones comerciales inter-
+nacionales.
+Para ello se ha considerado adecuado establecer un
+nuevo Título en el Código Penal, numerado como XIX bis,
+que protege el bien jurídico de la lucha contra la corrup-
+ción en las transacciones comerciales internacionales.
+Artículo único. Modificación del Código Penal.
+Se añade un Título XIX bis al Libro II del Código Penal,
+con un artículo 445 bis, en los siguientes términos:
+«TÍTULO XIX bis
+De los delitos de corrupción en las transac-
+ciones comerciales internacionales
+Artículo 445 bis.
+Los que, con dádivas, presentes, ofrecimientos
+o promesas, corrompieren o intentaren corromper,
+por sí o por persona interpuesta, a las autoridades
+o funcionarios públicos extranjeros o de organiza-
+ciones internacionales en el ejercicio de su cargo
+en beneficio de éstos o de un tercero, o atendieren
+a sus solicitudes al respecto, con el fin de queactúen o se abstengan de actuar en relación con
+el ejercicio de funciones públicas para conseguir
+o conservar un contrato u otro beneficio irregular
+en la realización de actividades económicas inter-
+nacionales, serán castigados con las penas previs-
+tas en el artículo 423, en sus respectivos casos.»
+Por tanto,
+Mando a todos los españoles, particulares y auto-
+ridades, que guarden y hagan guardar esta Ley Orgánica.
+Madrid, 11 de enero de 2000.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+JOSÉ MARÍA AZNAR LÓPEZ
+544 LEY ORGÁNICA 4/2000, de 11 de enero,
+sobre derechos y libertades de los extranjeros
+en España y su integración social.
+JUAN CARLOS I
+REY DE ESPAÑA
+A todos los que la presente vieren y entendieren.
+Sabed: Que las Cortes Generales han aprobado y Yo
+vengo en sancionar la siguiente Ley Orgánica.
+TÍTULO PRELIMINAR
+Disposiciones generales
+Artículo 1. Delimitación del ámbito.
+1. Se considera extranjero, a los efectos de la apli-
+cación de la presente Ley, a los que carezcan de la nacio-
+nalidad española.
+2. Los nacionales de los Estados miembros de la
+Unión Europea y aquéllos a quienes les sea de aplicación
+el régimen comunitario se regirán por la legislación de
+la Unión Europea, siéndoles de aplicación la presente
+Ley en aquellos aspectos que pudieran ser más favo-
+rables.
+Artículo 2. Exclusión del ámbito de la ley.
+Quedan excluidos del ámbito de aplicación de esta
+ley:
+a) Los agentes diplomáticos y los funcionarios con-
+sulares acreditados en España, así como los demás
+miembros de las misiones diplomáticas permanentes o
+especiales y de las oficinas consulares y sus familiares
+que, en virtud de las normas del Derecho internacional,
+estén exentos de las obligaciones relativas a su inscrip-
+1140 Miércoles 12 enero 2000 BOE núm. 10
+ción como extranjero syal a obtención del permiso de
+residencia.
+b) Los representantes y delegados, así como los
+demás miembros y sus familiares, de las Misiones per-
+manentes o de las Delegaciones ante los Organismos
+intergubernamentales con sede en España o en Con-
+ferencias internacionales que se celebren en España.
+c) Los funcionarios destinados en Organizaciones
+internacionales o intergubernamentales con sede en
+España, así como sus familiares, a quienes los Tratados
+en los que sea parte España eximan de las obligaciones
+mencionadas en el párrafo a) de este artículo.
+TÍTULO I
+Derechos y libertades de los extranjeros
+CAPÍTULO I
+Derechos y libertades de los extranjeros
+Artículo 3. Igualdad con los españoles e interpretación
+de las normas.
+1. Los extranjeros gozarán en España, en igualdad
+de condiciones que los españoles, de los derechos y
+libertades reconocidos en el Título I de la Constitución
+y en sus leyes de desarrollo, en los términos establecidos
+en esta Ley Orgánica.
+2. Las normas relativas a los derechos fundamen-
+tales de los extranjeros se interpretarán de conformidad
+con la Declaración Universal de Derechos Humanos y
+con los Tratados y Acuerdos internacionales sobre las
+mismas materias vigentes en España, sin que pueda ale-
+garse la profesión de creencias religiosas o convicciones
+ideológicas o culturales de signo diverso para justificar
+la realización de actos o conductas contrarios a las
+mismas.
+Artículo 4. Derecho a la documentación.
+1. Los extranjeros que se encuentren en territorio
+español tienen el derecho y la obligación de conservar
+la documentación que acredite su identidad, expedida
+por las autoridades competentes del país de origen o
+de procedencia, así como la que acredite su situación
+en España.
+2. No podrán ser privados de su documentación,
+salvo en los supuestos y con los requisitos previstos
+en esta Ley Orgánica y en la Orgánica 1/1992, de 21
+de febrero, sobre Protección de la Seguridad Ciudadana.
+Artículo 5. Derecho a la libertad de circulación.
+1. Los extranjeros que se hallen en España de acuer-
+do con lo establecido en el Título II de esta Ley, tendrán
+derecho a circular libremente por el territorio español
+y a elegir su residencia sin más limitaciones que las
+establecidas con carácter general por los tratados y las
+leyes, o las acordadas por la autoridad judicial, con carác-
+ter cautelar o en un proceso penal o de extradición en
+los que el extranjero tenga la condición de imputado,
+víctima o testigo, o como consecuencia de sentencia
+firme.
+2. No obstante, podrán establecerse medidas limi-
+tativas específicas cuando se acuerden en la declaración
+de estado de excepción o sitio en los términos previstos
+en la Constitución, y excepcionalmente de forma indi-
+vidualizada por el Ministro del Interior por razones de
+seguridad pública.
+Artículo 6. Participación pública.
+1. Los extranjeros residentes podrán ser titulares
+del derecho político de sufragio en las elecciones muni-cipales en los términos que establezcan las leyes y los
+tratados.
+2. Los extranjeros residentes, empadronados en un
+municipio, que no puedan participar en las elecciones
+locales, podrán elegir de forma democrática entre ellos
+a sus propios representantes, con la finalidad de tomar
+parte en los debates y decisiones municipales que les
+conciernen, conforme se determina en la legislación de
+régimen local.
+3. Los Ayuntamientos confeccionarán y manten-
+drán actualizado el padrón de extranjeros que residan
+en el municipio.
+4. Los poderes públicos favorecerán el ejercicio del
+derecho de sufragio de los extranjeros en los procesos
+electorales del país de origen. A tal efecto se adoptarán
+las medidas necesarias.
+Artículo 7. Libertades de reunión y manifestación.
+1. Los extranjeros que se encuentren en España
+podrán ejercitar, sin necesidad de autorización adminis-
+trativa previa y de conformidad con lo dispuesto en las
+normas que lo regulan, el derecho de reunión recogido
+en el artículo 21 de la Constitución.
+2. Los promotores de reuniones o manifestaciones
+en lugares de tránsito público darán comunicación previa
+a la autoridad competente con la antelación prevista
+en la Ley Orgánica reguladora del Derecho de Reunión,
+la cual no podrá prohibirla o proponer su modificación
+sino por las causas previstas en dicha Ley.
+Artículo 8. Libertad de asociación.
+Todos los extranjeros que se encuentren en España
+podrán ejercer el derecho de asociación conforme a las
+leyes que lo regulen para los españoles. Sólo podrán
+ser promotores los residentes.
+Artículo 9. Derecho a la educación.
+1. Todos los extranjeros menores de dieciocho años
+tienen derecho a la educación en las mismas condiciones
+que los españoles, derecho que comprende el acceso
+a una enseñanza básica, gratuita y obligatoria, a la obten-
+ción de la titulación académica correspondiente y al acce-
+so al sistema público de becas y ayudas.
+2. Los extranjeros tendrán derecho a la educación
+de naturaleza no obligatoria en las mismas condiciones
+que los españoles. En concreto, tendrán derecho a acce-
+der a los niveles de educación infantil y superiores a
+la enseñanza básic ayal a obtención de las titulaciones
+que correspondan a cada caso, y al acceso al sistema
+público de becas y ayudas.
+3. Los extranjeros residentes podrán acceder al
+desempeño de actividades de carácter docente o de
+investigación científica de acuerdo con lo establecido
+en las disposiciones vigentes. Asimismo podrán crear
+y dirigir centros de acuerdo con lo establecido en las
+disposiciones vigentes.
+Artículo 10. Derecho al trabaj oyal a Seguridad Social.
+1. Los extranjeros tendrán derecho a ejercer una
+actividad remunerada por cuenta propia o ajena, así
+como al acceso al Sistema de la Seguridad Social, en
+los términos previstos en esta Ley Orgánica y en las
+disposiciones que la desarrollen.
+2. Los extranjeros podrán acceder como personal
+laboral al servicio de las Administraciones públicas, de
+BOE núm. 10 Miércoles 12 enero 2000 1141
+acuerdo con los principios constitucionales de igualdad,
+mérito, capacidad y publicidad. A tal efecto, podrán pre-
+sentarse a las ofertas públicas de empleo que convoquen
+las Administraciones públicas.
+Artículo 11. Libertad de sindicación y de huelga.
+1. Los trabajadores extranjeros que se hallen en
+España tendrán el derecho a sindicarse libremente, o
+afiliarse a una organización profesional en las mismas
+condiciones que los trabajadores españoles, de acuerdo
+con las leyes que lo regulen.
+2. De igual modo, se reconoce a los trabajadores
+extranjeros el derecho a la huelga.
+Artículo 12. Derecho a la asistencia sanitaria.
+1. Los extranjeros que se encuentren en España ins-
+critos en el padrón del municipio en el que residan habi-
+tualmente, tienen derecho a la asistencia sanitaria en
+las mismas condiciones que los españoles.
+2. Los extranjeros que se encuentren en España tie-
+nen derecho a la asistencia sanitaria pública de urgencia
+ante la contracción de enfermedades graves o acciden-
+tes, cualquiera que sea su causa ,yal a continuidad de
+dicha atención hasta la situación de alta médica.
+3. Los extranjeros menores de dieciocho años que
+se encuentren en España tienen derecho a la asistencia
+sanitaria en las mismas condiciones que los españoles.
+4. Las extranjeras embarazadas que se encuentren
+en España tendrán derecho a la asistencia sanitaria
+durante el embarazo, parto y postparto.
+Artículo 13. Derecho a ayudas en materia de vivienda.
+Los extranjeros residentes y los que se encuentren
+en España inscritos en el padrón del municipio en el
+que residan habitualmente, tienen derecho a acceder
+al sistema público de ayudas en materia de vivienda
+en las mismas condiciones que los españoles.
+Artículo 14. Derecho a Seguridad Social y a los ser-
+vicios sociales.
+1. Los extranjeros residentes tendrán derecho a
+acceder a las prestaciones y servicios de la Seguridad
+Social en las mismas condiciones que los españoles.
+2. Los extranjeros residentes tendrán derecho a los
+servicios y a las prestaciones sociales, tanto a los gene-
+rales y básicos como a los específicos, en las mismas
+condiciones que los españoles.
+3. Los extranjeros, cualquiera que sea su situación
+administrativa, tienen derecho a los servicios y presta-
+ciones sociales básicas.
+Artículo 15. Sujeción de los extranjeros a los mismos
+impuestos que los españoles.
+1. Sin perjuicio de lo dispuesto en los acuerdos apli-
+cables sobre doble imposición internacional, los extran-
+jeros estarán sujetos , respecto a los ingresos obtenidos
+en España y a las actividades desarrolladas en la misma,
+a los mismos impuestos que los españoles.
+2. Los extranjeros tendrán derecho a transferir sus
+ingresos y ahorros obtenidos en España a su país, o
+a cualquier otro, conforme a los procedimientos esta-
+blecidos en la legislación española y de conformidad
+con los acuerdos internacionales aplicables. El Gobierno
+adoptará las medidas necesarias para facilitar dichas
+transferencias.CAPÍTULO II
+Reagrupación familiar
+Artículo 16. Derecho a la intimidad familiar.
+1. Los extranjeros residentes tienen derecho a la
+vida en famili ayal a intimidad familiar en la forma pre-
+vista en esta Ley Orgánica y de acuerdo con lo dispuesto
+en los Tratados internacionales suscritos por España.
+2. Los familiares de los extranjeros que residan en
+España a quienes se refiere el artículo siguiente, tienen
+derecho a la situación de residencia en España para rea-
+gruparse con el residente.
+3. El cónyuge que hubiera adquirido la residencia
+en España por causa familiar y sus familiares con él
+agrupados, conservarán la residencia aunque se rompa
+el vínculo matrimonial que dio lugar a la adquisición.
+Artículo 17. Familiares reagrupables.
+El extranjero residente tiene derecho a que se con-
+ceda permiso de residencia en España para reagruparse
+con él a los siguientes parientes:
+a) El cónyuge del residente, siempre que no se
+encuentre separado de hecho o de derecho o que el
+matrimonio se haya celebrado en fraude de ley. En nin-
+gún caso podrá reagruparse más de un cónyuge, aunque
+la ley personal del extranjero admita esta modalidad
+matrimonial. El extranjero residente que se encuentre
+separado de su cónyuge y casado en segundas o pos-
+teriores nupcias sólo podrá reagrupar con él al nuevo
+cónyuge y sus familiares si acredita que la separación
+de sus anteriores matrimonios ha tenido lugar tras un
+procedimiento jurídico que fije la situación del cónyuge
+anterior y sus familiares en cuanto a la vivienda común,
+la pensión al cónyuge y los alimentos para los menores
+dependientes.
+b) Los hijos del residente y del cónyuge, incluidos
+los adoptados, siempre que sean menores de dieciocho
+años o estén incapacitados, de conformidad con la Ley
+española o su Ley personal y no se encuentren casados.
+Cuando se trate de hijos de uno sólo de los cónyuges,
+se requerirá además que éste ejerza en solitario la patria
+potestad o se le haya otorgado la custodia y estén efec-
+tivamente a su cargo. En el supuesto de hijos adoptivos
+deberá acreditarse que la resolución por la que se acordó
+la adopción reúne los elementos necesarios para pro-
+ducir efecto en España.
+c) Los menores de dieciocho años o incapaces cuan-
+do el residente extranjero sea su representante legal.
+d) Los ascendientes del residente extranjero cuando
+dependan económicamente de éste y existan razones
+que justifiquen la necesidad de autorizar su residencia
+en España.
+e) Cualquier otro familiar respecto del que se jus-
+tifique la necesidad de autorizar su residencia en España
+por razones humanitarias.
+f) Los familiares extranjeros de los españoles, a los
+que no les fuera de aplicación la normativa sobre entrada
+y permanencia en España de nacionales de Estados
+miembros de la Unión Europea.
+CAPÍTULO III
+Garantías jurídicas
+Artículo 18. Derecho a la tutela judicial efectiva.
+1. Los extranjeros tienen derecho a la tutela judicial
+efectiva.
+1142 Miércoles 12 enero 2000 BOE núm. 10
+2. Los procedimientos administrativos que se esta-
+blezcan en materia de extranjería respetarán en todo
+caso las garantías previstas en la legislación general
+sobre procedimiento administrativo, especialmente en
+lo relativo a publicidad de las normas, contradicción,
+audiencia del interesado y motivación de las resolucio-
+nes.
+3. En dichos procedimientos estarán legitimadas
+para intervenir como interesadas las organizaciones
+representativas constituidas legalmente en España para
+la defensa de los inmigrantes.
+Artículo 19. Derecho al recurso contra los actos admi-
+nistrativos.
+1. Los actos y resoluciones administrativas adop-
+tados en relación con los extranjeros serán recurribles
+con arreglo a lo dispuesto en las leyes.
+2. El régimen de ejecutividad de los actos admi-
+nistrativos dictados en materia de extranjería será el pre-
+visto con carácter general por la ley, salvo lo dispuesto
+sobre el procedimiento de expulsión de urgencia que
+se regulará por lo dispuesto en esta Ley Orgánica.
+Artículo 20. Derecho a la asistencia jurídica gratuita.
+1. Los extranjeros tienen derecho a asistencia letra-
+da de oficio en los procedimientos administrativos o judi-
+ciales que puedan llevar a la denegación de su entrada
+o a su expulsión o salida obligatoria del territorio español
+y en todos los procedimientos en materia de asilo. Ade-
+más, tendrán derecho a la asistencia de intérprete si
+no comprenden o hablan la lengua oficial que se utilice.
+2. Los extranjeros residentes y los que se encuen-
+tren en España inscritos en el padrón del municipio en
+el que residan habitualmente, que acrediten insuficiencia
+de recursos económicos para litigar tendrán derecho a
+la asistencia jurídica gratuita en iguales condiciones que
+los españoles en los procesos en los que sean parte,
+cualquiera que sea la jurisdicción en la que se sigan.
+CAPÍTULO IV
+De las medidas antidiscriminatorias
+Artículo 21. Actos discriminatorios.
+1. A los efectos de esta Ley, representa discrimi-
+nación todo acto que, directa o indirectamente, conlleve
+una distinción, exclusión, restricción o preferencia contra
+un extranjero basada en la raza, el color, la ascendencia
+o el origen nacional o étnico, las convicciones y prácticas
+religiosas, y que tenga como fin o efecto destruir o limitar
+el reconocimiento o el ejercicio, en condiciones de igual-
+dad, de los derechos humanos y de las libertades fun-
+damentales en el campo político, económico, social o
+cultural.
+2. En cualquier caso, constituyen actos de discri-
+minación:
+a) Los efectuados por la autoridad o funcionario
+público o personal encargados de un servicio público,
+que en el ejercicio de sus funciones, por acción u omisión,
+realice cualquier acto discriminatorio prohibido por la
+ley contra un ciudadano extranjero sólo por su condición
+de tal o por pertenecer a una determinada raza, religión,
+etnia o nacionalidad.
+b) Todos los que impongan condiciones más gra-
+vosas que a los españoles, o que impliquen resistencia
+a facilitar a un extranjero bienes o servicios ofrecidos
+al público, sólo por su condición de tal o por pertenecer
+a una determinada raza, religión, etnia o nacionalidad.c) Todos los que impongan ilegítimamente condi-
+ciones más gravosas que a los españoles o restrinjan
+o limiten el acceso al trabajo, a la vivienda, a la educación,
+a la formación profesional y a los servicios sociales y
+socioasistenciales, así como a cualquier otro derecho
+reconocido en la presente Ley Orgánica, al extranjero
+que se encuentre regularmente en España, sólo por su
+condición de tal o por pertenecer a una determinada
+raza, religión, etnia o nacionalidad.
+d) Todos los que impidan, a través de acciones u
+omisiones, el ejercicio de una actividad económica
+emprendida legítimamente por un extranjero residente
+legalmente en España, sólo por su condición de tal o
+por pertenecer a una determinada raza, religión, etnia
+o nacionalidad.
+e) El empresario, con sus representantes, que lleven
+a cabo cualquier acción que produzca un efecto per-
+judicial, discriminando, aun indirectamente, a los traba-
+jadores por su condición de extranjeros, o su pertenencia
+a una determinada raza, religión, etnia o nacionalidad.
+Constituye discriminación indirecta todo tratamiento
+derivado de la adopción de criterios que perjudiquen
+injustificadamente a los trabajadores por su condición
+de extranjeros o por pertenecer a una determinada raza,
+religión, etnia o nacionalidad, siempre que se refieran
+a requisitos no esenciales para el desarrollo de la acti-
+vidad laboral.
+Artículo 22. Aplicabilidad del procedimiento sumario.
+La tutela judicial contra cualquier práctica discrimi-
+natoria que comporte vulneración de derechos y liber-
+tades fundamentales podrá ser exigida por el procedi-
+miento previsto en el artículo 53.2 de la Constitución
+en los términos legalmente establecidos.
+TÍTULO II
+Régimen jurídico de las situaciones
+de los extranjeros
+CAPÍTULO I
+De la entrada y salida del territorio español
+Artículo 23. Requisitos para la entrada en territorio
+español.
+1. El extranjero que pretenda entrar en España debe-
+rá hacerlo por los puestos habilitados al efecto, hallarse
+provisto del pasaporte o documento de viaje que acredite
+su identidad, que se considere válido para tal fin en virtud
+de convenios internacionales suscritos por España y acre-
+ditar medios de vida suficientes para el tiempo que pre-
+tenda permanecer en España.
+2. Salvo en los casos en que se establezca lo con-
+trario en los convenios internacionales suscritos por
+España será preciso, además, un visado. No será exigible
+el visado cuando el extranjero sea titular de una auto-
+rización de residencia en España o documento análogo
+que le permita la entrada en territorio español.
+3. Lo dispuesto en los párrafos anteriores no será
+de aplicación a los extranjeros que soliciten acogerse
+al derecho de asilo en el momento de su entrada en
+España, cuya concesión se regirá por lo dispuesto en
+su normativa específica.
+4. Se podrá autorizar la entrada en España de los
+extranjeros que no reúnan los requisitos establecidos
+en los párrafos anteriores cuando existan razones excep-
+cionales de índole humanitaria, interés público o cum-
+BOE núm. 10 Miércoles 12 enero 2000 1143
+plimiento de compromisos adquiridos por España. En
+estos casos, se procederá a hacer entrega al extranjero
+de la documentación que se establezca reglamentaria-
+mente.
+Artículo 24. Prohibición de entrada en España.
+1. No podrán entrar en España, ni obtener un visado
+a tal fin, los extranjeros que hayan sido expulsados, mien-
+tras dure la prohibición de entrada, así como aquellos
+que tengan prohibida la entrada en algún país con el
+que España tenga firmado convenio en tal sentido.
+2. A los extranjeros que no cumplan los requisitos
+establecidos para la entrada, les será denegada mediante
+resolución motivada, con información acerca de los
+recursos que puedan interponer contra ella, plazo para
+hacerlo y autoridad ante quien deben formalizarlo, y de
+su derecho a la asistencia letrada.
+Artículo 25. Expedición del visado.
+1. El visado será expedido por las misiones diplo-
+máticas y oficinas consulares de España y excepcional-
+mente, por motivos humanitarios, de colaboración con
+la Justicia o de atención sanitaria, podrá eximirse por
+el Ministerio del Interior de la obligación de obtener el
+visado a los extranjeros que se encuentren en territorio
+español y cumplan los requisitos para obtener un per-
+miso de residencia. Cuando la exención se solicite como
+cónyuge de residente, se deberán reunir las circunstan-
+cias del artículo 17 y acreditar la convivencia al menos
+durante un año y que el cónyuge tenga autorización
+para residir al menos otro año.
+2. La concesión del visado se regulará reglamen-
+tariamente. Para su concesión se tendrá en cuenta la
+satisfacción de los intereses nacionales de España, así
+como los compromisos internacionales asumidos por
+España. Reglamentariamente se establecerán las causas
+que pueden motivar la denegación del visado. En el pro-
+cedimiento podrá requerirse la comparecencia personal
+del solicitante.
+3. La denegación deberá ser expresa y motivada
+e indicar los recursos que procedan. Excepcionalmente
+y con carácter temporal, el Gobierno podrá establecer
+para los nacionales de un determinado país, o proce-
+dentes de una zona geográfica, supuestos en los que
+la denegación no ha de ser motivada. Cuando se trate
+de visados de residencia solicitados por personas que
+invocan ser titulares de un derecho subjetivo a residir
+en España reconocido por el ordenamiento jurídico, la
+denegación deberá ser, en todo caso, motivada.
+4. La tramitación sobre concesión o denegación de
+permisos y visados regulados en esta Ley, tendrá un
+plazo máximo de resolución de tres meses a contar desde
+la fecha de solicitud o, en su caso, de la fecha de apor-
+tación de la documentación preceptiva.
+Artículo 26. De la salida de España.
+1. Las salidas del territorio español podrán realizarse
+libremente, excepto en los casos previstos en el Código
+Penal y en la presente Ley.
+2. Excepcionalmente, el Ministro del Interior podrá
+prohibir la salida del territorio español por razones de
+seguridad nacional o de salud pública. La instrucción
+y resolución de los expedientes de prohibición tendrá
+siempre carácter individual.
+3. La salida será obligatoria en los siguientes
+supuestos:
+a) Expulsión del territorio español por orden judicial,
+en los casos previstos en el Código Penal.b) Expulsión o devolución acordadas por resolución
+administrativa en los casos previstos en la presente Ley.
+c) Denegación administrativa de las solicitudes for-
+muladas por el extranjero para continuar permaneciendo
+en territorio español, salvo que la solicitud se hubiere
+realizado al amparo del artículo 29.3.
+CAPÍTULO II
+Situaciones de los extranjeros
+Artículo 27. Enumeración de las situaciones.
+Los extranjeros podrán encontrarse en España en las
+situaciones de estancia, residencia temporal y residencia
+permanente.
+Artículo 28. Situación de estancia.
+1. Estancia es la permanencia en territorio español
+por un período de tiempo no superior a noventa días.
+2. Transcurrido dicho tiempo, para permanecer en
+España será preciso obtener o una prórroga de estancia
+o un permiso de residencia.
+3. La prórroga de estancia no podrá tener una dura-
+ción superior a otros noventa días.
+Artículo 29. Situación de residencia temporal.
+1. La residencia temporal es la situación que auto-
+riza a permanecer en España por un período superior
+a noventa días e inferior a cinco años. Las autorizaciones
+de duración inferior a los cinco años podrán prorrogarse
+a petición del interesado si concurren circunstancias aná-
+logas a las que motivaron su concesión. La duración
+de las autorizaciones de residencia temporal y de sus
+prórrogas se establecerá reglamentariamente.
+2. La situación de residencia temporal se concederá
+al extranjero que acredite disponer de medios de vida
+suficientes para atender a los gastos de manutención
+y estancia de su familia, durante el período de tiempo
+por el que la solicite sin necesidad de realizar actividad
+lucrativa, se proponga realizar una actividad económica
+por cuenta propia habiendo solicitado para ello las licen-
+cias o permisos correspondientes, tenga una oferta de
+contrato de trabajo a través de procedimiento reglamen-
+tariamente reconocido o sea beneficiario del derecho
+a la reagrupación familiar.
+3. Igualmente podrá acceder a la situación de resi-
+dencia temporal el extranjero que acredite una estancia
+ininterrumpida de dos años en territorio español, figure
+empadronado en un municipio en el momento en que
+formule la petición y cuente con medios económicos
+para atender a su subsistencia.
+4. Para autorizar la residencia temporal de un
+extranjero será preciso que carezca de antecedentes
+penales en España o en sus países anteriores de resi-
+dencia por delitos existentes en el ordenamiento español
+y no figurar como rechazable en el espacio territorial
+del Tratado de Schengen. No será obstáculo para obtener
+o renovar la residencia haber cometido delito en España
+si ha cumplido la condena, ha sido indultado o está en
+situación de remisión condicional de la pena.
+5. Los extranjeros con permiso de residencia tem-
+poral vendrán obligados a poner en conocimiento del
+Ministerio del Interior los cambios de nacionalidad y
+domicilio.
+Artículo 30. Residencia permanente.
+1. La residencia permanente es la situación que
+autoriza a residir en España indefinidamente y trabajar
+en igualdad de condiciones que los españoles.
+1144 Miércoles 12 enero 2000 BOE núm. 10
+2. Tendrán derecho a residencia permanente los
+que hayan tenido residencia temporal durante cinco
+años. Con carácter reglamentario y excepcionalmente
+se establecerán los criterios para que no sea exigible
+el citado plazo en supuestos de especial vinculación con
+España.
+Artículo 31. Residencia de apátridas y refugiados.
+1. Los extranjeros que carezcan de documentación
+personal, y acrediten que el país de su nacionalidad no
+le reconoce la misma, podrán ser documentados con
+una tarjeta de identidad, reconociéndoseles y aplicán-
+doseles el Estatuto de Apátrida, conforme al artículo 27
+de la Convención sobre el Estatuto de Apátridas, gozando
+del régimen específico que se determine reglamenta-
+riamente.
+2. Los extranjeros desplazados que sean acogidos
+en España por razones humanitarias o a consecuencia
+de un acuerdo o compromiso internacional, así como
+los que tuviesen reconocida la condición de refugiado,
+obtendrán la correspondiente autorización de residencia.
+Artículo 32. Residencia de menores.
+1. Se considerará regular a todos los efectos la resi-
+dencia de los menores que sean tutelados por una Admi-
+nistración pública. A instancia del organismo que ejerza
+la tutela, se le otorgará un permiso de residencia, cuyos
+efectos se retrotraerán al momento en que el menor
+hubiere sido puesto a disposición de los servicios com-
+petentes de protección de menores.
+2. En los supuestos en que los Cuerpos y Fuerzas
+de Seguridad localicen a una persona indocumentada,
+respecto de la que no pueda ser establecido con exac-
+titud si es mayor o menor de edad, lo pondrán en cono-
+cimiento de los Juzgados de Menores para la determi-
+nación de la identidad, edad y comprobación de las cir-
+cunstancias personales y familiares. Determinada la edad
+y demás datos a que se ha hecho mención, si se tratase
+de un menor, la Administración competente resolverá
+lo que proceda sobre el retorno o no a su lugar de origen
+o sobre la situación de su permanencia en España.
+CAPÍTULO III
+Del permiso de trabajo y regímenes especiales
+Artículo 33. Autorización para la realización de acti-
+vidades lucrativas.
+1. Los extranjeros mayores de dieciséis años que
+deseen ejercer cualquier actividad lucrativa laboral o pro-
+fesional en España deberán obtener una autorización
+administrativa para trabajar o el permiso de trabajo.
+2. Cuando el extranjero se propusiera trabajar por
+cuenta propia o ajena, ejerciendo una profesión para
+la que se exija una titulación especial, la concesión del
+permiso se condicionará a la tenencia y, en su caso,
+homologación del título correspondiente. También se
+condicionará a la colegiación, si las leyes así lo exigiesen.
+3. Los empleadores que contraten a un trabajador
+extranjero deberán solicitar y obtener autorización previa
+del Ministerio de Trabajo y Asuntos Sociales. La carencia
+de la correspondiente autorización para contratos por
+parte del empleador, sin perjuicio de las responsabili-
+dades a que dé lugar, no invalidará el contrato de trabajo
+respecto a los derechos del trabajador extranjero.
+Artículo 34. Autorización administrativa para trabajar.
+Para la realización de actividades económicas por
+cuenta propia, en calidad de comerciante, industrial, agri-cultor o artesano, habrá de acreditar haber solicitado
+la autorización administrativa correspondiente y cumplir
+todos los requisitos que la legislación vigente exige a
+los nacionales para la apertura y funcionamiento de la
+actividad proyectada.
+Artículo 35. El permiso de trabajo.
+1. El permiso de trabajo es la autorización para rea-
+lizar en España actividades lucrativas por cuenta ajena.
+2. Para la concesión inicial del permiso de trabajo,
+en el caso de trabajadores por cuenta ajena, se tendrá
+en cuenta la situación nacional de empleo.
+3. El permiso de trabajo tendrá una duración inferior
+a cinco años y podrá limitarse a un determinado territorio,
+sector o actividad.
+4. El permiso de trabajo podrá renovarse a su expi-
+ración si persiste o se renueva el contrato u oferta de
+trabajo que motivaron su concesión inicial o cuando se
+cuente con una nueva en los términos que se establezcan
+reglamentariamente. A partir de la primera concesión,
+los permisos se concederán sin limitación alguna de
+ámbito geográfico, sector o actividad.
+5. Transcurridos cinco años desde la concesión del
+primer permiso de trabajo y las prórrogas correspon-
+dientes, el permiso adquirirá carácter permanente.
+Artículo 36. Permisos especiales.
+1. Tendrán derecho al permiso de trabajo los extran-
+jeros que obtengan el permiso de residencia por el pro-
+cedimiento previsto en el artículo 29.3. Tendrá la dura-
+ción de un año y se renovará mientras sigan las mismas
+circunstancias.
+2. Asimismo se renovarán automáticamente sin la
+concurrencia de los requisitos establecidos en el artículo
+35.4 los permisos de trabajo y las autorizaciones admi-
+nistrativas para trabajar, en las que concurran alguna
+de las siguientes circunstancias:
+a) Cuando por la autoridad competente, conforme
+a la normativa de la Seguridad Social, se hubiere otor-
+gado una prestación contributiva por desempleo, por
+el tiempo de duración de dicha prestación.
+b) Cuando el extranjero sea beneficiario de una pres-
+tación económica asistencial de carácter público des-
+tinada a lograr su inserción o reinserción social o laboral
+durante el plazo de duración de la misma.
+Artículo 37. El contingente de trabajadores extranjeros.
+El Gobierno, previa audiencia del Consejo Superior
+de Política de Inmigración y de las organizaciones sin-
+dicales y empresariales más representativas, establecerá
+anualmente un contingente de mano de obra en el que
+se fijará el número y las características de las ofertas
+de empleo que se ofrecen a los trabajadores extranjeros
+no residentes en España, con indicación de los sectores
+y actividades profesionales.
+Artículo 38. Excepciones al contingente.
+1. Las ofertas de empleo que puedan realizar los
+empresarios a trabajadores extranjeros son independien-
+tes del contingente global que se establezca.
+2. No será necesario considerar la disponibilidad de
+plazas en el contingente cuando el contrato de trabajo
+o la oferta de colocación vaya dirigida a:
+a) Cubrir puestos de confianza.
+b) Se trate del cónyuge o hijo de extranjero resi-
+dente en España.
+c) Se trate del titular de una autorización previa de
+trabajo que pretenda su renovación.
+BOE núm. 10 Miércoles 12 enero 2000 1145
+d) Los trabajadores necesarios para el montaje o
+reparación de una instalación o equipos productivos.
+e) Los que hubieran gozado de la condición de refu-
+giado durante el año siguiente a la fecha de la pérdida
+de tal condición.
+Artículo 39. Excepciones al permiso de trabajo.
+1. No será necesaria la obtención de permiso de tra-
+bajo para el ejercicio de las actividades siguientes:
+a) Los técnicos y científicos extranjeros, invitados
+o contratados por el Estado.
+b) Los profesores extranjeros invitados o contrata-
+dos por una universidad española.
+c) El personal directivo y el profesorado extranjeros,
+de instituciones culturales y docentes dependientes de
+otros Estados, o privadas, de acreditado prestigio, ofi-
+cialmente reconocidas por España, que desarrollen en
+nuestro país programas culturales y docentes de sus
+países respectivos, en tanto limiten su actividad a la eje-
+cución de tales programas.
+d) Los funcionarios civiles o militares de las Admi-
+nistraciones estatales extranjeras que vengan a España
+para desarrollar actividades en virtud de acuerdos de
+cooperación con la Administración española.
+e) Los corresponsales de medios de comunicación
+social extranjeros, debidamente acreditados, para el ejer-
+cicio de la actividad informativa.
+f) Los miembros de misiones científicas internacio-
+nales que realicen trabajos e investigaciones en España,
+autorizados por el Estado.
+g) Los artistas que vengan a España a realizar actua-
+ciones concretas que no supongan una actividad con-
+tinuada.
+h) Los ministros, religiosos o representantes de las
+diferentes Iglesias y Confesiones, debidamente inscritas
+en el Registro de Entidades Religiosas, en tanto limiten
+su actividad a funciones estrictamente religiosas.
+i) Los extranjeros que formen parte de los órganos
+de representación, gobierno y administración de los sin-
+dicatos homologados internacionalmente, siempre que
+limiten su actividad a funciones estrictamente sindicales.
+2. Tampoco será necesario el permiso de trabajo
+cuando se trate de:
+a) Los españoles de origen que hubieran perdido
+la nacionalidad española.
+b) Los extranjeros casados con español o española
+y que no estén separados de hecho o de derecho.
+c) Los extranjeros que tengan a su cargo ascen-
+dientes o descendientes de nacionalidad española.
+d) Los extranjeros nacidos y residentes en España.
+e) Los extranjeros con autorización de residencia
+permanente.
+Artículo 40. Régimen especial de los estudiantes.
+1. Se concederá la autorización de admisión y resi-
+dencia en España por razones de estudio a los extran-
+jeros que hayan sido admitidos en un centro docente,
+público o privado oficialmente reconocido.
+2. La duración de la autorización de residencia será
+igual a la del curso para el que esté matriculado en
+el centro al que asista el titular.
+3. La autorización se prorrogará anualmente si el
+titular demuestra que sigue reuniendo las condiciones
+requeridas para la expedición de la autorización inicial
+y que cumple los requisitos exigidos por el centro de
+enseñanza al que asiste.
+4. Los extranjeros admitidos con fines de estudio
+no estarán autorizados para ejercer una actividad retri-
+buida por cuenta propia ni ajena. Sin embargo, en lamedida en que ello no limite la prosecución de los estu-
+dios, y en los términos que reglamentariamente se deter-
+minen, podrán ejercer actividades remuneradas a tiempo
+parcial o de duración determinada.
+5. La realización de trabajo en una familia para com-
+pensar la estancia y mantenimiento en la misma mientras
+se mejoran los conocimientos lingüísticos o profesiona-
+les se regularán de acuerdo con lo dispuesto en los acuer-
+dos internacionales sobre colocación «au pair».
+Artículo 41. Régimen especial de los trabajadores de
+temporada.
+1. El Gobierno regulará reglamentariamente el per-
+miso de trabajo para los trabajadores extranjeros en acti-
+vidades de temporada o campaña que les permita la
+entrada y salida del territorio nacional de acuerdo con
+las características de las citadas campañas.
+2. Las Administraciones públicas velarán para que
+los trabajadores temporeros sean alojados en viviendas
+con condiciones de dignidad e higiene adecuadas y pro-
+moverán la asistencia de los servicios sociales adecuados
+para organizar su atención social durante la temporada
+o campaña para la que se les conceda el permiso de
+trabajo.
+Artículo 42. Trabajadores transfronterizos.
+Los trabajadores extranjeros que, residiendo en la
+zona limítrofe, desarrollen su actividad en España y regre-
+sen a su lugar de residencia diariamente, o, al menos,
+una vez a la semana, deberán obtener la correspondiente
+autorización administrativa, con los requisitos y condi-
+ciones con que se conceden las autorizaciones de régi-
+men general.
+CAPÍTULO IV
+De las tasas por autorizaciones administrativas
+para trabajar en España
+Artículo 43. Hecho imponible.
+La autorización administrativa expedida a los ciuda-
+danos extranjeros para trabajar en España, por cuenta
+propia o ajena, constituye el hecho imponible de una
+tasa.
+Artículo 44. Sujetos pasivos.
+1. Vendrán directamente obligados al pago de la
+tasa los empleadores a quienes se autorice el empleo
+inicial o la renovación de la autorización para el empleo
+de un trabajador extranjero en los casos de trabajo por
+cuenta ajena y el propio trabajador cuando lo sea por
+cuenta propia.
+2. Será nulo todo pacto por el cual el trabajador
+por cuenta ajena asuma pagar total o parcialmente la
+tasa establecida.
+Artículo 45. Cuantía de las tasas.
+Reglamentariamente se establecerá la cuantía de las
+tasas teniendo en cuenta la clase de autorización, inicial
+o renovación, su naturaleza, cuenta propia o ajena, así
+como su duración.
+Las autorizaciones de trabajo permanente estarán
+exentas del pago de la tasa.
+1146 Miércoles 12 enero 2000 BOE núm. 10
+TÍTULO III
+De las infracciones en materia de extranjería
+y su régimen sancionador
+Artículo 46. La potestad sancionadora.
+El ejercicio de la potestad sancionadora por la comi-
+sión de las infracciones administrativas previstas en la
+presente Ley Orgánica, se ajustará a la dispuesto en
+la misma y en sus disposiciones de desarrollo, y en la
+Ley 30/1992, de Régimen Jurídico de las Administra-
+ciones Públicas y del Procedimiento Administrativo
+Común.
+Artículo 47. Tipos de infracciones.
+1. Incurrirán en responsabilidad administrativa quie-
+nes sean autores o participen en cualquiera de las infrac-
+ciones tipificadas en los artículos siguientes.
+2. Las infracciones administrativas establecidas en
+la presente Ley Orgánica se clasifican en leves, graves
+y muy graves.
+Artículo 48. Infracciones leves.
+Son infracciones leves:
+a) La omisión o el retraso en la comunicación a
+las autoridades españolas de los cambios de naciona-
+lidad o de domicilio, así como de otras circunstancias
+determinantes de su situación laboral cuando les sean
+exigibles por la normativa aplicable.
+b) El retraso, hasta tres meses, en la solicitud de
+renovación de las autorizaciones una vez hayan cadu-
+cado.
+c) Encontrarse trabajando sin haber solicitado per-
+miso de trabajo, cuando se cuente con permiso de resi-
+dencia temporal, o cuando éste se le haya denegado.
+Artículo 49. Infracciones graves.
+Son infracciones graves:
+a) Encontrarse irregularmente en territorio español,
+por no haber obtenido o tener caducada más de tres
+meses la prórroga de estancia, la autorización de resi-
+dencia o documentos análogos, cuando fueren exigibles,
+y siempre que el interesado no hubiere solicitado la reno-
+vación de los mismos en dicho plazo.
+b) Encontrarse trabajando en España sin haber soli-
+citado permiso de trabajo o autorización administrativa
+para trabajar, cuando no cuente con autorización de resi-
+dencia válida.
+c) Incurrir en ocultación dolosa o falsedad grave en
+el cumplimiento de la obligación de poner en conoci-
+miento del Ministerio del Interior los cambios que se
+produzcan en su nacionalidad o domicilio.
+d) La entrada en territorio español careciendo de
+la documentación o de los requisitos exigibles, por luga-
+res que no sean los pasos habilitados o contraviniendo
+las prohibiciones de entrada legalmente previstos.
+e) El incumplimiento de las medidas impuestas por
+razón de seguridad pública, de presentación periódica
+o de residencia obligatoria, de acuerdo con lo dispuesto
+en la presente Ley.
+f) La comisión de una tercera infracción leve, siem-
+pre que en un plazo de seis meses anteriores hubiera
+sido sancionado por dos faltas leves de la misma natu-
+raleza.
+g) La participación por el extranjero en la realización
+de actividades ilegales.Artículo 50. Infracciones muy graves.
+Son infracciones muy graves:
+a) Participar en actividades contrarias a la seguridad
+exterior del Estado o realizar cualquier tipo de actividades
+que puedan perjudicar las relaciones de España con otros
+países.
+b) Participar en actividades contrarias al orden públi-
+co previstas como muy graves en la Ley Orgánica sobre
+Protección de la Seguridad Ciudadana.
+c) Inducir, promover, favorecer o facilitar, formando
+parte de una organización con ánimo de lucro, la inmi-
+gración clandestina de personas en tránsito o con destino
+al territorio español.
+d) La realización de conductas de discriminación por
+motivos raciales, étnicos, nacionales o religiosos, en los
+términos previstos en el artículo 21 de la presente Ley.
+e) La contratación o utilización habitual de traba-
+jadores extranjeros sin haber obtenido con carácter pre-
+vio la correspondiente autorización para contratarlos.
+f) La comisión de una tercera infracción grave siem-
+pre que en un plazo de dos años anteriores hubiera sido
+sancionado por dos faltas graves de la misma naturaleza.
+Artículo 51. Sanciones.
+1. Las infracciones tipificadas en los artículos ante-
+riores serán sancionadas en los términos siguientes:
+a) Las infracciones leves con multa de hasta 50.000
+pesetas.
+b) Las infracciones graves con multa de 50.001 a
+un millón de pesetas.
+c) Las infracciones muy graves con multa desde uno
+hasta diez millones de pesetas.
+2. Corresponderá al Subdelegado del Gobierno o
+al Delegado del Gobierno en las Comunidades unipro-
+vinciales, la imposición de las sanciones por las infrac-
+ciones administrativas establecidas en la presente Ley
+Orgánica.
+3. Para la determinación de la cuantía de la sanción
+se tendrá especialmente en cuenta la capacidad eco-
+nómica y el grado de voluntariedad del infractor.
+Artículo 52. Prescripción de las infracciones y de las
+sanciones.
+1. Las infracciones muy graves prescribirán a los
+tres años, las graves a los dos años y las leves a los
+seis meses.
+2. Las sanciones impuestas por infracciones muy
+graves prescribirán a los cinco años, las graves a los
+dos años y las impuestas por infracciones leves al año.
+3. Si la sanción impuesta fuera la de expulsión del
+territorio nacional la prescripción no empezará a contar
+hasta que haya transcurrido el período de prohibición
+de entrada fijado en la resolución con un máximo de
+diez años.
+Artículo 53. Expulsión del territorio.
+1. Cuando los infractores sean extranjeros y realicen
+conductas de las tipificadas como muy graves, o con-
+ductas graves de las previstas en los apartados d), e)
+y g) del artículo 50 de esta Ley Orgánica, podrá aplicarse
+en lugar de la sanción de multa la expulsión del territorio
+español, previa la tramitación del correspondiente expe-
+diente administrativo.
+BOE núm. 10 Miércoles 12 enero 2000 1147
+2. La sanción de expulsión no podrá ser impuesta
+excepto en los casos de reincidencia en infracciones
+muy graves a los extranjeros que se encuentren en los
+siguientes supuestos:
+a) Los nacidos en España que hayan residido legal-
+mente en los últimos cinco años.
+b) Los que tengan reconocida la residencia perma-
+nente, salvo que estén inmersas en los apartados a),
+b), c) y f) del artículo 50 y g) del artículo 49.
+c) Los que hayan sido españoles de origen y hubie-
+ran perdido la nacionalidad española.
+d) Los que sean beneficiarios de una prestación por
+incapacidad permanente para el trabajo como conse-
+cuencia de un accidente de trabajo o enfermedad pro-
+fesional ocurridos en España, así como los que perciban
+una prestación contributiva por desempleo o sean bene-
+ficiarios de una prestación económica asistencial de
+carácter público destinada a lograr su inserción o rein-
+serción social o laboral, salvo que la sanción se proponga
+por haber realizado alguna de las infracciones recono-
+cidas en los apartados a), b), c) y f) del artículo 50 y g)
+del artículo 49.
+3. Tampoco podrán ser expulsados los cónyuges
+de los extranjeros, ascendientes e hijos menores o inca-
+pacitados a cargo del extranjero que se encuentre en
+alguna de las situaciones señaladas anteriormente y
+hayan residido legalmente en España durante más de
+dos años, ni las mujeres embarazadas cuando la medida
+pueda suponer un riesgo para la gestación o para la
+salud de la madre.
+4. Cuando el extranjero se encuentre encartado en
+un procedimiento por delitos castigados con penas pri-
+vativas de libertad inferiores a seis años, el Juez podrá
+autorizar, previa audiencia del Fiscal, su salida del terri-
+torio español, siempre que se cumplan los requisitos
+establecidos en la Ley de Enjuiciamiento Criminal, o su
+expulsión, si ésta resultara procedente de conformidad
+con lo previsto en los párrafos anteriores del presente
+artículo, previa sustanciación del correspondiente pro-
+cedimiento administrativo sancionador.
+En el supuesto de que se trate de extranjeros no
+residentes legalmente en España y que fueren conde-
+nados por sentencia firme, será de aplicación lo dispues-
+to en el artículo 89 del Código Penal.
+Artículo 54. Procedimiento y efectos de la expulsión.
+1. Toda expulsión llevará consigo la prohibición de
+entrada en territorio español por un período mínimo de
+tres años y máximo de diez.
+2. No será preciso expediente de expulsión para el
+retorno de los extranjeros en los siguientes supuestos:
+a) Los que habiendo sido expulsados contravengan
+la prohibición de entrada en España.
+b) Los que pretendan entrar ilegalmente en el país,
+salvo en el supuesto contemplado en el artículo 4.1 de
+la Ley 5/1984, de 26 de marzo, Reguladora del Derecho
+de Asilo y de la Condición de Refugiado.
+3. El retorno será acordado por la autoridad guber-
+nativa competente para la expulsión.
+4. El retorno acordado en aplicación de la letra a)
+del apartado 2, conllevará la reiniciación del cómputo
+del plazo de prohibición de entrada que hubiese acor-
+dado la orden de expulsión quebrantada. Asimismo, en
+este supuesto, cuando el retorno no se pudiera ejecutar
+en el plazo de setenta y dos horas, la autoridad guber-
+nativa podrá solicitar de la autoridad judicial la medida
+de internamiento prevista para los expedientes de expul-
+sión.Artículo 55. Colaboración contra redes organizadas.
+1. El extranjero que haya cruzado la frontera espa-
+ñola fuera de los pasos establecidos al efecto o no haya
+cumplido con su obligación de declarar la entrada y se
+encuentre irregularmente en España o trabajando sin
+permiso, sin documentación o documentación irregular,
+por haber sido víctima, perjudicado o testigo de un acto
+de tráfico ilícito de seres humanos, inmigración ilegal,
+o de tráfico ilícito de mano de obra o de explotación
+en la prostitución abusando de su situación de necesidad,
+podrá quedar exento de responsabilidad administrativa
+y no será expulsado si denuncia a las autoridades com-
+petentes a los autores o cooperadores de dicho tráfico,
+o coopera y colabora con los funcionarios policiales com-
+petentes en materia de extranjería, proporcionando
+datos esenciales o testificando, en su caso, en el proceso
+correspondiente contra aquellos autores.
+2. Los órganos administrativos competentes encar-
+gados de la instrucción del expediente sancionador
+harán la propuesta oportuna a la autoridad que deba
+resolver.
+3. A los extranjeros que hayan quedado exentos
+de responsabilidad administrativa se les podrá facilitar
+a su elección, el retorno a su país de procedencia o
+la estancia y residencia en España, así como permiso
+de trabajo y facilidades para su integración social, de
+acuerdo con lo establecido en la presente Ley.
+4. Cuando el Ministerio Fiscal tenga conocimiento
+de que un extranjero, contra el que se ha dictado una
+resolución de expulsión, aparezca en un procedimiento
+penal como víctima, perjudicado o testigo y considere
+imprescindible su presencia para la práctica de diligen-
+cias judiciales, lo pondrá de manifiesto a la autoridad
+gubernativa competente a los efectos de que se valore
+la inejecución de su expulsión y, en el supuesto de que
+se hubiese ejecutado esta última, se procederá de igual
+forma a los efectos de que autorice su regreso a España
+durante el tiempo necesario para poder practicar las dili-
+gencias precisas, sin perjuicio de que se puedan adoptar
+algunas de las medidas previstas en la Ley Orgánica
+19/1994, de 23 de diciembre, de protección a testigos
+y peritos en causas criminales.
+Artículo 56. Retorno e internamiento.
+1. Los extranjeros a los que en frontera no se les
+permita el ingreso en el país serán retornados a su punto
+de origen en el plazo más breve posible. La autoridad
+gubernativa que acuerde el retorno se dirigirá al Juez
+de Instrucción si el retorno fuera a retrasarse más de
+setenta y dos horas para que determine el lugar donde
+hayan de ser internados hasta que llegue el momento
+del retorno.
+2. Los lugares de internamiento para extranjeros no
+tendrán carácter penitenciario, y estarán dotados de ser-
+vicios sociales, jurídicos, culturales y sanitarios. Los
+extranjeros internados estarán privados únicamente del
+derecho ambulatorio.
+3. El extranjero durante su internamiento se encon-
+trará en todo momento a disposición de la autoridad
+judicial que lo autorizó, debiéndose comunicar a ésta
+por la autoridad gubernativa cualquier circunstancia en
+relación a la situación de los extranjeros internados.
+4. La detención de un extranjero a efectos de retor-
+no será comunicada al Ministerio de Asuntos Exteriores
+y a la Embajada o Consulado de su país.
+Artículo 57. Obligación de presentación periódica.
+Excepcionalmente, la autoridad gubernativa podrá
+aplicar provisionalmente a los extranjeros que se encuen-
+1148 Miércoles 12 enero 2000 BOE núm. 10
+tren en España y se les abra un expediente sancionador,
+la obligación de presentarse periódicamente en las
+dependencias que se indiquen. Igualmente podrá acor-
+dar la retirada del pasaporte o documento acreditativo
+de su nacionalidad, previa entrega al interesado del res-
+guardo acreditativo de tal medida.
+Artículo 58. Ingreso en centros de internamiento.
+1. Cuando el expediente se refiera a extranjeros por
+las causas comprendidas en los apartados a), b) y c)
+del artículo 50 así como el g) del artículo 49, en el
+que se vaya a proponer la expulsión del afectado, la
+autoridad gubernativa podrá proponer al Juez de Ins-
+trucción competente correspondiente que disponga su
+ingreso en un centro de internamiento en tanto se realiza
+la tramitación del expediente sancionador. La decisión
+judicial en relación con la solicitud de internamiento del
+extranjero pendiente de expulsión se adoptará en auto
+motivado, previa audiencia del interesado.
+2. El internamiento se mantendrá por el tiempo
+imprescindible para los fines del expediente, sin que en
+ningún caso pueda exceder de cuarenta días, ni acor-
+darse un nuevo internamiento por cualquiera de las cau-
+sas previstas en un mismo expediente. La decisión judi-
+cial que lo autorice, atendiendo a las circunstancias con-
+currentes en cada caso, podrá fijar un período máximo
+de duración del internamiento inferior al citado.
+3. Los menores en los que concurran los supuestos
+previstos para el internamiento serán puestos a dispo-
+sición de los servicios competentes de protección de
+menores. El Juez, previo informe favorable del Ministerio
+Fiscal, podrá autorizar su ingreso en los centros de inter-
+namiento de extranjeros cuando también lo estén sus
+padres o tutores, lo soliciten éstos y existan módulos
+que garanticen la intimidad familiar.
+4. La incoación del expediente, las medidas cau-
+telares de detención e internamiento y la resolución final
+del expediente de expulsión del extranjero serán comu-
+nicadas al Ministerio de Asuntos Exteriore syal a Emba-
+jada o Consulado de su país.
+Artículo 59. Carácter recurrible de las resoluciones
+sobre extranjeros.
+1. Las resoluciones administrativas sancionadoras
+serán recurribles con arreglo a lo dispuesto en las leyes.
+El régimen de ejecutividad de las mismas será el previsto
+con carácter general.
+2. En todo caso, cuando el extranjero no se encuen-
+tre en España, podrá cursar los recursos procedentes,
+tanto en vía administrativa como jurisdiccional, a través
+de las representaciones diplomáticas o consulares
+correspondientes, o de organizaciones de asistencia a
+la emigración debidamente apoderadas, quienes los
+remitirán al organismo competente.
+TÍTULO IV
+Coordinación de los poderes públicos en materia
+de inmigración
+Artículo 60. Coordinación de los órganos de la Admi-
+nistración del Estado.
+1. El Gobierno llevará a cabo una observación per-
+manente de las magnitudes y características más sig-
+nificativas del fenómeno inmigratorio con objeto de ana-
+lizar su impacto en la sociedad española y facilitar una
+información objetiva y contrastada que evite o dificulte
+la aparición de corrientes xenófobas o racistas.2. El Gobierno unificará en Oficinas provinciales los
+servicios existentes, dependientes de diferentes órganos
+de la Administración del Estado con competencia en
+inmigración, al objeto de conseguir una adecuada coor-
+dinación de su actuación administrativa.
+3. El Gobierno elaborará planes, programas y direc-
+trices sobre la actuación de la Inspección de Trabajo
+previa al procedimiento sancionador destinados espe-
+cialmente a comprobar el cumplimiento del principio de
+igualdad y no discriminación de los trabajadores extran-
+jeros, así como el cumplimiento efectivo de la normativa
+en materia de permiso de trabajo de extranjeros, todo
+ello sin perjuicio de las facultades de planificación que
+correspondan a las Comunidades Autónomas con com-
+petencias en materia de ejecución de la legislación labo-
+ral.
+Artículo 61. El Consejo Superior de Política de Inmi-
+gración.
+1. Para asegurar una adecuada coordinación de las
+actuaciones de las Administraciones públicas con com-
+petencias sobre la integración de los inmigrantes se cons-
+tituirá un Consejo Superior de Política de Inmigración,
+en el que participarán representantes del Estado, de las
+Comunidades Autónomas y de los municipios.
+2. Dicho órgano establecerá las bases y criterios
+sobre los que se asentará una política global en materia
+de integración social y laboral de los inmigrantes, para
+lo cual recabará información y consulta de los órganos
+administrativos, de ámbito estatal o autonómico, así
+como de los agentes sociales y económicos implicados
+con la inmigración y la defensa de los derechos de los
+extranjeros.
+Artículo 62. Apoyo al movimiento asociativo de los
+inmigrantes.
+Los poderes públicos impulsarán el fortalecimiento
+del movimiento asociativo entre los inmigrantes y apo-
+yarán a los sindicatos y a las organizaciones no guber-
+namentales que, sin ánimo de lucro, favorezcan su inte-
+gración social, facilitándoles recursos materiales y ayuda
+económica, tanto a través de los programas generales,
+como en relación con sus actividades específicas.
+Artículo 63. El Foro para la Inmigración.
+1. El Foro para la Inmigración, constituido, de forma
+tripartita y equilibrada, por representantes de las Admi-
+nistraciones públicas, de las asociaciones de inmigrantes
+y de las organizaciones sociales de apoyo, entre ellas
+los sindicatos de trabajadores y organizaciones empre-
+sariales con interés e implantación en el ámbito inmi-
+gratorio, constituye el órgano de consulta, información
+y asesoramiento en materia de inmigración.
+2. Reglamentariamente se determinará su compo-
+sición, competencias, régimen de funcionamiento y ads-
+cripción administrativa.
+Disposición adicional única. Plazo máximo para reso-
+lución de expedientes.
+Las solicitudes de prórroga del permiso de residencia
+así como la renovación del permiso de trabajo que se
+formulen por los interesados a tenor de lo dispuesto
+en la presente Ley Orgánica se resolverán en el plazo
+máximo de tres meses contados a partir del día siguiente
+al de la presentación de la solicitud. Transcurrido dicho
+plazo sin que la Administración haya dado respuesta
+expresa, se entenderá que la prórroga o renovación han
+sido concedidas.
+BOE núm. 10 Miércoles 12 enero 2000 1149
+Disposición transitoria primera. Regularización de
+extranjeros que se encuentren en España.
+El Gobierno, mediante Real Decreto, establecerá el
+procedimiento para la regularización de los extranjeros
+que se encuentren en territorio español antes del día
+1 de junio de 1999 y que acrediten haber solicitado
+en alguna ocasión permiso de residencia o trabajo o
+que lo hayan tenido en los tres últimos años.
+Disposición transitoria segunda. Validez de los permi-
+sos vigentes.
+Los distintos permisos o tarjetas que habilitan para
+entrar, residir y trabajar en España a las personas inclui-
+das en el ámbito de aplicación de la Ley que tengan
+validez a la entrada en vigor de la misma, la conservarán
+por el tiempo para el que hubieren sido expedidas.
+Disposición transitoria tercera. Normativa aplicable a
+procedimientos en curso.
+Los procedimientos administrativos en curso se tra-
+mitarán y resolverán de acuerdo con la normativa vigente
+en el momento de la iniciación, salvo que el interesado
+solicite la aplicación de la presente Ley.
+Disposición derogatoria única. Derogación normativa.
+Queda derogada la Ley Orgánica 7/1985, de 1 de
+julio, sobre derechos y libertades de los extranjeros en
+España, y cuantas disposiciones se opongan a lo esta-
+blecido en esta Ley.
+Disposición final primera. Modificación del artículo 312
+del Código Penal.
+El apartado 1 del artículo 312 del Código Penal queda
+redactado de la forma siguiente:
+«Artículo 312.
+1. Serán castigados con las penas de prisión
+de dos a cinco años y multa de seis a doce meses,
+los que trafiquen de manera ilegal con mano de
+obra.»
+Disposición final segunda. Inclusión de un nuevo Título
+XV bis en el Código Penal.
+Se introduce un nuevo Título XV bis con la siguiente
+redacción:
+«Título XV bis. Delitos contra los derechos de
+los ciudadanos extranjeros.
+Artículo 318 bis.
+1. Los que promuevan, favorezcan o faciliten
+el tráfico ilegal de personas desde, en tránsito o
+con destino a España serán castigados con las
+penas de prisión de seis meses a tres años y multa
+de seis a doce meses.
+2. Los que realicen las conductas descritas en
+el apartado anterior con ánimo de lucro, o emplean-
+do violencia, intimidación o engaño o abusando
+de una situación de necesidad de la víctima, serán
+castigados con las penas de prisión de dos a cuatro
+años y multa de doce a veinticuatro meses.
+3. Se impondrán las penas correspondientes
+en su mitad superior a las previstas en los apartados
+anteriores, cuando en la comisión de los hechos
+se hubiere puesto en peligro la vida, la salud o
+la integridad de las personas o la víctima sea menor
+de edad.4. En las mismas penas del apartado anterior
+y además en la inhabilitación absoluta de seis a
+doce años incurrirán los que realicen los hechos
+prevaliéndose de su condición de autoridad, agente
+de ésta o funcionario público.
+5. Se impondrán las penas superiores en grado
+a las previstas en los apartados anteriores, en sus
+respectivos casos, cuando el culpable perteneciere
+a una organización o asociación, incluso de carácter
+transitorio que se dedicare a la realización de tales
+actividades.»
+Disposición final tercera. Modificaciones en los artícu-
+los 515, 517 y 518 del Código Penal.
+1. Se añade un nuevo apartado 6.oen el artículo
+515 con la siguiente redacción:
+«6.oLas que promuevan el tráfico ilegal de
+personas.»
+2. Se modifica el primer párrafo del artículo 517,
+que quedará redactado de la siguiente forma:
+«En los casos previstos en los números 1.oy
+3.oal 6.odel artículo 515 se impondrán las
+siguientes penas:»
+3. Se modifica el artículo 518, que quedará redac-
+tado de la siguiente forma:
+«Los que con su cooperación económica o de
+cualquier otra clase, en todo caso relevante, favo-
+rezcan la fundación, organización o actividad de
+las asociaciones comprendidas en los números
+1.oy3 .oal 6.odel artículo 515, incurrirán en la
+pena de prisión de uno a tres años, multa de doce
+a veinticuatro meses, e inhabilitación para empleo
+o cargo público por tiempo de uno a cuatro años.»
+Disposición final cuarta. Artículos no orgánicos.
+Los preceptos contenidos en los artículos 10, 12,
+13 y 14 no tienen carácter orgánico, habiendo sido dic-
+tados en ejercicio de lo dispuesto en el artículo 149.1.2.a
+de la Constitución.
+Disposición final quinta. Apoyo al sistema de informa-
+ción de Schengen.
+El Gobierno, en el marco de lo previsto en el Convenio
+de aplicación del Acuerdo de Schengen, adoptará cuan-
+tas medidas fueran precisas para mantener la exactitud
+y la actualización de los datos del sistema de información
+de Schengen, facilitando el ejercicio del derecho a la
+rectificación o supresión de datos a las personas cuyos
+datos figuren en el mismo.
+Disposición final sexta. Reglamento de la Ley.
+El Gobierno en el plazo de seis meses aprobará el
+Reglamento de esta Ley Orgánica.
+Disposición final séptima. Información sobre la Ley a
+organismos y organizaciones interesados.
+Desde el momento de la entrada en vigor de esta
+Ley, el Gobierno adoptará las medidas necesarias para
+informar a los funcionarios de las diversas Administra-
+ciones públicas, a los directivos de asociaciones de inmi-
+1150 Miércoles 12 enero 2000 BOE núm. 10
+grantes, a los Colegios de Abogados, a los sindicatos
+y a las organizaciones no gubernamentales de los cam-
+bios que sobre la aplicación de la normativa anterior
+supone la aprobación de esta Ley Orgánica.
+Disposición final octava. Habilitación de créditos.
+El Gobierno dictará las disposiciones necesarias para
+hacer frente a los gastos originados por la aplicación
+y desarrollo de la presente Ley.
+Disposición final novena. Entrada en vigor.
+Esta Ley Orgánica entrará en vigor a los veinte días
+de su completa publicación en el «Boletín Oficial del
+Estado».
+Por tanto,
+Mando a todos los españoles, particulares y auto-
+ridades, que guarden y hagan guardar esta Ley Orgánica.
+Madrid, 11 de enero de 2000.
+JUAN CARLOS R.
+El Presidente del Gobierno,
+JOSÉ MARÍA AZNAR LÓPEZ
+MINISTERIO
+DE ASUNTOS EXTERIORES
+545 APLICACIÓN provisional del Acuerdo entre
+España y el Fondo Internacional de Indem-
+nización de daños causados por la Contami-
+nación de Hidrocarburos, hecho en Londres
+el 9 de junio de 1999.
+ACUERDO ENTRE ESPAÑA Y EL FONDO INTERNACIO-
+NAL DE INDEMNIZACIÓN DE DAÑOS CAUSADOS POR
+LA CONTAMINACIÓN DE HIDROCARBUROS (EL FONDO)
+Londres, 9 de junio de 1999.
+España, representada por el excelentísimo señor
+Embajador de España en Londres, señor don Santiago
+de Mora-Figueroa, Marqués de Tamarón, y
+El Fondo Internacional de Indemnización de daños
+debidos a la contaminación por hidrocarburos (el Fondo),
+representado por el Director del Fondo señor don Måns
+Jacobsson,
+Acuerdan:
+Cláusula primera.
+Que España se compromete a no invocar prescripción
+en el supuesto que los órganos del Fondo decidieran
+iniciar acciones judiciales contra España para recobrar
+el 50 por 100 de las cantidades pagadas y a pagar
+por el Fondo en compensación como resultado del sinies-
+tro del buque «Aegean Sea», siempre que dichas accio-
+nes judiciales se inicien antes del 12 de junio de 2000.
+Este acuerdo no supone el reconocimiento, por parte
+de España, de la existencia y/o vigencia de ningún dere-
+cho del Fondo contra España, ni tampoco conlleva el
+reconocimiento de obligación o deuda alguna por partede España en relación a las compensaciones que debe-
+rán abonar, en todo caso, el propietario del «Aegean
+Sea», el club asegurador y el Fondo, en los términos
+que se acuerden judicial o extrajudicialmente, hasta sus
+respectivos límites de compensación.
+Cláusula segunda.
+Que el Fondo se compromete a no iniciar acciones
+judiciales contra España antes del 12 de mayo de 2000
+y reconoce su voluntad de mantener negociaciones bila-
+terales con España a la luz de los informes jurídicos
+intercambiados por ambas partes antes de solicitar un
+pronunciamiento definitivo a los órganos del Fondo en
+esta materia. Este acuerdo no conlleva la aceptación
+por parte del Fondo que las acciones de recobro del
+Fondo contra España sobre la base de la sentencia de
+la Audiencia de A Coruña de 18 de junio de 1997 estén
+sujetas a un plazo de prescripción de un año, a contar
+desde la fecha de dicha sentencia. Este acuerdo no supo-
+ne tampoco una renuncia al derecho del Fondo de invo-
+car que en virtud de dicha sentencia España es respon-
+sable por un 50 por 100 de los daños originados por
+el siniestro del «Aegean Sea».
+Por parte de España,
+Santiago de Mora-Figueroa,
+Marqués de TamarónPor parte del Fondo Internacional
+de Indemnización de daños
+debidos a la contaminación
+por hidrocarburos,
+Måns Jacobsson
+Este documento ha sido otorgado, por duplicado, en
+el lugar y fecha indicados en el encabezamiento.
+Måns Jacobsson
+Director
+IOPC Fund
+4, Albert Embankment
+London SE1 7SR
+Londres, 9 de junio de 1999
+En relación con el Acuerdo suscrito entre España y
+el Fondo en el día de hoy tengo el honor de informarle
+lo siguiente:
+España reconoce que este Acuerdo se aplicará pro-
+visionalmente desde el día de la firma pero su entrada
+en vigor se producirá cuando España informe al Fondo,
+a través de su Embajador en Londres, que se han cum-
+plido todos los trámites requeridos por el Derecho espa-
+ñol para la conclusión del Acuerdo y el Fondo se com-
+promete a acusar recibo de la información.
+La aplicación provisional de este Acuerdo terminará
+si España, a través del señor Embajador de España en
+Londres, no notifica al Fondo antes del 12 de mayo
+de 2000 el cumplimiento total de los mencionados trá-
+mites, o si antes de esa fecha España notifica al Fondo,
+a través de su Embajador en Londres, que los mencio-
+nados trámites no serán cumplidos. En tales casos, Espa-
+ña se compromete a no invocar prescripción si el Fondo,
+durante el plazo de treinta días a contar desde el 12
+de mayo de 2000 o, en su caso, desde la fecha en
+que el Fondo reciba esta notificación, inicia las acciones
+judiciales contra España a que se refiere el Acuerdo sus-
+crito entre ambas partes.
+España quiere manifestar, asimismo, que el contenido
+de esta carta deberá entenderse como un instrumento
+
+------------------------------
+
+
+
+Link: Solicitud
+URL: https://sede.aytojaen.es/sta/docs/GetDocumentServlet?CUD=12434156073466655246&HASH_CUD=4fad28576064b78bff3acb7bfbad898d6ca8d38f&APP_CODE=STA
+Tipo detectado: pdf
+
+
+
+[PDF: https://sede.aytojaen.es/sta/docs/GetDocumentServlet?CUD=12434156073466655246&HASH_CUD=4fad28576064b78bff3acb7bfbad898d6ca8d38f&APP_CODE=STA]
+
+SOLICITUD DE INFORME DE ARRAIGO SOCIAL
+Dº / Dña. , mayor de edad, con domicilio en Jaén,
+Teléfono
+con Dni / pasaporte nº  y nacionalidad A. V. I.
+EXPONE:  Que según lo previsto en el art. 45.2 b) del Reglamento de la Ley Orgánica 4/2000, sobre derechos y libertades 
+de  los Extranjeros en España y su Integración Social. 
+  SOLICITA: Le sea realizado informe acreditativo de Arraigo Social.
+Jaén, a   de   de 
+Firma
+DOCUMENTACIÓN A APORTAR:  - Copia del Pasaporte del Solicitante /NIF 
+ - Certificados de Empadronamiento de todos aquellos municipios donde haya residido en los últimos 3 años. 
+ - Oferta de Trabajo en firme de contrato y documentos justificativos de ingresos (cuentas bancarias, pensiones, etc...) 
+ - Contrato de alquiler y últimos recibos; escritura de la vivienda y gastos de la misma. 
+ - Certificado de asistencia a cursos de formación laboral, clases de español, etc... 
+ -Certificado de pertenencia a Asociaciones de carácter social, cultural, educativo, etc...Los datos recogido en el presente formulario serán incorporados a un fichero de datos de carácter personal, cuyo responsable es el Excmo. Ayto. de Jaén,  siendo el encargado del tratamiento el Patronato Municipal de Asuntos Sociales, cuya finalidad es; “La emisión de Informe de Arraigo Social”.  Puede ejercer sus derechos de Acceso, Rectificación, Consulta y Cancelación en la Oficina de Acceso Electrónica y Nuevas Tecnologías en  la C/ Joaquín Tenorio, nº 12 o en las dependencias del Patronato Municipal de Asuntos Sociales, en C/ Cerón, nº19.  Acepta las comprobaciones necesarias con el Padrón Municipal de Habitantes, el Sistema de Verificación de Identidad y/o cualquier fichero titularidad  el Excmo. Ayto. de Jaén o legalmente accesible por éste para la verificación de datos y la correcta prestación del Servicio objeto del formulario.
+
+------------------------------
+

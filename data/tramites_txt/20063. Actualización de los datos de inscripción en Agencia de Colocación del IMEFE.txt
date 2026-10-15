@@ -1,0 +1,842 @@
+Trámite ID: 6269026841244604405011
+
+Nombre: 20063. Actualización de los datos de inscripción en Agencia de Colocación del IMEFE
+
+URL: https://sede.aytojaen.es/sta/CarpetaPublic/doEvent?APP_CODE=STA&PAGE_CODE=CATALOGO&DETALLE=6269026841244604405011
+
+
+--- Contenido principal ---
+
+
+Es necesario instalar Autofirma para firmar solicitudes de registro electrónico, aceptar notificaciones y firmar documentos del portafirmas
+[descargar]
+20063. Actualización de los datos de inscripción en Agencia de Colocación del IMEFE
+Descripción
+20063. Actualización de los datos de inscripción en Agencia de Colocación del IMEFE
+Finalidad
+Cualquier persona que se haya inscrito previamente en la Agencia de colocación del IMEFE puede actualizar los datos que facilitó a la Agencia. No es necesario aportar de nuevo el formulario de inscripción, basta con notificar los datos que se deseen actualizar y aportar la documentación acreditativa de dicha actualización a la siguiente dirección de correo:
+agenciadecolocacion-imefe@aytojaen.es
+En un plazo de quince días hábiles la persona recibirá un mail confirmando que sus datos han sido actualizados.
+Quien lo puede Presentar
+Inscritos en la Agencia de colocación que deseen actualizar los datos que facilitaron a la Agencia.
+Presentación
+Presencial
+:
+Agencia de colocación del IMEFE
+Registro electrónico
+: Enlace al final de esta página
+Organo Gestor
+Agencia de colocación del IMEFE
+Plazo de resolución
+El plazo de tramitación es de 15 Días
+Efecto del silencio Administrativo
+No procede
+Normativa básica
+Ley 56/2003, de 16 de diciembre de Empleo
+Real Decreto 1796/2010, de 30 de diciembre, por el que se regulan las agencias de colocación
+Real Decreto-Ley 8/2014, de 4 de julio, de aprobación de medidas urgentes para el crecimiento, la competitividad y la eficiencia
+Real Decreto Legislativo 5/2000, de 4 de agosto, por el que se aprueba el texto refundido de la Ley sobre Infracciones y Sanciones en el Orden Social
+Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal
+Real Decreto-ley 11/2013, de 2 de agosto, para la protección de los trabajadores a tiempo parcial y otras medidas urgentes en el orden económico y social
+Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+Pago de tasas
+Servicio gratuito
+Información Adicional
+Requisitos:
+Estar ya inscrito en la Agencia de colocación del IMEFE
+Este trámite incluye registro electrónico y por tanto requiere certificado digital o e-DNI
+Documentación a aportar:
+Documentación acreditativa de la actualización
+Documentos a Presentar
+Documentación
+Otro/s documento/s
+Tramitación Online
+Tramitación Presencial
+
+
+--- Recursos vinculados (seguido su contenido) ---
+
+
+Link: [descargar]
+URL: https://firmaelectronica.gob.es/Home/Descargas.html
+Tipo detectado: html
+
+
+
+[HTML: https://firmaelectronica.gob.es/Home/Descargas.html]
+
+Firma Electrónica | Descargas -Ciudadanos
+Ir al contenido
+Cerrar sesión
+Castellano
+Castellano
+Català
+Gallego
+Euskara
+Valencià
+English
+Ciudadanos
+Inicio
+Portada de Ciudadanos
+Tutoriales
+Ciudadanos
+Portada de Tutoriales
+Firmar un documento - Certificado Electrónico
+Firmar al mismo nivel que otros (cofirmar)
+Firmar para certificar otras firmas (contrafirmar)
+Validar una firma
+Visualizar una firma
+Cosas que deberías saber
+Ciudadanos
+Portada de Cosas que deberías saber
+La firma electrónica
+El DNI electrónico
+Certificados electrónicos
+Formatos de firma
+Aplicaciones de firma
+Validación de las firmas
+Base legal
+Navegadores y ordenador
+Tipos de certificados
+Identidad digital en las AA.PP:
+Para no equivocarse
+Descargas
+Empresas
+Inicio
+Portada de Empresas
+Tutoriales
+Empresas
+Portada de Tutoriales
+Firmar un documento - Certificado Electrónico
+Firmar al mismo nivel que otros (cofirmar)
+Firmar para certificar otras firmas (contrafirmar)
+Validar una firma
+Visualizar una firma
+Cosas que deberías saber
+Empresas
+Portada de Cosas que deberías saber
+Navegadores y ordenador
+Certificados de empresa
+Factura electrónica
+Autoridades de Certificación
+La firma electrónica
+Los Certificados Electrónicos
+Formatos de firma
+Aplicaciones de firma
+Tipos de Certificados
+Base legal
+Validación de las firmas
+Para no equivocarte
+Identidad Digital
+Navegadores y ordenador
+Descargas
+Empleados Públicos
+Ciudadanos
+Tutoriales
+Cosas que deberías saber
+Descargas
+Portada de
+                                                        Ciudadanos
+Empresas
+Tutoriales
+Cosas que deberías saber
+Descargas
+Portada de
+                                                        Empresas
+Empleados Públicos
+Buscar
+Ciudadanos
+Descargas
+Descargas para ciudadanos
+Desde aquí puedes descargarte aquellas aplicaciones que necesites para firmar electrónicamente y otras utilidades o documentos.
+Autofirma
+Autofirma
+Manuales
+Plugin de Huella Digital v1.0
+@Firma (obsoleto)
+Política de Firma de la AGE
+Autofirma
+Manuales
+Plugin de Huella Digital v1.0
+@Firma (obsoleto)
+Política de Firma de la AGE
+Aplicación de firma electrónica desarrollada por el Ministerio de Asuntos Económicos y Transformación Digital. Al poder ser ejecutada desde el navegador, permite la firma en páginas de Administración Electrónica cuando se requiere la firma en un procedimiento administrativo.
+Autofirma Apps
+Para Windows
+Versión 1.9
+Versión 1.9 para Windows 64 bits
+Versión 1.9 para Windows 32 bits
+Versiones anteriores
+Versión 1.8.3 para Windows 64 bits
+Versión 1.8.3 para Windows 32 bits
+Para Linux
+Versión 1.9
+Versión 1.9 para Debian Linux
+Versión 1.9 para Fedora Linux
+Versión 1.9 para OpenSUSE Linux
+Versiones anteriores
+Versión 1.8.3 para Debian Linux
+Versión 1.8.3 para Fedora Linux
+Versión 1.8.3 para OpenSUSE Linux
+Para MacOS
+Versión 1.9
+Versión 1.9 para MacOS procesadores x64
+Versión 1.9 para MacOS procesadores x64 (incl Java 11)
+Versión 1.9 para MacOS procesadores M1 y siguientes
+Versiones anteriores
+Versión 1.8.4 para MacOS procesadores x64
+Versión 1.8.4 para MacOS procesadores M1
+Manuales
+Guía para el usuario final de AutoFirma a través del proceso de instalación, posibilidades de uso de AutoFirma a través de consola, uso de tarjetas inteligentes y listado de diversos problemas que pueden surgir en la instalación y ejecución de la aplicación.
+Manual de Instalación para Usuarios (1.9)
+Manual de Instalación para Usuarios (1.8.2 y siguientes)
+Plugin de Huella Digital v1.0
+Plugin para el cálculo y la comprobación de hashes versión v1.0. El componente permite generar ficheros de hashes con el hash de un fichero o de todos los ficheros de un directorio. También permite comprobar que un fichero de hashes es válido seleccionando el fichero o directorio a partir del cual se generó. IMPORTANTE: El plugin requiere de Autofirma v1.8 o superior (no es compatible con la versión 1.7.2 y anteriores). En versiones de Autofirma anteriores a la v1.8 la funcionalidad del plugin estaba integrada en la aplicación. Su paso a plugin se ha realizado para facilitar su gestión y evolución.
+Plugin de Huella Digital 1.0 (para Autofirma v1.8 o superior)
+Cliente @Firma (obsoleto) - Se recomienda usar Autofirma
+Cliente @Firma es una aplicación de firma desarrollada por el Ministerio de Hacienda y Administraciones Públicas. Al tratarse de una versión obsoleta se recomienda el uso de Autofirma.
+Cliente @Firma (obsoleto)
+Política de Firma de la AGE
+Define un modelo de esquema de referencia para la identificación y autenticación electrónica, recogidos en la Ley 11/2007, de 22 de Junio, de Acceso Electrónico de los Ciudadanos a los Servicios Públicos en el ámbito de la AGE
+Política de Firma de la AGE
+Mapa web
+Accesibilidad
+Aviso Legal
+Política de cookies
+Política de privacidad
+Plan de Recuperación, Transformación y Resiliencia - Financiado por la Unión Europea - NextGenerationEU
+© Portal de Administración Electrónica · Agencia Estatal de Administración Digital
+Política de cookies
+Este sitio web utiliza cookies propias y de terceros para ofrecer un mejor servicio. Si continúa navegando consideramos que acepta su uso.
+Ver política de cookies
+Rechazar todas las cookies
+Aceptar todas las cookies
+
+------------------------------
+
+
+
+Link: javascript:;
+URL: javascript:;
+Tipo detectado: restricted
+
+
+
+Es necesario Cl@ve o certificado digital
+
+------------------------------
+
+
+
+Link: agenciadecolocacion-imefe@aytojaen.es
+URL: mailto:agenciadecolocacion-imefe@aytojaen.es
+Tipo detectado: error
+
+
+
+[Error al obtener mailto:agenciadecolocacion-imefe@aytojaen.es: No connection adapters were found for 'mailto:agenciadecolocacion-imefe@aytojaen.es']
+
+------------------------------
+
+
+
+Link: Agencia de colocación del IMEFE
+URL: https://imefe.aytojaen.es/contenido/horario-y-localizacion
+Tipo detectado: html
+
+
+
+[HTML: https://imefe.aytojaen.es/contenido/horario-y-localizacion]
+
+Horario y Localización
+Acceder
+Inicia sesión
+Presentación
+Saluda del Presidente
+Objetivos
+Organigrama
+Sugerencias
+Estatutos
+Memorias anuales
+Presupuestos
+Aviso Legal
+Política de Privacidad
+Política de Cookies
+Contacto
+DELEGACIONES IMEFE
+Agencia de Colocación
+Información general
+Emprendedores
+Asesoramiento para la creación y consolidación de empresas
+Registro
+Acceso al perfil
+Difusión de la cultura emprendedora
+Apoyo en la búsqueda de financiación
+Cesión gratuita de espacios de negocio
+Escuela de empresas
+Empresas
+Información del servicio
+Formación
+Ofertas
+Formación
+Cursos de Formación
+Acceso al perfil de Alumnos/as
+Aula Mentor
+éDUSI
+Orientación
+Información
+Club de Empleo
+Aula Empleo
+Desarrollo Local
+Descripción
+Guía de Recursos
+Concierto Local por el Empleo
+Servicio de Información de Ayudas
+Oficina de Captación de Inversiones
+Observatorio de Empleo
+Movilidad Internacional
+Red Eures
+Noticias
+ATENEA
+¿Qué es el programa ATENEA- EFESO de Jaén?
+Destinatarios
+¿Cuáles son los Itinerarios formativos de ATENEA?
+¿Cómo realizar la solicitud?
+Preguntas Frecuentes
+Normativa
+Información de FSE+
+Prensa
+Procesos selectivos personal Atenea
+Licitaciones
+Procesos selectivos Docentes
+Proyectos Integrales
+CITA PREVIA
+CETEDEX
+DELEGACIONES IMEFE
+Inicio
+Presentación
+DELEGACIONES IMEFE
+Agencia de Colocación
+Emprendedores
+Empresas
+Ofertas
+Formación
+Orientación
+Desarrollo Local
+Noticias
+CETEDEX
+ATENEA
+Proyectos Integrales
+CITA PREVIA
+DELEGACIONES IMEFE:
+SERVICIOS CENTRALES
+servicioscentrales_imefe@aytojaen.es
+C/ San Andrés 1
+23004, Jaén
+Teléfonos:
+Centralita
+: 953-24 55 20
+Administración:
+673-660 761
+/
+673-670 254
+Horario de atención al público:
+de 9:00 a 13:00
+DELEGACIÓN C. CAMBIL
+C/ Cambil 4
+23004, Jaén
+imefe_orientacion@aytojaen.es
+Teléfonos de Contacto
+673660903 / 673660874 / 673660839 / 673660899
+Horario de atención al público:
+de 9:00 a 13:00
+CENTRO EMPRESARIAL EMPLAZA
+EMPLAZA c. Bedmar 29
+23009, Jaén
+agenciadecolocacion-imefe@aytojaen.es
+Teléfonos de Contacto: 673660901 / 673660869
+imefe_empresas@aytojaen.es
+Teléfonos de Contacto: 673660786
+Horario de atención al público:
+de 9:00 a 13:00
+Datos de contacto
+Ayuntamiento de Jaén
+Horario: De lunes a viernes de 9:00 a 13:00
+Calle San Andrés, 1
+23004 JAÉN
+953245520
+imefe_servicioscentrales@aytojaen.es
+Política de privacidad
+Aviso legal
+Política de cookies
+Secciones
+Inicio
+Presentación
+DELEGACIONES IMEFE
+Agencia de Colocación
+Emprendedores
+Empresas
+Ofertas
+Formación
+Orientación
+Desarrollo Local
+Noticias
+CETEDEX
+ATENEA
+Proyectos Integrales
+CITA PREVIA
+Agenda y eventos
+enero 2026
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+Agencia autorizada
+Sistema Nacional de Empleo
+Ministerio de Trabajo y Economía Social
+Agencia de Colocación nº 0100000100
+×
+Cerrar
+Error
+×
+Cerrar
+Información sobre Cookies
+Este sitio web utiliza cookies propias y de terceros para recopilar información que ayude a optimizar su navegación web.
+No se utilizan cookies para recoger información de carácter personal.
+Si continúa navegando, consideramos que acepta su uso. Puede obtener más información o conocer cómo cambiar la configuración, en nuestra
+Política de Cookies
+.
+Aceptar
+Rechazar
+Configurar
+Cookie de sesión
+Identificar de manera única la sesión durante la visita al sitio web.
+Esta cookie es obligatoria y expira inmediatamente tras cerrar el navegador.
+Aceptación y configuración del uso de Cookies
+Almacena la aceptación y configuración de las Cookies de esta web.
+Expira tras 1 año o al eliminar las cookies del navegador.
+Google Analytics
+Mejorar y adaptar los contenidos y servicios, bien para optimizar la experiencia y usabilidad de navegación o incrementar y potenciar contenidos y secciones para el interés general de los usuarios.
+Guardar
+
+------------------------------
+
+
+
+Link: Tramitación Online
+URL: https://imefe.aytojaen.es/candidatos/login
+Tipo detectado: html
+
+
+
+[HTML: https://imefe.aytojaen.es/candidatos/login]
+
+Acceso al perfil
+Acceder
+Inicia sesión
+Presentación
+Saluda del Presidente
+Objetivos
+Organigrama
+Sugerencias
+Estatutos
+Memorias anuales
+Presupuestos
+Aviso Legal
+Política de Privacidad
+Política de Cookies
+Contacto
+DELEGACIONES IMEFE
+Agencia de Colocación
+Información general
+Emprendedores
+Asesoramiento para la creación y consolidación de empresas
+Registro
+Acceso al perfil
+Difusión de la cultura emprendedora
+Apoyo en la búsqueda de financiación
+Cesión gratuita de espacios de negocio
+Escuela de empresas
+Empresas
+Información del servicio
+Formación
+Ofertas
+Formación
+Cursos de Formación
+Acceso al perfil de Alumnos/as
+Aula Mentor
+éDUSI
+Orientación
+Información
+Club de Empleo
+Aula Empleo
+Desarrollo Local
+Descripción
+Guía de Recursos
+Concierto Local por el Empleo
+Servicio de Información de Ayudas
+Oficina de Captación de Inversiones
+Observatorio de Empleo
+Movilidad Internacional
+Red Eures
+Noticias
+ATENEA
+¿Qué es el programa ATENEA- EFESO de Jaén?
+Destinatarios
+¿Cuáles son los Itinerarios formativos de ATENEA?
+¿Cómo realizar la solicitud?
+Preguntas Frecuentes
+Normativa
+Información de FSE+
+Prensa
+Procesos selectivos personal Atenea
+Licitaciones
+Procesos selectivos Docentes
+Proyectos Integrales
+CITA PREVIA
+CETEDEX
+Acceso al perfil
+Candidatos/as
+Mantén tu perfil actualizado. Hay ofertas esperándote.
+Correo electrónico
+Requerido
+Correo electrónico no válido
+Contraseña
+Requerido
+Contraseña no válida. Mínimo 6 caracteres.
+Recuperar cuenta
+Datos de contacto
+Ayuntamiento de Jaén
+Horario: De lunes a viernes de 9:00 a 13:00
+Calle San Andrés, 1
+23004 JAÉN
+953245520
+imefe_servicioscentrales@aytojaen.es
+Política de privacidad
+Aviso legal
+Política de cookies
+Secciones
+Inicio
+Presentación
+DELEGACIONES IMEFE
+Agencia de Colocación
+Emprendedores
+Empresas
+Ofertas
+Formación
+Orientación
+Desarrollo Local
+Noticias
+CETEDEX
+ATENEA
+Proyectos Integrales
+CITA PREVIA
+Agenda y eventos
+enero 2026
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+Agencia autorizada
+Sistema Nacional de Empleo
+Ministerio de Trabajo y Economía Social
+Agencia de Colocación nº 0100000100
+×
+Cerrar
+Error
+×
+Cerrar
+Información sobre Cookies
+Este sitio web utiliza cookies propias y de terceros para recopilar información que ayude a optimizar su navegación web.
+No se utilizan cookies para recoger información de carácter personal.
+Si continúa navegando, consideramos que acepta su uso. Puede obtener más información o conocer cómo cambiar la configuración, en nuestra
+Política de Cookies
+.
+Aceptar
+Rechazar
+Configurar
+Cookie de sesión
+Identificar de manera única la sesión durante la visita al sitio web.
+Esta cookie es obligatoria y expira inmediatamente tras cerrar el navegador.
+Aceptación y configuración del uso de Cookies
+Almacena la aceptación y configuración de las Cookies de esta web.
+Expira tras 1 año o al eliminar las cookies del navegador.
+Google Analytics
+Mejorar y adaptar los contenidos y servicios, bien para optimizar la experiencia y usabilidad de navegación o incrementar y potenciar contenidos y secciones para el interés general de los usuarios.
+Guardar
+
+------------------------------
+
+
+
+Link: Tramitación Presencial
+URL: https://imefe.aytojaen.es
+Tipo detectado: html
+
+
+
+[HTML: https://imefe.aytojaen.es]
+
+Ayuntamiento de Jaén - IMEFE
+Acceder
+Inicia sesión
+Presentación
+Saluda del Presidente
+Objetivos
+Organigrama
+Sugerencias
+Estatutos
+Memorias anuales
+Presupuestos
+Aviso Legal
+Política de Privacidad
+Política de Cookies
+Contacto
+DELEGACIONES IMEFE
+Agencia de Colocación
+Información general
+Emprendedores
+Asesoramiento para la creación y consolidación de empresas
+Registro
+Acceso al perfil
+Difusión de la cultura emprendedora
+Apoyo en la búsqueda de financiación
+Cesión gratuita de espacios de negocio
+Escuela de empresas
+Empresas
+Información del servicio
+Formación
+Ofertas
+Formación
+Cursos de Formación
+Acceso al perfil de Alumnos/as
+Aula Mentor
+éDUSI
+Orientación
+Información
+Club de Empleo
+Aula Empleo
+Desarrollo Local
+Descripción
+Guía de Recursos
+Concierto Local por el Empleo
+Servicio de Información de Ayudas
+Oficina de Captación de Inversiones
+Observatorio de Empleo
+Movilidad Internacional
+Red Eures
+Noticias
+ATENEA
+¿Qué es el programa ATENEA- EFESO de Jaén?
+Destinatarios
+¿Cuáles son los Itinerarios formativos de ATENEA?
+¿Cómo realizar la solicitud?
+Preguntas Frecuentes
+Normativa
+Información de FSE+
+Prensa
+Procesos selectivos personal Atenea
+Licitaciones
+Procesos selectivos Docentes
+Proyectos Integrales
+CITA PREVIA
+CETEDEX
+Inicio
+Portal de empleo para solicitantes, empresas y emprendedores
+Bienvenidos/as a IMEFE
+Más »
+Noticias y Novedades
+Fecha
+Título
+08/01/2026
+Listado provisional solicitantes titulares y reservas ATENCIÓN AL CLIENTE 2ª EDICIÓN. ATENEA
+07/01/2026
+AMPLIACIÓN DEL PLAZO PARA LA SOLICITUD DEL CURSO DE DESARROLLO DE APLICACIONES PARA DISPOSITIVOS MÓVILES. CREACIÓN DE APP.
+07/01/2026
+CARTEL CONVOCATORIA 2025 ITINERARIOS FORMATIVOS ATENCIÓN AL CLIENTE- PROYECTO ATENEA C001.OP065.E018
+Nuestra agencia
+Bienvenido/a a nuestra Entidad. Ofrecemos un servicio para demandantes de empleo a fin de valorar los perfiles, aptitudes, conocimientos o cualificación profesional de las personas inscritas en la correspondiente oficina de empleo.
+Próximos eventos
+Lo sentimos, no hay eventos en estos momentos.
+Más »
+Últimas Ofertas
+Fecha
+Título
+09/01/2026
+PSICOLOGO/A PARA TALLERES SOBRE PREVENCIÓN DE VIOLENCIA DE GÉNERO
+(sin especificar)
+07/01/2026
+OPERARIO DE FABRICA EN MANCHA REAL
+(sin especificar)
+19/12/2025
+PINCHE DE COCINA
+(sin especificar)
+12/12/2025
+TELEOPERADOR/A VENTA DE SEGUROS
+(sin especificar)
+03/12/2025
+SE  BUSCA PERSONAL PARA TRABAJAR EN LOS PIRINEOS. CAMPAÑA DE VERANO ( junio, julio y agosto).
+(sin especificar)
+Más »
+Cursos de Formación
+Fecha
+Título
+12/01/2026
+OP065.E035 CONFECCIÓN Y PUBLICACIÓN DE PÁGINAS WEB
+23/01/2026
+OP065.E037 DESARROLLO DE APLICACIONES PARA DISPOSITIVOS MÓVILES . Nivel 2 ( Creación de apps para  móviles)
+Candidatos/as
+Regístrate
+o
+accede a tu perfil de candidato/a
+Empresas
+Regístrate
+o
+accede a tu perfil de empresa
+Emprendedores
+Regístrate
+o
+accede a tu perfil de emprendedor/a
+Datos de contacto
+Ayuntamiento de Jaén
+Horario: De lunes a viernes de 9:00 a 13:00
+Calle San Andrés, 1
+23004 JAÉN
+953245520
+imefe_servicioscentrales@aytojaen.es
+Política de privacidad
+Aviso legal
+Política de cookies
+Secciones
+Inicio
+Presentación
+DELEGACIONES IMEFE
+Agencia de Colocación
+Emprendedores
+Empresas
+Ofertas
+Formación
+Orientación
+Desarrollo Local
+Noticias
+CETEDEX
+ATENEA
+Proyectos Integrales
+CITA PREVIA
+Agenda y eventos
+enero 2026
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+Agencia autorizada
+Sistema Nacional de Empleo
+Ministerio de Trabajo y Economía Social
+Agencia de Colocación nº 0100000100
+×
+Cerrar
+Error
+×
+Cerrar
+Información sobre Cookies
+Este sitio web utiliza cookies propias y de terceros para recopilar información que ayude a optimizar su navegación web.
+No se utilizan cookies para recoger información de carácter personal.
+Si continúa navegando, consideramos que acepta su uso. Puede obtener más información o conocer cómo cambiar la configuración, en nuestra
+Política de Cookies
+.
+Aceptar
+Rechazar
+Configurar
+Cookie de sesión
+Identificar de manera única la sesión durante la visita al sitio web.
+Esta cookie es obligatoria y expira inmediatamente tras cerrar el navegador.
+Aceptación y configuración del uso de Cookies
+Almacena la aceptación y configuración de las Cookies de esta web.
+Expira tras 1 año o al eliminar las cookies del navegador.
+Google Analytics
+Mejorar y adaptar los contenidos y servicios, bien para optimizar la experiencia y usabilidad de navegación o incrementar y potenciar contenidos y secciones para el interés general de los usuarios.
+Guardar
+
+------------------------------
+

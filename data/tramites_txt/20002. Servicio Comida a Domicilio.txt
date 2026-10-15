@@ -1,0 +1,636 @@
+Trámite ID: 6269026860773476705011
+
+Nombre: 20002. Servicio Comida a Domicilio
+
+URL: https://sede.aytojaen.es/sta/CarpetaPublic/doEvent?APP_CODE=STA&PAGE_CODE=CATALOGO&DETALLE=6269026860773476705011
+
+
+--- Contenido principal ---
+
+
+Es necesario instalar Autofirma para firmar solicitudes de registro electrónico, aceptar notificaciones y firmar documentos del portafirmas
+[descargar]
+20002. Servicio Comida a Domicilio
+Descripción
+20002. Servicio Comida a Domicilio
+Finalidad
+Esta iniciativa se concibe como una prestación social básica, integrada dentro del Servicio de Atención a Domicilio, consistente en la dispensación de comida a domicilio a los beneficiarios del mismo. Los objetivos de este servicio son facilitar que la persona prestataria permanezca más tiempo en su entorno familiar, mejorar la calidad de vida de los mayores, contribuir a proporcionar una alimentación adecuada y a la prevención de posibles trastornos de salud derivados de la alimentación inadecuada.
+Presentación
+Presencial:
+Registro de PMAS
+Registro Electrónico
+: Enlaces al final de esta página
+Procedimiento
+: descargue los modelos de solicitud  (Documentación relacionada). Cumpliméntelos, guárdelos y apórtelos junto con el resto de documentación accediendo al enlace al final de esta página (Se requiere Acrobat Reader para cumplimentar el modelo).
+Organo Gestor
+Negociado de Prestaciones Sociales y Viviendas. PMAS
+C/ Cerón, 19
+953 21 92 07
+lmillan@aytojaen.es marodriguti@aytojaen.es
+Plazo de resolución
+El plazo de tramitación es de 6 Meses
+Efecto del silencio Administrativo
+Desestimatorio
+Normativa básica
+Ordenanza Reguladora del Servicio Municipal de Comida a Domicilio
+Ordenanza Reguladora del Precio Público del Servicio Municipal de Comida a Domicilio
+Pago de tasas
+Son de aplicación los precios públicos según la ordenanza
+Información Adicional
+Observaciones: Transcurridos los 6 meses de plazo sin resolución, se entenderá denegado
+Documentación a aportar:
+Certificado de empadronamiento (se sustituye por su consulta en el Padrón Municipal de Habitantes)
+Informe médico del solicitante  (según modelo)
+Certificado de minusvalía , en su caso
+Domiciliación bancaria (según modelo)
+Modelos de solicitud
+Solicitud
+Modelo de Servicio de comida a domicilio - Informe médico
+Solicitud
+Modelo de Servicio de comida a domicilio - Domiciliación Bancaria
+Solicitud
+Modelo de Servicio de comida a domicilio - Solicitud
+Nivel de identificación en trámitación online
+Substancial:
+Acceso mediante sistema Cl@ve
+Documentos a Presentar
+Documentación
+Modelo de Servicio de comida a domicilio - Solicitud
+Modelo de Servicio de comida a domicilio - Domiciliación Bancaria
+Modelo de Servicio de comida a domicilio - Informe médico
+Fotocopia DNI del solicitante, su cónyuge, y demás miembros
+Certificado de la pensión o de la última nómina o prestación por desempleo
+Fotocopia certificado de minusvalía
+Certificado de empadronamiento de todos los miembros de la unidad familiar
+Tramitación Online
+Tramitación Presencial
+
+
+--- Recursos vinculados (seguido su contenido) ---
+
+
+Link: [descargar]
+URL: https://firmaelectronica.gob.es/Home/Descargas.html
+Tipo detectado: html
+
+
+
+[HTML: https://firmaelectronica.gob.es/Home/Descargas.html]
+
+Firma Electrónica | Descargas -Ciudadanos
+Ir al contenido
+Cerrar sesión
+Castellano
+Castellano
+Català
+Gallego
+Euskara
+Valencià
+English
+Ciudadanos
+Inicio
+Portada de Ciudadanos
+Tutoriales
+Ciudadanos
+Portada de Tutoriales
+Firmar un documento - Certificado Electrónico
+Firmar al mismo nivel que otros (cofirmar)
+Firmar para certificar otras firmas (contrafirmar)
+Validar una firma
+Visualizar una firma
+Cosas que deberías saber
+Ciudadanos
+Portada de Cosas que deberías saber
+La firma electrónica
+El DNI electrónico
+Certificados electrónicos
+Formatos de firma
+Aplicaciones de firma
+Validación de las firmas
+Base legal
+Navegadores y ordenador
+Tipos de certificados
+Identidad digital en las AA.PP:
+Para no equivocarse
+Descargas
+Empresas
+Inicio
+Portada de Empresas
+Tutoriales
+Empresas
+Portada de Tutoriales
+Firmar un documento - Certificado Electrónico
+Firmar al mismo nivel que otros (cofirmar)
+Firmar para certificar otras firmas (contrafirmar)
+Validar una firma
+Visualizar una firma
+Cosas que deberías saber
+Empresas
+Portada de Cosas que deberías saber
+Navegadores y ordenador
+Certificados de empresa
+Factura electrónica
+Autoridades de Certificación
+La firma electrónica
+Los Certificados Electrónicos
+Formatos de firma
+Aplicaciones de firma
+Tipos de Certificados
+Base legal
+Validación de las firmas
+Para no equivocarte
+Identidad Digital
+Navegadores y ordenador
+Descargas
+Empleados Públicos
+Ciudadanos
+Tutoriales
+Cosas que deberías saber
+Descargas
+Portada de
+                                                        Ciudadanos
+Empresas
+Tutoriales
+Cosas que deberías saber
+Descargas
+Portada de
+                                                        Empresas
+Empleados Públicos
+Buscar
+Ciudadanos
+Descargas
+Descargas para ciudadanos
+Desde aquí puedes descargarte aquellas aplicaciones que necesites para firmar electrónicamente y otras utilidades o documentos.
+Autofirma
+Autofirma
+Manuales
+Plugin de Huella Digital v1.0
+@Firma (obsoleto)
+Política de Firma de la AGE
+Autofirma
+Manuales
+Plugin de Huella Digital v1.0
+@Firma (obsoleto)
+Política de Firma de la AGE
+Aplicación de firma electrónica desarrollada por el Ministerio de Asuntos Económicos y Transformación Digital. Al poder ser ejecutada desde el navegador, permite la firma en páginas de Administración Electrónica cuando se requiere la firma en un procedimiento administrativo.
+Autofirma Apps
+Para Windows
+Versión 1.9
+Versión 1.9 para Windows 64 bits
+Versión 1.9 para Windows 32 bits
+Versiones anteriores
+Versión 1.8.3 para Windows 64 bits
+Versión 1.8.3 para Windows 32 bits
+Para Linux
+Versión 1.9
+Versión 1.9 para Debian Linux
+Versión 1.9 para Fedora Linux
+Versión 1.9 para OpenSUSE Linux
+Versiones anteriores
+Versión 1.8.3 para Debian Linux
+Versión 1.8.3 para Fedora Linux
+Versión 1.8.3 para OpenSUSE Linux
+Para MacOS
+Versión 1.9
+Versión 1.9 para MacOS procesadores x64
+Versión 1.9 para MacOS procesadores x64 (incl Java 11)
+Versión 1.9 para MacOS procesadores M1 y siguientes
+Versiones anteriores
+Versión 1.8.4 para MacOS procesadores x64
+Versión 1.8.4 para MacOS procesadores M1
+Manuales
+Guía para el usuario final de AutoFirma a través del proceso de instalación, posibilidades de uso de AutoFirma a través de consola, uso de tarjetas inteligentes y listado de diversos problemas que pueden surgir en la instalación y ejecución de la aplicación.
+Manual de Instalación para Usuarios (1.9)
+Manual de Instalación para Usuarios (1.8.2 y siguientes)
+Plugin de Huella Digital v1.0
+Plugin para el cálculo y la comprobación de hashes versión v1.0. El componente permite generar ficheros de hashes con el hash de un fichero o de todos los ficheros de un directorio. También permite comprobar que un fichero de hashes es válido seleccionando el fichero o directorio a partir del cual se generó. IMPORTANTE: El plugin requiere de Autofirma v1.8 o superior (no es compatible con la versión 1.7.2 y anteriores). En versiones de Autofirma anteriores a la v1.8 la funcionalidad del plugin estaba integrada en la aplicación. Su paso a plugin se ha realizado para facilitar su gestión y evolución.
+Plugin de Huella Digital 1.0 (para Autofirma v1.8 o superior)
+Cliente @Firma (obsoleto) - Se recomienda usar Autofirma
+Cliente @Firma es una aplicación de firma desarrollada por el Ministerio de Hacienda y Administraciones Públicas. Al tratarse de una versión obsoleta se recomienda el uso de Autofirma.
+Cliente @Firma (obsoleto)
+Política de Firma de la AGE
+Define un modelo de esquema de referencia para la identificación y autenticación electrónica, recogidos en la Ley 11/2007, de 22 de Junio, de Acceso Electrónico de los Ciudadanos a los Servicios Públicos en el ámbito de la AGE
+Política de Firma de la AGE
+Mapa web
+Accesibilidad
+Aviso Legal
+Política de cookies
+Política de privacidad
+Plan de Recuperación, Transformación y Resiliencia - Financiado por la Unión Europea - NextGenerationEU
+© Portal de Administración Electrónica · Agencia Estatal de Administración Digital
+Política de cookies
+Este sitio web utiliza cookies propias y de terceros para ofrecer un mejor servicio. Si continúa navegando consideramos que acepta su uso.
+Ver política de cookies
+Rechazar todas las cookies
+Aceptar todas las cookies
+
+------------------------------
+
+
+
+Link: javascript:;
+URL: javascript:;
+Tipo detectado: restricted
+
+
+
+Es necesario Cl@ve o certificado digital
+
+------------------------------
+
+
+
+Link: Registro de PMAS
+URL: https://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_floc_d4_v1.jsp&tipo=1&&contenido=1217&nivel=1400&layout=p_20_contenedor1.jsp&codResi=1
+Tipo detectado: html
+
+
+
+[HTML: https://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_floc_d4_v1.jsp&tipo=1&&contenido=1217&nivel=1400&layout=p_20_contenedor1.jsp&codResi=1]
+
+Patronato Municipal de Asuntos Sociales
+Ayuntamiento de Jaén
+Inicio
+Accesibilidad
+Mapa web
+Está en:
+Inicio
+Patronato Municipal de Asuntos Sociales
+Volver
+Imprimir
+Dirección y datos de contacto
+Dirección
+Calle 
+                  Cerón, 19
+Jaén (Jaén)
+Telf:
+953 21 91 41
+Horario
+Atención al Público:
+de 9:00 a 13:00
+Cómo llegar
+Ver
+Concejalía de Educación
+en un mapa más grande
+Fecha última modificación: 13 de marzo de 2018 a las 08:42
+Excmo. Ayuntamiento de Jaén
+Plaza de Santa María, 1. 23002
+Tfno:
+953 21 91 00
+Oficina Municipal de Información y Atención Ciudadana
+Pintor Francisco Quero de Miguel s/n (Lateral UPM) - Planta Baja (Derecha)
+Tfno:
+900 72 72 73
+Correo electrónico:
+oic@aytojaen.es
+Administrador Web: En caso de cualquier duda técnica sobre el portal,
+envíe sus consultas a la Oficina de Acceso Electrónico
+oae@aytojaen.es
+Portal optimizado para una resolución de 1024 x 768
+RSS
+Protección de datos
+Aviso legal
+
+------------------------------
+
+
+
+Link: Ordenanza Reguladora del Servicio Municipal de Comida a Domicilio
+URL: https://sede.aytojaen.es/portal/sede/se_contenedor1.jsp?seccion=s_fdoc_d4_v1.jsp&contenido=11267&tipo=5&nivel=1400&codResi=1&language=es
+Tipo detectado: html
+
+
+
+[HTML: https://sede.aytojaen.es/portal/sede/se_contenedor1.jsp?seccion=s_fdoc_d4_v1.jsp&contenido=11267&tipo=5&nivel=1400&codResi=1&language=es]
+
+Sede Electrónica - Ordenanza Municipal del Servicio de Comida a Domicilio
+Sede Electrónica
+Ayuntamiento de Jaén
+Ordenanza Municipal del Servicio de Comida a Domicilio
+volver
+imprimir
+escuchar
+compartir
+Fecha de publicación:
+30 de Noviembre de 2011
+DESCARGA DE DOCUMENTOS
+Aprobada inicialmente la Ordenanza Municipal del Servicio de Comida a Domicilio
+24 de Noviembre de 2022
+volver
+imprimir
+escuchar
+compartir
+Ayuntamiento de Jaén
+Plaza
+                   
+                   
+                    	Santa María
+                   
+                   
+                    	1.
+                   
+                   
+                    	23002
+                   
+                   
+	                Jaén
+                   
+                   
+                  	(Jaén)
+Teléfono: 953 21 91 00
+(Centralita)
+900 72 72 73
+(Oficina de Información y Atención al Ciudadano)
+Correo electrónico: oic@aytojaen.es
+
+------------------------------
+
+
+
+Link: Ordenanza Reguladora del Precio Público del Servicio Municipal de Comida a Domicilio
+URL: https://sede.aytojaen.es/portal/sede/se_contenedor1.jsp?seccion=s_fdoc_d4_v1.jsp&contenido=57213&tipo=5&nivel=1400&layout=se_contenedor1.jsp&codResi=1&language=es&codAdirecto=266
+Tipo detectado: html
+
+
+
+[HTML: https://sede.aytojaen.es/portal/sede/se_contenedor1.jsp?seccion=s_fdoc_d4_v1.jsp&contenido=57213&tipo=5&nivel=1400&layout=se_contenedor1.jsp&codResi=1&language=es&codAdirecto=266]
+
+Sede Electrónica - Ordenanza Reguladora Precio Público del Servicio Municipal de Comida a Domicilio
+Sede Electrónica
+Ayuntamiento de Jaén
+Ordenanza Reguladora Precio Público del Servicio Municipal de Comida a Domicilio
+volver
+imprimir
+escuchar
+compartir
+Fecha de publicación:
+21 de Noviembre de 2022
+DESCARGA DE DOCUMENTOS
+Ordenanza Reguladora Precio Público del Servicio Municipal de Comida a Domicilio
+22 de Junio de 2023
+volver
+imprimir
+escuchar
+compartir
+Ayuntamiento de Jaén
+Plaza
+                   
+                   
+                    	Santa María
+                   
+                   
+                    	1.
+                   
+                   
+                    	23002
+                   
+                   
+	                Jaén
+                   
+                   
+                  	(Jaén)
+Teléfono: 953 21 91 00
+(Centralita)
+900 72 72 73
+(Oficina de Información y Atención al Ciudadano)
+Correo electrónico: oic@aytojaen.es
+
+------------------------------
+
+
+
+Link: Solicitud
+URL: https://sede.aytojaen.es/sta/docs/GetDocumentServlet?CUD=12434156122456432611&HASH_CUD=41a3ed9082ae9676bc4b8dc74ed83d6f033cbd20&APP_CODE=STA
+Tipo detectado: pdf
+
+
+
+[PDF: https://sede.aytojaen.es/sta/docs/GetDocumentServlet?CUD=12434156122456432611&HASH_CUD=41a3ed9082ae9676bc4b8dc74ed83d6f033cbd20&APP_CODE=STA]
+
+Informe Médico
+A.) Datos del médico
+Apellidos y Nombre
+Nº de colegiado/a
+A.) Datos del solicitante
+Apellidos y Nombre
+D.N.I.
+1.- Diagnostico:
+2.- Afecciones más importantes
+Diabetes Cardiovasculares
+Digestivas y/o hepatobiliares Hipertensión / Hipotensión
+Renales y vías urinarias Reumatológicas
+Otras
+3.- Tipo de dieta recomendada
+Saludable y normal De régimen
+Diabética Fácil masticación
+Diabética de fácil masticación
+4.- Atenciones que precisa
+Movilidad
+1. Camina con normalidad
+2. Camina con dificultad o con ayuda de un bastón
+3. Camina con ayuda de muletas, andador, etc
+4. En silla de ruedasVestimenta
+5. Se viste sin ayuda correctamente
+6. Se viste solo pero incorrectamente
+7. Precisa alguna ayuda para vestirse
+8. Incapaz de vestirse sin ayuda
+Informe Médico
+Aseo
+9. Se asea sin ayuda 
+10. Se asea solo pero incorrectamente
+11. Precisa ayuda para asearse
+12. Incapaz de vestirse sin ayuda
+Alimentación
+13. Se alimenta correctamente y sin ayuda
+14. Se alimenta correctamente con ayuda mínima
+15. No se alimenta correctamente y precisa ayuda con frecuencia
+16. Presenta problemas de nutrición y es incapaz de alimentarse, precisando ayuda
+Limitación Visual
+17. Ninguna o leve
+18. Moderada
+19. Importante
+20. Total
+5.- Situación Psíquica
+Orientación en el tiempo y en el espacio
+21. Completamente orientado
+22. Desorientado ocasional
+23. Desorientado frecuente
+24. Completamente desorientado
+Trastornos de la memoria
+25. Ninguno
+26. Ligeros
+27. Moderados
+28. Importantes
+6. Observaciones de interés
+En Jaén, a de de
+Firma y sello
+
+------------------------------
+
+
+
+Link: Solicitud
+URL: https://sede.aytojaen.es/sta/docs/GetDocumentServlet?CUD=12434156212114222060&HASH_CUD=e95e14ab104f18e06aa9ad0595a0f38881806388&APP_CODE=STA
+Tipo detectado: pdf
+
+
+
+[PDF: https://sede.aytojaen.es/sta/docs/GetDocumentServlet?CUD=12434156212114222060&HASH_CUD=e95e14ab104f18e06aa9ad0595a0f38881806388&APP_CODE=STA]
+
+D. / Dª.Domiciliación Bancaria Servicio de Comida a Domicilio
+Con D.N.I.
+y domicilio en (calle, plaza, número, piso)
+Mediante el presente solicito abone mensualmente a Axial Mediterránea S.L. el importe del recibo correspondiente al 
+servicio de Comida a Domicilio contratado por el Ayuntamiento de Jaén con cargo a la cuenta/libreta del Banco  Caja
+Cuyos datos bancarios son:
+Sello de la Entidad Bancaria:
+En Jaén, a de de
+Firmado
+Nota: La empresa Axial Mediterránea, S.L.  garantiza la confidencialidad de los datos, de conformidad con lo regulado en 
+el Reglamento General de la Ley de Contratos con las Administraciones Públicas y en la Ley 15/99 de Protección de Datos de 
+Carácter Personal.C.C.C.ENT. OFIC. DC CUENTA
+IBAN
+
+------------------------------
+
+
+
+Link: Solicitud
+URL: https://sede.aytojaen.es/sta/docs/GetDocumentServlet?CUD=12434156717220714712&HASH_CUD=09a50dc531863cdacbba62f8e0fc36b8b900c908&APP_CODE=STA
+Tipo detectado: pdf
+
+
+
+[PDF: https://sede.aytojaen.es/sta/docs/GetDocumentServlet?CUD=12434156717220714712&HASH_CUD=09a50dc531863cdacbba62f8e0fc36b8b900c908&APP_CODE=STA]
+
+FORM PROC-20002 Solicitud disponible para tramitación telemática en https://sede.aytojaen.es
+EXCMO. AYUNTAMIENTO DE JAÉN PATRONATO MUNICIPAL DE ASUNTOS SOCIALES
+SOLICITUD INDIVIDUAL DEL SERVICIO DE COMIDA A DOMICLIO
+Apellidos y Nombre
+DNI
+Domicilio C.P.
+Teléfono Correo electrónico
+SOLICITA:Solicitante:
+Cónyuge:
+Representante:DNIApellidos y Nombre
+DNIApellidos y Nombre
+Teléfono Correo electrónicoMotivo de la representación
+Lugar y medio de notificación
+Domicilio a efectos de notificaciones:
+Correo electrónico:Elija una de las dos opciones:
+FORM PROC-20002 Solicitud disponible para tramitación telemática en https://sede.aytojaen.es
+EXCMO. AYUNTAMIENTO DE JAÉN PATRONATO MUNICIPAL DE ASUNTOS SOCIALES
+SRA. PRESIDENTA DEL PATRONATO MUNICIPAL DE ASUNTOS SOCIALES DEL EXCMO. AYUNTAMIENTO DE JAÉNSegún el Artículo 28 Ley 39/2015 PACAP, se entiende otorgado el consentimiento para la consulta de los siguientes 
+datos: Verificación Datos de Identidad, Prestaciones INSS, Grado Discapacidad y Padrón de Habitantes.
+Salvo oposición expresa:
+Salvo oposición expresa:No doy consentimiento (solicitante)
+No doy consentimiento (cónyuge)
+En cuyo caso aporto la siguiente documentación: Fotocopia NIF, Certificado de pensión y Certificado de 
+empadronamiento de todos los miembros de la unidad familiar.
+Documentación obligatoria a aportar: Informe médico del solicitante (según modelo oficial), domiciliación bancaria y 
+Certificado de Minusvalía.
+Requisitos para la admisión. 
+  -Personas mayores de sesenta años, discapacitados en grado igual o superior al 65%, personas en situación de dependencia 
+y/o en situación de exclusión social, en un momento coyuntural de crisis. - Estar empadronado en el Municipio de Jaén. - Precisar servicio, acreditado mediante el informe social y el informe médico.
+Los datos recogidos en el presente formulario serán incorporados a un fichero de datos de carácter personal, cuyo 
+responsable es el Excmo. Ayuntamiento de Jaén. 
+  Puede ejercer sus derechos de Acceso, Rectificación, Consulta y Cancelación en la Oficina de Acceso Electrónico y Nuevas 
+Tecnologías en la Calle Joaquín Tenorio, nº 12.En a de deMe comprometo a:   - Abonar a la empresa adjudicataria del servicio, el importe que me corresponda como aportación al Servicio. - Asumir los derechos y obligaciones establecidos en la Ordenanza Municipal del Servicio de Comida a Domicilio. 
+Autorización 
+  Autorizo expresamente al Ayuntamiento de Jaén para que, conforme a lo dispuesto en el artículo 7 de la Ley Orgánica 
+15/1999, de 13 de Diciembre, de Protección de Datos de Carácter Personal, pueda ceder los datos de carácter personal y 
+relativos a la salud a la empresa prestadora del servicio Axial Mediterránea, S.L., a los únicos efectos de verificar las 
+condicones necesarias para disfrutar del mencionado servicio.
+Fdo.EL SOLICITANTE EL CÓNYUGE
+Fdo.
+
+------------------------------
+
+
+
+Link: Tramitación Online
+URL: javascript:enterNewReg(window.catser.dboid,'es');
+Tipo detectado: restricted
+
+
+
+Es necesario Cl@ve o certificado digital
+
+------------------------------
+
+
+
+Link: Tramitación Presencial
+URL: https://sede.aytojaen.es/sta/Relec/CatalogDetail?dboidRequest=6269026860773476705011&action=make&dboidProcedure=6262626860525016405011&urlBack=https%3A%2F%2Fsede.aytojaen.es%2Fsta%2FRelec%2FCatalogBrowse
+Tipo detectado: html
+
+
+
+[HTML: https://sede.aytojaen.es/sta/Relec/CatalogDetail?dboidRequest=6269026860773476705011&action=make&dboidProcedure=6262626860525016405011&urlBack=https%3A%2F%2Fsede.aytojaen.es%2Fsta%2FRelec%2FCatalogBrowse]
+
+Datos del tramite
+Registro electrónico
+Hora:
+20002. Servicio Comida a Domicilio
+20002. Servicio Comida a Domicilio
+Finalidad
+Esta iniciativa se concibe como una prestación social básica, integrada dentro del Servicio de Atención a Domicilio, consistente en la dispensación de comida a domicilio a los beneficiarios del mismo. Los objetivos de este servicio son facilitar que la persona prestataria permanezca más tiempo en su entorno familiar, mejorar la calidad de vida de los mayores, contribuir a proporcionar una alimentación adecuada y a la prevención de posibles trastornos de salud derivados de la alimentación inadecuada.
+Presentación
+Presencial:
+Registro de PMAS
+Registro Electrónico
+: Enlaces al final de esta página
+Procedimiento
+: descargue los modelos de solicitud  (Documentación relacionada). Cumpliméntelos, guárdelos y apórtelos junto con el resto de documentación accediendo al enlace al final de esta página (Se requiere Acrobat Reader para cumplimentar el modelo).
+Órgano gestor
+Negociado de Prestaciones Sociales y Viviendas. PMAS
+C/ Cerón, 19
+953 21 92 07
+lmillan@aytojaen.es marodriguti@aytojaen.es
+Plazo de resolución
+El plazo de tramitación es de 6 Meses
+Efecto del silencio administrativo
+Desestimatorio
+Normativa básica
+Ordenanza Reguladora del Servicio Municipal de Comida a Domicilio
+Ordenanza Reguladora del Precio Público del Servicio Municipal de Comida a Domicilio
+Pago de tasas
+Son de aplicación los precios públicos según la ordenanza
+Información Adicional
+Observaciones: Transcurridos los 6 meses de plazo sin resolución, se entenderá denegado
+Documentación a aportar:
+Certificado de empadronamiento (se sustituye por su consulta en el Padrón Municipal de Habitantes)
+Informe médico del solicitante  (según modelo)
+Certificado de minusvalía , en su caso
+Domiciliación bancaria (según modelo)
+Documentación relacionada
+-
+Solicitud
+: Modelo de Servicio de comida a domicilio - Informe médico
+-
+Solicitud
+: Modelo de Servicio de comida a domicilio - Domiciliación Bancaria
+-
+Solicitud
+: Modelo de Servicio de comida a domicilio - Solicitud
+Nivel de identificación del solicitante
+Alto:
+Certificado digital reconocido y firma electrónica
+Alto:
+Acceso mediante sistema Cl@ve
+Documentación a aportar
+Documentación
+Modelo de Servicio de comida a domicilio - Solicitud
+Modelo de Servicio de comida a domicilio - Domiciliación Bancaria
+Modelo de Servicio de comida a domicilio - Informe médico
+Fotocopia DNI del solicitante, su cónyuge, y demás miembros
+Certificado de la pensión o de la última nómina o prestación por desempleo
+Fotocopia certificado de minusvalía
+Certificado de empadronamiento de todos los miembros de la unidad familiar
+<< Volver
+Seleccione como desea identificarse
+Tarjeta Ciudadana
+Atención : si accede sin identificación, podrá realizar el trámite, pero sus datos no se asociarán a su historial, al no ser posible garantizar su identidad. ¿Desea continuar?
+
+------------------------------
+

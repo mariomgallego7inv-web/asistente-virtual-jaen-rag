@@ -1,0 +1,352 @@
+Trámite ID: 6269026880717913305011
+
+Nombre: 00001. Instancia General
+
+URL: https://sede.aytojaen.es/sta/CarpetaPublic/doEvent?APP_CODE=STA&PAGE_CODE=CATALOGO&DETALLE=6269026880717913305011
+
+
+--- Contenido principal ---
+
+
+Es necesario instalar Autofirma para firmar solicitudes de registro electrónico, aceptar notificaciones y firmar documentos del portafirmas
+[descargar]
+00001. Instancia General
+Descripción
+00001. Instancia General
+Finalidad
+Instancia general para solicitudes dirigidas al Ayuntamiento de Jaén o a cualquiera de sus organismos autónomos. Presentadas de forma telemática o presencial en el registro municipal.
+IMPORTANTE
+: Use este trámite solo si el objeto de su solicitud no dispone de un procedimiento  específico online en el catálogo de trámites. Si usa los trámites específicos de cada procedimiento agilizará la tramitación al ser esta electrónica y podrá consultar su expediente a través de la sede.
+Presentación
+Registro General del Ayuntamiento
+Organo Gestor
+Ayuntamiento de Jaén
+Efecto del silencio Administrativo
+No procede
+Información Adicional
+Documentación a aportar:  En función de la solicitud.
+NOTA: Si su solicitud está en el catálogo pero no está disponble en canal telemático, adjunte el formulario de la modalidad presencial de esa solicitud debidamente cumplimentado usando el canal telemático de este trámite 00001.
+¿Qué hacer si no puede adjuntar sus documentos a la solicitud?
+Modelos de solicitud
+00001. Instancia General
+00001. Instancia General
+Nivel de identificación en trámitación online
+Substancial:
+Acceso mediante sistema Cl@ve
+Documentos a Presentar
+Documentación
+Modelo de solicitud (para otras solicitudes del catálogo que no están disponibles en el canal telemático, no es necesario para el modelo de instancia general)
+Otro/s documento/s
+Tramitación Online
+Tramitación Presencial
+
+
+--- Recursos vinculados (seguido su contenido) ---
+
+
+Link: [descargar]
+URL: https://firmaelectronica.gob.es/Home/Descargas.html
+Tipo detectado: html
+
+
+
+[HTML: https://firmaelectronica.gob.es/Home/Descargas.html]
+
+Firma Electrónica | Descargas -Ciudadanos
+Ir al contenido
+Cerrar sesión
+Castellano
+Castellano
+Català
+Gallego
+Euskara
+Valencià
+English
+Ciudadanos
+Inicio
+Portada de Ciudadanos
+Tutoriales
+Ciudadanos
+Portada de Tutoriales
+Firmar un documento - Certificado Electrónico
+Firmar al mismo nivel que otros (cofirmar)
+Firmar para certificar otras firmas (contrafirmar)
+Validar una firma
+Visualizar una firma
+Cosas que deberías saber
+Ciudadanos
+Portada de Cosas que deberías saber
+La firma electrónica
+El DNI electrónico
+Certificados electrónicos
+Formatos de firma
+Aplicaciones de firma
+Validación de las firmas
+Base legal
+Navegadores y ordenador
+Tipos de certificados
+Identidad digital en las AA.PP:
+Para no equivocarse
+Descargas
+Empresas
+Inicio
+Portada de Empresas
+Tutoriales
+Empresas
+Portada de Tutoriales
+Firmar un documento - Certificado Electrónico
+Firmar al mismo nivel que otros (cofirmar)
+Firmar para certificar otras firmas (contrafirmar)
+Validar una firma
+Visualizar una firma
+Cosas que deberías saber
+Empresas
+Portada de Cosas que deberías saber
+Navegadores y ordenador
+Certificados de empresa
+Factura electrónica
+Autoridades de Certificación
+La firma electrónica
+Los Certificados Electrónicos
+Formatos de firma
+Aplicaciones de firma
+Tipos de Certificados
+Base legal
+Validación de las firmas
+Para no equivocarte
+Identidad Digital
+Navegadores y ordenador
+Descargas
+Empleados Públicos
+Ciudadanos
+Tutoriales
+Cosas que deberías saber
+Descargas
+Portada de
+                                                        Ciudadanos
+Empresas
+Tutoriales
+Cosas que deberías saber
+Descargas
+Portada de
+                                                        Empresas
+Empleados Públicos
+Buscar
+Ciudadanos
+Descargas
+Descargas para ciudadanos
+Desde aquí puedes descargarte aquellas aplicaciones que necesites para firmar electrónicamente y otras utilidades o documentos.
+Autofirma
+Autofirma
+Manuales
+Plugin de Huella Digital v1.0
+@Firma (obsoleto)
+Política de Firma de la AGE
+Autofirma
+Manuales
+Plugin de Huella Digital v1.0
+@Firma (obsoleto)
+Política de Firma de la AGE
+Aplicación de firma electrónica desarrollada por el Ministerio de Asuntos Económicos y Transformación Digital. Al poder ser ejecutada desde el navegador, permite la firma en páginas de Administración Electrónica cuando se requiere la firma en un procedimiento administrativo.
+Autofirma Apps
+Para Windows
+Versión 1.9
+Versión 1.9 para Windows 64 bits
+Versión 1.9 para Windows 32 bits
+Versiones anteriores
+Versión 1.8.3 para Windows 64 bits
+Versión 1.8.3 para Windows 32 bits
+Para Linux
+Versión 1.9
+Versión 1.9 para Debian Linux
+Versión 1.9 para Fedora Linux
+Versión 1.9 para OpenSUSE Linux
+Versiones anteriores
+Versión 1.8.3 para Debian Linux
+Versión 1.8.3 para Fedora Linux
+Versión 1.8.3 para OpenSUSE Linux
+Para MacOS
+Versión 1.9
+Versión 1.9 para MacOS procesadores x64
+Versión 1.9 para MacOS procesadores x64 (incl Java 11)
+Versión 1.9 para MacOS procesadores M1 y siguientes
+Versiones anteriores
+Versión 1.8.4 para MacOS procesadores x64
+Versión 1.8.4 para MacOS procesadores M1
+Manuales
+Guía para el usuario final de AutoFirma a través del proceso de instalación, posibilidades de uso de AutoFirma a través de consola, uso de tarjetas inteligentes y listado de diversos problemas que pueden surgir en la instalación y ejecución de la aplicación.
+Manual de Instalación para Usuarios (1.9)
+Manual de Instalación para Usuarios (1.8.2 y siguientes)
+Plugin de Huella Digital v1.0
+Plugin para el cálculo y la comprobación de hashes versión v1.0. El componente permite generar ficheros de hashes con el hash de un fichero o de todos los ficheros de un directorio. También permite comprobar que un fichero de hashes es válido seleccionando el fichero o directorio a partir del cual se generó. IMPORTANTE: El plugin requiere de Autofirma v1.8 o superior (no es compatible con la versión 1.7.2 y anteriores). En versiones de Autofirma anteriores a la v1.8 la funcionalidad del plugin estaba integrada en la aplicación. Su paso a plugin se ha realizado para facilitar su gestión y evolución.
+Plugin de Huella Digital 1.0 (para Autofirma v1.8 o superior)
+Cliente @Firma (obsoleto) - Se recomienda usar Autofirma
+Cliente @Firma es una aplicación de firma desarrollada por el Ministerio de Hacienda y Administraciones Públicas. Al tratarse de una versión obsoleta se recomienda el uso de Autofirma.
+Cliente @Firma (obsoleto)
+Política de Firma de la AGE
+Define un modelo de esquema de referencia para la identificación y autenticación electrónica, recogidos en la Ley 11/2007, de 22 de Junio, de Acceso Electrónico de los Ciudadanos a los Servicios Públicos en el ámbito de la AGE
+Política de Firma de la AGE
+Mapa web
+Accesibilidad
+Aviso Legal
+Política de cookies
+Política de privacidad
+Plan de Recuperación, Transformación y Resiliencia - Financiado por la Unión Europea - NextGenerationEU
+© Portal de Administración Electrónica · Agencia Estatal de Administración Digital
+Política de cookies
+Este sitio web utiliza cookies propias y de terceros para ofrecer un mejor servicio. Si continúa navegando consideramos que acepta su uso.
+Ver política de cookies
+Rechazar todas las cookies
+Aceptar todas las cookies
+
+------------------------------
+
+
+
+Link: javascript:;
+URL: javascript:;
+Tipo detectado: restricted
+
+
+
+Es necesario Cl@ve o certificado digital
+
+------------------------------
+
+
+
+Link: Registro General del Ayuntamiento
+URL: https://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_floc_d4_v1.jsp&tipo=1&&contenido=1087&nivel=1400&layout=p_20_contenedor1.jsp&codResi=1
+Tipo detectado: html
+
+
+
+[HTML: https://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_floc_d4_v1.jsp&tipo=1&&contenido=1087&nivel=1400&layout=p_20_contenedor1.jsp&codResi=1]
+
+Registro General del Ayuntamiento
+Ayuntamiento de Jaén
+Inicio
+Accesibilidad
+Mapa web
+Está en:
+Inicio
+Registro General del Ayuntamiento
+Volver
+Imprimir
+Dirección y datos de contacto
+Dirección
+Plaza 
+                  Santa María, 1
+23002 Jaén (Jaén)
+Telf:
+953 21 92 29
+Horario
+Atención al público :
+de 9:00 h a 13:00 h
+Cómo llegar
+Ver mapa más grande
+Fecha última modificación: 5 de noviembre de 2014 a las 08:47
+Excmo. Ayuntamiento de Jaén
+Plaza de Santa María, 1. 23002
+Tfno:
+953 21 91 00
+Oficina Municipal de Información y Atención Ciudadana
+Pintor Francisco Quero de Miguel s/n (Lateral UPM) - Planta Baja (Derecha)
+Tfno:
+900 72 72 73
+Correo electrónico:
+oic@aytojaen.es
+Administrador Web: En caso de cualquier duda técnica sobre el portal,
+envíe sus consultas a la Oficina de Acceso Electrónico
+oae@aytojaen.es
+Portal optimizado para una resolución de 1024 x 768
+RSS
+Protección de datos
+Aviso legal
+
+------------------------------
+
+
+
+Link: ¿Qué hacer si no puede adjuntar sus documentos a la solicitud?
+URL: https://sede.aytojaen.es/sta/CarpetaPublic/doEvent?APP_CODE=STA&PAGE_CODE=APORTARDOC
+Tipo detectado: html
+
+
+
+[HTML: https://sede.aytojaen.es/sta/CarpetaPublic/doEvent?APP_CODE=STA&PAGE_CODE=APORTARDOC]
+
+Qué hacer si no puede adjuntar sus documentos a la solicitud
+Ir a Sede
+ES
+Castellano
+Identificate
+AVISO IMPORTANTE PARA ADJUNTAR DOCUMENTACIÓN A LA SOLICITUD
+PROCEDIMIENTO VÁLIDO PARA SOLICITUDES DIRIGIDAS
+A LA GERENCIA MUNICIPAL DE URBANISMO
+Solo se aceptan documentos en formato PDF. Convierta otros formatos como Word, JPG, etc  a PDF.
+En el caso de que sea necesario incorporar a las solicitudes
+archivos en otros formatos que no puedan convertirse a PDF, de gran tamaño o conjuntos de archivos
+que por su excesivo número no hagan viable su incorporación individual en el momento del registro telemático, proceda de la siguiente manera:
+Si algún fichero individualmente
+supera los 20 Mb
+registre la solicitud sin aportar esos documentos
+y
+en el plazo de un día hábil
+solicite a la cuenta de correo
+registroelectronico@aytojaen.es
+instrucciones para su envío,
+adjuntando el justificante de registro (OBLIGATORIO).
+Habilitaremos un enlace para que suba sus archivos y serán incorporados después a la solicitud.
+Haga lo mismo si necesita adjuntar ficheros visados
+.
+Recibirá un mail de la dirección
+noreply.almacen.gestion@correo.gob.es
+que incluye un enlace donde debe subir la documentación.
+Una vez recibida, podrá comprobar qeu está aportada consultando la anotación en
+https://sede.aytojaen.es/sta/CarpetaPrivate/Login?APP_CODE=STA&PAGE_CODE=ANOTACIONES
+
+------------------------------
+
+
+
+Link: 00001. Instancia General
+URL: https://sede.aytojaen.es/sta/docs/GetDocumentServlet?CUD=12434156532062173021&HASH_CUD=9a00f37066d4e7bce8d38d08044db0d81c1b6fc7&APP_CODE=STA
+Tipo detectado: pdf
+
+
+
+[PDF: https://sede.aytojaen.es/sta/docs/GetDocumentServlet?CUD=12434156532062173021&HASH_CUD=9a00f37066d4e7bce8d38d08044db0d81c1b6fc7&APP_CODE=STA]
+
+EXPONE
+SOLICITA
+Jaén, de de 20
+ILMO. SR. ALCALDE - PRESIDENTE DEL EXCMO. AYUNTAMIENTO DE JAÉN
+EXCMO. AYUNTAMIENTO DE JAÉNFORM PROC-00001 Solicitud disponible para tramitación telemática en https://sede.aytojaen.es
+LOPD: Responsable del Tratamiento: Ayuntamiento de Jaén. Finalidad: Tramitación de solicitudes. Legitimación: Competencias Municipales. Cesión de datos: no prevista. Ejercicio de los 
+derechos de acceso, rectificación, supresión y portabilidad, y limitación u oposición a su tratamiento, presentando solicitud al Ayuntamiento. Mas información en sede.aytojaen.esINSTANCIA GENERAL
+EN NOMBRE PROPIO EN REPRESENTACIÓN
+Firmado:Apellidos y Nombre o Razón Social (por favor, escriba en letras mayúsculas)
+Apellidos y Nombre o Razón Social (en su caso)DNI/NIF
+DNI/NIF (en su caso)
+Teléfono Correo electrónico
+Domicilio a efectos de notificación
+Localidad Provincia Código postal
+La presentación de la solicitud implica autorización expresa al Ayuntamiento de Jáen para consultar telemáticamente todos aquellos documentos necesarios 
+para su tramitación. En caso contrario deberá marcar la casilla siguiente y el interesado aportará la documentación necesaria.
+No autorizo al Ayuntamiento de Jaén para solicitar telemáticamente los documentos necesarios para tramitar la presente solicitud.
+
+------------------------------
+
+
+
+Link: Tramitación Online
+URL: javascript:enterNewReg(window.catser.dboid,'es');
+Tipo detectado: restricted
+
+
+
+Es necesario Cl@ve o certificado digital
+
+------------------------------
+

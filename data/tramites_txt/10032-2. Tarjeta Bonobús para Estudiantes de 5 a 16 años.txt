@@ -1,0 +1,340 @@
+Trámite ID: 6269026831218748405011
+
+Nombre: 10032-2. Tarjeta Bonobús para Estudiantes de 5 a 16 años
+
+URL: https://sede.aytojaen.es/sta/CarpetaPublic/doEvent?APP_CODE=STA&PAGE_CODE=CATALOGO&DETALLE=6269026831218748405011
+
+
+--- Contenido principal ---
+
+
+Es necesario instalar Autofirma para firmar solicitudes de registro electrónico, aceptar notificaciones y firmar documentos del portafirmas
+[descargar]
+10032-2. Tarjeta Bonobús para Estudiantes de 5 a 16 años
+Descripción
+10032-2. Tarjeta Bonobús para Estudiantes de 5 a 16 años
+Finalidad
+Este trámite permite RENOVAR una tarjeta bonobús para utilizar el transporte público colectivo en la ciudad de Jaén (disponible online con certificado digital o e-DNI)
+Para SOLICITAR UNA TARJETA DE NUEVA EXPEDICIÓN es necesario hacerlo PRESENCIALMENTE y es OBLIGATORIO SOLICITAR CITA PREVIA en el teléfono 673 66 73 38
+Quien lo puede Presentar
+Estudiantes no universitarios con edad comprendida de 5 a 16 años o sus representantes legales
+Presentación
+Presencial
+:
+Negociado de Transportes
+Registro electrónico
+: Enlaces al final de esta página
+Organo Gestor
+Negociado de Transportes
+Efecto del silencio Administrativo
+No procede
+Normativa básica
+Tarifas transporte público colectivo 2018
+Información Adicional
+Requisitos:  Se consideran estudiantes de enseñanza obligatoria todas las personas en edad comprendida de 5 a 16 años, que cursen estudios en centros oficiales de las enseñanzas regladas
+* Primaria
+* Secundaria
+Documentación a aportar para tarjeta nueva:
+el DNI del interesado en caso de tenerlo
+libro de familia donde aparezca inscrito
+DNI del padre o la madre.
+En caso de no estar empadronado en el municipio de Jaén, se deberá aportar  matrícula o certificado de matriculación del centro escolar
+La vigencia de la autorización de la tarjeta será hasta cumplir los 16 años, a partir de entonces deberá solicitar su renovación siempre que el estudiante presente matrícula de estudios oficiales
+Nivel de identificación en trámitación online
+Substancial:
+Acceso mediante sistema Cl@ve
+Documentos a Presentar
+Documentación
+Certificado / Resguardo Matrícula de Estudios
+Tramitación Online
+
+
+--- Recursos vinculados (seguido su contenido) ---
+
+
+Link: [descargar]
+URL: https://firmaelectronica.gob.es/Home/Descargas.html
+Tipo detectado: html
+
+
+
+[HTML: https://firmaelectronica.gob.es/Home/Descargas.html]
+
+Firma Electrónica | Descargas -Ciudadanos
+Ir al contenido
+Cerrar sesión
+Castellano
+Castellano
+Català
+Gallego
+Euskara
+Valencià
+English
+Ciudadanos
+Inicio
+Portada de Ciudadanos
+Tutoriales
+Ciudadanos
+Portada de Tutoriales
+Firmar un documento - Certificado Electrónico
+Firmar al mismo nivel que otros (cofirmar)
+Firmar para certificar otras firmas (contrafirmar)
+Validar una firma
+Visualizar una firma
+Cosas que deberías saber
+Ciudadanos
+Portada de Cosas que deberías saber
+La firma electrónica
+El DNI electrónico
+Certificados electrónicos
+Formatos de firma
+Aplicaciones de firma
+Validación de las firmas
+Base legal
+Navegadores y ordenador
+Tipos de certificados
+Identidad digital en las AA.PP:
+Para no equivocarse
+Descargas
+Empresas
+Inicio
+Portada de Empresas
+Tutoriales
+Empresas
+Portada de Tutoriales
+Firmar un documento - Certificado Electrónico
+Firmar al mismo nivel que otros (cofirmar)
+Firmar para certificar otras firmas (contrafirmar)
+Validar una firma
+Visualizar una firma
+Cosas que deberías saber
+Empresas
+Portada de Cosas que deberías saber
+Navegadores y ordenador
+Certificados de empresa
+Factura electrónica
+Autoridades de Certificación
+La firma electrónica
+Los Certificados Electrónicos
+Formatos de firma
+Aplicaciones de firma
+Tipos de Certificados
+Base legal
+Validación de las firmas
+Para no equivocarte
+Identidad Digital
+Navegadores y ordenador
+Descargas
+Empleados Públicos
+Ciudadanos
+Tutoriales
+Cosas que deberías saber
+Descargas
+Portada de
+                                                        Ciudadanos
+Empresas
+Tutoriales
+Cosas que deberías saber
+Descargas
+Portada de
+                                                        Empresas
+Empleados Públicos
+Buscar
+Ciudadanos
+Descargas
+Descargas para ciudadanos
+Desde aquí puedes descargarte aquellas aplicaciones que necesites para firmar electrónicamente y otras utilidades o documentos.
+Autofirma
+Autofirma
+Manuales
+Plugin de Huella Digital v1.0
+@Firma (obsoleto)
+Política de Firma de la AGE
+Autofirma
+Manuales
+Plugin de Huella Digital v1.0
+@Firma (obsoleto)
+Política de Firma de la AGE
+Aplicación de firma electrónica desarrollada por el Ministerio de Asuntos Económicos y Transformación Digital. Al poder ser ejecutada desde el navegador, permite la firma en páginas de Administración Electrónica cuando se requiere la firma en un procedimiento administrativo.
+Autofirma Apps
+Para Windows
+Versión 1.9
+Versión 1.9 para Windows 64 bits
+Versión 1.9 para Windows 32 bits
+Versiones anteriores
+Versión 1.8.3 para Windows 64 bits
+Versión 1.8.3 para Windows 32 bits
+Para Linux
+Versión 1.9
+Versión 1.9 para Debian Linux
+Versión 1.9 para Fedora Linux
+Versión 1.9 para OpenSUSE Linux
+Versiones anteriores
+Versión 1.8.3 para Debian Linux
+Versión 1.8.3 para Fedora Linux
+Versión 1.8.3 para OpenSUSE Linux
+Para MacOS
+Versión 1.9
+Versión 1.9 para MacOS procesadores x64
+Versión 1.9 para MacOS procesadores x64 (incl Java 11)
+Versión 1.9 para MacOS procesadores M1 y siguientes
+Versiones anteriores
+Versión 1.8.4 para MacOS procesadores x64
+Versión 1.8.4 para MacOS procesadores M1
+Manuales
+Guía para el usuario final de AutoFirma a través del proceso de instalación, posibilidades de uso de AutoFirma a través de consola, uso de tarjetas inteligentes y listado de diversos problemas que pueden surgir en la instalación y ejecución de la aplicación.
+Manual de Instalación para Usuarios (1.9)
+Manual de Instalación para Usuarios (1.8.2 y siguientes)
+Plugin de Huella Digital v1.0
+Plugin para el cálculo y la comprobación de hashes versión v1.0. El componente permite generar ficheros de hashes con el hash de un fichero o de todos los ficheros de un directorio. También permite comprobar que un fichero de hashes es válido seleccionando el fichero o directorio a partir del cual se generó. IMPORTANTE: El plugin requiere de Autofirma v1.8 o superior (no es compatible con la versión 1.7.2 y anteriores). En versiones de Autofirma anteriores a la v1.8 la funcionalidad del plugin estaba integrada en la aplicación. Su paso a plugin se ha realizado para facilitar su gestión y evolución.
+Plugin de Huella Digital 1.0 (para Autofirma v1.8 o superior)
+Cliente @Firma (obsoleto) - Se recomienda usar Autofirma
+Cliente @Firma es una aplicación de firma desarrollada por el Ministerio de Hacienda y Administraciones Públicas. Al tratarse de una versión obsoleta se recomienda el uso de Autofirma.
+Cliente @Firma (obsoleto)
+Política de Firma de la AGE
+Define un modelo de esquema de referencia para la identificación y autenticación electrónica, recogidos en la Ley 11/2007, de 22 de Junio, de Acceso Electrónico de los Ciudadanos a los Servicios Públicos en el ámbito de la AGE
+Política de Firma de la AGE
+Mapa web
+Accesibilidad
+Aviso Legal
+Política de cookies
+Política de privacidad
+Plan de Recuperación, Transformación y Resiliencia - Financiado por la Unión Europea - NextGenerationEU
+© Portal de Administración Electrónica · Agencia Estatal de Administración Digital
+Política de cookies
+Este sitio web utiliza cookies propias y de terceros para ofrecer un mejor servicio. Si continúa navegando consideramos que acepta su uso.
+Ver política de cookies
+Rechazar todas las cookies
+Aceptar todas las cookies
+
+------------------------------
+
+
+
+Link: javascript:;
+URL: javascript:;
+Tipo detectado: restricted
+
+
+
+Es necesario Cl@ve o certificado digital
+
+------------------------------
+
+
+
+Link: Negociado de Transportes
+URL: https://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_floc_d4_v1.jsp&tipo=1&&contenido=1209&nivel=1400&layout=p_20_contenedor1.jsp&codResi=1
+Tipo detectado: html
+
+
+
+[HTML: https://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_floc_d4_v1.jsp&tipo=1&&contenido=1209&nivel=1400&layout=p_20_contenedor1.jsp&codResi=1]
+
+Negociado de Transportes
+Ayuntamiento de Jaén
+Inicio
+Accesibilidad
+Mapa web
+Está en:
+Inicio
+Negociado de Transportes
+Volver
+Imprimir
+Dirección y datos de contacto
+Dirección
+Obispo González, 9
+Jaén (Jaén)
+Telf:
+953 27 65 66
+673 66 73 38
+Horario
+Petición de cita de 9:00 a 13:00 h
+Cómo llegar
+Fecha última modificación: 3 de octubre de 2025 a las 13:24
+Excmo. Ayuntamiento de Jaén
+Plaza de Santa María, 1. 23002
+Tfno:
+953 21 91 00
+Oficina Municipal de Información y Atención Ciudadana
+Pintor Francisco Quero de Miguel s/n (Lateral UPM) - Planta Baja (Derecha)
+Tfno:
+900 72 72 73
+Correo electrónico:
+oic@aytojaen.es
+Administrador Web: En caso de cualquier duda técnica sobre el portal,
+envíe sus consultas a la Oficina de Acceso Electrónico
+oae@aytojaen.es
+Portal optimizado para una resolución de 1024 x 768
+RSS
+Protección de datos
+Aviso legal
+
+------------------------------
+
+
+
+Link: Tarifas transporte público colectivo 2018
+URL: https://sede.aytojaen.es/portal/sede/se_contenedor1.jsp?seccion=s_fdoc_d4_v1.jsp&contenido=46211&tipo=5&nivel=1400&layout=se_contenedor1.jsp&codResi=1&language=es&codMenu=906&codMenuPN=885
+Tipo detectado: html
+
+
+
+[HTML: https://sede.aytojaen.es/portal/sede/se_contenedor1.jsp?seccion=s_fdoc_d4_v1.jsp&contenido=46211&tipo=5&nivel=1400&layout=se_contenedor1.jsp&codResi=1&language=es&codMenu=906&codMenuPN=885]
+
+Sede Electrónica - Aprobación tarifas transporte público colectivo para 2018
+Sede Electrónica
+Ayuntamiento de Jaén
+Aprobación tarifas transporte público colectivo para 2018
+volver
+imprimir
+escuchar
+compartir
+Fecha de creación:
+4 de Junio de 2019
+Fecha de publicación:
+4 de Junio de 2019
+DESCARGA DE DOCUMENTOS
+Aprobación tarifas transporte público colectivo para 2018
+8 de Julio de 2020
+volver
+imprimir
+escuchar
+compartir
+Ayuntamiento de Jaén
+Plaza
+                   
+                   
+                    	Santa María
+                   
+                   
+                    	1.
+                   
+                   
+                    	23002
+                   
+                   
+	                Jaén
+                   
+                   
+                  	(Jaén)
+Teléfono: 953 21 91 00
+(Centralita)
+900 72 72 73
+(Oficina de Información y Atención al Ciudadano)
+Correo electrónico: oic@aytojaen.es
+
+------------------------------
+
+
+
+Link: Tramitación Online
+URL: javascript:enterNewReg(window.catser.dboid,'es');
+Tipo detectado: restricted
+
+
+
+Es necesario Cl@ve o certificado digital
+
+------------------------------
+

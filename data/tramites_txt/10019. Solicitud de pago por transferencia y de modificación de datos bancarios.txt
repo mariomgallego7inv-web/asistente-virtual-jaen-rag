@@ -1,0 +1,307 @@
+Trámite ID: 6269026919150657505011
+
+Nombre: 10019. Solicitud de pago por transferencia y de modificación de datos bancarios
+
+URL: https://sede.aytojaen.es/sta/CarpetaPublic/doEvent?APP_CODE=STA&PAGE_CODE=CATALOGO&DETALLE=6269026919150657505011
+
+
+--- Contenido principal ---
+
+
+Es necesario instalar Autofirma para firmar solicitudes de registro electrónico, aceptar notificaciones y firmar documentos del portafirmas
+[descargar]
+10019. Solicitud de pago por transferencia y de modificación de datos bancarios
+Descripción
+Mediante este formulario los acreedores declararán o modificarán el número de cuenta bancaria en la que el Ayuntamiento abonará los pagos mediante transferencia bancaria
+Finalidad
+Mediante este formulario los acreedores declararán o modificarán el número de cuenta bancaria en la que el Ayuntamiento abonará los pagos mediante transferencia bancaria.
+Plazos de Presentación
+Todo el año
+Presentación
+Registro General del Ayuntamiento
+Organo Gestor
+Tesoreria
+Efecto del silencio Administrativo
+No procede
+Normativa básica
+Bases de ejecución del presupuesto
+Modelos de solicitud
+10019- Solicitud de pago por transferencia y de modificación de datos bancarios
+10019- Solicitud de pago por transferencia y de modificación de datos bancarios
+Tramitación Presencial
+
+
+--- Recursos vinculados (seguido su contenido) ---
+
+
+Link: [descargar]
+URL: https://firmaelectronica.gob.es/Home/Descargas.html
+Tipo detectado: html
+
+
+
+[HTML: https://firmaelectronica.gob.es/Home/Descargas.html]
+
+Firma Electrónica | Descargas -Ciudadanos
+Ir al contenido
+Cerrar sesión
+Castellano
+Castellano
+Català
+Gallego
+Euskara
+Valencià
+English
+Ciudadanos
+Inicio
+Portada de Ciudadanos
+Tutoriales
+Ciudadanos
+Portada de Tutoriales
+Firmar un documento - Certificado Electrónico
+Firmar al mismo nivel que otros (cofirmar)
+Firmar para certificar otras firmas (contrafirmar)
+Validar una firma
+Visualizar una firma
+Cosas que deberías saber
+Ciudadanos
+Portada de Cosas que deberías saber
+La firma electrónica
+El DNI electrónico
+Certificados electrónicos
+Formatos de firma
+Aplicaciones de firma
+Validación de las firmas
+Base legal
+Navegadores y ordenador
+Tipos de certificados
+Identidad digital en las AA.PP:
+Para no equivocarse
+Descargas
+Empresas
+Inicio
+Portada de Empresas
+Tutoriales
+Empresas
+Portada de Tutoriales
+Firmar un documento - Certificado Electrónico
+Firmar al mismo nivel que otros (cofirmar)
+Firmar para certificar otras firmas (contrafirmar)
+Validar una firma
+Visualizar una firma
+Cosas que deberías saber
+Empresas
+Portada de Cosas que deberías saber
+Navegadores y ordenador
+Certificados de empresa
+Factura electrónica
+Autoridades de Certificación
+La firma electrónica
+Los Certificados Electrónicos
+Formatos de firma
+Aplicaciones de firma
+Tipos de Certificados
+Base legal
+Validación de las firmas
+Para no equivocarte
+Identidad Digital
+Navegadores y ordenador
+Descargas
+Empleados Públicos
+Ciudadanos
+Tutoriales
+Cosas que deberías saber
+Descargas
+Portada de
+                                                        Ciudadanos
+Empresas
+Tutoriales
+Cosas que deberías saber
+Descargas
+Portada de
+                                                        Empresas
+Empleados Públicos
+Buscar
+Ciudadanos
+Descargas
+Descargas para ciudadanos
+Desde aquí puedes descargarte aquellas aplicaciones que necesites para firmar electrónicamente y otras utilidades o documentos.
+Autofirma
+Autofirma
+Manuales
+Plugin de Huella Digital v1.0
+@Firma (obsoleto)
+Política de Firma de la AGE
+Autofirma
+Manuales
+Plugin de Huella Digital v1.0
+@Firma (obsoleto)
+Política de Firma de la AGE
+Aplicación de firma electrónica desarrollada por el Ministerio de Asuntos Económicos y Transformación Digital. Al poder ser ejecutada desde el navegador, permite la firma en páginas de Administración Electrónica cuando se requiere la firma en un procedimiento administrativo.
+Autofirma Apps
+Para Windows
+Versión 1.9
+Versión 1.9 para Windows 64 bits
+Versión 1.9 para Windows 32 bits
+Versiones anteriores
+Versión 1.8.3 para Windows 64 bits
+Versión 1.8.3 para Windows 32 bits
+Para Linux
+Versión 1.9
+Versión 1.9 para Debian Linux
+Versión 1.9 para Fedora Linux
+Versión 1.9 para OpenSUSE Linux
+Versiones anteriores
+Versión 1.8.3 para Debian Linux
+Versión 1.8.3 para Fedora Linux
+Versión 1.8.3 para OpenSUSE Linux
+Para MacOS
+Versión 1.9
+Versión 1.9 para MacOS procesadores x64
+Versión 1.9 para MacOS procesadores x64 (incl Java 11)
+Versión 1.9 para MacOS procesadores M1 y siguientes
+Versiones anteriores
+Versión 1.8.4 para MacOS procesadores x64
+Versión 1.8.4 para MacOS procesadores M1
+Manuales
+Guía para el usuario final de AutoFirma a través del proceso de instalación, posibilidades de uso de AutoFirma a través de consola, uso de tarjetas inteligentes y listado de diversos problemas que pueden surgir en la instalación y ejecución de la aplicación.
+Manual de Instalación para Usuarios (1.9)
+Manual de Instalación para Usuarios (1.8.2 y siguientes)
+Plugin de Huella Digital v1.0
+Plugin para el cálculo y la comprobación de hashes versión v1.0. El componente permite generar ficheros de hashes con el hash de un fichero o de todos los ficheros de un directorio. También permite comprobar que un fichero de hashes es válido seleccionando el fichero o directorio a partir del cual se generó. IMPORTANTE: El plugin requiere de Autofirma v1.8 o superior (no es compatible con la versión 1.7.2 y anteriores). En versiones de Autofirma anteriores a la v1.8 la funcionalidad del plugin estaba integrada en la aplicación. Su paso a plugin se ha realizado para facilitar su gestión y evolución.
+Plugin de Huella Digital 1.0 (para Autofirma v1.8 o superior)
+Cliente @Firma (obsoleto) - Se recomienda usar Autofirma
+Cliente @Firma es una aplicación de firma desarrollada por el Ministerio de Hacienda y Administraciones Públicas. Al tratarse de una versión obsoleta se recomienda el uso de Autofirma.
+Cliente @Firma (obsoleto)
+Política de Firma de la AGE
+Define un modelo de esquema de referencia para la identificación y autenticación electrónica, recogidos en la Ley 11/2007, de 22 de Junio, de Acceso Electrónico de los Ciudadanos a los Servicios Públicos en el ámbito de la AGE
+Política de Firma de la AGE
+Mapa web
+Accesibilidad
+Aviso Legal
+Política de cookies
+Política de privacidad
+Plan de Recuperación, Transformación y Resiliencia - Financiado por la Unión Europea - NextGenerationEU
+© Portal de Administración Electrónica · Agencia Estatal de Administración Digital
+Política de cookies
+Este sitio web utiliza cookies propias y de terceros para ofrecer un mejor servicio. Si continúa navegando consideramos que acepta su uso.
+Ver política de cookies
+Rechazar todas las cookies
+Aceptar todas las cookies
+
+------------------------------
+
+
+
+Link: javascript:;
+URL: javascript:;
+Tipo detectado: restricted
+
+
+
+Es necesario Cl@ve o certificado digital
+
+------------------------------
+
+
+
+Link: Registro General del Ayuntamiento
+URL: https://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_floc_d4_v1.jsp&tipo=1&&contenido=1087&nivel=1400&layout=p_20_contenedor1.jsp&codResi=1
+Tipo detectado: html
+
+
+
+[HTML: https://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_floc_d4_v1.jsp&tipo=1&&contenido=1087&nivel=1400&layout=p_20_contenedor1.jsp&codResi=1]
+
+Registro General del Ayuntamiento
+Ayuntamiento de Jaén
+Inicio
+Accesibilidad
+Mapa web
+Está en:
+Inicio
+Registro General del Ayuntamiento
+Volver
+Imprimir
+Dirección y datos de contacto
+Dirección
+Plaza 
+                  Santa María, 1
+23002 Jaén (Jaén)
+Telf:
+953 21 92 29
+Horario
+Atención al público :
+de 9:00 h a 13:00 h
+Cómo llegar
+Ver mapa más grande
+Fecha última modificación: 5 de noviembre de 2014 a las 08:47
+Excmo. Ayuntamiento de Jaén
+Plaza de Santa María, 1. 23002
+Tfno:
+953 21 91 00
+Oficina Municipal de Información y Atención Ciudadana
+Pintor Francisco Quero de Miguel s/n (Lateral UPM) - Planta Baja (Derecha)
+Tfno:
+900 72 72 73
+Correo electrónico:
+oic@aytojaen.es
+Administrador Web: En caso de cualquier duda técnica sobre el portal,
+envíe sus consultas a la Oficina de Acceso Electrónico
+oae@aytojaen.es
+Portal optimizado para una resolución de 1024 x 768
+RSS
+Protección de datos
+Aviso legal
+
+------------------------------
+
+
+
+Link: Bases de ejecución del presupuesto
+URL: https://transparencia.aytojaen.es/node/762
+Tipo detectado: error
+
+
+
+[Error al obtener https://transparencia.aytojaen.es/node/762: HTTPSConnectionPool(host='transparencia.aytojaen.es', port=443): Max retries exceeded with url: /node/762 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)')))]
+
+------------------------------
+
+
+
+Link: 10019- Solicitud de pago por transferencia y de modificación de datos bancarios
+URL: https://sede.aytojaen.es/sta/docs/GetDocumentServlet?CUD=14160674437063624063&HASH_CUD=f61d8e9c71ac969188c5f7a409252562817c0383&APP_CODE=STA
+Tipo detectado: pdf
+
+
+
+[PDF: https://sede.aytojaen.es/sta/docs/GetDocumentServlet?CUD=14160674437063624063&HASH_CUD=f61d8e9c71ac969188c5f7a409252562817c0383&APP_CODE=STA]
+
+Nombre/Denominación socialNIF
+Provincia
+E-mailCPDomicilio Fiscal
+En Jaén, a de de
+Fdo.MunicipioEXCMO. AYUNTAMIENTO DE JAÉN 
+TESORERÍA
+I. DATOS DEL ACREEDOR
+Móvil Teléfono
+II. DATOS DEL REPRESENTANTE
+III. ALTA DE DATOS BANCARIOS
+IV. BAJA DE DATOS BANCARIOSNIF
+Nombre
+A CUMPLIMENTAR POR LA ENTIDAD BANCARIA 
+Certifico la existencia de la cuenta referenciada en "III. Alta de Datos Bancarios" abierta a nombre del 
+titular que se refleja en "Datos del Acreedor". 
+EL APODERADO 
+(Sello)IBAN
+IBANFORM PROC-10019 Solicitud disponible para tramitación telemática en https://sede.aytojaen.es
+Le informamos que el Ayuntamiento de Jaén tratará sus datos personales con el único fin de realizar las gestiones necesarias ante la entidad bancaria proveedora de los datos 
+bancarios facilitados en este documento, con el fin de verificar la exactitud y validez de dichos datos. Con ello, el Ayuntamiento de Jaén podrá solicitar confirmación de la titularidad de la cuenta, así como cualquier otro dato relacionado que sea necesario para la correcta ejecución de los pagos y transacciones previstas. Asimismo, el Ayuntamiento de Jaén podrá consultar y procesar sus datos personales a través de otras administraciones públicas, en la medida en que dicha consulta sea necesaria para la verificación de la información suministrada, el cumplimiento de las obligaciones legales, la prevención de fraudes o cualquier otro propósito legítimo conforme a la normativa aplicable en materia de protección de datos y administración pública. El solicitante, así, es conocedor de que dichas consultas y validaciones son indispensables para la adecuada gestión y tramitación de su solicitud, así como para el mantenimiento de la seguridad, transparencia y eficiencia de los procedimientos administrativos. El solicitante declara ser el titular legítimo de los datos personales y bancarios proporcionados y asume la responsabilidad de comunicar al Ayuntamiento de Jaén cualquier cambio o actualización relevante de los mismos; ello sin perjuicio de los derechos de acceso, rectificación, supresión y portabilidad, y limitación u oposición a su tratamiento., presentando solicitud al Ayuntamiento de Jaén. Más información en https://sede.aytojaen.es."SOLICITUD DE PAGO POR TRANSFERENCIA  
+Y  
+DE MODIFICACIÓN DE DATOS BANCARIOS
+ILTMO. SR. ALCALDE-PRESIDENTE DEL EXCMO. AYUNTAMIENTO DE JAÉN
+
+
+------------------------------
+

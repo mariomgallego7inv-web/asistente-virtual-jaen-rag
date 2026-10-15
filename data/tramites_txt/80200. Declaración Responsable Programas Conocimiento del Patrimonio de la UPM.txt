@@ -1,0 +1,368 @@
+Trámite ID: 6269026942238839805011
+
+Nombre: 80200. Declaración Responsable Programas Conocimiento del Patrimonio de la UPM
+
+URL: https://sede.aytojaen.es/sta/CarpetaPublic/doEvent?APP_CODE=STA&PAGE_CODE=CATALOGO&DETALLE=6269026942238839805011
+
+
+--- Contenido principal ---
+
+
+Es necesario instalar Autofirma para firmar solicitudes de registro electrónico, aceptar notificaciones y firmar documentos del portafirmas
+[descargar]
+80200. Declaración Responsable Programas Conocimiento del Patrimonio de la UPM
+Descripción
+Declaración responsable para inscripciones en los programas de conocimiento del patrimonio de la UPM
+Finalidad
+Declaración Responsable Programas Conocimiento del Patrimonio de la UPM.
+Aquellas personas que quieran matricularse en alguno de los talleres de los Programas de Conocimiento del Patrimonio deberán leer y firmar, de forma obligatoria, la
+DECLARACIÓN RESPONSABLE
+de participación.
+La misma, debidamente firmada y cumplimentada, deberá entregarse antes del comienzo de los talleres en las oficinas de la sede central de la UPMJ (Av. Andalucía, 47), o bien enviarla a la dirección de correo electrónico
+raul.montilla@upmj.es
+.
+En caso de enviarla por correo pueden firmar la solicitud digitalmente. Si la firma es manuscrita deberán imprimirla y luego escanearla.
+Quien lo puede Presentar
+Personas que se matriculen en actividades del Programas de Conocimiento del Patrimonio de la Univeridad Popular Municipal
+Plazos de Presentación
+El formualrio debe entregarse en las oificinas de la UPM con anterioridad a la celebración de la actividad
+Presentación
+Presencialmente en
+Universidad Popular Municipal
+Por correo electrónico a la dirección
+raul.montilla@upmj.es
+Organo Gestor
+Universidad Popular Municipal
+Efecto del silencio Administrativo
+No procede
+Modelos de solicitud
+80200. Declaración Responsable Programas Conocimiento del Patrimonio de la UPM
+80200. Declaración Responsable Programas Conocimiento del Patrimonio de la UPM
+Tramitación Presencial
+
+
+--- Recursos vinculados (seguido su contenido) ---
+
+
+Link: [descargar]
+URL: https://firmaelectronica.gob.es/Home/Descargas.html
+Tipo detectado: html
+
+
+
+[HTML: https://firmaelectronica.gob.es/Home/Descargas.html]
+
+Firma Electrónica | Descargas -Ciudadanos
+Ir al contenido
+Cerrar sesión
+Castellano
+Castellano
+Català
+Gallego
+Euskara
+Valencià
+English
+Ciudadanos
+Inicio
+Portada de Ciudadanos
+Tutoriales
+Ciudadanos
+Portada de Tutoriales
+Firmar un documento - Certificado Electrónico
+Firmar al mismo nivel que otros (cofirmar)
+Firmar para certificar otras firmas (contrafirmar)
+Validar una firma
+Visualizar una firma
+Cosas que deberías saber
+Ciudadanos
+Portada de Cosas que deberías saber
+La firma electrónica
+El DNI electrónico
+Certificados electrónicos
+Formatos de firma
+Aplicaciones de firma
+Validación de las firmas
+Base legal
+Navegadores y ordenador
+Tipos de certificados
+Identidad digital en las AA.PP:
+Para no equivocarse
+Descargas
+Empresas
+Inicio
+Portada de Empresas
+Tutoriales
+Empresas
+Portada de Tutoriales
+Firmar un documento - Certificado Electrónico
+Firmar al mismo nivel que otros (cofirmar)
+Firmar para certificar otras firmas (contrafirmar)
+Validar una firma
+Visualizar una firma
+Cosas que deberías saber
+Empresas
+Portada de Cosas que deberías saber
+Navegadores y ordenador
+Certificados de empresa
+Factura electrónica
+Autoridades de Certificación
+La firma electrónica
+Los Certificados Electrónicos
+Formatos de firma
+Aplicaciones de firma
+Tipos de Certificados
+Base legal
+Validación de las firmas
+Para no equivocarte
+Identidad Digital
+Navegadores y ordenador
+Descargas
+Empleados Públicos
+Ciudadanos
+Tutoriales
+Cosas que deberías saber
+Descargas
+Portada de
+                                                        Ciudadanos
+Empresas
+Tutoriales
+Cosas que deberías saber
+Descargas
+Portada de
+                                                        Empresas
+Empleados Públicos
+Buscar
+Ciudadanos
+Descargas
+Descargas para ciudadanos
+Desde aquí puedes descargarte aquellas aplicaciones que necesites para firmar electrónicamente y otras utilidades o documentos.
+Autofirma
+Autofirma
+Manuales
+Plugin de Huella Digital v1.0
+@Firma (obsoleto)
+Política de Firma de la AGE
+Autofirma
+Manuales
+Plugin de Huella Digital v1.0
+@Firma (obsoleto)
+Política de Firma de la AGE
+Aplicación de firma electrónica desarrollada por el Ministerio de Asuntos Económicos y Transformación Digital. Al poder ser ejecutada desde el navegador, permite la firma en páginas de Administración Electrónica cuando se requiere la firma en un procedimiento administrativo.
+Autofirma Apps
+Para Windows
+Versión 1.9
+Versión 1.9 para Windows 64 bits
+Versión 1.9 para Windows 32 bits
+Versiones anteriores
+Versión 1.8.3 para Windows 64 bits
+Versión 1.8.3 para Windows 32 bits
+Para Linux
+Versión 1.9
+Versión 1.9 para Debian Linux
+Versión 1.9 para Fedora Linux
+Versión 1.9 para OpenSUSE Linux
+Versiones anteriores
+Versión 1.8.3 para Debian Linux
+Versión 1.8.3 para Fedora Linux
+Versión 1.8.3 para OpenSUSE Linux
+Para MacOS
+Versión 1.9
+Versión 1.9 para MacOS procesadores x64
+Versión 1.9 para MacOS procesadores x64 (incl Java 11)
+Versión 1.9 para MacOS procesadores M1 y siguientes
+Versiones anteriores
+Versión 1.8.4 para MacOS procesadores x64
+Versión 1.8.4 para MacOS procesadores M1
+Manuales
+Guía para el usuario final de AutoFirma a través del proceso de instalación, posibilidades de uso de AutoFirma a través de consola, uso de tarjetas inteligentes y listado de diversos problemas que pueden surgir en la instalación y ejecución de la aplicación.
+Manual de Instalación para Usuarios (1.9)
+Manual de Instalación para Usuarios (1.8.2 y siguientes)
+Plugin de Huella Digital v1.0
+Plugin para el cálculo y la comprobación de hashes versión v1.0. El componente permite generar ficheros de hashes con el hash de un fichero o de todos los ficheros de un directorio. También permite comprobar que un fichero de hashes es válido seleccionando el fichero o directorio a partir del cual se generó. IMPORTANTE: El plugin requiere de Autofirma v1.8 o superior (no es compatible con la versión 1.7.2 y anteriores). En versiones de Autofirma anteriores a la v1.8 la funcionalidad del plugin estaba integrada en la aplicación. Su paso a plugin se ha realizado para facilitar su gestión y evolución.
+Plugin de Huella Digital 1.0 (para Autofirma v1.8 o superior)
+Cliente @Firma (obsoleto) - Se recomienda usar Autofirma
+Cliente @Firma es una aplicación de firma desarrollada por el Ministerio de Hacienda y Administraciones Públicas. Al tratarse de una versión obsoleta se recomienda el uso de Autofirma.
+Cliente @Firma (obsoleto)
+Política de Firma de la AGE
+Define un modelo de esquema de referencia para la identificación y autenticación electrónica, recogidos en la Ley 11/2007, de 22 de Junio, de Acceso Electrónico de los Ciudadanos a los Servicios Públicos en el ámbito de la AGE
+Política de Firma de la AGE
+Mapa web
+Accesibilidad
+Aviso Legal
+Política de cookies
+Política de privacidad
+Plan de Recuperación, Transformación y Resiliencia - Financiado por la Unión Europea - NextGenerationEU
+© Portal de Administración Electrónica · Agencia Estatal de Administración Digital
+Política de cookies
+Este sitio web utiliza cookies propias y de terceros para ofrecer un mejor servicio. Si continúa navegando consideramos que acepta su uso.
+Ver política de cookies
+Rechazar todas las cookies
+Aceptar todas las cookies
+
+------------------------------
+
+
+
+Link: javascript:;
+URL: javascript:;
+Tipo detectado: restricted
+
+
+
+Es necesario Cl@ve o certificado digital
+
+------------------------------
+
+
+
+Link: raul.montilla@upmj.es
+URL: mailto:raul.montilla@upmj.es
+Tipo detectado: error
+
+
+
+[Error al obtener mailto:raul.montilla@upmj.es: No connection adapters were found for 'mailto:raul.montilla@upmj.es']
+
+------------------------------
+
+
+
+Link: Universidad Popular Municipal
+URL: https://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_floc_d4_v1.jsp&contenido=1165&tipo=1&nivel=1400&layout=p_20_contenedor1.jsp&codResi=1&language=es&codMenu=831&codMenuPN=4&codMenuSN=832
+Tipo detectado: html
+
+
+
+[HTML: https://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_floc_d4_v1.jsp&contenido=1165&tipo=1&nivel=1400&layout=p_20_contenedor1.jsp&codResi=1&language=es&codMenu=831&codMenuPN=4&codMenuSN=832]
+
+Universidad Popular Municipal
+Ayuntamiento de Jaén
+Inicio
+Accesibilidad
+Mapa web
+Está en:
+Inicio
+Universidad Popular Municipal
+Volver
+Imprimir
+Dirección y datos de contacto
+Dirección
+Avenida 
+                  Andalucía, 47
+Jaén (Jaén)
+Telf:
+953 26 31 11
+Horario
+Administrativo:
+L-V, de 8:30 h a 14:30
+Talleres y cursos:
+L-V , de   9:00 a 14:00
+y de 16:00 a 22:00
+Datos de contacto
+Correo electrónico:
+Area Económica: contaup@aytojaen.es
+Area Administrativa: upm@aytojaen.es
+Cómo llegar
+Ver
+Universidad Popular
+en un mapa más grande
+Contenidos relacionados
+Universidad Popular Sede Sabetay
+Fecha última modificación: 21 de febrero de 2017 a las 13:45
+Excmo. Ayuntamiento de Jaén
+Plaza de Santa María, 1. 23002
+Tfno:
+953 21 91 00
+Oficina Municipal de Información y Atención Ciudadana
+Pintor Francisco Quero de Miguel s/n (Lateral UPM) - Planta Baja (Derecha)
+Tfno:
+900 72 72 73
+Correo electrónico:
+oic@aytojaen.es
+Administrador Web: En caso de cualquier duda técnica sobre el portal,
+envíe sus consultas a la Oficina de Acceso Electrónico
+oae@aytojaen.es
+Portal optimizado para una resolución de 1024 x 768
+RSS
+Protección de datos
+Aviso legal
+
+------------------------------
+
+
+
+Link: 80200. Declaración Responsable Programas Conocimiento del Patrimonio de la UPM
+URL: https://sede.aytojaen.es/sta/docs/GetDocumentServlet?CUD=14615053174757376357&HASH_CUD=6dd8f18c0c17e9821ffb97274187d3db0dab7f4d&APP_CODE=STA
+Tipo detectado: pdf
+
+
+
+[PDF: https://sede.aytojaen.es/sta/docs/GetDocumentServlet?CUD=14615053174757376357&HASH_CUD=6dd8f18c0c17e9821ffb97274187d3db0dab7f4d&APP_CODE=STA]
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Av. Andalucía, 47  - 23005 Jaén - C.I.F. G -23031826  
+Tfno y fax: 953 263111  - www.upmj.es  PROGRAMAS DE CONOCIMIENTO DEL PATRIMONIO  
+ 
+DECLARACIÓN RESPONSABLE DE PARTICIPACIÓN  
+ 
+ 
+Don/ Doña __________ __________________________________, con DNI ____ _____________, domiciliado/a 
+en la ciudad de _______ ________ ___, calle ____ ______________ ____________________, número____ ____ _, 
+teléfono _______ _______ _____ y correo electrónico  _______________ _____________ ___________________,  
+ 
+MANIFIESTO:  
+ 
+1. Que tengo interés en participar en la actividad _ ____________ __________________________, enmarcada en los 
+Programas de conocimiento del patrimonio que organiza la Universidad Popular Municipal de Jaén.  
+ 
+2. Que acepto en su integridad la información que ha sido puesta a mi disposición por esta institución y a ella me someto. 
+Comprendo su contenido de forma total y afirmo que me han sido aclaradas cuantas dudas he p lanteado.  
+ 
+Y a tal fin, DECLARO que:  
+ 
+1. No padezco enfermedad, problema ni lesión de ningún tipo, ni tengo limitación legal alguna que me impida o haga 
+desaconsejable la práctica prevista en la actividad _________ ___________________ _________________________.  
+ 
+2. Soy conscient e de las posibles dificultades de los trazados previstos y de las capacidades físicas y habilidades técnicas 
+que requiere su práctica.  
+ 
+3. Especialmente soy consciente de que estas actividades no se practican en una instalación cerrada, sino que transcurren  
+habitualmente por calles , cam po abierto, caminos  y otros tipos de vías públicas.  
+ 
+4. He sido plenamente informado/a del tipo de actividades que se realizan e igualmente de los riesgos que implica esta 
+actividad antes indicada y me considero sobradamente ca pacitado/a para participar en ella.  
+ 
+5. Conozco y asumo que las salidas o excurs iones colectivas programadas  son salidas no competitivas en las que todos los 
+participantes son usuarios individuales de las vías por las que se realiza el recorrido, sin que ex ista reservado un uso 
+especial del camino, ni una infraestructura específica organizada para la realización de la excursión, dada su naturaleza de 
+actividades personales de ocio.  
+ 
+6. Adquiero el compromiso de participar en las actividades sin poner en riesg o a los demás participantes.  
+ 
+7. Asumo personalmente la responsabilidad relacionada con cualquier accidente, daños materiales, perjuicio o lesión que 
+pudiera causarme a mí mismo, a otros compañeros de ruta o a terceros por una mala praxis.  
+ 
+8. Acepto persona lmente el riesgo inherente para la salud que supone el esfuerzo físico requerido para la participación en 
+esta actividad.  
+ 
+Con la firma de este documento me doy por enterado /a de todas las normas de seguridad y condiciones para realizar la 
+actividad señala da. 
+ 
+En Jaén, a ____ de _________________________ de 202 ____.  
+ 
+ 
+ 
+ 
+Fdo.: ________________________________.  
+
+------------------------------
+

@@ -1,0 +1,456 @@
+Trámite ID: 6269026896559280005011
+
+Nombre: 10615. Consulta previa a la apertura de establecimiento
+
+URL: https://sede.aytojaen.es/sta/CarpetaPublic/doEvent?APP_CODE=STA&PAGE_CODE=CATALOGO&DETALLE=6269026896559280005011
+
+
+--- Contenido principal ---
+
+
+Es necesario instalar Autofirma para firmar solicitudes de registro electrónico, aceptar notificaciones y firmar documentos del portafirmas
+[descargar]
+10615. Consulta previa a la apertura de establecimiento
+Descripción
+10615. Consulta previa a la apertura de establecimiento
+Finalidad
+Consulta para solicitar información en relación a los supuestos en que no es necesaria la previa licencia de actividad para proceder a la apertura de determinados negocios, así como la documentación que se precisa para proceder a dicha apertura
+Presentación
+Presencial
+:
+Registro General del Ayuntamiento
+Información y Registro de la Gerencia Municipal de Urbanismo
+Registro electrónico
+: Enlaces al final de esta página
+Organo Gestor
+Área de Licencias - GMU
+953 219100 Ext. 3352 y 9267
+Efecto del silencio Administrativo
+No procede
+Normativa básica
+Ordenanza municipal reguladora de la apertura de establecimientos mediante declaración responsable en el término municipal de Jaén. B.O.P 188, de 27 de septiembre de 2.012.
+Información Adicional
+Documentación a aportar:
+Acreditación de la personalidad del interesado y, en su caso, de su representante, así como el documento en el que conste la representación.
+Memoria descriptiva y gráfica que defina las características generales de la actividad proyectada y del inmueble en el que se pretenda llevar a cabo, que incluya una exposición de las cuestiones sobre las que se solicita consulta.
+SI LO CONSIDERA NECESARIO PARA PODER CONTESTAR SU CONSULTA PUEDE ADJUNTAR OTROS DOCUMENTOS:
+Modelos de solicitud
+Solicitud
+10615. Consulta previa a la apertura de establecimiento
+Nivel de identificación en trámitación online
+Substancial:
+Acceso mediante sistema Cl@ve
+Documentos a Presentar
+Documentación
+Solicitud
+Acreditación de la personalidad del interesado y, en su caso, de su representante, así como el documento en el que conste la representación.
+Memoria descriptiva y gráfica que defina las características generales de la actividad proyectada y del inmueble
+Otra documentación
+Tramitación Online
+Seleccione como desea identificarse:
+Con certificado digital (Autofirma)
+Acceso mediante sistema Clave
+Tramitación Presencial
+
+
+--- Recursos vinculados (seguido su contenido) ---
+
+
+Link: [descargar]
+URL: https://firmaelectronica.gob.es/Home/Descargas.html
+Tipo detectado: html
+
+
+
+[HTML: https://firmaelectronica.gob.es/Home/Descargas.html]
+
+Firma Electrónica | Descargas -Ciudadanos
+Ir al contenido
+Cerrar sesión
+Castellano
+Castellano
+Català
+Gallego
+Euskara
+Valencià
+English
+Ciudadanos
+Inicio
+Portada de Ciudadanos
+Tutoriales
+Ciudadanos
+Portada de Tutoriales
+Firmar un documento - Certificado Electrónico
+Firmar al mismo nivel que otros (cofirmar)
+Firmar para certificar otras firmas (contrafirmar)
+Validar una firma
+Visualizar una firma
+Cosas que deberías saber
+Ciudadanos
+Portada de Cosas que deberías saber
+La firma electrónica
+El DNI electrónico
+Certificados electrónicos
+Formatos de firma
+Aplicaciones de firma
+Validación de las firmas
+Base legal
+Navegadores y ordenador
+Tipos de certificados
+Identidad digital en las AA.PP:
+Para no equivocarse
+Descargas
+Empresas
+Inicio
+Portada de Empresas
+Tutoriales
+Empresas
+Portada de Tutoriales
+Firmar un documento - Certificado Electrónico
+Firmar al mismo nivel que otros (cofirmar)
+Firmar para certificar otras firmas (contrafirmar)
+Validar una firma
+Visualizar una firma
+Cosas que deberías saber
+Empresas
+Portada de Cosas que deberías saber
+Navegadores y ordenador
+Certificados de empresa
+Factura electrónica
+Autoridades de Certificación
+La firma electrónica
+Los Certificados Electrónicos
+Formatos de firma
+Aplicaciones de firma
+Tipos de Certificados
+Base legal
+Validación de las firmas
+Para no equivocarte
+Identidad Digital
+Navegadores y ordenador
+Descargas
+Empleados Públicos
+Ciudadanos
+Tutoriales
+Cosas que deberías saber
+Descargas
+Portada de
+                                                        Ciudadanos
+Empresas
+Tutoriales
+Cosas que deberías saber
+Descargas
+Portada de
+                                                        Empresas
+Empleados Públicos
+Buscar
+Ciudadanos
+Descargas
+Descargas para ciudadanos
+Desde aquí puedes descargarte aquellas aplicaciones que necesites para firmar electrónicamente y otras utilidades o documentos.
+Autofirma
+Autofirma
+Manuales
+Plugin de Huella Digital v1.0
+@Firma (obsoleto)
+Política de Firma de la AGE
+Autofirma
+Manuales
+Plugin de Huella Digital v1.0
+@Firma (obsoleto)
+Política de Firma de la AGE
+Aplicación de firma electrónica desarrollada por el Ministerio de Asuntos Económicos y Transformación Digital. Al poder ser ejecutada desde el navegador, permite la firma en páginas de Administración Electrónica cuando se requiere la firma en un procedimiento administrativo.
+Autofirma Apps
+Para Windows
+Versión 1.9
+Versión 1.9 para Windows 64 bits
+Versión 1.9 para Windows 32 bits
+Versiones anteriores
+Versión 1.8.3 para Windows 64 bits
+Versión 1.8.3 para Windows 32 bits
+Para Linux
+Versión 1.9
+Versión 1.9 para Debian Linux
+Versión 1.9 para Fedora Linux
+Versión 1.9 para OpenSUSE Linux
+Versiones anteriores
+Versión 1.8.3 para Debian Linux
+Versión 1.8.3 para Fedora Linux
+Versión 1.8.3 para OpenSUSE Linux
+Para MacOS
+Versión 1.9
+Versión 1.9 para MacOS procesadores x64
+Versión 1.9 para MacOS procesadores x64 (incl Java 11)
+Versión 1.9 para MacOS procesadores M1 y siguientes
+Versiones anteriores
+Versión 1.8.4 para MacOS procesadores x64
+Versión 1.8.4 para MacOS procesadores M1
+Manuales
+Guía para el usuario final de AutoFirma a través del proceso de instalación, posibilidades de uso de AutoFirma a través de consola, uso de tarjetas inteligentes y listado de diversos problemas que pueden surgir en la instalación y ejecución de la aplicación.
+Manual de Instalación para Usuarios (1.9)
+Manual de Instalación para Usuarios (1.8.2 y siguientes)
+Plugin de Huella Digital v1.0
+Plugin para el cálculo y la comprobación de hashes versión v1.0. El componente permite generar ficheros de hashes con el hash de un fichero o de todos los ficheros de un directorio. También permite comprobar que un fichero de hashes es válido seleccionando el fichero o directorio a partir del cual se generó. IMPORTANTE: El plugin requiere de Autofirma v1.8 o superior (no es compatible con la versión 1.7.2 y anteriores). En versiones de Autofirma anteriores a la v1.8 la funcionalidad del plugin estaba integrada en la aplicación. Su paso a plugin se ha realizado para facilitar su gestión y evolución.
+Plugin de Huella Digital 1.0 (para Autofirma v1.8 o superior)
+Cliente @Firma (obsoleto) - Se recomienda usar Autofirma
+Cliente @Firma es una aplicación de firma desarrollada por el Ministerio de Hacienda y Administraciones Públicas. Al tratarse de una versión obsoleta se recomienda el uso de Autofirma.
+Cliente @Firma (obsoleto)
+Política de Firma de la AGE
+Define un modelo de esquema de referencia para la identificación y autenticación electrónica, recogidos en la Ley 11/2007, de 22 de Junio, de Acceso Electrónico de los Ciudadanos a los Servicios Públicos en el ámbito de la AGE
+Política de Firma de la AGE
+Mapa web
+Accesibilidad
+Aviso Legal
+Política de cookies
+Política de privacidad
+Plan de Recuperación, Transformación y Resiliencia - Financiado por la Unión Europea - NextGenerationEU
+© Portal de Administración Electrónica · Agencia Estatal de Administración Digital
+Política de cookies
+Este sitio web utiliza cookies propias y de terceros para ofrecer un mejor servicio. Si continúa navegando consideramos que acepta su uso.
+Ver política de cookies
+Rechazar todas las cookies
+Aceptar todas las cookies
+
+------------------------------
+
+
+
+Link: javascript:;
+URL: javascript:;
+Tipo detectado: restricted
+
+
+
+Es necesario Cl@ve o certificado digital
+
+------------------------------
+
+
+
+Link: Registro General del Ayuntamiento
+URL: https://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_floc_d4_v1.jsp&tipo=1&&contenido=1087&nivel=1400&layout=p_20_contenedor1.jsp&codResi=1
+Tipo detectado: html
+
+
+
+[HTML: https://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_floc_d4_v1.jsp&tipo=1&&contenido=1087&nivel=1400&layout=p_20_contenedor1.jsp&codResi=1]
+
+Registro General del Ayuntamiento
+Ayuntamiento de Jaén
+Inicio
+Accesibilidad
+Mapa web
+Está en:
+Inicio
+Registro General del Ayuntamiento
+Volver
+Imprimir
+Dirección y datos de contacto
+Dirección
+Plaza 
+                  Santa María, 1
+23002 Jaén (Jaén)
+Telf:
+953 21 92 29
+Horario
+Atención al público :
+de 9:00 h a 13:00 h
+Cómo llegar
+Ver mapa más grande
+Fecha última modificación: 5 de noviembre de 2014 a las 08:47
+Excmo. Ayuntamiento de Jaén
+Plaza de Santa María, 1. 23002
+Tfno:
+953 21 91 00
+Oficina Municipal de Información y Atención Ciudadana
+Pintor Francisco Quero de Miguel s/n (Lateral UPM) - Planta Baja (Derecha)
+Tfno:
+900 72 72 73
+Correo electrónico:
+oic@aytojaen.es
+Administrador Web: En caso de cualquier duda técnica sobre el portal,
+envíe sus consultas a la Oficina de Acceso Electrónico
+oae@aytojaen.es
+Portal optimizado para una resolución de 1024 x 768
+RSS
+Protección de datos
+Aviso legal
+
+------------------------------
+
+
+
+Link: Información y Registro de la Gerencia Municipal de Urbanismo
+URL: https://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_floc_d4_v1.jsp&tipo=1&&contenido=1011&nivel=1400&layout=p_20_contenedor1.jsp&codResi=1
+Tipo detectado: html
+
+
+
+[HTML: https://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_floc_d4_v1.jsp&tipo=1&&contenido=1011&nivel=1400&layout=p_20_contenedor1.jsp&codResi=1]
+
+Gerencia Municipal de Urbanismo
+Ayuntamiento de Jaén
+Inicio
+Accesibilidad
+Mapa web
+Está en:
+Inicio
+Gerencia Municipal de Urbanismo
+Volver
+Imprimir
+La Gerencia Municipal de Urbanismo está estructurada de la siguiente manera:
+- Área de Arquitectura
+- Área de Disciplina y Conservación
+- Área de Administración y Economía
+- Área de Planeamiento y Gestión
+Dirección y datos de contacto
+Dirección
+Plaza 
+                  Merced, s/n
+Jaén (Jaén)
+Telf:
+953 21 91 91
+Cómo llegar
+Ver
+Gerencia Municipal de Urbanismo
+en un mapa más grande
+Fecha última modificación: 15 de febrero de 2012 a las 12:33
+Excmo. Ayuntamiento de Jaén
+Plaza de Santa María, 1. 23002
+Tfno:
+953 21 91 00
+Oficina Municipal de Información y Atención Ciudadana
+Pintor Francisco Quero de Miguel s/n (Lateral UPM) - Planta Baja (Derecha)
+Tfno:
+900 72 72 73
+Correo electrónico:
+oic@aytojaen.es
+Administrador Web: En caso de cualquier duda técnica sobre el portal,
+envíe sus consultas a la Oficina de Acceso Electrónico
+oae@aytojaen.es
+Portal optimizado para una resolución de 1024 x 768
+RSS
+Protección de datos
+Aviso legal
+
+------------------------------
+
+
+
+Link: Ordenanza municipal reguladora de la apertura de establecimientos mediante declaración responsable en el término municipal de Jaén. B.O.P 188, de 27 de septiembre de 2.012.
+URL: https://sede.aytojaen.es/portal/sede/se_contenedor1.jsp?seccion=s_fdoc_d4_v1.jsp&contenido=11695&tipo=5&nivel=1400&layout=se_contenedor1.jsp&codResi=1&language=es&codMenu=900&codMenuPN=885
+Tipo detectado: html
+
+
+
+[HTML: https://sede.aytojaen.es/portal/sede/se_contenedor1.jsp?seccion=s_fdoc_d4_v1.jsp&contenido=11695&tipo=5&nivel=1400&layout=se_contenedor1.jsp&codResi=1&language=es&codMenu=900&codMenuPN=885]
+
+Sede Electrónica - Ordenanza Municipal Reguladora de la Apertura de Establecimientos Mediante Declaración Responsable en el Término Municipal de Jaén
+Sede Electrónica
+Ayuntamiento de Jaén
+Ordenanza Municipal Reguladora de la Apertura de Establecimientos Mediante Declaración Responsable en el Término Municipal de Jaén
+volver
+imprimir
+escuchar
+compartir
+Fecha de publicación:
+27 de Septiembre de 2012
+DESCARGA DE DOCUMENTOS
+Ordenanza Municipal Reguladora de la Apertura de Establecimientos Mediante Declaración Responsable en el Término Municipal de Jaén
+4 de Marzo de 2015
+volver
+imprimir
+escuchar
+compartir
+Ayuntamiento de Jaén
+Plaza
+                   
+                   
+                    	Santa María
+                   
+                   
+                    	1.
+                   
+                   
+                    	23002
+                   
+                   
+	                Jaén
+                   
+                   
+                  	(Jaén)
+Teléfono: 953 21 91 00
+(Centralita)
+900 72 72 73
+(Oficina de Información y Atención al Ciudadano)
+Correo electrónico: oic@aytojaen.es
+
+------------------------------
+
+
+
+Link: Solicitud
+URL: https://sede.aytojaen.es/sta/docs/GetDocumentServlet?CUD=12434157046621512643&HASH_CUD=645ddc316b4dc82128bafbf29b3ed82f155e7782&APP_CODE=STA
+Tipo detectado: pdf
+
+
+
+[PDF: https://sede.aytojaen.es/sta/docs/GetDocumentServlet?CUD=12434157046621512643&HASH_CUD=645ddc316b4dc82128bafbf29b3ed82f155e7782&APP_CODE=STA]
+
+ 
+ 
+ 
+MODELO DE CONSULTA PREVIA A LA APERTURA DE ESTABLECIMIENTO 
+ 
+1 DATOS DEL SOLICITANTE 
+NOMBRE Y APELLIDOS O RAZÓN SOCIAL: 
+ NIF/CIF/ o equivalente: 
+R
+ EPRESENTANTE: NOMBRE Y APELLIDOS: NIF o equivalente: 
+DOMICILIO A EFECTOS DE NOTIFICACIÓN: 
+ 
+L OCALIDAD: PROVINCIA: PAÍS: C. POSTAL: 
+TFNO.  FIJO : TFNO. MÓVIL: FAX: 
+ CORREO ELECTRÓNICO: 
+ 
+2 DATOS DE LA ACTIVIDAD 
+DIRECCIÓN:  
+L OCALIDAD: PROVINCIA: C. POSTAL: 
+TELÉFONO:  FAX: CORREO ELECTRÓNICO: 
+DESCRIPCIÓN DE LA ACTIVIDA D Y CONSULTA PLANTEADA: 
+    
+ 
+   
+S
+ UPERFICIE TOTAL EN M2  DEL ESTABLECIMIENTO: NÚMERO DE ESTANCIAS DEL ESTABLECIMIENTO: 
+AFORO (cuando su indicación sea preceptiva conforme a la normativa sectorial): 
+ HORARIO DE APERTURA: 
+DISTRIBUCIÓN DE LAS ESTANCIAS  Y USOS DEL ESTABLECIMIENTO: 
+ 1.- .............. M2 DEDICADOS AL USO DE ..............................................  4.-     .............. M2 DEDICADOS AL USO DE ..............................................   
+2.- .............. M2 DEDICADOS AL USO DE ..............................................  5.-     .............. M2 DEDICADOS AL USO DE ..............................................   
+3.- .............. M2 DEDICADOS AL USO DE ..............................................  6.-     .............. M2 DEDICADOS AL USO DE ..............................................    
+  
+ 
+3 DOCUMENTOS QUE SE ADJUNTAN  
+       
+Acreditación de la personalidad del interesado y, en su caso, de su representante, así como el documento en el que conste la re presentación. 
+ 
+SI LO CONSIDERA NECESARIO PARA PODER CONTESTAR SU CONSULTA PUEDE ADJUTAR OTROS DOCUMENTOS: 
+Memoria descriptiva y gráfica que defina las características gener ales de la actividad proyectada y del inmueble en el que se p retenda llevar a cabo,
+que incluya una exposición de las cuestiones sobre las que se solicita consulta. 
+................................................................................................................................................................... 
+................................................................................................................................................................... 
+ 
+ 
+ 
+4 FIRMA: 
+EL/LA ABAJO FIRMANTE SOLICITA CONT ESTACIÓN A LA PRESENTE CONSULTA PREVI A A LA APERTURA DE ESTABLECIMIENTO
+DESTINADO AL EJERCICIO DE LA ACTIVIDAD ECONÓMICA DESCRITA. 
+En ……….......... ........... ......... .......... ......... ....., a ………de ……………..... ..……… de .. ......... 
+ 
+Fdo.:  …………………………………………………………………………………………………. 
+     
+ 
+
+------------------------------
+

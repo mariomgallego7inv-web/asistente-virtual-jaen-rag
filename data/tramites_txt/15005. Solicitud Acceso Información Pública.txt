@@ -1,0 +1,430 @@
+Trámite ID: 6269026843680369105011
+
+Nombre: 15005. Solicitud Acceso Información Pública
+
+URL: https://sede.aytojaen.es/sta/CarpetaPublic/doEvent?APP_CODE=STA&PAGE_CODE=CATALOGO&DETALLE=6269026843680369105011
+
+
+--- Contenido principal ---
+
+
+Es necesario instalar Autofirma para firmar solicitudes de registro electrónico, aceptar notificaciones y firmar documentos del portafirmas
+[descargar]
+15005. Solicitud Acceso Información Pública
+Descripción
+15005. Solicitud Acceso Información Pública
+Finalidad
+Se entiende por información pública los contenidos o documentos, cualquiera que sea su formato o soporte, que obren en poder del Ayuntamiento de Jaén o de cualquier entidad incluida en el Artículo 2 de la
+Ordenanza Municipal de Transparencia, Acceso a la Información y Reutilización
+y que hayan sido elaborados o adquiridos en el ejercicio de sus funciones.
+Lea atentamente esta información antes de tramitar una solicitud de acceso:
+https://www.juntadeandalucia.es/organismos/transparencia/solicitud-informacion/informacion-derecho-acceso.html
+ATENCIÓN: Se regirán por su normativa específica, y por las Leyes generales sobre transparencia con carácter supletorio, aquellas materias que tengan previsto un régimen jurídico específico de acceso a la información
+[más información]
+Quien lo puede Presentar
+Todas las personas tienen derecho a acceder a la información pública, en los términos previstos en el artículo 105.b) de la Constitución Española
+Requisitos: Para la modalidad telemática, al incluir registro, es necesario disponer de certificado digital o e-DNI
+Plazos de Presentación
+todo el año
+Presentación
+Presencial
+:
+Oficina de Acceso Electrónico y Nuevas Tecnologías
+Registro Electrónico
+: Enlaces al final de esta página
+Organo Gestor
+El área municipal poseedora de la información pública
+Plazo de resolución
+1 mes
+Efecto del silencio Administrativo
+No procede
+Normativa básica
+Ordenanza Municipal de Transparencia, Acceso a la Información y Reutilización
+Información Adicional
+Será competente para la resolución del procedimiento el órgano o la entidad que lo sea en la materia a la que se refiera la información solicitada
+DOCUMENTACIÓN A APORTAR:
+Aunque no es necesario motivar las solicitudes, podrá adjuntarse documentación que apoye o demuestre el interés o motivación del interesado en la información, y esto podrá ser tenido en cuenta a la hora de ponderar en interés público en la divulgación de la información y los derechos de los afectados cuyos datos aparezcan en la información solicitada, de acuerdo con lo establecido en el artículo 11 de la Ordenanza de Transparencia.
+Sobre el derecho de acceso:
+https://www.juntadeandalucia.es/organismos/transparencia/solicitud-informacion/informacion-derecho-acceso.html
+Modelos de solicitud
+Solicitud
+Solicitud de Acceso a Información Pública
+Nivel de identificación en trámitación online
+Substancial:
+Acceso mediante sistema Cl@ve
+Documentos a Presentar
+Documentación
+Documento(s)
+Tramitación Online
+Tramitación Presencial
+
+
+--- Recursos vinculados (seguido su contenido) ---
+
+
+Link: [descargar]
+URL: https://firmaelectronica.gob.es/Home/Descargas.html
+Tipo detectado: html
+
+
+
+[HTML: https://firmaelectronica.gob.es/Home/Descargas.html]
+
+Firma Electrónica | Descargas -Ciudadanos
+Ir al contenido
+Cerrar sesión
+Castellano
+Castellano
+Català
+Gallego
+Euskara
+Valencià
+English
+Ciudadanos
+Inicio
+Portada de Ciudadanos
+Tutoriales
+Ciudadanos
+Portada de Tutoriales
+Firmar un documento - Certificado Electrónico
+Firmar al mismo nivel que otros (cofirmar)
+Firmar para certificar otras firmas (contrafirmar)
+Validar una firma
+Visualizar una firma
+Cosas que deberías saber
+Ciudadanos
+Portada de Cosas que deberías saber
+La firma electrónica
+El DNI electrónico
+Certificados electrónicos
+Formatos de firma
+Aplicaciones de firma
+Validación de las firmas
+Base legal
+Navegadores y ordenador
+Tipos de certificados
+Identidad digital en las AA.PP:
+Para no equivocarse
+Descargas
+Empresas
+Inicio
+Portada de Empresas
+Tutoriales
+Empresas
+Portada de Tutoriales
+Firmar un documento - Certificado Electrónico
+Firmar al mismo nivel que otros (cofirmar)
+Firmar para certificar otras firmas (contrafirmar)
+Validar una firma
+Visualizar una firma
+Cosas que deberías saber
+Empresas
+Portada de Cosas que deberías saber
+Navegadores y ordenador
+Certificados de empresa
+Factura electrónica
+Autoridades de Certificación
+La firma electrónica
+Los Certificados Electrónicos
+Formatos de firma
+Aplicaciones de firma
+Tipos de Certificados
+Base legal
+Validación de las firmas
+Para no equivocarte
+Identidad Digital
+Navegadores y ordenador
+Descargas
+Empleados Públicos
+Ciudadanos
+Tutoriales
+Cosas que deberías saber
+Descargas
+Portada de
+                                                        Ciudadanos
+Empresas
+Tutoriales
+Cosas que deberías saber
+Descargas
+Portada de
+                                                        Empresas
+Empleados Públicos
+Buscar
+Ciudadanos
+Descargas
+Descargas para ciudadanos
+Desde aquí puedes descargarte aquellas aplicaciones que necesites para firmar electrónicamente y otras utilidades o documentos.
+Autofirma
+Autofirma
+Manuales
+Plugin de Huella Digital v1.0
+@Firma (obsoleto)
+Política de Firma de la AGE
+Autofirma
+Manuales
+Plugin de Huella Digital v1.0
+@Firma (obsoleto)
+Política de Firma de la AGE
+Aplicación de firma electrónica desarrollada por el Ministerio de Asuntos Económicos y Transformación Digital. Al poder ser ejecutada desde el navegador, permite la firma en páginas de Administración Electrónica cuando se requiere la firma en un procedimiento administrativo.
+Autofirma Apps
+Para Windows
+Versión 1.9
+Versión 1.9 para Windows 64 bits
+Versión 1.9 para Windows 32 bits
+Versiones anteriores
+Versión 1.8.3 para Windows 64 bits
+Versión 1.8.3 para Windows 32 bits
+Para Linux
+Versión 1.9
+Versión 1.9 para Debian Linux
+Versión 1.9 para Fedora Linux
+Versión 1.9 para OpenSUSE Linux
+Versiones anteriores
+Versión 1.8.3 para Debian Linux
+Versión 1.8.3 para Fedora Linux
+Versión 1.8.3 para OpenSUSE Linux
+Para MacOS
+Versión 1.9
+Versión 1.9 para MacOS procesadores x64
+Versión 1.9 para MacOS procesadores x64 (incl Java 11)
+Versión 1.9 para MacOS procesadores M1 y siguientes
+Versiones anteriores
+Versión 1.8.4 para MacOS procesadores x64
+Versión 1.8.4 para MacOS procesadores M1
+Manuales
+Guía para el usuario final de AutoFirma a través del proceso de instalación, posibilidades de uso de AutoFirma a través de consola, uso de tarjetas inteligentes y listado de diversos problemas que pueden surgir en la instalación y ejecución de la aplicación.
+Manual de Instalación para Usuarios (1.9)
+Manual de Instalación para Usuarios (1.8.2 y siguientes)
+Plugin de Huella Digital v1.0
+Plugin para el cálculo y la comprobación de hashes versión v1.0. El componente permite generar ficheros de hashes con el hash de un fichero o de todos los ficheros de un directorio. También permite comprobar que un fichero de hashes es válido seleccionando el fichero o directorio a partir del cual se generó. IMPORTANTE: El plugin requiere de Autofirma v1.8 o superior (no es compatible con la versión 1.7.2 y anteriores). En versiones de Autofirma anteriores a la v1.8 la funcionalidad del plugin estaba integrada en la aplicación. Su paso a plugin se ha realizado para facilitar su gestión y evolución.
+Plugin de Huella Digital 1.0 (para Autofirma v1.8 o superior)
+Cliente @Firma (obsoleto) - Se recomienda usar Autofirma
+Cliente @Firma es una aplicación de firma desarrollada por el Ministerio de Hacienda y Administraciones Públicas. Al tratarse de una versión obsoleta se recomienda el uso de Autofirma.
+Cliente @Firma (obsoleto)
+Política de Firma de la AGE
+Define un modelo de esquema de referencia para la identificación y autenticación electrónica, recogidos en la Ley 11/2007, de 22 de Junio, de Acceso Electrónico de los Ciudadanos a los Servicios Públicos en el ámbito de la AGE
+Política de Firma de la AGE
+Mapa web
+Accesibilidad
+Aviso Legal
+Política de cookies
+Política de privacidad
+Plan de Recuperación, Transformación y Resiliencia - Financiado por la Unión Europea - NextGenerationEU
+© Portal de Administración Electrónica · Agencia Estatal de Administración Digital
+Política de cookies
+Este sitio web utiliza cookies propias y de terceros para ofrecer un mejor servicio. Si continúa navegando consideramos que acepta su uso.
+Ver política de cookies
+Rechazar todas las cookies
+Aceptar todas las cookies
+
+------------------------------
+
+
+
+Link: javascript:;
+URL: javascript:;
+Tipo detectado: restricted
+
+
+
+Es necesario Cl@ve o certificado digital
+
+------------------------------
+
+
+
+Link: Ordenanza Municipal de Transparencia, Acceso a la Información y Reutilización
+URL: https://sede.aytojaen.es/portal/sede/se_contenedor1.jsp?seccion=s_fdoc_d4_v1.jsp&contenido=23673&tipo=5&nivel=1400&codResi=1&language=es
+Tipo detectado: html
+
+
+
+[HTML: https://sede.aytojaen.es/portal/sede/se_contenedor1.jsp?seccion=s_fdoc_d4_v1.jsp&contenido=23673&tipo=5&nivel=1400&codResi=1&language=es]
+
+Sede Electrónica - Ordenanza Municipal de Transparencia, Acceso a la Información y Reutilización
+Sede Electrónica
+Ayuntamiento de Jaén
+Ordenanza Municipal de Transparencia, Acceso a la Información y Reutilización
+volver
+imprimir
+escuchar
+compartir
+Fecha de publicación:
+6 de Agosto de 2015
+Entrada en vigor:
+6 de Agosto de 2015
+DESCARGA DE DOCUMENTOS
+Ordenanza Municipal de Transparencia, Acceso a la Información y Reutilización
+6 de Agosto de 2015
+volver
+imprimir
+escuchar
+compartir
+Ayuntamiento de Jaén
+Plaza
+                   
+                   
+                    	Santa María
+                   
+                   
+                    	1.
+                   
+                   
+                    	23002
+                   
+                   
+	                Jaén
+                   
+                   
+                  	(Jaén)
+Teléfono: 953 21 91 00
+(Centralita)
+900 72 72 73
+(Oficina de Información y Atención al Ciudadano)
+Correo electrónico: oic@aytojaen.es
+
+------------------------------
+
+
+
+Link: https://www.juntadeandalucia.es/organismos/transparencia/solicitud-informacion/informacion-derecho-acceso.html
+URL: https://www.juntadeandalucia.es/organismos/transparencia/solicitud-informacion/informacion-derecho-acceso.html
+Tipo detectado: http_error
+
+
+
+[HTTP Error 404 al acceder a https://www.juntadeandalucia.es/organismos/transparencia/solicitud-informacion/informacion-derecho-acceso.html]
+
+------------------------------
+
+
+
+Link: [más información]
+URL: http://www.juntadeandalucia.es/institutodeadministracionpublica/guiatransparencia/ciudadania/files/assets/common/downloads/guiaciudadania.pdf
+Tipo detectado: pdf
+
+
+
+[PDF: http://www.juntadeandalucia.es/institutodeadministracionpublica/guiatransparencia/ciudadania/files/assets/common/downloads/guiaciudadania.pdf]
+
+[Error extrayendo PDF: EOF marker not found]
+
+------------------------------
+
+
+
+Link: Oficina de Acceso Electrónico y Nuevas Tecnologías
+URL: https://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_floc_d4_v1.jsp&tipo=1&&contenido=1063&nivel=1400&layout=p_20_contenedor1.jsp&codResi=1
+Tipo detectado: html
+
+
+
+[HTML: https://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_floc_d4_v1.jsp&tipo=1&&contenido=1063&nivel=1400&layout=p_20_contenedor1.jsp&codResi=1]
+
+Oficina de Acceso Electrónico y Nuevas Tecnologías OAE
+Ayuntamiento de Jaén
+Inicio
+Accesibilidad
+Mapa web
+Está en:
+Inicio
+Oficina de Acceso Electrónico y Nuevas Tecnologías OAE
+Volver
+Imprimir
+Dirección y datos de contacto
+Dirección
+Calle 
+                  Joaquín Tenorio, 12
+23004 Jaén (Jaén)
+Horario
+Atención presencial suspendida temporalmente
+Datos de contacto
+Correo electrónico:
+oae@aytojaen.es
+Cómo llegar
+Fecha última modificación: 12 de noviembre de 2025 a las 14:37
+Excmo. Ayuntamiento de Jaén
+Plaza de Santa María, 1. 23002
+Tfno:
+953 21 91 00
+Oficina Municipal de Información y Atención Ciudadana
+Pintor Francisco Quero de Miguel s/n (Lateral UPM) - Planta Baja (Derecha)
+Tfno:
+900 72 72 73
+Correo electrónico:
+oic@aytojaen.es
+Administrador Web: En caso de cualquier duda técnica sobre el portal,
+envíe sus consultas a la Oficina de Acceso Electrónico
+oae@aytojaen.es
+Portal optimizado para una resolución de 1024 x 768
+RSS
+Protección de datos
+Aviso legal
+
+------------------------------
+
+
+
+Link: Solicitud
+URL: https://sede.aytojaen.es/sta/docs/GetDocumentServlet?CUD=12000000035261431766&HASH_CUD=d7d612e607205e6b8edd4b09c3429cba19b12cef&APP_CODE=STA
+Tipo detectado: pdf
+
+
+
+[PDF: https://sede.aytojaen.es/sta/docs/GetDocumentServlet?CUD=12000000035261431766&HASH_CUD=d7d612e607205e6b8edd4b09c3429cba19b12cef&APP_CODE=STA]
+
+SOLICITUD DE 
+INFORMACIÓN
+I. IDENTIFICACIÓN DEL/LA INTERESADA
+Primer apellido Segundo apellido NIF/NIE
+Nombre/Razón Social Teléfono
+DECLARACIÓN A EFECTOS DE NOTIFICACIONES: 
+  Las comunicaciones y notificaciones que el Excmo. Ayuntamiento de Jaén le envíe en relación con el expediente que tramita se realizarán por vía telemática a través de su correo electrónico. Si prefiere recibirlo por correo postal en su domicilio, rellene los datos de su dirección en el apartado I.B.
+I.A. Comunicación por correo electrónico (rellenar sólo si opta por el correo electrónico).
+Correo electrónico (obligatorio si es notificación electrónica)
+I.B. Comunicación por dirección postal (rellenar sólo si opta por la comunicación por vía postal).
+Calle, plaza, avenida Número Piso Puerta, escalera
+Municipio Provincia País Código Postal
+¿Actúa en su propio nombre o en representación de otro? (señale la que corresponda).
+En mi propio nombre (si opta por esta opción, vaya directamente al apartado II, solicitud de información).
+En representación del reclamante (si opta por esta opción, rellene los datos que se solicitan a continuación).
+DATOS DEL REPRESENTANTE/ONG (rellenar sólo si actúa en representación de otro).
+Persona física
+Persona jurídicaApellidos y nombre
+NIF
+Razón social
+CIF
+Página 1 de 2
+SOLICITUD DE 
+INFORMACIÓN
+II. SOLICITUD DE INFORMACIÓN
+Exponga resumidamente el contenido de su solicitud
+III. DOCUMENTACIÓN
+EN CASO DE QUE DESEE ADJUNTAR ALGÚN DOCUMENTO, especifique cuál
+DECLARO: bajo mi responsabilidad, que son ciertos y comprobables los datos consignados en el presente formulario.
+En a de de
+AVISO LEGAL 
+  
+De conformidad con lo establecido en la Ley Orgánica 15/1999, de 13 de diciembre, de protección de datos de carácter personal, 
+el/la interesada queda informado de la incorporación de sus datos a un fichero informatizado existente en el Ayuntamiento de 
+Jaén destinado exclusivamente al tratamiento de la información incorporada a su expediente. Los eventuales destinatarios de 
+dicha información son las Administraciones y los organismos públicos propietarios de datos e informaciones relevantes para la 
+resolución de la misma que no figuran en el presente formulario o en la documentación aportada junto con el mismo por el/la 
+interesada. El responsable del citado fichero es el Ayuntamiento de Jaén ante el cual podrá ejercitar el/la interesada sus derechos 
+de acceso, rectificación, cancelación y oposición, mediante escrito que deberá ser dirigido a este organsimo.
+Página 2 de 2
+
+------------------------------
+
+
+
+Link: Tramitación Online
+URL: javascript:enterNewReg(window.catser.dboid,'es');
+Tipo detectado: restricted
+
+
+
+Es necesario Cl@ve o certificado digital
+
+------------------------------
+

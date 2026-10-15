@@ -1,0 +1,561 @@
+Trámite ID: 6269026842233871505011
+
+Nombre: 10310. Responsabilidad Patrimonial
+
+URL: https://sede.aytojaen.es/sta/CarpetaPublic/doEvent?APP_CODE=STA&PAGE_CODE=CATALOGO&DETALLE=6269026842233871505011
+
+
+--- Contenido principal ---
+
+
+Es necesario instalar Autofirma para firmar solicitudes de registro electrónico, aceptar notificaciones y firmar documentos del portafirmas
+[descargar]
+10310. Responsabilidad Patrimonial
+Descripción
+10310. Responsabilidad Patrimonial
+Finalidad
+Procedimiento de reclamación de indemnización por toda lesión que sufran los ciudadanos (personas físicas y jurídicas) en cualquiera de sus bienes y derechos, siempre que dicha lesión sea consecuencia de un funcionamiento normal o anormal de los servicios públicos salvo en los casos de fuerza mayor o de daños que tengan el deber jurídico de soportar de acuerdo con la ley.
+Presentación
+Registro General del Ayuntamiento
+Organo Gestor
+Negociado de Responsabilidad Patrimonial
+Plazo de resolución
+El plazo de tramitación es de 6 Meses
+Efecto del silencio Administrativo
+No procede
+Normativa básica
+Ley 7/1985, de 2 de abril, reguladora de las Bases de Régimen Local
+Ley 4/2005, de 8 de abril, de Creación del Consejo Consultivo de Andalucía
+Ley 5/2010, de 11 de junio, de Autonomía Local de Andalucía
+Ley 39/2015, de 1 de octubre, de Procedimiento administrativo Común de las Administraciones Públicas
+Ley 40/2015 de 1 de octubre, de Régimen jurídico del Sector Público
+Información Adicional
+Más información:
+El derecho a reclamar prescribirá al año de producido el hecho o el acto que motive la indemnización o se manifieste su efecto lesivo. En caso de daños de carácter físico o psíquico a las personas, el plazo empezará a computarse desde la curación o la determinación del alcance de las secuelas.
+Documentación a aportar
+Modelos de solicitud
+Solicitud
+Mod 10310 Reclamación de Responsabilidad Patrimonial
+Documentos a Presentar
+Tramitación Presencial
+
+
+--- Recursos vinculados (seguido su contenido) ---
+
+
+Link: [descargar]
+URL: https://firmaelectronica.gob.es/Home/Descargas.html
+Tipo detectado: html
+
+
+
+[HTML: https://firmaelectronica.gob.es/Home/Descargas.html]
+
+Firma Electrónica | Descargas -Ciudadanos
+Ir al contenido
+Cerrar sesión
+Castellano
+Castellano
+Català
+Gallego
+Euskara
+Valencià
+English
+Ciudadanos
+Inicio
+Portada de Ciudadanos
+Tutoriales
+Ciudadanos
+Portada de Tutoriales
+Firmar un documento - Certificado Electrónico
+Firmar al mismo nivel que otros (cofirmar)
+Firmar para certificar otras firmas (contrafirmar)
+Validar una firma
+Visualizar una firma
+Cosas que deberías saber
+Ciudadanos
+Portada de Cosas que deberías saber
+La firma electrónica
+El DNI electrónico
+Certificados electrónicos
+Formatos de firma
+Aplicaciones de firma
+Validación de las firmas
+Base legal
+Navegadores y ordenador
+Tipos de certificados
+Identidad digital en las AA.PP:
+Para no equivocarse
+Descargas
+Empresas
+Inicio
+Portada de Empresas
+Tutoriales
+Empresas
+Portada de Tutoriales
+Firmar un documento - Certificado Electrónico
+Firmar al mismo nivel que otros (cofirmar)
+Firmar para certificar otras firmas (contrafirmar)
+Validar una firma
+Visualizar una firma
+Cosas que deberías saber
+Empresas
+Portada de Cosas que deberías saber
+Navegadores y ordenador
+Certificados de empresa
+Factura electrónica
+Autoridades de Certificación
+La firma electrónica
+Los Certificados Electrónicos
+Formatos de firma
+Aplicaciones de firma
+Tipos de Certificados
+Base legal
+Validación de las firmas
+Para no equivocarte
+Identidad Digital
+Navegadores y ordenador
+Descargas
+Empleados Públicos
+Ciudadanos
+Tutoriales
+Cosas que deberías saber
+Descargas
+Portada de
+                                                        Ciudadanos
+Empresas
+Tutoriales
+Cosas que deberías saber
+Descargas
+Portada de
+                                                        Empresas
+Empleados Públicos
+Buscar
+Ciudadanos
+Descargas
+Descargas para ciudadanos
+Desde aquí puedes descargarte aquellas aplicaciones que necesites para firmar electrónicamente y otras utilidades o documentos.
+Autofirma
+Autofirma
+Manuales
+Plugin de Huella Digital v1.0
+@Firma (obsoleto)
+Política de Firma de la AGE
+Autofirma
+Manuales
+Plugin de Huella Digital v1.0
+@Firma (obsoleto)
+Política de Firma de la AGE
+Aplicación de firma electrónica desarrollada por el Ministerio de Asuntos Económicos y Transformación Digital. Al poder ser ejecutada desde el navegador, permite la firma en páginas de Administración Electrónica cuando se requiere la firma en un procedimiento administrativo.
+Autofirma Apps
+Para Windows
+Versión 1.9
+Versión 1.9 para Windows 64 bits
+Versión 1.9 para Windows 32 bits
+Versiones anteriores
+Versión 1.8.3 para Windows 64 bits
+Versión 1.8.3 para Windows 32 bits
+Para Linux
+Versión 1.9
+Versión 1.9 para Debian Linux
+Versión 1.9 para Fedora Linux
+Versión 1.9 para OpenSUSE Linux
+Versiones anteriores
+Versión 1.8.3 para Debian Linux
+Versión 1.8.3 para Fedora Linux
+Versión 1.8.3 para OpenSUSE Linux
+Para MacOS
+Versión 1.9
+Versión 1.9 para MacOS procesadores x64
+Versión 1.9 para MacOS procesadores x64 (incl Java 11)
+Versión 1.9 para MacOS procesadores M1 y siguientes
+Versiones anteriores
+Versión 1.8.4 para MacOS procesadores x64
+Versión 1.8.4 para MacOS procesadores M1
+Manuales
+Guía para el usuario final de AutoFirma a través del proceso de instalación, posibilidades de uso de AutoFirma a través de consola, uso de tarjetas inteligentes y listado de diversos problemas que pueden surgir en la instalación y ejecución de la aplicación.
+Manual de Instalación para Usuarios (1.9)
+Manual de Instalación para Usuarios (1.8.2 y siguientes)
+Plugin de Huella Digital v1.0
+Plugin para el cálculo y la comprobación de hashes versión v1.0. El componente permite generar ficheros de hashes con el hash de un fichero o de todos los ficheros de un directorio. También permite comprobar que un fichero de hashes es válido seleccionando el fichero o directorio a partir del cual se generó. IMPORTANTE: El plugin requiere de Autofirma v1.8 o superior (no es compatible con la versión 1.7.2 y anteriores). En versiones de Autofirma anteriores a la v1.8 la funcionalidad del plugin estaba integrada en la aplicación. Su paso a plugin se ha realizado para facilitar su gestión y evolución.
+Plugin de Huella Digital 1.0 (para Autofirma v1.8 o superior)
+Cliente @Firma (obsoleto) - Se recomienda usar Autofirma
+Cliente @Firma es una aplicación de firma desarrollada por el Ministerio de Hacienda y Administraciones Públicas. Al tratarse de una versión obsoleta se recomienda el uso de Autofirma.
+Cliente @Firma (obsoleto)
+Política de Firma de la AGE
+Define un modelo de esquema de referencia para la identificación y autenticación electrónica, recogidos en la Ley 11/2007, de 22 de Junio, de Acceso Electrónico de los Ciudadanos a los Servicios Públicos en el ámbito de la AGE
+Política de Firma de la AGE
+Mapa web
+Accesibilidad
+Aviso Legal
+Política de cookies
+Política de privacidad
+Plan de Recuperación, Transformación y Resiliencia - Financiado por la Unión Europea - NextGenerationEU
+© Portal de Administración Electrónica · Agencia Estatal de Administración Digital
+Política de cookies
+Este sitio web utiliza cookies propias y de terceros para ofrecer un mejor servicio. Si continúa navegando consideramos que acepta su uso.
+Ver política de cookies
+Rechazar todas las cookies
+Aceptar todas las cookies
+
+------------------------------
+
+
+
+Link: javascript:;
+URL: javascript:;
+Tipo detectado: restricted
+
+
+
+Es necesario Cl@ve o certificado digital
+
+------------------------------
+
+
+
+Link: Registro General del Ayuntamiento
+URL: https://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_floc_d4_v1.jsp&tipo=1&&contenido=1087&nivel=1400&layout=p_20_contenedor1.jsp&codResi=1
+Tipo detectado: html
+
+
+
+[HTML: https://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_floc_d4_v1.jsp&tipo=1&&contenido=1087&nivel=1400&layout=p_20_contenedor1.jsp&codResi=1]
+
+Registro General del Ayuntamiento
+Ayuntamiento de Jaén
+Inicio
+Accesibilidad
+Mapa web
+Está en:
+Inicio
+Registro General del Ayuntamiento
+Volver
+Imprimir
+Dirección y datos de contacto
+Dirección
+Plaza 
+                  Santa María, 1
+23002 Jaén (Jaén)
+Telf:
+953 21 92 29
+Horario
+Atención al público :
+de 9:00 h a 13:00 h
+Cómo llegar
+Ver mapa más grande
+Fecha última modificación: 5 de noviembre de 2014 a las 08:47
+Excmo. Ayuntamiento de Jaén
+Plaza de Santa María, 1. 23002
+Tfno:
+953 21 91 00
+Oficina Municipal de Información y Atención Ciudadana
+Pintor Francisco Quero de Miguel s/n (Lateral UPM) - Planta Baja (Derecha)
+Tfno:
+900 72 72 73
+Correo electrónico:
+oic@aytojaen.es
+Administrador Web: En caso de cualquier duda técnica sobre el portal,
+envíe sus consultas a la Oficina de Acceso Electrónico
+oae@aytojaen.es
+Portal optimizado para una resolución de 1024 x 768
+RSS
+Protección de datos
+Aviso legal
+
+------------------------------
+
+
+
+Link: Negociado de Responsabilidad Patrimonial
+URL: https://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_floc_d4_v1.jsp&tipo=1&&contenido=36495&nivel=1400&layout=p_20_contenedor1.jsp&codResi=1
+Tipo detectado: html
+
+
+
+[HTML: https://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_floc_d4_v1.jsp&tipo=1&&contenido=36495&nivel=1400&layout=p_20_contenedor1.jsp&codResi=1]
+
+Negociado de Responsabilidad Patrimonial
+Ayuntamiento de Jaén
+Inicio
+Accesibilidad
+Mapa web
+Está en:
+Inicio
+Negociado de Responsabilidad Patrimonial
+Volver
+Imprimir
+Dirección y datos de contacto
+Dirección
+Calle 
+                  Obispo González, 6
+Jaén (Jaén)
+Telf:
+953219100 ¿ Ext. 9966 - 9110
+Datos de contacto
+Correo electrónico:
+responsabilidadpatrimonial@aytojaen.es
+Fecha última modificación: 17 de abril de 2018 a las 13:58
+Excmo. Ayuntamiento de Jaén
+Plaza de Santa María, 1. 23002
+Tfno:
+953 21 91 00
+Oficina Municipal de Información y Atención Ciudadana
+Pintor Francisco Quero de Miguel s/n (Lateral UPM) - Planta Baja (Derecha)
+Tfno:
+900 72 72 73
+Correo electrónico:
+oic@aytojaen.es
+Administrador Web: En caso de cualquier duda técnica sobre el portal,
+envíe sus consultas a la Oficina de Acceso Electrónico
+oae@aytojaen.es
+Portal optimizado para una resolución de 1024 x 768
+RSS
+Protección de datos
+Aviso legal
+
+------------------------------
+
+
+
+Link: Documentación a aportar
+URL: https://sede.aytojaen.es/portal/sede/RecursosWeb/DOCUMENTOS/1/0_18867_1.pdf
+Tipo detectado: pdf
+
+
+
+[PDF: https://sede.aytojaen.es/portal/sede/RecursosWeb/DOCUMENTOS/1/0_18867_1.pdf]
+
+ 1 Trámite 10310 Reclamación de responsabilidad Patrim onial 
+ 
+DOCUMENTACIÓN A APORTAR 
+ 
+ 
+1.  ACREDITACION DE LA REPRESENTACIÓN  
+ 
+1.1. Personas físicas y jurídicas  
+ 
+• Poder notarial a favor del representante.  
+• Una vez presentada la reclamación,  podrá designar se representante mediante 
+declaración en comparecencia personal en las depend encias del Negociado de 
+Responsabilidad Patrimonial. Para ello, podrá solic itar cita previa a través del 
+número de Teléfono 953219100 Ext. 9110-9966-9435, a  cuyo efecto el 
+representado deberá acudir a las dependencias munic ipales aportando original 
+de su documento de identidad.  
+• Si se actúa en representación de persona declarada  incapaz, copia de la 
+resolución judicial firme de incapacitación.  
+• Si se actúa en representación de menores de edad c opia del libro de familia o 
+resolución administrativa o judicial firme determin ante de la patria potestad, 
+tutela o curatela  
+ 
+ Compañías Aseguradoras  
+ 
+a) Si la compañía aseguradora reclama en representa ción de su asegurado: 
+ 
+• Poder notarial del asegurado a favor del represent ante de la compañía 
+aseguradora.  
+ 
+b) Si la compañía aseguradora reclama por subrogaci ón en los derechos de su 
+asegurado:  
+ 
+• Cláusulas del contrato de seguro o disposiciones l egales que autoricen a la 
+compañía aseguradora para  subrogarse en la reclama ción de los daños.  
+• Acreditación de la subrogación, para lo cual podrá  aportarse cualquiera de los 
+siguientes documentos:   
+ 
+o Factura emitida a nombre de la compañía asegurador a, en la que 
+consten las cantidades pagadas por dicha compañía, expresando 
+separadamente los diferentes conceptos abonados.   
+o Justificación emitida por la entidad bancaria que haya ordenado la 
+transferencia, donde consten las cantidades abonada s y los 
+nombres del ordenante y del beneficiario de la mism a.   
+o Finiquito debidamente firmado por el asegurado, do nde se haga 
+constar la cantidad recibida  
+ 
+ 
+ Comunidades de propietarios  
+ 
+• Si suscribe la reclamación el presidente de la com unidad de propietarios, copia 
+del acta de la sesión de la junta de propietarios c orrespondiente a la elección 
+del mismo.  
+ 2 • Si suscribe la reclamación el administrador de la comunidad de propietarios, 
+copia del acta de la sesión de la junta de propieta rios correspondiente a la 
+designación del mismo, así como autorización del pr esidente de la comunidad 
+de propietarios o acuerdo de la junta de propietari os para efectuar 
+reclamaciones en nombre de la comunidad de propieta rios.  
+ 
+2.  ACREDITACION DE LOS HECHOS Y DAÑOS OBJETO DE LA 
+RECLAMACION  
+ 
+La carga de la prueba de los hechos objeto de recla mación, de las lesiones y/o 
+daños producidos y de la relación de causalidad ent re unos y otros corresponde al 
+reclamante. A tales efectos, podrá aportar cuantas alegaciones, testimonios, 
+documentos o informes considere necesarios y propon er los medios de prueba que 
+considere oportunos, además de los ya previstos en las presentes instrucciones.   
+ 
+ Entre otros, y siempre que se corresponda con el o bjeto de la reclamación, se 
+aportarán los siguientes:  
+ 
+ 
+• Numeración de la vía pública o cualquier otra iden tificación que permita 
+reconocer el emplazamiento, aportando croquis y/o f otografías, si fuera posible. 
+• Copia del acto administrativo o resolución judicia l que deja sin efecto el acto 
+recurrido. Medios de prueba:  
+• Lesiones personales.  
+ 
+o Partes de baja y alta por incapacidad.    
+o Informe de alta médica.    
+o Informe de urgencias del centro donde hubiera sido  atendido el 
+reclamante.    
+o Informes de alta de rehabilitación (en caso de tra tamiento de 
+rehabilitación, deberá aportarse informe de faculta tivo que lo prescriba). 
+o En el caso de que se aporte informe médico pericia l, deberán 
+acompañarse los informes médicos acreditativos de l os tratamientos 
+que se mencionen en el mismo.  
+ 
+• Daños materiales:  
+ 
+o Factura emitida con los requisitos legamente previ stos con desglose de 
+sus distintos conceptos.  
+o Presupuesto de reparación, con desglose de sus dis tintos conceptos.  
+o Informe pericial.  
+ 
+• Daños o pérdidas económicas:  
+ 
+o Evaluación económica de las cantidades reclamadas,  aportando 
+justificantes acreditativos que cuantifiquen los da ños o pérdidas 
+económicas.  
+ 
+• Daños en vehículos  
+ 
+o Fotocopia del permiso de circulación del vehículo dañado.   
+o Fotocopia de la tarjeta de inspección técnica de v ehículos en vigor en la 
+fecha de los hechos que motivan la reclamación.  
+ 3 o Fotocopia del permiso de conducir en vigor del con ductor del vehículo 
+en el momento de los hechos que motivan la reclamac ión. 
+ 
+• Baja de vehículos  
+ 
+o Si tras los daños producidos el vehículo no hubies e sido reparado, 
+deberá aportar fotocopia del justificante de baja e xpedido por la 
+Dirección Provincial de Tráfico que corresponda.  
+ 
+• Daños en inmuebles  
+ 
+o Propietarios: nota simple informativa del Registro  de la Propiedad o 
+cualquier otro título que acredite la condición de propietario del 
+reclamante en el momento de ocurrir los hechos denu nciados.  
+o Arrendamientos: copia del contrato de alquiler acr editativo de la 
+condición de arrendatario del reclamante en el mome nto de ocurrir los 
+hechos denunciados. Si la reclamación se refiere a daños en el 
+continente del inmueble arrendado, además será nece sario adjuntar 
+autorización del propietario para efectuar la recla mación.  
+
+------------------------------
+
+
+
+Link: Solicitud
+URL: https://sede.aytojaen.es/sta/docs/GetDocumentServlet?CUD=12434156067664615656&HASH_CUD=33b1a9803741f4d7f970158a5dfa89419c5361e1&APP_CODE=STA
+Tipo detectado: pdf
+
+
+
+[PDF: https://sede.aytojaen.es/sta/docs/GetDocumentServlet?CUD=12434156067664615656&HASH_CUD=33b1a9803741f4d7f970158a5dfa89419c5361e1&APP_CODE=STA]
+
+Excmo. Ayuntamiento de Jaén
+RECLAMACIÓN DE RESPONSABILIDAD PATRIMONIAL
+1. DATOS DE LA PERSONA O ENTIDAD INTERESADAFORM PROC-10310 Solicitud disponible para tramitación telemática en https://sede.aytojaen.esNIF/DNI Nombre
+Razón SocialApellidos
+Provincia MunicipioDomicilio C.P.
+Teléfono Correo electrónico
+Si desea recibir confirmación de la recepción en el registro electrónico de la presente solicitud, indique el medio:
+Correo electrónico Vía SMS
+2. DATOS DE LA PERSONA REPRESENTANTE
+NIF/DNI Nombre
+Razón SocialApellidos
+Provincia MunicipioDomicilio C.P.
+Teléfono Correo electrónico
+Si desea recibir confirmación de la recepción en el registro electrónico de la presente solicitud, indique el medio:
+Correo electrónico Vía SMS
+3. DATOS A EFECTOS DE NOTIFICACIÓN
+NIF/DNI Nombre
+Razón SocialApellidos
+Provincia MunicipioDomicilio C.P.
+Teléfono Correo electrónico
+1/ 5
+Excmo. Ayuntamiento de Jaén
+2/ 54. HECHOS OBJETO DE RECLAMACIÓN
+5. ACREDITACIÓN DE LOS HECHOS
+Fecha y hora de los hechos
+Lugar de los hechos
+¿Actuaron Policía Municipal, Protección Civil, Bomberos u otros servicios municipales?
+SI NO
+Indique servicio/s municipal/es
+Indique número/s de atestado/s
+¿Actuaron Servicios Sanitarios, Policía Nacional, Guardia Civil u otros servicios no municipales?
+SI NO
+Indique servicio/s no municipal/es
+Indique número/s de atestado/s
+¿Han existido diligencias judiciales?
+SI NO
+Indique los datos de las diligencias, auto/s o sentencia y/o de el/los órgano/s judicial/es:
+En caso de anulación de actos administrativos, indique el acto administrativo anulado, así como la resolución o sentencia 
+que deja sin efecto el acto administrativo.
+Acto/s administrativo/s anumado/s
+Resolución/es o Sentencia/s
+FORM PROC-10310 Solicitud disponible para tramitación telemática en https://sede.aytojaen.es
+Excmo. Ayuntamiento de Jaén
+3/ 56. LESIONES Y/O DAÑOS PRODUCIDOS
+Marque con una X las lesiones y/o daños por los que reclama:
+Personales: determine la fecha del alta médica o de la determinación
+definitiva  de las secuelas
+Materiales
+Pérdidas económicas
+En vehículos:
+¿Ha sido dado de baja en el Registro de Vehículos de la Dirección General de Tráfico?
+SI NOMatrícula
+Marca
+Modelo
+Compañía Aseguradora
+Tipo de póliza:
+Todo Riesgo Terceros Franquicia
+Indique el importe de la franquicia €¿Aporta otros medios de prueba?
+SI NO
+Indique cuales
+En inmuebles:
+Dirección
+Descripción de los dañosFORM PROC-10310 Solicitud disponible para tramitación telemática en https://sede.aytojaen.es
+Excmo. Ayuntamiento de Jaén
+9. DECLARA
+o privada como consecuencia de los hechos objeto de la presente reclamación.
+de los hechos objeto de la presente reclamación.Que NO ha sido indemnizado (ni va a serlo) por compañía o mutualidad de seguros, ni por ninguna otra entidad pública
+Que SI ha sido indemnizado por compañía, mutualidad de seguros u otra entidad pública o privada como consecuencia
+Que NO se siguen otras reclamaciones civiles, penales o administrativas.
+Que SI se siguen otras reclamaciones civiles, penales o adiministrativas.
+Indique clase/s de reclamación y entidad/es a la/s que se dirigen7. RELACIONES DE CAUSALIDAD ENTRE LAS LESIONES PRODUCIDAS Y EL FUNCIONAMIENTO DE LOS SERVICIOS 
+MUNICIPALES
+8. INDEMNIZACIÓN SOLICITADA
+Indemnización €
+En caso de no poder cuantificar dicha indemnización indique el motivo
+10. AUTORIZACIONES
+Según el Artículo 28 de la Ley 39/2015, este Ayuntamiento va a proceder a verificar todos estos datos, salvo que usted no 
+autorice expresamente dicha comprobación.
+NO: Los acreditativos de identidad.
+NO: Los siguientes datos o documentos emitidos por la Administratción:
+4/ 5FORM PROC-10310 Solicitud disponible para tramitación telemática en https://sede.aytojaen.es
+Excmo. Ayuntamiento de Jaén
+FIRMANTE
+5/ 5En ,a de de
+Firma11. SOLICITA
+Que se tenga por formulada reclamación de responsabilidad patrimonial por los hechos anteriormente expuestos y sea 
+concedida la indemnización solicitada.En el supuesto de que expresamente no autorice a este Ayuntamiento a consultar alguno de los anteriores documentos, 
+señale expresamente:
+-
+---
+En caso de no autorizar la comprobación de los datos anteriores, se compromete a aportar la documentación 
+pertinente.
+FORM PROC-10310 Solicitud disponible para tramitación telemática en https://sede.aytojaen.es
+
+------------------------------
+

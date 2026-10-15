@@ -1,0 +1,335 @@
+Trámite ID: 6269026880781737905011
+
+Nombre: 20065. Preinscripción Aula Mentor - Los Álamos
+
+URL: https://sede.aytojaen.es/sta/CarpetaPublic/doEvent?APP_CODE=STA&PAGE_CODE=CATALOGO&DETALLE=6269026880781737905011
+
+
+--- Contenido principal ---
+
+
+Es necesario instalar Autofirma para firmar solicitudes de registro electrónico, aceptar notificaciones y firmar documentos del portafirmas
+[descargar]
+20065. Preinscripción Aula Mentor - Los Álamos
+Descripción
+20065. Preinscripción Aula Mentor - Los Álamos
+Finalidad
+Aula Mentor es un sistema de formación a través de Internet puesto en marcha por el Instituto Municipal para la Formación y el Empleo a través de un convenio de colaboración con el Ministerio de Educación, Política Social y Deportes.
+El objetivo es la formación no reglada de adultos a través de los CURSOS MENTOR que componen una variada oferta educativa con más de CIEN CURSOS
+[+ ver]
+Quien lo puede Presentar
+Personas adultas que deseen ampliar sus competencias personales y profesionales
+Plazos de Presentación
+La matrícula está permanentemente abierta y puede realizarse cualquier día del año excepto el mes de agosto, en los horarios que especifique cada aula Mentor (las aulas ubicadas en centros educativos se rigen por el calendario escolar de su localidad).
+Presentación
+Modalidad presencial:
+IMEFE
+Organo Gestor
+IMEFE
+Efecto del silencio Administrativo
+No procede
+Pago de tasas
+El precio del curso es actualmente de 24 euros mensuales (pueden existir ligeras variaciones en algunas aulas). La matrícula inicial es, en general, de dos meses salvo en los cursos con certificación de 30 horas que es de un mes
+Información Adicional
+Documentación a aportar:
+Solicitud debidamente cumplimentada
+Justificante del ingreso de la matrícula
+Más información en
+http://www.aulamentor.es
+Modelos de solicitud
+Solicitud
+20065. Preinscripción Áula Mentor - Los Álamos
+Tramitación Presencial
+
+
+--- Recursos vinculados (seguido su contenido) ---
+
+
+Link: [descargar]
+URL: https://firmaelectronica.gob.es/Home/Descargas.html
+Tipo detectado: html
+
+
+
+[HTML: https://firmaelectronica.gob.es/Home/Descargas.html]
+
+Firma Electrónica | Descargas -Ciudadanos
+Ir al contenido
+Cerrar sesión
+Castellano
+Castellano
+Català
+Gallego
+Euskara
+Valencià
+English
+Ciudadanos
+Inicio
+Portada de Ciudadanos
+Tutoriales
+Ciudadanos
+Portada de Tutoriales
+Firmar un documento - Certificado Electrónico
+Firmar al mismo nivel que otros (cofirmar)
+Firmar para certificar otras firmas (contrafirmar)
+Validar una firma
+Visualizar una firma
+Cosas que deberías saber
+Ciudadanos
+Portada de Cosas que deberías saber
+La firma electrónica
+El DNI electrónico
+Certificados electrónicos
+Formatos de firma
+Aplicaciones de firma
+Validación de las firmas
+Base legal
+Navegadores y ordenador
+Tipos de certificados
+Identidad digital en las AA.PP:
+Para no equivocarse
+Descargas
+Empresas
+Inicio
+Portada de Empresas
+Tutoriales
+Empresas
+Portada de Tutoriales
+Firmar un documento - Certificado Electrónico
+Firmar al mismo nivel que otros (cofirmar)
+Firmar para certificar otras firmas (contrafirmar)
+Validar una firma
+Visualizar una firma
+Cosas que deberías saber
+Empresas
+Portada de Cosas que deberías saber
+Navegadores y ordenador
+Certificados de empresa
+Factura electrónica
+Autoridades de Certificación
+La firma electrónica
+Los Certificados Electrónicos
+Formatos de firma
+Aplicaciones de firma
+Tipos de Certificados
+Base legal
+Validación de las firmas
+Para no equivocarte
+Identidad Digital
+Navegadores y ordenador
+Descargas
+Empleados Públicos
+Ciudadanos
+Tutoriales
+Cosas que deberías saber
+Descargas
+Portada de
+                                                        Ciudadanos
+Empresas
+Tutoriales
+Cosas que deberías saber
+Descargas
+Portada de
+                                                        Empresas
+Empleados Públicos
+Buscar
+Ciudadanos
+Descargas
+Descargas para ciudadanos
+Desde aquí puedes descargarte aquellas aplicaciones que necesites para firmar electrónicamente y otras utilidades o documentos.
+Autofirma
+Autofirma
+Manuales
+Plugin de Huella Digital v1.0
+@Firma (obsoleto)
+Política de Firma de la AGE
+Autofirma
+Manuales
+Plugin de Huella Digital v1.0
+@Firma (obsoleto)
+Política de Firma de la AGE
+Aplicación de firma electrónica desarrollada por el Ministerio de Asuntos Económicos y Transformación Digital. Al poder ser ejecutada desde el navegador, permite la firma en páginas de Administración Electrónica cuando se requiere la firma en un procedimiento administrativo.
+Autofirma Apps
+Para Windows
+Versión 1.9
+Versión 1.9 para Windows 64 bits
+Versión 1.9 para Windows 32 bits
+Versiones anteriores
+Versión 1.8.3 para Windows 64 bits
+Versión 1.8.3 para Windows 32 bits
+Para Linux
+Versión 1.9
+Versión 1.9 para Debian Linux
+Versión 1.9 para Fedora Linux
+Versión 1.9 para OpenSUSE Linux
+Versiones anteriores
+Versión 1.8.3 para Debian Linux
+Versión 1.8.3 para Fedora Linux
+Versión 1.8.3 para OpenSUSE Linux
+Para MacOS
+Versión 1.9
+Versión 1.9 para MacOS procesadores x64
+Versión 1.9 para MacOS procesadores x64 (incl Java 11)
+Versión 1.9 para MacOS procesadores M1 y siguientes
+Versiones anteriores
+Versión 1.8.4 para MacOS procesadores x64
+Versión 1.8.4 para MacOS procesadores M1
+Manuales
+Guía para el usuario final de AutoFirma a través del proceso de instalación, posibilidades de uso de AutoFirma a través de consola, uso de tarjetas inteligentes y listado de diversos problemas que pueden surgir en la instalación y ejecución de la aplicación.
+Manual de Instalación para Usuarios (1.9)
+Manual de Instalación para Usuarios (1.8.2 y siguientes)
+Plugin de Huella Digital v1.0
+Plugin para el cálculo y la comprobación de hashes versión v1.0. El componente permite generar ficheros de hashes con el hash de un fichero o de todos los ficheros de un directorio. También permite comprobar que un fichero de hashes es válido seleccionando el fichero o directorio a partir del cual se generó. IMPORTANTE: El plugin requiere de Autofirma v1.8 o superior (no es compatible con la versión 1.7.2 y anteriores). En versiones de Autofirma anteriores a la v1.8 la funcionalidad del plugin estaba integrada en la aplicación. Su paso a plugin se ha realizado para facilitar su gestión y evolución.
+Plugin de Huella Digital 1.0 (para Autofirma v1.8 o superior)
+Cliente @Firma (obsoleto) - Se recomienda usar Autofirma
+Cliente @Firma es una aplicación de firma desarrollada por el Ministerio de Hacienda y Administraciones Públicas. Al tratarse de una versión obsoleta se recomienda el uso de Autofirma.
+Cliente @Firma (obsoleto)
+Política de Firma de la AGE
+Define un modelo de esquema de referencia para la identificación y autenticación electrónica, recogidos en la Ley 11/2007, de 22 de Junio, de Acceso Electrónico de los Ciudadanos a los Servicios Públicos en el ámbito de la AGE
+Política de Firma de la AGE
+Mapa web
+Accesibilidad
+Aviso Legal
+Política de cookies
+Política de privacidad
+Plan de Recuperación, Transformación y Resiliencia - Financiado por la Unión Europea - NextGenerationEU
+© Portal de Administración Electrónica · Agencia Estatal de Administración Digital
+Política de cookies
+Este sitio web utiliza cookies propias y de terceros para ofrecer un mejor servicio. Si continúa navegando consideramos que acepta su uso.
+Ver política de cookies
+Rechazar todas las cookies
+Aceptar todas las cookies
+
+------------------------------
+
+
+
+Link: javascript:;
+URL: javascript:;
+Tipo detectado: restricted
+
+
+
+Es necesario Cl@ve o certificado digital
+
+------------------------------
+
+
+
+Link: [+ ver]
+URL: http://www.aulamentor.es/es/cursos-mentor
+Tipo detectado: error
+
+
+
+[Error al obtener http://www.aulamentor.es/es/cursos-mentor: HTTPConnectionPool(host='www.aulamentor.es', port=80): Max retries exceeded with url: /es/cursos-mentor (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000002219A5D1590>, 'Connection to www.aulamentor.es timed out. (connect timeout=15)'))]
+
+------------------------------
+
+
+
+Link: IMEFE
+URL: https://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_floc_d4_v1.jsp&tipo=1&&contenido=417&nivel=1400&layout=p_20_contenedor1.jsp&codResi=1
+Tipo detectado: html
+
+
+
+[HTML: https://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_floc_d4_v1.jsp&tipo=1&&contenido=417&nivel=1400&layout=p_20_contenedor1.jsp&codResi=1]
+
+Agencia de Colocación IMEFE
+Ayuntamiento de Jaén
+Inicio
+Accesibilidad
+Mapa web
+Está en:
+Inicio
+Agencia de Colocación IMEFE
+Volver
+Imprimir
+Dirección y datos de contacto
+Dirección
+Calle 
+                  San Andrés, 1,
+2ª
+Jaén (Jaén)
+Telf:
+953 24 55 20 Ext. 5539,5516 y 5534
+Fax:
+953 24 55 29
+Horario
+De lunes a viernes de 8:00 a 15:00, excepto entre el 15 de junio y el 15 de septiembre que será de 8:00 a 14:00
+Datos de contacto
+Correo electrónico:
+imefe_intermediacion@aytojaen.es
+Fecha última modificación: 12 de febrero de 2019 a las 12:21
+Excmo. Ayuntamiento de Jaén
+Plaza de Santa María, 1. 23002
+Tfno:
+953 21 91 00
+Oficina Municipal de Información y Atención Ciudadana
+Pintor Francisco Quero de Miguel s/n (Lateral UPM) - Planta Baja (Derecha)
+Tfno:
+900 72 72 73
+Correo electrónico:
+oic@aytojaen.es
+Administrador Web: En caso de cualquier duda técnica sobre el portal,
+envíe sus consultas a la Oficina de Acceso Electrónico
+oae@aytojaen.es
+Portal optimizado para una resolución de 1024 x 768
+RSS
+Protección de datos
+Aviso legal
+
+------------------------------
+
+
+
+Link: http://www.aulamentor.es
+URL: http://www.aulamentor.es
+Tipo detectado: error
+
+
+
+[Error al obtener http://www.aulamentor.es: HTTPConnectionPool(host='www.aulamentor.es', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000002219A5D1150>, 'Connection to www.aulamentor.es timed out. (connect timeout=15)'))]
+
+------------------------------
+
+
+
+Link: Solicitud
+URL: https://sede.aytojaen.es/sta/docs/GetDocumentServlet?CUD=12434156540254437356&HASH_CUD=a0d353ee863167890ee19b836f2f2787a83fb375&APP_CODE=STA
+Tipo detectado: pdf
+
+
+
+[PDF: https://sede.aytojaen.es/sta/docs/GetDocumentServlet?CUD=12434156540254437356&HASH_CUD=a0d353ee863167890ee19b836f2f2787a83fb375&APP_CODE=STA]
+
+NombreDatos Personales
+Apellidos
+DNI Sexo
+Dirección C.P.
+Localidad Provincia
+Teléfono 1 Teléfono 2 E-mail
+EspecialidadFecha Nacimiento
+Situación LaboralAULA MENTOR LOS ÁLAMOS 
+  
+FORMULARIO DE PREINSCRIPCIÓN
+Desempleado Estudiante Empleado: Profesión
+Curso solicitado
+Curso
+Jaén
+Fdo.:Importe del Curso y Cuenta de ingreso
+Caja Rural de JaénNivel formativo
+ES79 3067 0100 2522 7373 4323
+PROTECCIÓN DE DATOS: 
+Según la Ley Orgánica 15/1999, de Protección de Datos de Carácter Personal, se le informa de que sus datos serán incorporados a un fichero titularidad del Instituto Municipal de Empleo y 
+Formación Empresarial (IMEFE), para la gestión económica y contable de la misma. La dirección donde podrá ejercer sus derechos de acceso, cancelación, rectificación y oposición de sus datos es 
+C/ San Andrés, 1 de Jaén capital.
+Conocimientos previos en la materia del curso Altos Medios Bajos
+¿Cómo conoció el Proyecto Aula Mentor? Universidad Web Prensa Otros
+Importe de la matrícula completa
+Importe de la renovación/ampliación de matrículaEntidadIBAN48€
+24€
+
+------------------------------
+

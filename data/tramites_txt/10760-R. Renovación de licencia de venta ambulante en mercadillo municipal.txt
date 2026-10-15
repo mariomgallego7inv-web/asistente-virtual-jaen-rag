@@ -1,0 +1,316 @@
+Trámite ID: 6269026930158783605011
+
+Nombre: 10760-R. Renovación de licencia de venta ambulante en mercadillo municipal
+
+URL: https://sede.aytojaen.es/sta/CarpetaPublic/doEvent?APP_CODE=STA&PAGE_CODE=CATALOGO&DETALLE=6269026930158783605011
+
+
+--- Contenido principal ---
+
+
+Es necesario instalar Autofirma para firmar solicitudes de registro electrónico, aceptar notificaciones y firmar documentos del portafirmas
+[descargar]
+10760-R. Renovación de licencia de venta ambulante en mercadillo municipal
+Descripción
+10760-R. Renovación de licencia de venta ambulante en mercadillo municipal
+Finalidad
+Tramite esta solicitud para renovar una licencia para el ejercicio de venta ambulante para el año 2026
+Plazos de Presentación
+01/10/2025 00:00:00 - 31/10/2025 23:59:00
+Presentación
+Registro general del Ayuntamiento
+Organo Gestor
+Sección de Consumo
+Negociado de Mercados y Venta Ambulante
+C/ Joaquín Tenorio, s/n - Pasaje Atarazanas, 23001
+Jaén
+Tlf: 953219100 Ext. 4012 / 9306
+Efecto del silencio Administrativo
+No procede
+Normativa básica
+Ordenanza Municipal reguladora de las Actividades Mercantiles fuera de un establecimiento permanente en espacios libres, zonas verdes y vía pública (Comercio Ambulante)
+Información Adicional
+Documentación requerida:
+Certificado de estar dado de alta en el Impuesto de Actividades Económicas (IAE) del año en curso
+Informe de vida laboral
+Contrato de Seguro de Responsabilidad Civil que cubra los riesgos de la actividad comercial
+DNI (fotocopia). Si no tiene nacionalidad española, disfrutar del oportuno permiso de residencia
+Para vender productos alimenticios autorizados, es necesario estar en posesión del carnet sanitario de expendedor
+Modelos de solicitud
+10760R-Renovación licencia venta ambulante.pdf
+10760R-Renovación licencia venta ambulante
+La solicitud esta fuera de plazo
+
+
+--- Recursos vinculados (seguido su contenido) ---
+
+
+Link: [descargar]
+URL: https://firmaelectronica.gob.es/Home/Descargas.html
+Tipo detectado: html
+
+
+
+[HTML: https://firmaelectronica.gob.es/Home/Descargas.html]
+
+Firma Electrónica | Descargas -Ciudadanos
+Ir al contenido
+Cerrar sesión
+Castellano
+Castellano
+Català
+Gallego
+Euskara
+Valencià
+English
+Ciudadanos
+Inicio
+Portada de Ciudadanos
+Tutoriales
+Ciudadanos
+Portada de Tutoriales
+Firmar un documento - Certificado Electrónico
+Firmar al mismo nivel que otros (cofirmar)
+Firmar para certificar otras firmas (contrafirmar)
+Validar una firma
+Visualizar una firma
+Cosas que deberías saber
+Ciudadanos
+Portada de Cosas que deberías saber
+La firma electrónica
+El DNI electrónico
+Certificados electrónicos
+Formatos de firma
+Aplicaciones de firma
+Validación de las firmas
+Base legal
+Navegadores y ordenador
+Tipos de certificados
+Identidad digital en las AA.PP:
+Para no equivocarse
+Descargas
+Empresas
+Inicio
+Portada de Empresas
+Tutoriales
+Empresas
+Portada de Tutoriales
+Firmar un documento - Certificado Electrónico
+Firmar al mismo nivel que otros (cofirmar)
+Firmar para certificar otras firmas (contrafirmar)
+Validar una firma
+Visualizar una firma
+Cosas que deberías saber
+Empresas
+Portada de Cosas que deberías saber
+Navegadores y ordenador
+Certificados de empresa
+Factura electrónica
+Autoridades de Certificación
+La firma electrónica
+Los Certificados Electrónicos
+Formatos de firma
+Aplicaciones de firma
+Tipos de Certificados
+Base legal
+Validación de las firmas
+Para no equivocarte
+Identidad Digital
+Navegadores y ordenador
+Descargas
+Empleados Públicos
+Ciudadanos
+Tutoriales
+Cosas que deberías saber
+Descargas
+Portada de
+                                                        Ciudadanos
+Empresas
+Tutoriales
+Cosas que deberías saber
+Descargas
+Portada de
+                                                        Empresas
+Empleados Públicos
+Buscar
+Ciudadanos
+Descargas
+Descargas para ciudadanos
+Desde aquí puedes descargarte aquellas aplicaciones que necesites para firmar electrónicamente y otras utilidades o documentos.
+Autofirma
+Autofirma
+Manuales
+Plugin de Huella Digital v1.0
+@Firma (obsoleto)
+Política de Firma de la AGE
+Autofirma
+Manuales
+Plugin de Huella Digital v1.0
+@Firma (obsoleto)
+Política de Firma de la AGE
+Aplicación de firma electrónica desarrollada por el Ministerio de Asuntos Económicos y Transformación Digital. Al poder ser ejecutada desde el navegador, permite la firma en páginas de Administración Electrónica cuando se requiere la firma en un procedimiento administrativo.
+Autofirma Apps
+Para Windows
+Versión 1.9
+Versión 1.9 para Windows 64 bits
+Versión 1.9 para Windows 32 bits
+Versiones anteriores
+Versión 1.8.3 para Windows 64 bits
+Versión 1.8.3 para Windows 32 bits
+Para Linux
+Versión 1.9
+Versión 1.9 para Debian Linux
+Versión 1.9 para Fedora Linux
+Versión 1.9 para OpenSUSE Linux
+Versiones anteriores
+Versión 1.8.3 para Debian Linux
+Versión 1.8.3 para Fedora Linux
+Versión 1.8.3 para OpenSUSE Linux
+Para MacOS
+Versión 1.9
+Versión 1.9 para MacOS procesadores x64
+Versión 1.9 para MacOS procesadores x64 (incl Java 11)
+Versión 1.9 para MacOS procesadores M1 y siguientes
+Versiones anteriores
+Versión 1.8.4 para MacOS procesadores x64
+Versión 1.8.4 para MacOS procesadores M1
+Manuales
+Guía para el usuario final de AutoFirma a través del proceso de instalación, posibilidades de uso de AutoFirma a través de consola, uso de tarjetas inteligentes y listado de diversos problemas que pueden surgir en la instalación y ejecución de la aplicación.
+Manual de Instalación para Usuarios (1.9)
+Manual de Instalación para Usuarios (1.8.2 y siguientes)
+Plugin de Huella Digital v1.0
+Plugin para el cálculo y la comprobación de hashes versión v1.0. El componente permite generar ficheros de hashes con el hash de un fichero o de todos los ficheros de un directorio. También permite comprobar que un fichero de hashes es válido seleccionando el fichero o directorio a partir del cual se generó. IMPORTANTE: El plugin requiere de Autofirma v1.8 o superior (no es compatible con la versión 1.7.2 y anteriores). En versiones de Autofirma anteriores a la v1.8 la funcionalidad del plugin estaba integrada en la aplicación. Su paso a plugin se ha realizado para facilitar su gestión y evolución.
+Plugin de Huella Digital 1.0 (para Autofirma v1.8 o superior)
+Cliente @Firma (obsoleto) - Se recomienda usar Autofirma
+Cliente @Firma es una aplicación de firma desarrollada por el Ministerio de Hacienda y Administraciones Públicas. Al tratarse de una versión obsoleta se recomienda el uso de Autofirma.
+Cliente @Firma (obsoleto)
+Política de Firma de la AGE
+Define un modelo de esquema de referencia para la identificación y autenticación electrónica, recogidos en la Ley 11/2007, de 22 de Junio, de Acceso Electrónico de los Ciudadanos a los Servicios Públicos en el ámbito de la AGE
+Política de Firma de la AGE
+Mapa web
+Accesibilidad
+Aviso Legal
+Política de cookies
+Política de privacidad
+Plan de Recuperación, Transformación y Resiliencia - Financiado por la Unión Europea - NextGenerationEU
+© Portal de Administración Electrónica · Agencia Estatal de Administración Digital
+Política de cookies
+Este sitio web utiliza cookies propias y de terceros para ofrecer un mejor servicio. Si continúa navegando consideramos que acepta su uso.
+Ver política de cookies
+Rechazar todas las cookies
+Aceptar todas las cookies
+
+------------------------------
+
+
+
+Link: javascript:;
+URL: javascript:;
+Tipo detectado: restricted
+
+
+
+Es necesario Cl@ve o certificado digital
+
+------------------------------
+
+
+
+Link: Registro general del Ayuntamiento
+URL: http://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_floc_d4_v1.jsp&contenido=1087&tipo=1&nivel=1400&layout=p_20_contenedor1.jsp&codResi=1&language=es&codMenu=91&codMenuPN=1
+Tipo detectado: http_error
+
+
+
+[HTTP Error 404 al acceder a http://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_floc_d4_v1.jsp&contenido=1087&tipo=1&nivel=1400&layout=p_20_contenedor1.jsp&codResi=1&language=es&codMenu=91&codMenuPN=1]
+
+------------------------------
+
+
+
+Link: Ordenanza Municipal reguladora de las Actividades Mercantiles fuera de un establecimiento permanente en espacios libres, zonas verdes y vía pública (Comercio Ambulante)
+URL: https://sede.aytojaen.es/portal/sede/se_contenedor1.jsp?seccion=s_fdoc_d4_v1.jsp&contenido=40727&tipo=5&nivel=1400&layout=se_contenedor1.jsp&codResi=1&language=es
+Tipo detectado: html
+
+
+
+[HTML: https://sede.aytojaen.es/portal/sede/se_contenedor1.jsp?seccion=s_fdoc_d4_v1.jsp&contenido=40727&tipo=5&nivel=1400&layout=se_contenedor1.jsp&codResi=1&language=es]
+
+Sede Electrónica - Ordenanza Municipal reguladora de las Actividades Mercantiles fuera de un establecimiento permanente en espacios libres, zonas verdes y vía pública (Comercio Ambulante)
+Sede Electrónica
+Ayuntamiento de Jaén
+Ordenanza Municipal reguladora de las Actividades Mercantiles fuera de un establecimiento permanente en espacios libres, zonas verdes y vía pública (Comercio Ambulante)
+volver
+imprimir
+escuchar
+compartir
+Ordenanza Municipal reguladora de las Actividades Mercantiles fuera de un establecimiento permanente en espacios libres, zonas verdes y vía pública (Comercio Ambulante)
+Fecha de publicación:
+19 de Junio de 2009
+DESCARGA DE DOCUMENTOS
+Ordenanza Municipal reguladora de las Actividades Mercantiles fuera de un establecimiento permanente en espacios libres, zonas verdes y vía pública (Comercio Ambulante)
+1 de Marzo de 2019
+volver
+imprimir
+escuchar
+compartir
+Ayuntamiento de Jaén
+Plaza
+                   
+                   
+                    	Santa María
+                   
+                   
+                    	1.
+                   
+                   
+                    	23002
+                   
+                   
+	                Jaén
+                   
+                   
+                  	(Jaén)
+Teléfono: 953 21 91 00
+(Centralita)
+900 72 72 73
+(Oficina de Información y Atención al Ciudadano)
+Correo electrónico: oic@aytojaen.es
+
+------------------------------
+
+
+
+Link: 10760R-Renovación licencia venta ambulante.pdf
+URL: https://sede.aytojaen.es/sta/docs/GetDocumentServlet?CUD=15251232710134717601&HASH_CUD=61b288b7b80f18c712f9bc842b7f86abf4d8093f&APP_CODE=STA
+Tipo detectado: pdf
+
+
+
+[PDF: https://sede.aytojaen.es/sta/docs/GetDocumentServlet?CUD=15251232710134717601&HASH_CUD=61b288b7b80f18c712f9bc842b7f86abf4d8093f&APP_CODE=STA]
+
+EXCMO. AYUNTAMIENTO DE JAÉNMERCADILLO
+SOLICITUD  DE RENOVACIÓN DE LICENCIA DE VENTA AMBULANTE EN JAEN 
+Titular DNI
+Domicilio
+C.P. Provincia Localidad
+Teléfono
+Mercancía IAE
+-- Imprescindible rellenar todos los datos Correo electrónico
+El/la que suscribe, titular de la autorización municipal de venta ambulante que se indica, SOLICITA, de conformidad con lo 
+dispuesto en el capitulo 6 de la Ordenanza  Reguladora del Comercio  Ambulante, la renovación  de dicha  licencia  para el 
+próximo año.
+ILMO. SR. ALCALDE-PRESIDENTE DEL EXCMO. AYUNTAMIENTO DE JAÉN
+FECHA DE PRESENTACIÓN: DESDE EL 1 AL 31 DE OCTUBRE
+LUGAR DE PRESENTACIÓN: Registro General del Ayuntamiento de Jaén (presencial o sede electrónica) o cualquier otro medio contemplado en 
+la legislación vigente
+Teléfonos de contacto: 673 66 44 49 / 673 66 47 75La solicitud que no vaya acompañada de toda la documentación exigida o sea incorrecta no se tendrá por admitida hasta su total subsanación o aportación complementaria Jaén,
+Firma del solicitanteLICENCIA Nº
+Autorizado DNI
+S/SFORM PROC-10760-R Solicitud disponible para tramitación telemática en https://sede.aytojaen.es
+MUY IMPORTANTE: DOCUMENTACIÓN REQUERIDA
+de octubre de 201.- Certificado de estar dado de alta en el Impuesto de Actividades Económicas (IAE) del año en curso 2.-Informe de vida laboral 3.- Contrato de Seguro de Responsabilidad Civil que cubra los riesgos de la actividad comercial 4.- DNI (fotocopia). Si no tiene nacionalidad española, disfrutar del oportuno permiso de residencia 5.- Para vender productos alimenticios autorizados, es necesario estar en posesión del carnet sanitario de expendedor
+AÑO
+
+------------------------------
+

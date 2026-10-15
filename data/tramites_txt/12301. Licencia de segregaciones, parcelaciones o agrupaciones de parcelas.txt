@@ -1,0 +1,465 @@
+Trámite ID: 6269026890308393305011
+
+Nombre: 12301. Licencia de segregaciones, parcelaciones o agrupaciones de parcelas
+
+URL: https://sede.aytojaen.es/sta/CarpetaPublic/doEvent?APP_CODE=STA&PAGE_CODE=CATALOGO&DETALLE=6269026890308393305011
+
+
+--- Contenido principal ---
+
+
+Es necesario instalar Autofirma para firmar solicitudes de registro electrónico, aceptar notificaciones y firmar documentos del portafirmas
+[descargar]
+12301. Licencia de segregaciones, parcelaciones o agrupaciones de parcelas
+Descripción
+La Licencia de Segregación o parcelación es una licencia que se debe solicitar cuando se pretenda separar una porción de terreno, ya sea urbana o rústica, para constituir de ella una finca nueva e independiente de la finca matriz. Se comprobará que la alteración propuesta de una finca se ajusta a la legislación urbanística y a los instrumentos de planeamiento aplicables
+Finalidad
+Utilice esta solicitud para obtener licencias de segregación, parcelación y agrupación de fincas.
+La Licencia de Segregación o parcelación es una licencia que se debe solicitar cuando se pretenda separar una porción de terreno, ya sea urbana o rústica, para constituir de ella una finca nueva e independiente de la finca matriz. Se comprobará que la alteración propuesta de una finca se ajusta a la legislación urbanística y a los instrumentos de planeamiento aplicables.
+Segregación: cuando se separa una porción de la finca originaria para que constituya una finca nueva e independiente.
+Agregación: es el resultado de la unión de una finca con otra finca o con una porción segregada de otra finca. División: se modifica una finca en varias partes.
+Agrupación: es la unión de dos o más fincas para formar una finca nueva.
+Quien lo puede Presentar
+Empresas y particulares
+Presentación
+Presencial: Registro de la Gerencia Municipal de Urbanismo
+Organo Gestor
+Área de Planeamiento y Gestión
+Gerencia Municipal de Urbanismo
+Plazo de resolución
+tres meses
+Efecto del silencio Administrativo
+No procede
+NEGATIVO.
+Art. 11.3 del R.D.L. 7/2015 de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Suelo y Rehabilitación Urbana.
+Normativa básica
+Art. 26 Ley 7/2015, de Suelo y Rehabilitación Urbana, Formación de Fincas, Parcelas y Complejos Inmobiliarios
+Art, 66 LOUA, Parcelación Urbanística
+Ordenanza Fiscal Reguladora de la Tasa por la prestación de servicios urbanísticos al amparo de la Ley del Suelo
+Pago de tasas
+Modelo 615. Tasa por la prestación de servicios urbanísticos de la Gerencia Municipal de Urbanismo
+Servicio urbanístico: Licencias. Epígrafes: 4 y 5.
+Información Adicional
+Requisitos:
+No existencia de construcciones en suelo no urbanizable;  En caso de que en el interior de la finca o parcela existan edificaciones, indicar los datos documentados de la misma (licencia de obras, uso, antigüedad, etc.).
+Superficie de porciones a segregar por encima de unidad mínima de cultivo (secano: 25.000 m
+2
+, regadío 2.500 m
+2
+).
+Para el caso de fincas con regadío, se aportará la documentación que lo acredite, según lo definido en el PGOU vigente.
+Documentación requerida:
+Nota simple de la/s finca/s o parcela/s objeto de solicitud de segregación/parcelación o agrupación (matriz).
+Referencias catastrales de las fincas o parcelas de origen (matriz).
+Plano donde se delimiten las fincas registrales o parcelas de origen. Acotado y a escala.
+Sobre copia del plano anterior, indicar las actuaciones a efectuar, con indicación de sus superficies. (La suma de las superficies de la totalidad de las fincas o parcelas de origen, deberá coincidir con las superficies que aparecen en las notas simples o en Catastro. En caso contrario, deberá aportarse levantamiento firmado por técnico competente.).
+Linderos resultantes. Alineaciones oficiales (si procede), acerado y línea de bordillo.
+Tipo de vallado (si procede).
+Fotografías de las edificaciones que existan en la parcela.
+Tasas. Autoliquidación conforme a la Ordenanza Fiscal vigente.
+Modelos de solicitud
+Solicitud
+12301. Licencia de segregaciones, parcelaciones o agrupaciones de parcelas.pdf
+Documentos a Presentar
+Documentacion requerida
+Nota simple de la/s finca/s o parcela/s objeto de solicitud de segregación/parcelación o agrupación.
+Referencias catastrales de las fincas o parcelas de origen.
+Plano donde se delimiten las fincas registrales o parcelas de origen.
+Sobre copia del plano anterior, indicar las actuaciones a efectuar, con indicación de sus superficies.
+Sobre copia del plano anterior, indicar las actuaciones a efectuar, con indicación de sus superficies. (La suma de las superficies de la totalidad de las fincas o parcelas de origen, deberá coincidir con las superficies que aparecen en las notas simples o en Catastro. En caso contrario, deberá aportarse levantamiento firmado por técnico competente.).
+En caso de que en el interior de la finca o parcela existan edificaciones, indicar los datos documentados de la misma (licencia de obras, uso, antigüedad, etc.).
+En caso de finca de regadío, se deberá aportar la documentación que indica el vigente PGOU: (Nota importante: Se modificará cuando se anule el vigente PGOU).
+Tasas
+Autoliquidación conforme a la Ordenanza Fiscal
+Tramitación Presencial
+
+
+--- Recursos vinculados (seguido su contenido) ---
+
+
+Link: [descargar]
+URL: https://firmaelectronica.gob.es/Home/Descargas.html
+Tipo detectado: html
+
+
+
+[HTML: https://firmaelectronica.gob.es/Home/Descargas.html]
+
+Firma Electrónica | Descargas -Ciudadanos
+Ir al contenido
+Cerrar sesión
+Castellano
+Castellano
+Català
+Gallego
+Euskara
+Valencià
+English
+Ciudadanos
+Inicio
+Portada de Ciudadanos
+Tutoriales
+Ciudadanos
+Portada de Tutoriales
+Firmar un documento - Certificado Electrónico
+Firmar al mismo nivel que otros (cofirmar)
+Firmar para certificar otras firmas (contrafirmar)
+Validar una firma
+Visualizar una firma
+Cosas que deberías saber
+Ciudadanos
+Portada de Cosas que deberías saber
+La firma electrónica
+El DNI electrónico
+Certificados electrónicos
+Formatos de firma
+Aplicaciones de firma
+Validación de las firmas
+Base legal
+Navegadores y ordenador
+Tipos de certificados
+Identidad digital en las AA.PP:
+Para no equivocarse
+Descargas
+Empresas
+Inicio
+Portada de Empresas
+Tutoriales
+Empresas
+Portada de Tutoriales
+Firmar un documento - Certificado Electrónico
+Firmar al mismo nivel que otros (cofirmar)
+Firmar para certificar otras firmas (contrafirmar)
+Validar una firma
+Visualizar una firma
+Cosas que deberías saber
+Empresas
+Portada de Cosas que deberías saber
+Navegadores y ordenador
+Certificados de empresa
+Factura electrónica
+Autoridades de Certificación
+La firma electrónica
+Los Certificados Electrónicos
+Formatos de firma
+Aplicaciones de firma
+Tipos de Certificados
+Base legal
+Validación de las firmas
+Para no equivocarte
+Identidad Digital
+Navegadores y ordenador
+Descargas
+Empleados Públicos
+Ciudadanos
+Tutoriales
+Cosas que deberías saber
+Descargas
+Portada de
+                                                        Ciudadanos
+Empresas
+Tutoriales
+Cosas que deberías saber
+Descargas
+Portada de
+                                                        Empresas
+Empleados Públicos
+Buscar
+Ciudadanos
+Descargas
+Descargas para ciudadanos
+Desde aquí puedes descargarte aquellas aplicaciones que necesites para firmar electrónicamente y otras utilidades o documentos.
+Autofirma
+Autofirma
+Manuales
+Plugin de Huella Digital v1.0
+@Firma (obsoleto)
+Política de Firma de la AGE
+Autofirma
+Manuales
+Plugin de Huella Digital v1.0
+@Firma (obsoleto)
+Política de Firma de la AGE
+Aplicación de firma electrónica desarrollada por el Ministerio de Asuntos Económicos y Transformación Digital. Al poder ser ejecutada desde el navegador, permite la firma en páginas de Administración Electrónica cuando se requiere la firma en un procedimiento administrativo.
+Autofirma Apps
+Para Windows
+Versión 1.9
+Versión 1.9 para Windows 64 bits
+Versión 1.9 para Windows 32 bits
+Versiones anteriores
+Versión 1.8.3 para Windows 64 bits
+Versión 1.8.3 para Windows 32 bits
+Para Linux
+Versión 1.9
+Versión 1.9 para Debian Linux
+Versión 1.9 para Fedora Linux
+Versión 1.9 para OpenSUSE Linux
+Versiones anteriores
+Versión 1.8.3 para Debian Linux
+Versión 1.8.3 para Fedora Linux
+Versión 1.8.3 para OpenSUSE Linux
+Para MacOS
+Versión 1.9
+Versión 1.9 para MacOS procesadores x64
+Versión 1.9 para MacOS procesadores x64 (incl Java 11)
+Versión 1.9 para MacOS procesadores M1 y siguientes
+Versiones anteriores
+Versión 1.8.4 para MacOS procesadores x64
+Versión 1.8.4 para MacOS procesadores M1
+Manuales
+Guía para el usuario final de AutoFirma a través del proceso de instalación, posibilidades de uso de AutoFirma a través de consola, uso de tarjetas inteligentes y listado de diversos problemas que pueden surgir en la instalación y ejecución de la aplicación.
+Manual de Instalación para Usuarios (1.9)
+Manual de Instalación para Usuarios (1.8.2 y siguientes)
+Plugin de Huella Digital v1.0
+Plugin para el cálculo y la comprobación de hashes versión v1.0. El componente permite generar ficheros de hashes con el hash de un fichero o de todos los ficheros de un directorio. También permite comprobar que un fichero de hashes es válido seleccionando el fichero o directorio a partir del cual se generó. IMPORTANTE: El plugin requiere de Autofirma v1.8 o superior (no es compatible con la versión 1.7.2 y anteriores). En versiones de Autofirma anteriores a la v1.8 la funcionalidad del plugin estaba integrada en la aplicación. Su paso a plugin se ha realizado para facilitar su gestión y evolución.
+Plugin de Huella Digital 1.0 (para Autofirma v1.8 o superior)
+Cliente @Firma (obsoleto) - Se recomienda usar Autofirma
+Cliente @Firma es una aplicación de firma desarrollada por el Ministerio de Hacienda y Administraciones Públicas. Al tratarse de una versión obsoleta se recomienda el uso de Autofirma.
+Cliente @Firma (obsoleto)
+Política de Firma de la AGE
+Define un modelo de esquema de referencia para la identificación y autenticación electrónica, recogidos en la Ley 11/2007, de 22 de Junio, de Acceso Electrónico de los Ciudadanos a los Servicios Públicos en el ámbito de la AGE
+Política de Firma de la AGE
+Mapa web
+Accesibilidad
+Aviso Legal
+Política de cookies
+Política de privacidad
+Plan de Recuperación, Transformación y Resiliencia - Financiado por la Unión Europea - NextGenerationEU
+© Portal de Administración Electrónica · Agencia Estatal de Administración Digital
+Política de cookies
+Este sitio web utiliza cookies propias y de terceros para ofrecer un mejor servicio. Si continúa navegando consideramos que acepta su uso.
+Ver política de cookies
+Rechazar todas las cookies
+Aceptar todas las cookies
+
+------------------------------
+
+
+
+Link: javascript:;
+URL: javascript:;
+Tipo detectado: restricted
+
+
+
+Es necesario Cl@ve o certificado digital
+
+------------------------------
+
+
+
+Link: Área de Planeamiento y Gestión
+URL: http://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_floc_d4_v1.jsp&tipo=1&&contenido=45535&nivel=1400&layout=p_20_contenedor1.jsp&codResi=1
+Tipo detectado: http_error
+
+
+
+[HTTP Error 404 al acceder a http://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_floc_d4_v1.jsp&tipo=1&&contenido=45535&nivel=1400&layout=p_20_contenedor1.jsp&codResi=1]
+
+------------------------------
+
+
+
+Link: Ordenanza Fiscal Reguladora de la Tasa por la prestación de servicios urbanísticos al amparo de la Ley del Suelo
+URL: https://sede.aytojaen.es/portal/sede/se_contenedor1.jsp?seccion=s_fdoc_d4_v1.jsp&contenido=27281&tipo=5&nivel=1400&layout=se_contenedor1.jsp&codResi=1&language=es&codAdirecto=266
+Tipo detectado: html
+
+
+
+[HTML: https://sede.aytojaen.es/portal/sede/se_contenedor1.jsp?seccion=s_fdoc_d4_v1.jsp&contenido=27281&tipo=5&nivel=1400&layout=se_contenedor1.jsp&codResi=1&language=es&codAdirecto=266]
+
+Sede Electrónica - Ordenanza Fiscal Reguladora de la Tasa por la prestación de servicios urbanísticos al amparo de la Ley del Suelo
+Sede Electrónica
+Ayuntamiento de Jaén
+Ordenanza Fiscal Reguladora de la Tasa por la prestación de servicios urbanísticos al amparo de la Ley del Suelo
+volver
+imprimir
+escuchar
+compartir
+Fecha de publicación:
+1 de Abril de 2016
+Fin de vigor:
+10 de Octubre de 2022
+DESCARGA DE DOCUMENTOS
+Ordenanza Fiscal Reguladora de la Tasa por la prestación de servicios urbanísticos al amparo de la Ley del Suelo
+13 de Octubre de 2022
+volver
+imprimir
+escuchar
+compartir
+Ayuntamiento de Jaén
+Plaza
+                   
+                   
+                    	Santa María
+                   
+                   
+                    	1.
+                   
+                   
+                    	23002
+                   
+                   
+	                Jaén
+                   
+                   
+                  	(Jaén)
+Teléfono: 953 21 91 00
+(Centralita)
+900 72 72 73
+(Oficina de Información y Atención al Ciudadano)
+Correo electrónico: oic@aytojaen.es
+
+------------------------------
+
+
+
+Link: Modelo 615. Tasa por la prestación de servicios urbanísticos de la Gerencia Municipal de Urbanismo
+URL: https://sede.aytojaen.es/sta/CarpetaPublic/Public?APP_CODE=STA&PAGE_CODE=GTLIQSPUB
+Tipo detectado: html
+
+
+
+[HTML: https://sede.aytojaen.es/sta/CarpetaPublic/Public?APP_CODE=STA&PAGE_CODE=GTLIQSPUB]
+
+Crear Liquidaciones zona no Autenticada
+Ir a la web municipal
+Identificate
+Sede Electrónica
+Ayuntamiento de Jaén
+Menu
+Sede Electrónica
+✕
+Mis Datos
+Datos personales
+Objetos tributarios
+Recibos
+Multas
+Autoliquidaciones
+Datos del padrón de habitantes
+Censo electoral
+Anotaciones en el registro
+Expedientes
+Buzón de notificaciones electrónicas
+Documentos
+Portafirmas
+Mi Calendario fiscal
+Publicaciones Oficiales
+Oferta de empleo
+Tablón de anuncios y edictos electrónicos
+Ordenanzas municipales
+Sesiones de junta de gobierno local
+Sesiones de pleno
+Perfil de contratante
+Calendario fiscal
+Trámites
+Catálogo de trámites
+Suscripción o baja de notificaciones electrónicas
+Presentación de documentación a expedientes en trámite
+Inscripciones en Cursos, Talleres y Actividades de la Universidad Popular
+Inscripciones en cursos y reservas de instalaciones del Patronato de Deportes
+Quejas y sugerencias
+Verificación de documentos
+Cálculo, presentación y liquidación de tributos
+1
+Tributo
+2
+Información
+3
+Cálculo
+4
+Presentación
+5
+Liquidación
+Tributo
+Información
+Cálculo
+Presentación
+Liquidación
+Desde el
+1 de enero de 2026
+la gestión y recaudación del
+Impuesto sobre Vehículos de Tracción Mecánica
+quedará delegada a la Diputación Provincial de Jaén y podrá generar la autoliquidación en la
+oficina virtual tributaria del Servicio Provincial de Gestión y Recaudación de la Diputación Provincial
+de Jaén
+https://ofsgt.dipujaen.es/
+Debe indicar la institución en la que desea liquidar el tributo. Una vez seleccionada la institución deberá indicar que liquidación quiere realizar.
+Seleccione la institución en la que desea realizar la autoliquidación:
+<seleccione una institución>
+Excmo. Ayuntamiento de Jaén
+Gerencia Municipal Urbanismo
+Universidad Popular
+Uso exclusivo personal interno
+Sobre la Sede
+Titularidad
+Normativa
+Acceso a la sede
+Calendario y cómputo de plazos
+Relación de servicios electrónicos
+Información de interés
+Política de privacidad
+Compromiso con la protección de datos personales
+Política de cookies
+Certificados electrónicos
+Interrupciones del servicio
+Sistemas de firma
+Enlaces de interés
+Ayuda
+Preguntas frecuentes (FAQs)
+Información sobre notificaciones
+Ayuda de la Sede
+Aviso legal
+Códigos de barras en documentos de pago
+Usabilidad
+Inicio
+Accesibilidad
+Mapa web
+Ayuntamiento de Jaén
+Plaza Santa María 1. 23002 Jaén
+900 72 72 73
+oic@aytojaen.es
+http://www.aytojaen.es
+
+------------------------------
+
+
+
+Link: Solicitud
+URL: https://sede.aytojaen.es/sta/docs/GetDocumentServlet?CUD=13070335462743411730&HASH_CUD=d82bfb93bc3fc7b87f09954781432221a4a1c63f&APP_CODE=STA
+Tipo detectado: pdf
+
+
+
+[PDF: https://sede.aytojaen.es/sta/docs/GetDocumentServlet?CUD=13070335462743411730&HASH_CUD=d82bfb93bc3fc7b87f09954781432221a4a1c63f&APP_CODE=STA]
+
+EXCMO. AYUNTAMIENTO 
+DE JAÉNSOLICITUD DE LICENCIA DE SEGREGACIONES, 
+PARCELACIONES O AGRUPACIONES DE PARCELAS
+INTERESADO
+OPCIONES DE NOTIFICACIÓNREPRESENTANTE
+AUTORIZACIÓN DEL REPRESENTANTE LEGAL DEL INTERESADONOMBRE Y APELLIDOS / RAZÓN SOCIAL
+Jaén, a de deDNI / CIF / NIE
+NOMBRE Y APELLIDOS / RAZÓN SOCIAL DNI / CIF / NIE
+DOMICILIO (CALLE, PLAZA, ...) NÚMERO Y PLANTA
+MUNICIPIO PROVINCIA CÓDIGO POSTALTELÉFONO MÓVIL CORREO ELECTRÓNICO PARA AVISOS
+REGISTRO PROPIEDAD NÚMERO FINCA REGISTRAL NÚMEROFORM PROC-12301 Solicitud disponible para tramitación telemática en https://sede.aytojaen.esSeleccione el medio por el que desea ser notificado:
+Sede electrónica del Ayuntamiento (https://sede.aytojaen.es) Dirección postal
+DNI o CIF
+Para que actúe en mi nombre ante la Gerencia Municipal de Urbanismo, en lo referente al procedimiento arriba indicado, pudiendo:
+Presentar la solicitud, firmada por el interesado o su representante
+Aportar documentación al expedienteAsimismo autorizo a:
+Retirar notificaciones en soporte papel y/o recepcionar notificaciones 
+electrónicas considerándose, a los efectos del artículo 41 de la Ley 39/2015 como notificación realizada al interesado.
+Suscribir Declaración Responsable de conocimiento de la documentación 
+exigible en la licencia solicitada
+DIRECCIÓN DE LA PARCELA OBJETO DE PARCELACIÓN
+Que desea obtener licencia o en su caso declaración de su innecesariedad, con la finalidad de:DOMICILIO COMPLETO (CALLE, PLAZA, ...) NÚMERO, PORTAL, ESCALERA,  PLANTA, KM...
+REFERENCIA CATASTRAL
+Segregación de una finca matriz
+CALLE
+Fdo.PROVINCIA CÓDIGO POSTALDOMICILIO (CALLE, PLAZA, ...) NÚMERO Y PLANTA
+MUNICIPIO
+
+------------------------------
+

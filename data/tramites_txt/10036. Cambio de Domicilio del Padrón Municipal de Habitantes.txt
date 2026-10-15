@@ -1,0 +1,526 @@
+Trámite ID: 6269026881894823005011
+
+Nombre: 10036. Cambio de Domicilio del Padrón Municipal de Habitantes
+
+URL: https://sede.aytojaen.es/sta/CarpetaPublic/doEvent?APP_CODE=STA&PAGE_CODE=CATALOGO&DETALLE=6269026881894823005011
+
+
+--- Contenido principal ---
+
+
+Es necesario instalar Autofirma para firmar solicitudes de registro electrónico, aceptar notificaciones y firmar documentos del portafirmas
+[descargar]
+10036. Cambio de Domicilio del Padrón Municipal de Habitantes
+Descripción
+10036. Cambio de Domicilio del Padrón Municipal de Habitantes
+Finalidad
+Con la presentación del
+modelo de solicitud
+y de
+la hoja de inscripción
+, y una vez comprobados los datos y la documentación aportada, se inicia el expediente de modificación del domicilio de empadronamiento
+Quien lo puede Presentar
+Cualquier persona empadronada en la ciudad de Jaén
+Presentación
+Presencial:
+Negociado de Estadística
+Reserve su cita para la atención presencial en
+https://citaprevia.aytojaen.es
+Registro Electrónico:
+descargue el modelo de solicitud y la hoja de inscripción. Cumpliméntelos,  guárdelos y apórtelos junto con el resto de documentación usando el trámite
+"00001. Instancia general"
+del catálogo de trámites.
+Organo Gestor
+Negociado de Estadística
+Plazo de resolución
+El plazo de tramitación es de 2 Días
+Efecto del silencio Administrativo
+No procede
+Normativa básica
+Ley 4/1996, de 10 de enero que modifica la ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, en relación con el Padrón municipal.
+Real Decreto 1690/1986, de 11 de julio. Reglamento de Población y Demarcación Territorial de las Entidades Locales
+Información Adicional
+Documentación a aportar
+El
+formulario de solicitud
+y
+la hoja de inscripción
+en el Padrón Municipal de Habitantes,
+ambos documentos debidamente cumplimentados
+(disponibles para descarga al final de esta página)
+Fotocopia DNI*
+Fotocopia Libro de Familia*
+Fotocopia de algún documento que legitime la ocupación de la vivienda (recibos de agua, luz, teléfono fijo, contrato de alquiler, escrituras)
+Certificado de convivencia (en caso de ser necesario)
+* El interesado puede dar el consentimiento para la consulta de los datos de identidad y evitar así tener que presentar DNI y Libro de familia
+Observaciones:
+Cuando una familia se va a empadronar en un nuevo domicilio, si tiene
+hijos menores de edad, en su nuevo domicilio no puede haber nadie
+empadronado, ni siquiera sus padres. Si así fuera, se considerarían dos unidades familiares distintas, y es ese caso habría que aportar un informe de CONVIVENCIA de la Policía Local para poder empadronarse todos en el mismo domicilio (Si ese informe es favorable, se procedería a tramitar el cambio).
+Este informe de convivencia se solicita en el Registro General del Ayuntamiento para surtir efecto en Estadística y está sujeto al pago de
+tasas
+. Transcurridos dos meses desde la solicitud de dicho informe el interesado debe acudir al Negociado de Estadística a solicitar el cambio de domicilio.
+Para llevar a cabo un cambio de domicilio de hijos menores de edad, con padres separados, SIEMPRE es necesario la firma de los dos progenitores, a no ser que tanto la custodia como la “patria potestad”, la tenga uno de los dos en exclusiva.
+Modelos de solicitud
+10036. Cambio de domicilio del Padrón Municipal de Habitantes
+10036. Cambio de domicilio del Padrón Municipal de Habitantes
+Hoja de inscripción en el padrón municipal de habitantes
+Hoja de inscripción en el padrón municipal de habitantes
+Tramitación Presencial
+
+
+--- Recursos vinculados (seguido su contenido) ---
+
+
+Link: [descargar]
+URL: https://firmaelectronica.gob.es/Home/Descargas.html
+Tipo detectado: html
+
+
+
+[HTML: https://firmaelectronica.gob.es/Home/Descargas.html]
+
+Firma Electrónica | Descargas -Ciudadanos
+Ir al contenido
+Cerrar sesión
+Castellano
+Castellano
+Català
+Gallego
+Euskara
+Valencià
+English
+Ciudadanos
+Inicio
+Portada de Ciudadanos
+Tutoriales
+Ciudadanos
+Portada de Tutoriales
+Firmar un documento - Certificado Electrónico
+Firmar al mismo nivel que otros (cofirmar)
+Firmar para certificar otras firmas (contrafirmar)
+Validar una firma
+Visualizar una firma
+Cosas que deberías saber
+Ciudadanos
+Portada de Cosas que deberías saber
+La firma electrónica
+El DNI electrónico
+Certificados electrónicos
+Formatos de firma
+Aplicaciones de firma
+Validación de las firmas
+Base legal
+Navegadores y ordenador
+Tipos de certificados
+Identidad digital en las AA.PP:
+Para no equivocarse
+Descargas
+Empresas
+Inicio
+Portada de Empresas
+Tutoriales
+Empresas
+Portada de Tutoriales
+Firmar un documento - Certificado Electrónico
+Firmar al mismo nivel que otros (cofirmar)
+Firmar para certificar otras firmas (contrafirmar)
+Validar una firma
+Visualizar una firma
+Cosas que deberías saber
+Empresas
+Portada de Cosas que deberías saber
+Navegadores y ordenador
+Certificados de empresa
+Factura electrónica
+Autoridades de Certificación
+La firma electrónica
+Los Certificados Electrónicos
+Formatos de firma
+Aplicaciones de firma
+Tipos de Certificados
+Base legal
+Validación de las firmas
+Para no equivocarte
+Identidad Digital
+Navegadores y ordenador
+Descargas
+Empleados Públicos
+Ciudadanos
+Tutoriales
+Cosas que deberías saber
+Descargas
+Portada de
+                                                        Ciudadanos
+Empresas
+Tutoriales
+Cosas que deberías saber
+Descargas
+Portada de
+                                                        Empresas
+Empleados Públicos
+Buscar
+Ciudadanos
+Descargas
+Descargas para ciudadanos
+Desde aquí puedes descargarte aquellas aplicaciones que necesites para firmar electrónicamente y otras utilidades o documentos.
+Autofirma
+Autofirma
+Manuales
+Plugin de Huella Digital v1.0
+@Firma (obsoleto)
+Política de Firma de la AGE
+Autofirma
+Manuales
+Plugin de Huella Digital v1.0
+@Firma (obsoleto)
+Política de Firma de la AGE
+Aplicación de firma electrónica desarrollada por el Ministerio de Asuntos Económicos y Transformación Digital. Al poder ser ejecutada desde el navegador, permite la firma en páginas de Administración Electrónica cuando se requiere la firma en un procedimiento administrativo.
+Autofirma Apps
+Para Windows
+Versión 1.9
+Versión 1.9 para Windows 64 bits
+Versión 1.9 para Windows 32 bits
+Versiones anteriores
+Versión 1.8.3 para Windows 64 bits
+Versión 1.8.3 para Windows 32 bits
+Para Linux
+Versión 1.9
+Versión 1.9 para Debian Linux
+Versión 1.9 para Fedora Linux
+Versión 1.9 para OpenSUSE Linux
+Versiones anteriores
+Versión 1.8.3 para Debian Linux
+Versión 1.8.3 para Fedora Linux
+Versión 1.8.3 para OpenSUSE Linux
+Para MacOS
+Versión 1.9
+Versión 1.9 para MacOS procesadores x64
+Versión 1.9 para MacOS procesadores x64 (incl Java 11)
+Versión 1.9 para MacOS procesadores M1 y siguientes
+Versiones anteriores
+Versión 1.8.4 para MacOS procesadores x64
+Versión 1.8.4 para MacOS procesadores M1
+Manuales
+Guía para el usuario final de AutoFirma a través del proceso de instalación, posibilidades de uso de AutoFirma a través de consola, uso de tarjetas inteligentes y listado de diversos problemas que pueden surgir en la instalación y ejecución de la aplicación.
+Manual de Instalación para Usuarios (1.9)
+Manual de Instalación para Usuarios (1.8.2 y siguientes)
+Plugin de Huella Digital v1.0
+Plugin para el cálculo y la comprobación de hashes versión v1.0. El componente permite generar ficheros de hashes con el hash de un fichero o de todos los ficheros de un directorio. También permite comprobar que un fichero de hashes es válido seleccionando el fichero o directorio a partir del cual se generó. IMPORTANTE: El plugin requiere de Autofirma v1.8 o superior (no es compatible con la versión 1.7.2 y anteriores). En versiones de Autofirma anteriores a la v1.8 la funcionalidad del plugin estaba integrada en la aplicación. Su paso a plugin se ha realizado para facilitar su gestión y evolución.
+Plugin de Huella Digital 1.0 (para Autofirma v1.8 o superior)
+Cliente @Firma (obsoleto) - Se recomienda usar Autofirma
+Cliente @Firma es una aplicación de firma desarrollada por el Ministerio de Hacienda y Administraciones Públicas. Al tratarse de una versión obsoleta se recomienda el uso de Autofirma.
+Cliente @Firma (obsoleto)
+Política de Firma de la AGE
+Define un modelo de esquema de referencia para la identificación y autenticación electrónica, recogidos en la Ley 11/2007, de 22 de Junio, de Acceso Electrónico de los Ciudadanos a los Servicios Públicos en el ámbito de la AGE
+Política de Firma de la AGE
+Mapa web
+Accesibilidad
+Aviso Legal
+Política de cookies
+Política de privacidad
+Plan de Recuperación, Transformación y Resiliencia - Financiado por la Unión Europea - NextGenerationEU
+© Portal de Administración Electrónica · Agencia Estatal de Administración Digital
+Política de cookies
+Este sitio web utiliza cookies propias y de terceros para ofrecer un mejor servicio. Si continúa navegando consideramos que acepta su uso.
+Ver política de cookies
+Rechazar todas las cookies
+Aceptar todas las cookies
+
+------------------------------
+
+
+
+Link: javascript:;
+URL: javascript:;
+Tipo detectado: restricted
+
+
+
+Es necesario Cl@ve o certificado digital
+
+------------------------------
+
+
+
+Link: Negociado de Estadística
+URL: https://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_floc_d4_v1.jsp&tipo=1&&contenido=1003&nivel=1400&layout=p_20_contenedor1.jsp&codResi=1
+Tipo detectado: html
+
+
+
+[HTML: https://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_floc_d4_v1.jsp&tipo=1&&contenido=1003&nivel=1400&layout=p_20_contenedor1.jsp&codResi=1]
+
+Negociado de Estadística
+Ayuntamiento de Jaén
+Inicio
+Accesibilidad
+Mapa web
+Está en:
+Inicio
+Negociado de Estadística
+Volver
+Imprimir
+Dirección y datos de contacto
+Dirección
+Calle 
+                  Carrera de Jesús, 2
+Bajo
+23002 Jaén (Jaén)
+Telf:
+673982982 / 673664450 / 673661366
+Horario de Atención al Público: De 9:00 a 13:00 h
+Horario
+Horario de Atención al Público: De 9:00 a 13:00 h.
+Reserve su cita en
+https://citaprevia.aytojaen.es
+Cómo llegar
+Ver
+Negociado de Transportes
+en un mapa más grande
+Fecha última modificación: 20 de octubre de 2025 a las 09:54
+Excmo. Ayuntamiento de Jaén
+Plaza de Santa María, 1. 23002
+Tfno:
+953 21 91 00
+Oficina Municipal de Información y Atención Ciudadana
+Pintor Francisco Quero de Miguel s/n (Lateral UPM) - Planta Baja (Derecha)
+Tfno:
+900 72 72 73
+Correo electrónico:
+oic@aytojaen.es
+Administrador Web: En caso de cualquier duda técnica sobre el portal,
+envíe sus consultas a la Oficina de Acceso Electrónico
+oae@aytojaen.es
+Portal optimizado para una resolución de 1024 x 768
+RSS
+Protección de datos
+Aviso legal
+
+------------------------------
+
+
+
+Link: https://citaprevia.aytojaen.es
+URL: https://citaprevia.aytojaen.es
+Tipo detectado: error
+
+
+
+[Error al obtener https://citaprevia.aytojaen.es: HTTPSConnectionPool(host='citaprevia.aytojaen.es', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1028)')))]
+
+------------------------------
+
+
+
+Link: tasas
+URL: https://sede.aytojaen.es/portal/sede/se_contenedor1.jsp?seccion=s_fdoc_d4_v1.jsp&contenido=22789&tipo=5&nivel=1400&codResi=1&language=es
+Tipo detectado: html
+
+
+
+[HTML: https://sede.aytojaen.es/portal/sede/se_contenedor1.jsp?seccion=s_fdoc_d4_v1.jsp&contenido=22789&tipo=5&nivel=1400&codResi=1&language=es]
+
+Sede Electrónica - Ordenanza Fiscal Reguladora de la Tasa por prestación de servicios y realización de actividades a cargo de la Policía Local
+Sede Electrónica
+Ayuntamiento de Jaén
+Ordenanza Fiscal Reguladora de la Tasa por prestación de servicios y realización de actividades a cargo de la Policía Local
+volver
+imprimir
+escuchar
+compartir
+Fecha de publicación:
+19 de Diciembre de 2013
+DESCARGA DE DOCUMENTOS
+Ordenanza Fiscal Reguladora de la Tasa por prestación de servicios y realización de actividades a cargo de la Policía Local
+4 de Marzo de 2015
+volver
+imprimir
+escuchar
+compartir
+Ayuntamiento de Jaén
+Plaza
+                   
+                   
+                    	Santa María
+                   
+                   
+                    	1.
+                   
+                   
+                    	23002
+                   
+                   
+	                Jaén
+                   
+                   
+                  	(Jaén)
+Teléfono: 953 21 91 00
+(Centralita)
+900 72 72 73
+(Oficina de Información y Atención al Ciudadano)
+Correo electrónico: oic@aytojaen.es
+
+------------------------------
+
+
+
+Link: 10036. Cambio de domicilio del Padrón Municipal de Habitantes
+URL: https://sede.aytojaen.es/sta/docs/GetDocumentServlet?CUD=13070335673420741205&HASH_CUD=91af535bac7761d4af867940fe4a12a5bda27a34&APP_CODE=STA
+Tipo detectado: pdf
+
+
+
+[PDF: https://sede.aytojaen.es/sta/docs/GetDocumentServlet?CUD=13070335673420741205&HASH_CUD=91af535bac7761d4af867940fe4a12a5bda27a34&APP_CODE=STA]
+
+EXCMO. AYUNTAMIENTO 
+DE JAÉNADMÓN. GENERAL 
+Estadística
+CAMBIO DE DOMICILIO 
+  
+PADRÓN MUNICIPAL DE HABITANTES - AYUNTAMIENTO DE JAÉN
+Nombre solicitante
+NIF solicitante
+Dirección del domicilio en que causa baja:
+Calle/Plaza/Avda:
+Nº Bloque Portal Esc Planta Puerta
+Código Postal Teléfono
+Dirección del domicilio en que causa alta:
+Calle/Plaza/Avda:
+Nº Bloque Portal Esc Planta Puerta
+Código Postal Teléfono
+RELACIÓN DE PERSONAS AFECTADAS
+Nombre y Apellidos NIF Edad
+Otros documentos a aportar: Fotocopia de algún documento que legitime la ocupación de la vivienda (recibos de agua, 
+luz, teléfono fijo, contrato de alquiler, escrituras) y certificado de convivencia para el Negociado de Estadística, en caso de ser 
+necesario.
+Jaén, a de deFORM PROC-10036 Solicitud disponible para tramitación telemática en https://sede.aytojaen.es
+LOPD: Responsable del Tratamiento: Ayuntamiento de Jaén. Finalidad: Tramitación de las solicitudes y gestión de datos padronales. Legitimación: 
+Competencias Municipales. Cesión de datos: no prevista. Ejercicio de los derechos de acceso, rectificación, supresión y portabilidad, y limitación u oposición 
+a su tratamiento, presentando solicitud al Ayuntamiento. Mas información en sede.aytojaen.esSegún el artículo 28 de la Ley 39/2015, se entiende otorgado el consentimiento para la consulta del Documento Nacional de 
+Identidad y el Registro Civil.
+En cuyo caso aporto la siguiente documentación: copia del DNI y fotocopia del Libro de Familia.Salvo oposición expresa: No doy consentimiento
+
+------------------------------
+
+
+
+Link: Hoja de inscripción en el padrón municipal de habitantes
+URL: https://sede.aytojaen.es/sta/docs/GetDocumentServlet?CUD=12434156255766061703&HASH_CUD=4e9e7fd83967f9feaac5d20f32f6bccac87d0e11&APP_CODE=STA
+Tipo detectado: pdf
+
+
+
+[PDF: https://sede.aytojaen.es/sta/docs/GetDocumentServlet?CUD=12434156255766061703&HASH_CUD=4e9e7fd83967f9feaac5d20f32f6bccac87d0e11&APP_CODE=STA]
+
+Calle, Plaza,□etc.□□□□□□□□□□□□□□□□□□□□Nombre□vía
+MUJER
+A cumplimentar por el Ayuntamiento
+Fecha de□recepción de□la hojaFirma□de los□mayores□de□edad□que□se□inscriben□en□esta□hoja todosNúmero total□de
+personas□inscritas
+en□esta hojaPROVINCIAMUNICIPIODISTRITOSECCIÓNENTIDAD□COLECTIV AENTIDAD□SINGULAR
+Número Letra. Km.□□□□□□□□□□□□□Bloque Portal□□□□□□□□□□□□□□□□□Escalera Planta PuertaA□CUMPLIMENTAR□POR□EL□AYUNTAMIENTOEXCMO.□AYUNTAMIENTO□DE□JAÉN PADRÓN□MUNICIPALHOJA□DE□INSCRIPCIÓN□O□MODIFICACIÓN
+HOJA□□□□□□□□□□□□□□□□DE
+REPROGRAFÍA EXCMO. AYUNTAMIENTO□DE□JAÉNNOMBRE
+HOMBREFecha□Nacimiento(□día,□mes,□año□)□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□Provincia□de□nacimiento Nº□DOCUMENTO□IDENTIDAD/□CERTIFICADO□REGISTRO
+D.N.I. Pasaporte NIE.
+Municipio□o□país□de□nacimiento
+País□de□Nacionalidad1º APELLIDO 2º APELLIDO
+1º APELLIDO 2º APELLIDO
+1º APELLIDO 2º APELLIDO
+1º APELLIDO 2º APELLIDONOMBRE
+NOMBRE
+NOMBRENº□Orden
+01
+Nº□Orden
+02
+Nº□Orden
+03
+Nº□Orden
+04Información□voluntaria: Autorizamos□a□los□mayores□de□edad□empadronados□en□esta□hoja
+para comunicar al Ayuntamiento las futuras variaciones de nuestros datos y para obtenercertificaciones□volantes□de□empadronamiento
+SI Teléfono NONÚCLEO/DISEMINADOTIPO□DE VIVIENDAMANZANACÓDIGO□DE VÍACÓD.□PSEUDOVÍAINSCRIPCIÓN(NHOP)
+Letra
+NºLetra
+Pasap.
+Nivel de Estudios terminados( Ver códigos en el reverso )CAUSA□DE□LA□INSCRIPCIÓN/□MODIFICACIÓN
+Cambio□residencia Omisión Nacimiento Cambio□de□domicilio Datos□personales
+Si□se□trata□de□un□cambio□de□residencia,□indique:
+Municipio/Consuladode procedencia.
+Provincia/Paísde procedencia.
+MUJERHOMBRE
+MUJERHOMBRE
+MUJERHOMBREFecha□Nacimiento(□día,□mes,□año□)□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□Provincia□de□nacimiento
+Municipio□o□país□de□nacimiento
+País□de□Nacionalidad
+Fecha□Nacimiento(□día,□mes,□año□)□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□Provincia□de□nacimiento
+Municipio□o□país□de□nacimiento
+País□de□Nacionalidad
+Fecha□Nacimiento(□día,□mes,□año□)□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□Provincia□de□nacimiento
+Municipio□o□país□de□nacimiento
+País□de□NacionalidadNº□DOCUMENTO□IDENTIDAD/□CERTIFICADO□REGISTRO
+D.N.I. Pasaporte NIE.
+Letra
+NºLetra
+Pasap.
+Nivel de Estudios terminados( Ver códigos en el reverso )CAUSA□DE□LA□INSCRIPCIÓN/□MODIFICACIÓN
+Cambio□residencia Omisión Nacimiento Cambio□de□domicilio Datos□personales
+Si□se□trata□de□un□cambio□de□residencia,□indique:
+Municipio/Consuladode procedencia.
+Provincia/Paísde procedencia.
+Nº□DOCUMENTO□IDENTIDAD/□CERTIFICADO□REGISTRO
+D.N.I. Pasaporte NIE.
+Letra
+NºLetra
+Pasap.
+Nivel de Estudios terminados( Ver códigos en el reverso )CAUSA□DE□LA□INSCRIPCIÓN/□MODIFICACIÓN
+Cambio□residencia Omisión Nacimiento Cambio□de□domicilio Datos□personales
+Si□se□trata□de□un□cambio□de□residencia,□indique:
+Municipio/Consuladode procedencia.
+Provincia/Paísde procedencia.
+Nº□DOCUMENTO□IDENTIDAD/□CERTIFICADO□REGISTRO
+D.N.I. Pasaporte NIE.
+Letra
+NºLetra
+Pasap.
+Nivel de Estudios terminados( Ver códigos en el reverso )CAUSA□DE□LA□INSCRIPCIÓN/□MODIFICACIÓN
+Cambio□residencia Omisión Nacimiento Cambio□de□domicilio Datos□personales
+Si□se□trata□de□un□cambio□de□residencia,□indique:
+Municipio/Consuladode procedencia.
+Provincia/Paísde procedencia.
+I n s c r i p c i ó n p o r c a m b i o d e r e s i d e n c i a u o m i s i ó n
+La inscripción en el Padrón de este municipio implicará la ba ja
+automática de cualquier inscripción padronal en otro munic ipio o
+Registro□de□Matrícula□Consular,□en□el□caso□de□que□exista,□anterior□a□la□fecha□de□la□solicitud.Solo□para□extranjeros□no□comunitarios□sin□autorización□de□residencia□permanente
+De conformidad con lo dispuesto en el artículo 16.1 de la Ley 7/1985, de 2 de abril, Reguladorade las Bases de Régimen Local, la inscripción en el Padrón municipal de los extranjeros nocomunitarios sin autorización de residencia permanente de berá ser
+El transcurso del plazo señalado será causa para acordar la
+caducidad□de□la□inscripción,□siempre□que□el□interesado□no□hubiese□procedido□a□tal□renovación.objeto de renovación
+periódica cada dos años.Autorización□de□persona□empadronada (para□inscripciones□en□la□misma□vivienda□donde□figuran□ya□personas□inscritas)
+D./Dª□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□con documento de identidad nº
+AUTORIZA la□inscripción□en□su□misma□vivienda□de□la/s□persona/s□relacionada/s□en□esta□hojaEl/La autorizante
+En , a de de
+Normativa□legal
+Ley7/1985, de 2 de abril, Reguladora de las Bases de Régimen Local y Reglamento de Población yDemarcación Territorial de las Entidades Locales aprobado por el Real Decreto 1690/1986 de 11 de julio. Toda persona que viva en España está
+Quienes vivan en mas de un municipio se inscribirán en el que residan durante mas tiempo
+al año. El Padrón municipal es el registro administrativo donde constan los vecinos del municipio. Sus datosconstituyen prueba de la residencia en el municipio y del domicilio habitual en el mismo y son utilizadospara la actualización del Censo Electoral. Los vecinos deben comunicar las variaciones en sus datos de inscripción, especialmente los
+dentro del termino municipal.
+Los y los mayores incapacitaos deben figurar empadronados con los
+padres que tengan su guarda o custodia o, en su defecto con sus representantes legales, salvo autorizaciónpor escrito de estos para residir en otro domicilio. El plazo máximo para resolver el empadronamiento es de tres meses a partir de la solicitud, según loestablecido en el artículo 42.3 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de lasAdministraciones Públicas y del Procedimiento Administrativo Común. Los datos del Padrón municipal podrán ser cedidos de conformidad con la legislación vigente en materia deprotección de datos, pudiendo ejercer el interesado los derechos de acceso, rectificación, cancelación yoposición ante el Ayuntamiento, todo lo cual se informa en cumplimiento del artículo 5 de la Ley Orgánica15/1999 de 13 de diciembre, de Protección de Datos de Carácter Personal.obligada a inscribirse en el Padrón del municipio donde reside
+habitualmente.
+cambios de
+domicilio
+menores de edad no emancipados
+Instrucciones□para□cumplimentar□la□hoja
+Escriba en letras mayúsculas, indicando con claridad todos los datos que corresponden a cada una de laspersonal que se inscriben en la hoja.- El nombre y los apellidos se transcribirán del mismo modo que figure en su documento de identidad.- Para la cumplimentación del Nivel de Estudios terminados se consignará el certificado o título escolar oacadémico que se posea mediante el código correspondiente de la tabla de Códigos de Nivel de Estudios.-Cumplimente la causa de la inscripción/modificación:1. Si se solicita la inscripción por traslado de residencia, marque con equis (X) la casilla “Cambio deResidencia”, e indique la provincia y el municipio de procedencia. Si procede del extranjero, indique elpaís y, en su caso, el consulado español donde estaba inscrito.2. Si se trata de la inscripción de una persona que no estuviera empadronada o que desconociera elmunicipio de su anterior inscripción padronal, marque con equis (X) la casilla “ Alta por Omisión “.3. Para la inscripción de recién nacidos, marque con equis (X) la casilla “ Nacimiento ”.4. En el caso de cambio de domicilio dentro de este municipio, marque con equis (X) la casilla “ Cambio dedomicilio ”.5. Si se modifica alguno de los datos personales de la inscripción, marque con equis (X) la casilla “ Datospersonales “.- Este apartado se cumplimentará cuando en la vivienda figuren
+otras personas empadronadas. La autorización deberá firmarse por alguna persona mayor de edadinscrita que disponga de título acreditativo de la posesión efectiva de la vivienda (propiedad, alquiler ...). - Rellene la casilla” Número total de personas inscritas en esta hoja” para garantizar la inalterabilidadde los espacios que hayan podido quedar en blanco.- Si tiene alguna duda, consulte con el Ayuntamiento.- AVISO IMPORTANTE: LA FALSEDAD EN LOS DATOS DECLARADOS PUEDE SER CONSTITUTIVA DEDELITO.Autorización de persona empadronada.
+- La hoja debe ser firmada por todas la personas mayores de edad inscritas en la misma.
+Códigos□de□Nivel□de□Estudios
+00 - Se consignará este código para menores de 16 años.11- No sabe leer ni escribir21- Sin estudios22 - Enseñanza primaria incompleta. Cinco cursos de EGB o equivalente o Certificado de Escolaridad oequivalente31- Bachiller Elemental. Graduado Escolar. EGB completa. Primaria completa. ESO32- Formación Profesional de Primer Grado. Formación Profesional de Grado Medio. Oficialía Industrial41- Formación Profesional de Segundo Grado. Formación Profesional de Grado Superior. MaestríaIndustrial42 - Bachiller superior BUP . Bachiller LOGSE43 - Otras titulaciones medias ( Auxiliar de clínica, Secretariado, Programador de informática, Auxiliar devuelo, Diplomado en artes y oficios, etc)44 - Diplomados en Escuelas Universitarias ( Empresariales, Profesorado de EGB, ATS y Similares )45 - Arquitecto o Ingeniero Técnico46 - Licenciado Universitario. Arquitecto o Ingeniero Superior. Grado Universitario47 - Titulados de Estudios Superiores no Universitarios48 - Doctorado y Estudios de postgrado o especialización para Licenciados. Master universitarioDocumentación□a□presentar□para□realizar□la□inscripción/modificación
+Hoja padronal cumplimentada y firmadaDocumentación acreditativa de la identidad: Los documentos de identificación deben estar en vigorDocumentación acreditativa de representación de menores e incapacitados Documentación acreditativa del domicilioEspañoles: DNI ( obligatorio para mayores de 14 años )o Libro de Familia o Certificfado de nacimiento para menores de 14años que no dispongan de DNI. -Ciudadanos de Estados, miembros de la Unión Europea, Islandia, Liechtenstein, Noruega y Suiza: Certificado de Registrode Ciudadano de la Unión, en el que consta el Número de identidad de Extranjero ( NIE), junto con el documento acreditativode la identidad o pasaporte expedido por las autoridades de su país.- Resto: Tarjeta de identidad de extranjero expedida por las autoridades españolas, en la que consta el Número de Identidadde Extranjero (NIE) o, en su defecto, pasaporte expedido por las autoridades de su país. Libro de Familia o Certificado de nacimiento expedido por autoridades españolas, en caso de que no dispongan de undocumento de identificación.
+Libro de Familia o Certificado de nacimiento. En casos de separación o divorcio, la resolución
+judicial que acredite su guarda y custodia.Cuando se solicite la inscripción de un menor con uno solo de sus progenitores, se debe presentar la autorización del otropara el empadronamiento o, en su defecto, declaración responsable firmada por que realiza la solicitud de tener la guarda ycustodia del menor y capacidad legal suficiente para hacer la inscripción, según el modelo suministrado por elAyuntamiento.
+Resolución judicial que acredite la representación legal.
+- Título de propiedad ( Escritura, contrato de compraventa, Nota del Registro ...).- Contrato vigente de arrendamiento de vivienda para uso de residencia habitual acompañado del último recibo de alquiler.- En caso de Autorización de persona empadronada: título acreditativo de la posesión efectiva de la vivienda ( propiedad,alquiler ...) A nombre de la misma.Cuando se cumplimenten o presenten autorizaciones se acompañarán fotocopias de los documentos de identidad de losautorizantes.Extranjeros (mayores de edad, menores nacidos en el extranjero y menores nacidos en España con más de 3 meses ): Extranjeros menores nacidos en España con menos de 3 meses: Menores no emancipados: Incapacitados:
+
+------------------------------
+

@@ -1,0 +1,496 @@
+Trámite ID: 6269026858840673805011
+
+Nombre: 10701. Licencia Reserva de Espacio para carga y descarga o aparcamiento exclusivo
+
+URL: https://sede.aytojaen.es/sta/CarpetaPublic/doEvent?APP_CODE=STA&PAGE_CODE=CATALOGO&DETALLE=6269026858840673805011
+
+
+--- Contenido principal ---
+
+
+Es necesario instalar Autofirma para firmar solicitudes de registro electrónico, aceptar notificaciones y firmar documentos del portafirmas
+[descargar]
+10701. Licencia Reserva de Espacio para carga y descarga o aparcamiento exclusivo
+Finalidad
+Solicitud de licencia reserva de espacio en al vía pública para carga y descarga o aparcamiento exclusivo
+Presentación
+Presencial
+:
+Registro General del Ayuntamiento
+Registro electrónico
+: Enlaces al final de esta página
+Organo Gestor
+Negociado de Dominio Público
+Plazo de resolución
+El plazo de tramitación es de 3 Meses
+Efecto del silencio Administrativo
+No procede
+Recursos
+Recurso de reposición ante el Ilmo. Sr. Alcalde en el plazo de un mes o recurso contencioso administrativo en el plazo de 2 meses ante el juzgado de lo contencioso administrativo.
+Normativa básica
+Ordenanza Fiscal Reguladora de la Tasa por reserva de espacio de la vía pública para carga o descarga de mercancías de cualquier clase o aparcamiento exclusivo a favor de determinadas actividades
+Pago de tasas
+Autoliquidación 039. Reserva de espacio para carga y descarga, o aparcamiento exclusivo
+Información Adicional
+Documentación a aportar: Acreditación del pago de las tasas municipales (número de justificante de la
+Autoliquidación 039. Reserva de espacio para carga y descarga, o aparcamiento exclusivo)
+Modelos de solicitud
+Solicitud
+Modelo 10701 Reserva de espacio en la vía pública para carga y descarga o aparcamiento exclusivo
+Nivel de identificación en trámitación online
+Substancial:
+Acceso mediante sistema Cl@ve
+Documentos a Presentar
+Tasas
+Autoliquidación Modelo 039
+Tramitación Online
+Tramitación Presencial
+
+
+--- Recursos vinculados (seguido su contenido) ---
+
+
+Link: [descargar]
+URL: https://firmaelectronica.gob.es/Home/Descargas.html
+Tipo detectado: html
+
+
+
+[HTML: https://firmaelectronica.gob.es/Home/Descargas.html]
+
+Firma Electrónica | Descargas -Ciudadanos
+Ir al contenido
+Cerrar sesión
+Castellano
+Castellano
+Català
+Gallego
+Euskara
+Valencià
+English
+Ciudadanos
+Inicio
+Portada de Ciudadanos
+Tutoriales
+Ciudadanos
+Portada de Tutoriales
+Firmar un documento - Certificado Electrónico
+Firmar al mismo nivel que otros (cofirmar)
+Firmar para certificar otras firmas (contrafirmar)
+Validar una firma
+Visualizar una firma
+Cosas que deberías saber
+Ciudadanos
+Portada de Cosas que deberías saber
+La firma electrónica
+El DNI electrónico
+Certificados electrónicos
+Formatos de firma
+Aplicaciones de firma
+Validación de las firmas
+Base legal
+Navegadores y ordenador
+Tipos de certificados
+Identidad digital en las AA.PP:
+Para no equivocarse
+Descargas
+Empresas
+Inicio
+Portada de Empresas
+Tutoriales
+Empresas
+Portada de Tutoriales
+Firmar un documento - Certificado Electrónico
+Firmar al mismo nivel que otros (cofirmar)
+Firmar para certificar otras firmas (contrafirmar)
+Validar una firma
+Visualizar una firma
+Cosas que deberías saber
+Empresas
+Portada de Cosas que deberías saber
+Navegadores y ordenador
+Certificados de empresa
+Factura electrónica
+Autoridades de Certificación
+La firma electrónica
+Los Certificados Electrónicos
+Formatos de firma
+Aplicaciones de firma
+Tipos de Certificados
+Base legal
+Validación de las firmas
+Para no equivocarte
+Identidad Digital
+Navegadores y ordenador
+Descargas
+Empleados Públicos
+Ciudadanos
+Tutoriales
+Cosas que deberías saber
+Descargas
+Portada de
+                                                        Ciudadanos
+Empresas
+Tutoriales
+Cosas que deberías saber
+Descargas
+Portada de
+                                                        Empresas
+Empleados Públicos
+Buscar
+Ciudadanos
+Descargas
+Descargas para ciudadanos
+Desde aquí puedes descargarte aquellas aplicaciones que necesites para firmar electrónicamente y otras utilidades o documentos.
+Autofirma
+Autofirma
+Manuales
+Plugin de Huella Digital v1.0
+@Firma (obsoleto)
+Política de Firma de la AGE
+Autofirma
+Manuales
+Plugin de Huella Digital v1.0
+@Firma (obsoleto)
+Política de Firma de la AGE
+Aplicación de firma electrónica desarrollada por el Ministerio de Asuntos Económicos y Transformación Digital. Al poder ser ejecutada desde el navegador, permite la firma en páginas de Administración Electrónica cuando se requiere la firma en un procedimiento administrativo.
+Autofirma Apps
+Para Windows
+Versión 1.9
+Versión 1.9 para Windows 64 bits
+Versión 1.9 para Windows 32 bits
+Versiones anteriores
+Versión 1.8.3 para Windows 64 bits
+Versión 1.8.3 para Windows 32 bits
+Para Linux
+Versión 1.9
+Versión 1.9 para Debian Linux
+Versión 1.9 para Fedora Linux
+Versión 1.9 para OpenSUSE Linux
+Versiones anteriores
+Versión 1.8.3 para Debian Linux
+Versión 1.8.3 para Fedora Linux
+Versión 1.8.3 para OpenSUSE Linux
+Para MacOS
+Versión 1.9
+Versión 1.9 para MacOS procesadores x64
+Versión 1.9 para MacOS procesadores x64 (incl Java 11)
+Versión 1.9 para MacOS procesadores M1 y siguientes
+Versiones anteriores
+Versión 1.8.4 para MacOS procesadores x64
+Versión 1.8.4 para MacOS procesadores M1
+Manuales
+Guía para el usuario final de AutoFirma a través del proceso de instalación, posibilidades de uso de AutoFirma a través de consola, uso de tarjetas inteligentes y listado de diversos problemas que pueden surgir en la instalación y ejecución de la aplicación.
+Manual de Instalación para Usuarios (1.9)
+Manual de Instalación para Usuarios (1.8.2 y siguientes)
+Plugin de Huella Digital v1.0
+Plugin para el cálculo y la comprobación de hashes versión v1.0. El componente permite generar ficheros de hashes con el hash de un fichero o de todos los ficheros de un directorio. También permite comprobar que un fichero de hashes es válido seleccionando el fichero o directorio a partir del cual se generó. IMPORTANTE: El plugin requiere de Autofirma v1.8 o superior (no es compatible con la versión 1.7.2 y anteriores). En versiones de Autofirma anteriores a la v1.8 la funcionalidad del plugin estaba integrada en la aplicación. Su paso a plugin se ha realizado para facilitar su gestión y evolución.
+Plugin de Huella Digital 1.0 (para Autofirma v1.8 o superior)
+Cliente @Firma (obsoleto) - Se recomienda usar Autofirma
+Cliente @Firma es una aplicación de firma desarrollada por el Ministerio de Hacienda y Administraciones Públicas. Al tratarse de una versión obsoleta se recomienda el uso de Autofirma.
+Cliente @Firma (obsoleto)
+Política de Firma de la AGE
+Define un modelo de esquema de referencia para la identificación y autenticación electrónica, recogidos en la Ley 11/2007, de 22 de Junio, de Acceso Electrónico de los Ciudadanos a los Servicios Públicos en el ámbito de la AGE
+Política de Firma de la AGE
+Mapa web
+Accesibilidad
+Aviso Legal
+Política de cookies
+Política de privacidad
+Plan de Recuperación, Transformación y Resiliencia - Financiado por la Unión Europea - NextGenerationEU
+© Portal de Administración Electrónica · Agencia Estatal de Administración Digital
+Política de cookies
+Este sitio web utiliza cookies propias y de terceros para ofrecer un mejor servicio. Si continúa navegando consideramos que acepta su uso.
+Ver política de cookies
+Rechazar todas las cookies
+Aceptar todas las cookies
+
+------------------------------
+
+
+
+Link: javascript:;
+URL: javascript:;
+Tipo detectado: restricted
+
+
+
+Es necesario Cl@ve o certificado digital
+
+------------------------------
+
+
+
+Link: Registro General del Ayuntamiento
+URL: https://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_floc_d4_v1.jsp&tipo=1&&contenido=1087&nivel=1400&layout=p_20_contenedor1.jsp&codResi=1
+Tipo detectado: html
+
+
+
+[HTML: https://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_floc_d4_v1.jsp&tipo=1&&contenido=1087&nivel=1400&layout=p_20_contenedor1.jsp&codResi=1]
+
+Registro General del Ayuntamiento
+Ayuntamiento de Jaén
+Inicio
+Accesibilidad
+Mapa web
+Está en:
+Inicio
+Registro General del Ayuntamiento
+Volver
+Imprimir
+Dirección y datos de contacto
+Dirección
+Plaza 
+                  Santa María, 1
+23002 Jaén (Jaén)
+Telf:
+953 21 92 29
+Horario
+Atención al público :
+de 9:00 h a 13:00 h
+Cómo llegar
+Ver mapa más grande
+Fecha última modificación: 5 de noviembre de 2014 a las 08:47
+Excmo. Ayuntamiento de Jaén
+Plaza de Santa María, 1. 23002
+Tfno:
+953 21 91 00
+Oficina Municipal de Información y Atención Ciudadana
+Pintor Francisco Quero de Miguel s/n (Lateral UPM) - Planta Baja (Derecha)
+Tfno:
+900 72 72 73
+Correo electrónico:
+oic@aytojaen.es
+Administrador Web: En caso de cualquier duda técnica sobre el portal,
+envíe sus consultas a la Oficina de Acceso Electrónico
+oae@aytojaen.es
+Portal optimizado para una resolución de 1024 x 768
+RSS
+Protección de datos
+Aviso legal
+
+------------------------------
+
+
+
+Link: Negociado de Dominio Público
+URL: http://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_floc_d4_v1.jsp&tipo=1&&contenido=49161&nivel=1400&layout=p_20_contenedor1.jsp&codResi=1
+Tipo detectado: http_error
+
+
+
+[HTTP Error 404 al acceder a http://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_floc_d4_v1.jsp&tipo=1&&contenido=49161&nivel=1400&layout=p_20_contenedor1.jsp&codResi=1]
+
+------------------------------
+
+
+
+Link: Ordenanza Fiscal Reguladora de la Tasa por reserva de espacio de la vía pública para carga o descarga de mercancías de cualquier clase o aparcamiento exclusivo a favor de determinadas actividades
+URL: https://sede.aytojaen.es/portal/sede/se_contenedor1.jsp?seccion=s_fdoc_d4_v1.jsp&contenido=22831&tipo=5&nivel=1400&codResi=1&language=es
+Tipo detectado: html
+
+
+
+[HTML: https://sede.aytojaen.es/portal/sede/se_contenedor1.jsp?seccion=s_fdoc_d4_v1.jsp&contenido=22831&tipo=5&nivel=1400&codResi=1&language=es]
+
+Sede Electrónica - Ordenanza Fiscal Reguladora de la Tasa por reserva de espacio de la vía pública para carga o descarga de mercancías de cualquier clase o aparcamiento exclusivo a favor de determinadas actividades
+Sede Electrónica
+Ayuntamiento de Jaén
+Ordenanza Fiscal Reguladora de la Tasa por reserva de espacio de la vía pública para carga o descarga de mercancías de cualquier clase o aparcamiento exclusivo a favor de determinadas actividades
+volver
+imprimir
+escuchar
+compartir
+Fecha de publicación:
+26 de Diciembre de 2008
+DESCARGA DE DOCUMENTOS
+Ordenanza Fiscal Reguladora de la Tasa por reserva de espacio de la vía pública para carga o descarga de mercancías de cualquier clase o aparcamiento exclusivo a favor de determinadas actividades
+4 de Marzo de 2015
+volver
+imprimir
+escuchar
+compartir
+Ayuntamiento de Jaén
+Plaza
+                   
+                   
+                    	Santa María
+                   
+                   
+                    	1.
+                   
+                   
+                    	23002
+                   
+                   
+	                Jaén
+                   
+                   
+                  	(Jaén)
+Teléfono: 953 21 91 00
+(Centralita)
+900 72 72 73
+(Oficina de Información y Atención al Ciudadano)
+Correo electrónico: oic@aytojaen.es
+
+------------------------------
+
+
+
+Link: Autoliquidación 039. Reserva de espacio para carga y descarga, o aparcamiento exclusivo
+URL: https://sede.aytojaen.es/sta/CarpetaPublic/Public?APP_CODE=STA&PAGE_CODE=GTLIQSPUB
+Tipo detectado: html
+
+
+
+[HTML: https://sede.aytojaen.es/sta/CarpetaPublic/Public?APP_CODE=STA&PAGE_CODE=GTLIQSPUB]
+
+Crear Liquidaciones zona no Autenticada
+Ir a la web municipal
+Identificate
+Sede Electrónica
+Ayuntamiento de Jaén
+Menu
+Sede Electrónica
+✕
+Mis Datos
+Datos personales
+Objetos tributarios
+Recibos
+Multas
+Autoliquidaciones
+Datos del padrón de habitantes
+Censo electoral
+Anotaciones en el registro
+Expedientes
+Buzón de notificaciones electrónicas
+Documentos
+Portafirmas
+Mi Calendario fiscal
+Publicaciones Oficiales
+Oferta de empleo
+Tablón de anuncios y edictos electrónicos
+Ordenanzas municipales
+Sesiones de junta de gobierno local
+Sesiones de pleno
+Perfil de contratante
+Calendario fiscal
+Trámites
+Catálogo de trámites
+Suscripción o baja de notificaciones electrónicas
+Presentación de documentación a expedientes en trámite
+Inscripciones en Cursos, Talleres y Actividades de la Universidad Popular
+Inscripciones en cursos y reservas de instalaciones del Patronato de Deportes
+Quejas y sugerencias
+Verificación de documentos
+Cálculo, presentación y liquidación de tributos
+1
+Tributo
+2
+Información
+3
+Cálculo
+4
+Presentación
+5
+Liquidación
+Tributo
+Información
+Cálculo
+Presentación
+Liquidación
+Desde el
+1 de enero de 2026
+la gestión y recaudación del
+Impuesto sobre Vehículos de Tracción Mecánica
+quedará delegada a la Diputación Provincial de Jaén y podrá generar la autoliquidación en la
+oficina virtual tributaria del Servicio Provincial de Gestión y Recaudación de la Diputación Provincial
+de Jaén
+https://ofsgt.dipujaen.es/
+Debe indicar la institución en la que desea liquidar el tributo. Una vez seleccionada la institución deberá indicar que liquidación quiere realizar.
+Seleccione la institución en la que desea realizar la autoliquidación:
+<seleccione una institución>
+Excmo. Ayuntamiento de Jaén
+Gerencia Municipal Urbanismo
+Universidad Popular
+Uso exclusivo personal interno
+Sobre la Sede
+Titularidad
+Normativa
+Acceso a la sede
+Calendario y cómputo de plazos
+Relación de servicios electrónicos
+Información de interés
+Política de privacidad
+Compromiso con la protección de datos personales
+Política de cookies
+Certificados electrónicos
+Interrupciones del servicio
+Sistemas de firma
+Enlaces de interés
+Ayuda
+Preguntas frecuentes (FAQs)
+Información sobre notificaciones
+Ayuda de la Sede
+Aviso legal
+Códigos de barras en documentos de pago
+Usabilidad
+Inicio
+Accesibilidad
+Mapa web
+Ayuntamiento de Jaén
+Plaza Santa María 1. 23002 Jaén
+900 72 72 73
+oic@aytojaen.es
+http://www.aytojaen.es
+
+------------------------------
+
+
+
+Link: Solicitud
+URL: https://sede.aytojaen.es/sta/docs/GetDocumentServlet?CUD=12434156227357734075&HASH_CUD=3242b09e5186cad7cb4923fb7beefa615e889ee2&APP_CODE=STA
+Tipo detectado: pdf
+
+
+
+[PDF: https://sede.aytojaen.es/sta/docs/GetDocumentServlet?CUD=12434156227357734075&HASH_CUD=3242b09e5186cad7cb4923fb7beefa615e889ee2&APP_CODE=STA]
+
+EXCMO. AYUNTAMIENTO 
+DE JAÉN
+SOLICITUD DE LICENCIA DE RESERVA DE ESPACIO EN VÍA PÚBLICA PARA CARGA Y 
+DESCARGA O APARCAMIENTO EXCLUSIVO
+Jaén, a de de
+(Firma del solicitante)NIF o CIF Nombre o Razón social
+Domicilio fiscal C.P. Localidad
+Teléfonos de contacto
+Situación de la reserva (calle o plaza)Correo electrónico
+ILMO. SR. ALCALDE-PRESIDENTE DEL EXCMO. AYUNTAMIENTO DE JAÉNCategoría fiscal de 
+la vía pública
+Periodo de reservaSuperficie a reservar (m. l.)
+Tipo de reserva (*)
+A) Del día de 2.0 de
+(*) Tipo de reserva 
+(marcar con X)
+1º. a) Para carga o decarga de mercancías por tiempo máximo de 8 horas/día.
+1º. b) Para carga o descarga de mercancías por tiempo máximo de 4 horas/día.
+2º) Para aparcamiento exclusivo de hoteles, salas de espectáculos y otros aprovechamientos similares, por tiempo no superior aAl día de 2.0 de
+8 horas/día.Nombre del representante NIF o CIF
+Dirección a efectos de notificaciónFORM PROC-10701 Solicitud disponible para tramitación telemática en https://sede.aytojaen.es
+Número de justificante de la autoliquidación de Reserva de Espacio
+
+------------------------------
+
+
+
+Link: Tramitación Online
+URL: javascript:enterNewReg(window.catser.dboid,'es');
+Tipo detectado: restricted
+
+
+
+Es necesario Cl@ve o certificado digital
+
+------------------------------
+

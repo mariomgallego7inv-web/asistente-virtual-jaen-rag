@@ -1,0 +1,331 @@
+Trámite ID: 6269026880773244105011
+
+Nombre: 20071. Uso de Sala Multimedia
+
+URL: https://sede.aytojaen.es/sta/CarpetaPublic/doEvent?APP_CODE=STA&PAGE_CODE=CATALOGO&DETALLE=6269026880773244105011
+
+
+--- Contenido principal ---
+
+
+Es necesario instalar Autofirma para firmar solicitudes de registro electrónico, aceptar notificaciones y firmar documentos del portafirmas
+[descargar]
+20071. Uso de Sala Multimedia
+Descripción
+20071. Uso de Sala Multimedia
+Finalidad
+La sala multimedia es un aula con 16 equipos informáticos promovidos por el Negociado de Juventud del Excmo. Ayuntamiento de Jaén. Con este espacio se pretende favorecer la formación y el acceso de jóvenes a las nuevas tecnologías.
+Aquí, los/as jóvenes con edad comprendida entre 16 y 35 años, disponen de un entorno adecuado donde pueden desarrollar las actividades relacionadas con el manejo de ordenadores, facilitando el acceso gratuito a Internet y estimulando las relaciones sociales y asociativas entre jóvenes. También tienen la posibilidad de consultar información de interés, buscar oportunidades de empleo, elaborar documentos, etc.
+La solicitud puede entregarse presencialmente o enviarse a la dirección juventud@aytojaen.es.
+Quien lo puede Presentar
+Jóvenes con edad comprendida entre 16 y 35 años y excepcionalmente personas mayores de 35 años
+Plazos de Presentación
+Las solicitudes pueden realizarse a lo largo del todo el año
+Presentación
+Negociado de Juventud
+Organo Gestor
+Negociado de Juventud
+Plazo de resolución
+1 día hábil
+Efecto del silencio Administrativo
+No procede
+Pago de tasas
+Gratuito
+Información Adicional
+Aula Multimedia
+Modelos de solicitud
+Solicitud
+20071. Uso de Sala Multimedia
+Tramitación Presencial
+
+
+--- Recursos vinculados (seguido su contenido) ---
+
+
+Link: [descargar]
+URL: https://firmaelectronica.gob.es/Home/Descargas.html
+Tipo detectado: html
+
+
+
+[HTML: https://firmaelectronica.gob.es/Home/Descargas.html]
+
+Firma Electrónica | Descargas -Ciudadanos
+Ir al contenido
+Cerrar sesión
+Castellano
+Castellano
+Català
+Gallego
+Euskara
+Valencià
+English
+Ciudadanos
+Inicio
+Portada de Ciudadanos
+Tutoriales
+Ciudadanos
+Portada de Tutoriales
+Firmar un documento - Certificado Electrónico
+Firmar al mismo nivel que otros (cofirmar)
+Firmar para certificar otras firmas (contrafirmar)
+Validar una firma
+Visualizar una firma
+Cosas que deberías saber
+Ciudadanos
+Portada de Cosas que deberías saber
+La firma electrónica
+El DNI electrónico
+Certificados electrónicos
+Formatos de firma
+Aplicaciones de firma
+Validación de las firmas
+Base legal
+Navegadores y ordenador
+Tipos de certificados
+Identidad digital en las AA.PP:
+Para no equivocarse
+Descargas
+Empresas
+Inicio
+Portada de Empresas
+Tutoriales
+Empresas
+Portada de Tutoriales
+Firmar un documento - Certificado Electrónico
+Firmar al mismo nivel que otros (cofirmar)
+Firmar para certificar otras firmas (contrafirmar)
+Validar una firma
+Visualizar una firma
+Cosas que deberías saber
+Empresas
+Portada de Cosas que deberías saber
+Navegadores y ordenador
+Certificados de empresa
+Factura electrónica
+Autoridades de Certificación
+La firma electrónica
+Los Certificados Electrónicos
+Formatos de firma
+Aplicaciones de firma
+Tipos de Certificados
+Base legal
+Validación de las firmas
+Para no equivocarte
+Identidad Digital
+Navegadores y ordenador
+Descargas
+Empleados Públicos
+Ciudadanos
+Tutoriales
+Cosas que deberías saber
+Descargas
+Portada de
+                                                        Ciudadanos
+Empresas
+Tutoriales
+Cosas que deberías saber
+Descargas
+Portada de
+                                                        Empresas
+Empleados Públicos
+Buscar
+Ciudadanos
+Descargas
+Descargas para ciudadanos
+Desde aquí puedes descargarte aquellas aplicaciones que necesites para firmar electrónicamente y otras utilidades o documentos.
+Autofirma
+Autofirma
+Manuales
+Plugin de Huella Digital v1.0
+@Firma (obsoleto)
+Política de Firma de la AGE
+Autofirma
+Manuales
+Plugin de Huella Digital v1.0
+@Firma (obsoleto)
+Política de Firma de la AGE
+Aplicación de firma electrónica desarrollada por el Ministerio de Asuntos Económicos y Transformación Digital. Al poder ser ejecutada desde el navegador, permite la firma en páginas de Administración Electrónica cuando se requiere la firma en un procedimiento administrativo.
+Autofirma Apps
+Para Windows
+Versión 1.9
+Versión 1.9 para Windows 64 bits
+Versión 1.9 para Windows 32 bits
+Versiones anteriores
+Versión 1.8.3 para Windows 64 bits
+Versión 1.8.3 para Windows 32 bits
+Para Linux
+Versión 1.9
+Versión 1.9 para Debian Linux
+Versión 1.9 para Fedora Linux
+Versión 1.9 para OpenSUSE Linux
+Versiones anteriores
+Versión 1.8.3 para Debian Linux
+Versión 1.8.3 para Fedora Linux
+Versión 1.8.3 para OpenSUSE Linux
+Para MacOS
+Versión 1.9
+Versión 1.9 para MacOS procesadores x64
+Versión 1.9 para MacOS procesadores x64 (incl Java 11)
+Versión 1.9 para MacOS procesadores M1 y siguientes
+Versiones anteriores
+Versión 1.8.4 para MacOS procesadores x64
+Versión 1.8.4 para MacOS procesadores M1
+Manuales
+Guía para el usuario final de AutoFirma a través del proceso de instalación, posibilidades de uso de AutoFirma a través de consola, uso de tarjetas inteligentes y listado de diversos problemas que pueden surgir en la instalación y ejecución de la aplicación.
+Manual de Instalación para Usuarios (1.9)
+Manual de Instalación para Usuarios (1.8.2 y siguientes)
+Plugin de Huella Digital v1.0
+Plugin para el cálculo y la comprobación de hashes versión v1.0. El componente permite generar ficheros de hashes con el hash de un fichero o de todos los ficheros de un directorio. También permite comprobar que un fichero de hashes es válido seleccionando el fichero o directorio a partir del cual se generó. IMPORTANTE: El plugin requiere de Autofirma v1.8 o superior (no es compatible con la versión 1.7.2 y anteriores). En versiones de Autofirma anteriores a la v1.8 la funcionalidad del plugin estaba integrada en la aplicación. Su paso a plugin se ha realizado para facilitar su gestión y evolución.
+Plugin de Huella Digital 1.0 (para Autofirma v1.8 o superior)
+Cliente @Firma (obsoleto) - Se recomienda usar Autofirma
+Cliente @Firma es una aplicación de firma desarrollada por el Ministerio de Hacienda y Administraciones Públicas. Al tratarse de una versión obsoleta se recomienda el uso de Autofirma.
+Cliente @Firma (obsoleto)
+Política de Firma de la AGE
+Define un modelo de esquema de referencia para la identificación y autenticación electrónica, recogidos en la Ley 11/2007, de 22 de Junio, de Acceso Electrónico de los Ciudadanos a los Servicios Públicos en el ámbito de la AGE
+Política de Firma de la AGE
+Mapa web
+Accesibilidad
+Aviso Legal
+Política de cookies
+Política de privacidad
+Plan de Recuperación, Transformación y Resiliencia - Financiado por la Unión Europea - NextGenerationEU
+© Portal de Administración Electrónica · Agencia Estatal de Administración Digital
+Política de cookies
+Este sitio web utiliza cookies propias y de terceros para ofrecer un mejor servicio. Si continúa navegando consideramos que acepta su uso.
+Ver política de cookies
+Rechazar todas las cookies
+Aceptar todas las cookies
+
+------------------------------
+
+
+
+Link: javascript:;
+URL: javascript:;
+Tipo detectado: restricted
+
+
+
+Es necesario Cl@ve o certificado digital
+
+------------------------------
+
+
+
+Link: Negociado de Juventud
+URL: https://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_floc_d4_v1.jsp&tipo=1&&contenido=1167&nivel=1400&layout=p_20_contenedor1.jsp&codResi=1
+Tipo detectado: html
+
+
+
+[HTML: https://www.aytojaen.es/portal/p_20_contenedor1.jsp?seccion=s_floc_d4_v1.jsp&tipo=1&&contenido=1167&nivel=1400&layout=p_20_contenedor1.jsp&codResi=1]
+
+Negociado de Juventud
+Ayuntamiento de Jaén
+Inicio
+Accesibilidad
+Mapa web
+Está en:
+Inicio
+Negociado de Juventud
+Volver
+Imprimir
+El Negociado de Juventud del Ayuntamiento de Jaén tiene como propósito la puesta en marcha y desarrollo de programas e intervenciones de carácter sociocomunitario entre los jóvenes de nuestra ciudad. La promoción de la juventud es un mandato constitucional que se encomienda a las administraciones públicas; en este sentido, el Ayuntamiento pone a disposición de los jóvenes jiennenses una serie de servicios y actividades orientados hacia su desarrollo social y cultural, así como a la efectiva participación en las decisiones que les afectan.
+Dirección y datos de contacto
+Dirección
+Avenida 
+                  Andalucía, 47
+5ª
+23006 Jaén (Jaén)
+Telf:
+953 29 55 25
+Horario
+INVIERNO:
+DE LUNES A VIERNES.
+MAÑANAS:
+9:00 A 13:30 HORAS.
+VERANO:
+(DEL 16 DE JUNIO AL 15 DE SEPTIEMBRE).
+DE LUNES A VIERNES.
+MAÑANAS:
+9:00 A 13:30 HORAS.
+LOS DÍAS FESTIVOS PERMANECERÁ CERRADO TODO EL DÍA.
+Cierre:
+Del 1 de julio al 15 de septiembre las instalaciones permanecerán cerradas en horario de tarde
+Datos de contacto
+Responsable:
+Concejalía de Juventud del Ayuntamiento de Jaén
+Correo electrónico:
+juventud@aytojaen.es
+Cómo llegar
+C/ Pintor Francisco Quero de Miguel s/n
+Web:
+https://www.facebook.com/JuventudAytoJaen/
+Descarga de archivos
+SOLICITUD DE ESPACIOS COMUNES 2025
+Tipo de archivo: PDF |
+                           
+                           Idioma: Castellano
+Fecha última modificación: 19 de noviembre de 2025 a las 14:08
+Excmo. Ayuntamiento de Jaén
+Plaza de Santa María, 1. 23002
+Tfno:
+953 21 91 00
+Oficina Municipal de Información y Atención Ciudadana
+Pintor Francisco Quero de Miguel s/n (Lateral UPM) - Planta Baja (Derecha)
+Tfno:
+900 72 72 73
+Correo electrónico:
+oic@aytojaen.es
+Administrador Web: En caso de cualquier duda técnica sobre el portal,
+envíe sus consultas a la Oficina de Acceso Electrónico
+oae@aytojaen.es
+Portal optimizado para una resolución de 1024 x 768
+RSS
+Protección de datos
+Aviso legal
+
+------------------------------
+
+
+
+Link: Solicitud
+URL: https://sede.aytojaen.es/sta/docs/GetDocumentServlet?CUD=12434156332762205544&HASH_CUD=6a8b807e3b857a34cabf5989d62a539d9efc65c4&APP_CODE=STA
+Tipo detectado: pdf
+
+
+
+[PDF: https://sede.aytojaen.es/sta/docs/GetDocumentServlet?CUD=12434156332762205544&HASH_CUD=6a8b807e3b857a34cabf5989d62a539d9efc65c4&APP_CODE=STA]
+
+DATOS PERSONALESSOLICITUD DE USO DE SALA MULTIMEDIA
+Jaén
+Fdo.:
+LOPD: Responsable del Tratamiento: Negociado de Juventud 
+Tratamiento: Uso sala multimedia   Finalidad: Autorización para hacer uso de la sala multimedia Legitimación: Reglamento y competencias municipales Cesión de datos: No está prevista Ejercicio de los derechos de acceso, rectificación, supresión y portabilidad, y limitación u oposición a su tratamiento, presentando solicitud al Ayuntamiento de Jaén Más información en 
+sede.aytojaen.esEXCMO. AYUNTAMIENTO DE JAÉN
+La persona abajo firmante y su tutoría, en caso de ser menor de edad, se compromete a hacer un uso correcto de la Sala 
+Multimedia y a cumplir las normas de uso que aparecen en el reverso.NOMBRE Y APELLIDOS: D.N.I.
+DIRECCIÓN:
+DATOS TUTORÍA (Rellenar en caso de ser menor de edad)CÓDIGO POSTAL:
+TELÉFONO: E-MAIL:
+FECHA DE NACIMIENTO:Para hacer uso de la Sala Multimedia es necesario cumplimentar debidamente los datos que figuran a continuación y 
+presentar fotocopia del DNI del/a usuario/a o del padre, madre o tutor/a si fuese necesario.
+PROVINCIA: LOCALIDAD:
+EDAD:
+NOMBRE Y APELLIDOS: D.N.I.
+DIRECCIÓN: CÓDIGO POSTAL:
+TELÉFONO: E-MAIL:
+FECHA DE NACIMIENTO:PROVINCIA: LOCALIDAD:
+EDAD:
+PARENTESCO:
+Fdo.:Firma: Firma de la tutoría: 
+(En caso de ser menor de edad)
+
+NORMAS DE USO DE LA SALA MULTIMEDIA
+1. Pueden acceder jóvenes con edades comprendidas entre 16 y 30 años durante un máximo de dos horas. En todo caso se 
+denegará la entrada a los menores de 16 años.  2. Es necesario que se rellene la Solicitud de Uso de la Sala Multimedia. Los menores de edad deben aportar autorización de su tutoría legal.  3. No se puede fumar, beber o comer en el interior de la Sala Multimedia.  4. Se deberá hacer uso adecuado del material y respetar los horarios y a las personas asistentes en la sala.  5. El personal del Negociado de Juventud podrá desconectar los ordenadores utilizados cuando se considere que no se está haciendo un uso correcto de los mismos.  6. Solo se podrá permanecer en la Sala Multimedia cuando se esté haciendo uso de un ordenador.  7. Se podrá limitar el acceso a ciertas páginas de Internet que se consideren ofensivas.  8. No está permitido eliminar o modificar la configuración e información de los ordenadores.  9. Los dispositivos externos deben ser chequeados con un antivirus antes de su uso.  10. Solo se podrá guardar información en directorios predeterminados y creados con anterioridad por el personal responsable de la Sala Multimedia.  11. El uso del equipo informático se acomodará al horario establecido por el Negociado de Juventud y a la programación específica de las actividades que se diseñen.  12. El uso de la impresora estará restringido exclusivamente a las actividades programadas por el Negociado de Juventud, salvo excepciones autorizadas.  13. Si se causa algún daño a los equipos o instalaciones de la Sala Multimedia, se estará en la obligación de reparar los desperfectos, con independencia de la adopción de otras medidas a que hubiera lugar.  14. El incumplimiento deliberado de estas normas llevará consigo la prohibición de acceder al servicio.EXCMO. AYUNTAMIENTO DE JAÉN
+
+
+------------------------------
+
